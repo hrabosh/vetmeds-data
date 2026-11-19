@@ -1,0 +1,56 @@
+name: Sync VetMeds dataset
+
+on:
+  schedule:
+    - cron: '17 8 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: vetmeds-dataset
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+      - name: Fetch and validate the published snapshot
+        shell: bash
+        run: |
+          source=https://hrabosh.github.io/vetmeds/data/v1
+          download="$(mktemp -d)"
+          trap 'rm -rf -- "$download"' EXIT
+          curl_options=(--fail --silent --show-error --proto '=https' --retry 2 --max-time 45)
+          curl "${curl_options[@]}" "$source/metadata.json" -o "$download/metadata.json"
+          snapshot="$(jq -er '.snapshot_id | select(type == "string" and test("^[a-f0-9]{64}$"))' "$download/metadata.json")"
+          for file in preparations packages changes; do
+            curl "${curl_options[@]}" "$source/$file.json?snapshot=$snapshot" -o "$download/$file.json"
+          done
+          jq -en --arg id "$snapshot" \
+            --slurpfile metadata "$download/metadata.json" \
+            --slurpfile preparations "$download/preparations.json" \
+            --slurpfile packages "$download/packages.json" \
+            --slurpfile changes "$download/changes.json" '
+              [$metadata, $preparations, $packages, $changes]
+              | all(length == 1 and .[0].schema_version == 1 and .[0].snapshot_id == $id)
+                and ($preparations[0].preparations | type == "array" and length == $metadata[0].counts.preparations)
+                and ($packages[0].packages | type == "array" and length == $metadata[0].counts.packages)
+                and ($changes[0].events | type == "array" and length == $metadata[0].counts.changes)
+            ' > /dev/null
+          for file in metadata.json preparations.json packages.json changes.json; do
+            install -D -m 644 -- "$download/$file" "v1/$file"
+            git add -- "v1/$file"
+          done
+          if git diff --cached --quiet; then
+            echo 'Dataset unchanged.'
+            exit 0
+          fi
+          git -c user.name='github-actions[bot]' \
+            -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
+            commit -m "Update VetMeds dataset to ${snapshot:0:12}"
+          git push origin HEAD:main
