@@ -1,6 +1,6 @@
 # VetMeds Data · Český registr veterinárních léčiv
 
-Aktuální přípravky, balení a historie změn českého registru veterinárních léčiv ÚSKVBL ve formátu JSON.
+Aktuální přípravky, balení a historie změn českého registru veterinárních léčiv ÚSKVBL ve formátu JSON. Každý přípravek má vlastní soubor se svými baleními a Git uchovává jeho dřívější verze.
 
 Czech veterinary medicines registry dataset. It contains current products, package records and observed changes.
 
@@ -21,8 +21,42 @@ Všechny čtyři soubory mají `schema_version` a `snapshot_id`. Při stahován�
 curl -fsS https://hrabosh.github.io/vetmeds/data/v1/metadata.json | jq .
 ```
 
+## Historie přípravku v Gitu
+
+[Aagent](v1/by-preparation/a5/0910f7c78008d143.json) ukazuje strukturu jednoho záznamu. Objekt `preparation` obsahuje údaje o přípravku, pole `packages` jeho balení v daném snímku. Cestu určuje `preparation_id` a je stejná i po přejmenování přípravku.
+
+Po úplném klonování repozitáře můžeš zobrazit aktuální stav i změny přípravku. `jq` slouží k filtrování souhrnných souborů.
+
+```bash
+git clone https://github.com/hrabosh/vetmeds-data.git
+cd vetmeds-data
+id=0910f7c78008d143
+soubor="$(python3 tools/preparations.py path "$id")"
+
+# Aktuální záznam a jeho historie v Gitu
+git show "HEAD:$soubor"
+git log -p -- "$soubor"
+
+# Události přípravku i jeho balení od začátku sběru
+jq --arg id "$id" '.events[] | select(.preparation_id_before == $id or .preparation_id_after == $id)' v1/changes.json
+```
+
+Pro dřívější stav vyber commit z výpisu a použij `git show <commit>:<soubor>`. Když přípravek zmizí z exportu, jeho soubor se odebere z aktuálního snímku a starší revize zůstanou v Gitu. Historie jednotlivých souborů začíná jejich prvním zveřejněním. Dřívější zachycené události najdeš v `v1/changes.json`.
+
+## Čas a původ dat
+
 Historie začíná prvním snímkem. `observed_at` označuje čas záchytu, nikoliv datum právní účinnosti změny. Událost `missing_from_export` znamená, že záznam chyběl v následujícím exportu. Platnost registrace ověř v [oficiálním seznamu ÚSKVBL](https://www.uskvbl.cz/cs/databaze-a-seznamy/seznam-vlp).
 
-Workflow **Sync VetMeds dataset** kontroluje veřejný export denně v 08:17 UTC. Věcně shodný export nevytváří commit. Čas poslední úspěšné kontroly zdroje je na dashboardu. Po 60 dnech bez aktivity může GitHub plánované běhy veřejného repozitáře vypnout. V takovém případě je lze zapnout v záložce **Actions**.
+Workflow **Sync VetMeds dataset** kontroluje veřejný export denně v 08:17 UTC. Kontroluje shodné ID snímku, počty záznamů a vazby balení k přípravkům. Nový datový commit nese `Snapshot-ID` a `Observed-At` v závěru zprávy. Historii všech snímků vypíše `git log -- v1/metadata.json`. Věcně shodný export nevytváří commit. Čas poslední úspěšné kontroly zdroje je na dashboardu. Po 60 dnech bez aktivity může GitHub plánované běhy veřejného repozitáře vypnout. V takovém případě je lze zapnout v záložce **Actions**.
 
 Zdrojem jsou [exporty ÚSKVBL](https://www.uskvbl.cz/cs/databaze-a-seznamy/seznam-vlp/data-vlp-ke-stazeni). Licence pro další užití dat v tomto repozitáři zatím uvedená není.
+
+## Místní sestavení souborů
+
+Příkaz znovu sestaví soubory přípravků ze souhrnných JSON stejného commitu. Výstup můžeš porovnat s obsahem repozitáře.
+
+```bash
+pracovni="$(mktemp -d)"
+python3 tools/preparations.py build v1 "$pracovni/by-preparation"
+diff -r v1/by-preparation "$pracovni/by-preparation"
+```

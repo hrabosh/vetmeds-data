@@ -42,6 +42,11 @@ jobs:
                 and ($packages[0].packages | type == "array" and length == $metadata[0].counts.packages)
                 and ($changes[0].events | type == "array" and length == $metadata[0].counts.changes)
             ' > /dev/null
+          observed_at="$(jq -er '.observed_at | select(type == "string" and test("^[0-9]{4}-[0-9]{2}-[0-9]{2}T[0-9]{2}:[0-9]{2}:[0-9]{2}Z$"))' "$download/metadata.json")"
+          python3 tools/preparations.py build "$download" "$download/by-preparation"
+          mkdir -p v1/by-preparation
+          rsync -a --delete "$download/by-preparation/" v1/by-preparation/
+          git add -A -- v1/by-preparation
           for file in metadata.json preparations.json packages.json changes.json; do
             install -D -m 644 -- "$download/$file" "v1/$file"
             git add -- "v1/$file"
@@ -52,5 +57,7 @@ jobs:
           fi
           git -c user.name='github-actions[bot]' \
             -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
-            commit -m "Update VetMeds dataset to ${snapshot:0:12}"
+            commit -m "Publish VetMeds snapshot ${snapshot:0:12}" \
+            -m "Snapshot-ID: $snapshot
+          Observed-At: $observed_at"
           git push origin HEAD:main
