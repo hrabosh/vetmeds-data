@@ -43,12 +43,26 @@ jobs:
                 and ($packages[0].packages | type == "array" and length == $metadata[0].counts.packages)
                 and ($changes[0].events | type == "array" and length == $metadata[0].counts.changes)
             ' > /dev/null
+          curl "${curl_options[@]}" "$source/registration-events.json" -o "$download/registration-events.json"
+          jq -e '
+              .schema_version == 1
+              and (.source.issue | type == "string" and length > 0)
+              and (.source.url | startswith("https://www.uskvbl.cz/attachments/") and endswith(".pdf"))
+              and (.source.sha256 | test("^[a-f0-9]{64}$"))
+              and (.events | type == "array" and length > 0 and all(
+                  .type == "registration_cancelled"
+                  and (.registration_number | type == "string" and length > 0)
+                  and (.name | type == "string" and length > 0)
+                  and (.occurred_in | test("^[0-9]{4}-(0[1-9]|1[0-2])$"))
+                  and (.source_page | type == "number" and . >= 1 and floor == .)
+              ))
+          ' "$download/registration-events.json" > /dev/null
           observed_at="$(jq -er '.observed_at | select(type == "string" and test("^[0-9]{4}-[0-9]{2}-[0-9]{2}T[0-9]{2}:[0-9]{2}:[0-9]{2}Z$"))' "$download/metadata.json")"
           python3 tools/preparations.py build "$download" "$download/by-preparation"
           mkdir -p v1/by-preparation
           rsync -a --delete "$download/by-preparation/" v1/by-preparation/
           git add -A -- v1/by-preparation
-          for file in metadata.json preparations.json packages.json changes.json classification.json; do
+          for file in metadata.json preparations.json packages.json changes.json classification.json registration-events.json; do
             install -D -m 644 -- "$download/$file" "v1/$file"
             git add -- "v1/$file"
           done
