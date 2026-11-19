@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9938179",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938179",
+      "package_invalid_date": null,
+      "package_size": "1 x 1 kg",
+      "preparation_id": "0910f7c78009d065"
+    },
+    {
+      "display_package_code": "9938192",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938192",
+      "package_invalid_date": null,
+      "package_size": "1 x 5 kg",
+      "preparation_id": "0910f7c78009d065"
+    },
+    {
+      "display_package_code": "9938215",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938215",
+      "package_invalid_date": null,
+      "package_size": "1 x 20 kg",
+      "preparation_id": "0910f7c78009d065"
+    },
+    {
+      "display_package_code": "9938237",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938237",
+      "package_invalid_date": null,
+      "package_size": "1 x 20 kg",
+      "preparation_id": "0910f7c78009d065"
+    }
+  ],
+  "preparation": {
+    "holder_id": "117",
+    "holder_name": "Huvepharma NV",
+    "name": "Tilmovet",
+    "preparation_id": "0910f7c78009d065",
+    "registration_date": "2009-03-27T12:1:20+0000",
+    "registration_number": "98/002/09-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78009d061",
+    "spc_modified_date": "2025-08-11T11:1:36+0000"
+  },
+  "schema_version": 1
+}

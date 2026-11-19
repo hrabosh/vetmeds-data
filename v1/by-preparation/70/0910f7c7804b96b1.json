@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9904607",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904607",
+      "package_invalid_date": "2019-02-13T10:54:31+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7804b96b1"
+    },
+    {
+      "display_package_code": "9904608",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904608",
+      "package_invalid_date": "2019-02-06T10:56:41+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7804b96b1"
+    },
+    {
+      "display_package_code": "9907199",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907199",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804b96b1"
+    },
+    {
+      "display_package_code": "9907200",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907200",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804b96b1"
+    }
+  ],
+  "preparation": {
+    "holder_id": "248",
+    "holder_name": "Elanco GmbH",
+    "name": "Fortekor Plus",
+    "preparation_id": "0910f7c7804b96b1",
+    "registration_date": "2015-09-08T7:59:23+0000",
+    "registration_number": "EU/2/15/185",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c78027a112",
+    "spc_modified_date": "2024-01-05T10:51:50+0000"
+  },
+  "schema_version": 1
+}

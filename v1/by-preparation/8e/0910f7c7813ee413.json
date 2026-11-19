@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9907253",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907253",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7813ee413"
+    },
+    {
+      "display_package_code": "9907254",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907254",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7813ee413"
+    },
+    {
+      "display_package_code": "9907255",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907255",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7813ee413"
+    },
+    {
+      "display_package_code": "9907256",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907256",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7813ee413"
+    },
+    {
+      "display_package_code": "9907257",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907257",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7813ee413"
+    }
+  ],
+  "preparation": {
+    "holder_id": "119",
+    "holder_name": "Industrial Veterinaria S.A.",
+    "name": "Hedylon 25 mg",
+    "preparation_id": "0910f7c7813ee413",
+    "registration_date": "2019-02-25T9:9:53+0000",
+    "registration_number": "96/009/19-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7813ee411",
+    "spc_modified_date": "2026-04-29T12:19:33+0000"
+  },
+  "schema_version": 1
+}

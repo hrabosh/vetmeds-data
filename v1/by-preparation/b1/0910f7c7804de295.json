@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905857",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905857",
+      "package_invalid_date": "2021-05-12T11:4:21+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7804de295"
+    },
+    {
+      "display_package_code": "9905858",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905858",
+      "package_invalid_date": "2021-05-12T11:8:31+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7804de295"
+    },
+    {
+      "display_package_code": "9905859",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905859",
+      "package_invalid_date": "2021-05-12T11:11:24+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7804de295"
+    },
+    {
+      "display_package_code": "9909273",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909273",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804de295"
+    },
+    {
+      "display_package_code": "9909274",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909274",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804de295"
+    },
+    {
+      "display_package_code": "9909275",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909275",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804de295"
+    }
+  ],
+  "preparation": {
+    "holder_id": "248",
+    "holder_name": "Elanco GmbH",
+    "name": "Coliprotec F4_F18",
+    "preparation_id": "0910f7c7804de295",
+    "registration_date": "2017-01-09T9:18:05+0000",
+    "registration_number": "EU/2/16/202",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7804de294",
+    "spc_modified_date": "2024-05-30T10:33:20+0000"
+  },
+  "schema_version": 1
+}

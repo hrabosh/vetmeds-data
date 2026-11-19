@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902478",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902478",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009b3e5"
+    },
+    {
+      "display_package_code": "9906233",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906233",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009b3e5"
+    },
+    {
+      "display_package_code": "9937248",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937248",
+      "package_invalid_date": "2013-06-03T9:43:00+0000",
+      "package_size": "1 x 5 dávek",
+      "preparation_id": "0910f7c78009b3e5"
+    }
+  ],
+  "preparation": {
+    "holder_id": "226",
+    "holder_name": "Zoetis Česká republika s.r.o.",
+    "name": "Rispoval 3",
+    "preparation_id": "0910f7c78009b3e5",
+    "registration_date": "2005-03-24T9:3:01+0000",
+    "registration_number": "97/010/05-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78009b3df",
+    "spc_modified_date": "2024-04-19T8:3:22+0000"
+  },
+  "schema_version": 1
+}

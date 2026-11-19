@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902177",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902177",
+      "package_invalid_date": "2019-07-03T8:35:57+0000",
+      "package_size": "1 x 8,4 g_EU/2/08/090/029",
+      "preparation_id": "0910f7c7801c22cb"
+    },
+    {
+      "display_package_code": "9902178",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902178",
+      "package_invalid_date": "2019-07-03T8:37:49+0000",
+      "package_size": "7 x 8,4 g_EU/2/08/090/030",
+      "preparation_id": "0910f7c7801c22cb"
+    },
+    {
+      "display_package_code": "9902179",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902179",
+      "package_invalid_date": "2019-07-03T8:39:50+0000",
+      "package_size": "14 x 8,4 g_EU/2/08/090/031",
+      "preparation_id": "0910f7c7801c22cb"
+    },
+    {
+      "display_package_code": "9907598",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907598",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801c22cb"
+    },
+    {
+      "display_package_code": "9907599",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907599",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801c22cb"
+    },
+    {
+      "display_package_code": "9907600",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907600",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801c22cb"
+    }
+  ],
+  "preparation": {
+    "holder_id": "61",
+    "holder_name": "Norbrook Laboratories (Ireland) Limited",
+    "name": "Loxicom",
+    "preparation_id": "0910f7c7801c22cb",
+    "registration_date": "2009-02-10T8:55:43+0000",
+    "registration_number": "EU/2/08/090",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f3ab1",
+    "spc_modified_date": "2022-02-15T9:24:31+0000"
+  },
+  "schema_version": 1
+}

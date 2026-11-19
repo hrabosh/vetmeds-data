@@ -1,0 +1,97 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9904398",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904398",
+      "package_invalid_date": "2016-01-13T12:48:51+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78038b360"
+    },
+    {
+      "display_package_code": "9904399",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904399",
+      "package_invalid_date": "2016-01-13T12:54:10+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78038b360"
+    },
+    {
+      "display_package_code": "9904400",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904400",
+      "package_invalid_date": "2016-01-13T12:53:27+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78038b360"
+    },
+    {
+      "display_package_code": "9904655",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904655",
+      "package_invalid_date": "2016-08-09T11:52:40+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78038b360"
+    },
+    {
+      "display_package_code": "9904656",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904656",
+      "package_invalid_date": "2016-08-09T11:51:41+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78038b360"
+    },
+    {
+      "display_package_code": "9904657",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904657",
+      "package_invalid_date": "2016-08-09T11:49:31+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78038b360"
+    },
+    {
+      "display_package_code": "9905242",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905242",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78038b360"
+    },
+    {
+      "display_package_code": "9905243",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905243",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78038b360"
+    },
+    {
+      "display_package_code": "9905244",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905244",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78038b360"
+    }
+  ],
+  "preparation": {
+    "holder_id": "16",
+    "holder_name": "Boehringer Ingelheim Vetmedica, GmbH",
+    "name": "Vetmedin S",
+    "preparation_id": "0910f7c78038b360",
+    "registration_date": "2015-07-08T9:5:48+0000",
+    "registration_number": "96/065/15-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78038b35b",
+    "spc_modified_date": "2024-09-24T11:58:25+0000"
+  },
+  "schema_version": 1
+}

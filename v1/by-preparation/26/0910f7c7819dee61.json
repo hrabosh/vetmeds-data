@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9910488",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910488",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7819dee61"
+    },
+    {
+      "display_package_code": "9910489",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910489",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7819dee61"
+    },
+    {
+      "display_package_code": "9910490",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910490",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7819dee61"
+    },
+    {
+      "display_package_code": "9910491",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910491",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7819dee61"
+    },
+    {
+      "display_package_code": "9910492",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910492",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7819dee61"
+    }
+  ],
+  "preparation": {
+    "holder_id": "27",
+    "holder_name": "Dopharma Research, B.V.",
+    "name": "Dophacyl SB",
+    "preparation_id": "0910f7c7819dee61",
+    "registration_date": "2023-10-25T12:47:28+0000",
+    "registration_number": "96/050/23-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7819dee60",
+    "spc_modified_date": "2023-11-02T14:21:01+0000"
+  },
+  "schema_version": 1
+}

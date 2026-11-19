@@ -1,0 +1,124 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900723",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900723",
+      "package_invalid_date": "2016-11-30T7:18:35+0000",
+      "package_size": "1 x 25 dávek",
+      "preparation_id": "0910f7c7800d89f1"
+    },
+    {
+      "display_package_code": "9900724",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900724",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 dávek",
+      "preparation_id": "0910f7c7800d89f1"
+    },
+    {
+      "display_package_code": "9900725",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900725",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 dávek",
+      "preparation_id": "0910f7c7800d89f1"
+    },
+    {
+      "display_package_code": "9900726",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900726",
+      "package_invalid_date": "2016-11-30T7:19:14+0000",
+      "package_size": "5 x 25 dávek",
+      "preparation_id": "0910f7c7800d89f1"
+    },
+    {
+      "display_package_code": "9900727",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900727",
+      "package_invalid_date": null,
+      "package_size": "5 x 50 dávek",
+      "preparation_id": "0910f7c7800d89f1"
+    },
+    {
+      "display_package_code": "9900728",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900728",
+      "package_invalid_date": null,
+      "package_size": "5 x 100 dávek",
+      "preparation_id": "0910f7c7800d89f1"
+    },
+    {
+      "display_package_code": "9900729",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900729",
+      "package_invalid_date": "2016-11-30T7:20:34+0000",
+      "package_size": "10 x 25 dávek",
+      "preparation_id": "0910f7c7800d89f1"
+    },
+    {
+      "display_package_code": "9900730",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900730",
+      "package_invalid_date": null,
+      "package_size": "10 x 50 dávek",
+      "preparation_id": "0910f7c7800d89f1"
+    },
+    {
+      "display_package_code": "9900731",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900731",
+      "package_invalid_date": null,
+      "package_size": "10 x 100 dávek",
+      "preparation_id": "0910f7c7800d89f1"
+    },
+    {
+      "display_package_code": "9906355",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906355",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800d89f1"
+    },
+    {
+      "display_package_code": "9906356",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906356",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800d89f1"
+    },
+    {
+      "display_package_code": "9906357",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906357",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800d89f1"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "Porcilis M Hyo ID ONCE injekční emulze pro prasata",
+    "preparation_id": "0910f7c7800d89f1",
+    "registration_date": "2011-11-11T10:35:23+0000",
+    "registration_number": "97/090/11-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800d89ec",
+    "spc_modified_date": "2023-04-19T8:8:56+0000"
+  },
+  "schema_version": 1
+}

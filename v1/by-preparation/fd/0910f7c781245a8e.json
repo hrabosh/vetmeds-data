@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906415",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906415",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781245a8e"
+    }
+  ],
+  "preparation": {
+    "holder_id": "33",
+    "holder_name": "Eurovet Animal Health, B.V.",
+    "name": "Revozyn RTU",
+    "preparation_id": "0910f7c781245a8e",
+    "registration_date": "2018-04-12T5:28:52+0000",
+    "registration_number": "96/022/18-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781245a8d",
+    "spc_modified_date": "2023-04-19T6:49:37+0000"
+  },
+  "schema_version": 1
+}

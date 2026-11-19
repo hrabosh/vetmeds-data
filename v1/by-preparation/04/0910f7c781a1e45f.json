@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9910556",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910556",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a1e45f"
+    },
+    {
+      "display_package_code": "9910557",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910557",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a1e45f"
+    },
+    {
+      "display_package_code": "9910558",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910558",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a1e45f"
+    },
+    {
+      "display_package_code": "9910559",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910559",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a1e45f"
+    },
+    {
+      "display_package_code": "9910560",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910560",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a1e45f"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "Bovilis Cryptium",
+    "preparation_id": "0910f7c781a1e45f",
+    "registration_date": "2023-11-23T11:29:47+0000",
+    "registration_number": "EU/2/23/303",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c781a1e32a",
+    "spc_modified_date": "2023-11-29T12:15:01+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9908187",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908187",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7820c6e8c"
+    },
+    {
+      "display_package_code": "9908188",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908188",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7820c6e8c"
+    },
+    {
+      "display_package_code": "9908189",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908189",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7820c6e8c"
+    },
+    {
+      "display_package_code": "9908190",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908190",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7820c6e8c"
+    },
+    {
+      "display_package_code": "9908191",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908191",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7820c6e8c"
+    }
+  ],
+  "preparation": {
+    "holder_id": "16",
+    "holder_name": "Boehringer Ingelheim Vetmedica, GmbH",
+    "name": "BTVPUR BTV 8",
+    "preparation_id": "0910f7c7820c6e8c",
+    "registration_date": "2010-12-17T6:47:20+0000",
+    "registration_number": "EU/2/10/113",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c780116ba0",
+    "spc_modified_date": "2023-04-12T10:27:59+0000"
+  },
+  "schema_version": 1
+}

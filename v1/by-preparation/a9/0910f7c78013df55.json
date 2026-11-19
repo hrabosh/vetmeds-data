@@ -1,0 +1,34 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900545",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900545",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml_EU/2/07/078/009",
+      "preparation_id": "0910f7c78013df55"
+    },
+    {
+      "display_package_code": "9900546",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900546",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 ml_EU/2/07/078/010",
+      "preparation_id": "0910f7c78013df55"
+    }
+  ],
+  "preparation": {
+    "holder_id": "37",
+    "holder_name": "Chanelle Pharmaceuticals Manufacturing, Ltd.",
+    "name": "Rheumocam",
+    "preparation_id": "0910f7c78013df55",
+    "registration_date": "2008-01-10T7:23:29+0000",
+    "registration_number": "EU/2/07/078",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f3cee",
+    "spc_modified_date": "2026-10-30T9:40:15+0000"
+  },
+  "schema_version": 1
+}

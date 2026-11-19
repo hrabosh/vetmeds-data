@@ -1,0 +1,142 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9904516",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904516",
+      "package_invalid_date": "2019-07-02T10:12:58+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3b86"
+    },
+    {
+      "display_package_code": "9904517",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904517",
+      "package_invalid_date": "2019-07-02T10:14:49+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3b86"
+    },
+    {
+      "display_package_code": "9904518",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904518",
+      "package_invalid_date": "2019-07-02T10:16:41+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3b86"
+    },
+    {
+      "display_package_code": "9904519",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904519",
+      "package_invalid_date": "2019-07-02T10:18:45+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3b86"
+    },
+    {
+      "display_package_code": "9907554",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907554",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3b86"
+    },
+    {
+      "display_package_code": "9907555",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907555",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3b86"
+    },
+    {
+      "display_package_code": "9907556",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907556",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3b86"
+    },
+    {
+      "display_package_code": "9907557",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907557",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3b86"
+    },
+    {
+      "display_package_code": "9908755",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908755",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3b86"
+    },
+    {
+      "display_package_code": "9908756",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908756",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3b86"
+    },
+    {
+      "display_package_code": "9934474",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934474",
+      "package_invalid_date": "2015-09-09T8:43:02+0000",
+      "package_size": "1 x 7 tbl._EU/2/08/089/008",
+      "preparation_id": "0910f7c7800f3b86"
+    },
+    {
+      "display_package_code": "9934475",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934475",
+      "package_invalid_date": "2015-09-09T8:43:21+0000",
+      "package_size": "2 x 7 tbl._EU/2/08/089/009",
+      "preparation_id": "0910f7c7800f3b86"
+    },
+    {
+      "display_package_code": "9934476",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934476",
+      "package_invalid_date": "2015-09-09T8:43:38+0000",
+      "package_size": "4 x 7 tbl._EU/2/08/089/010",
+      "preparation_id": "0910f7c7800f3b86"
+    },
+    {
+      "display_package_code": "9934477",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934477",
+      "package_invalid_date": "2015-09-09T11:4:03+0000",
+      "package_size": "10 x 7 tbl._EU/2/08/089/004",
+      "preparation_id": "0910f7c7800f3b86"
+    }
+  ],
+  "preparation": {
+    "holder_id": "248",
+    "holder_name": "Elanco GmbH",
+    "name": "Onsior",
+    "preparation_id": "0910f7c7800f3b86",
+    "registration_date": "2008-12-16T14:0:24+0000",
+    "registration_number": "EU/2/08/089",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f3b7d",
+    "spc_modified_date": "2023-07-14T7:24:36+0000"
+  },
+  "schema_version": 1
+}

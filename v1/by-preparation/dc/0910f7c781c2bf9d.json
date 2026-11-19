@@ -1,0 +1,115 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700141",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700141",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c2bf9d"
+    },
+    {
+      "display_package_code": "9700142",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700142",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c2bf9d"
+    },
+    {
+      "display_package_code": "9700143",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700143",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c2bf9d"
+    },
+    {
+      "display_package_code": "9700144",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700144",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c2bf9d"
+    },
+    {
+      "display_package_code": "9700145",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700145",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c2bf9d"
+    },
+    {
+      "display_package_code": "9700146",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700146",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c2bf9d"
+    },
+    {
+      "display_package_code": "9700147",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700147",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c2bf9d"
+    },
+    {
+      "display_package_code": "9700148",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700148",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c2bf9d"
+    },
+    {
+      "display_package_code": "9700149",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700149",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c2bf9d"
+    },
+    {
+      "display_package_code": "9700150",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700150",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c2bf9d"
+    },
+    {
+      "display_package_code": "9700151",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700151",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c2bf9d"
+    }
+  ],
+  "preparation": {
+    "holder_id": "290",
+    "holder_name": "Alfasan Nederland B.V.",
+    "name": "Phenosan",
+    "preparation_id": "0910f7c781c2bf9d",
+    "registration_date": "2025-05-27T7:18:41+0000",
+    "registration_number": "96/010/25-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781c2bf9c",
+    "spc_modified_date": "2025-06-11T11:13:33+0000"
+  },
+  "schema_version": 1
+}

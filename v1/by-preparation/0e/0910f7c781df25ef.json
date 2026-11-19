@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9911234",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911234",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781df25ef"
+    },
+    {
+      "display_package_code": "9911235",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911235",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781df25ef"
+    },
+    {
+      "display_package_code": "9911236",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911236",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781df25ef"
+    },
+    {
+      "display_package_code": "9911237",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911237",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781df25ef"
+    },
+    {
+      "display_package_code": "9911238",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911238",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781df25ef"
+    },
+    {
+      "display_package_code": "9911239",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911239",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781df25ef"
+    },
+    {
+      "display_package_code": "9911247",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911247",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781df25ef"
+    },
+    {
+      "display_package_code": "9911248",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911248",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781df25ef"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "BioBos BTV 3",
+    "preparation_id": "0910f7c781df25ef",
+    "registration_date": "2024-10-16T6:31:24+0000",
+    "registration_number": "97/053/24-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781df25ee",
+    "spc_modified_date": "2026-05-29T11:3:54+0000"
+  },
+  "schema_version": 1
+}

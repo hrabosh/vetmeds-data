@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9904601",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904601",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802f8c47"
+    },
+    {
+      "display_package_code": "9904602",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904602",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802f8c47"
+    },
+    {
+      "display_package_code": "9904603",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904603",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802f8c47"
+    }
+  ],
+  "preparation": {
+    "holder_id": "209",
+    "holder_name": "Ceva-Phylaxia Veterinary Biologicals Co.Ltd.",
+    "name": "Vectormune ND",
+    "preparation_id": "0910f7c7802f8c47",
+    "registration_date": "2015-09-08T7:14:55+0000",
+    "registration_number": "EU/2/15/188",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7802f8c46",
+    "spc_modified_date": "2025-06-19T11:24:16+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9904334",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904334",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802a0a33"
+    },
+    {
+      "display_package_code": "9904335",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904335",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802a0a33"
+    },
+    {
+      "display_package_code": "9904336",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904336",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802a0a33"
+    },
+    {
+      "display_package_code": "9904337",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904337",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802a0a33"
+    },
+    {
+      "display_package_code": "9904338",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904338",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802a0a33"
+    },
+    {
+      "display_package_code": "9904339",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904339",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802a0a33"
+    },
+    {
+      "display_package_code": "9907206",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907206",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802a0a33"
+    },
+    {
+      "display_package_code": "9907207",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907207",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802a0a33"
+    }
+  ],
+  "preparation": {
+    "holder_id": "276",
+    "holder_name": "Ceva Animal Health Slovakia s.r.o.",
+    "name": "Hyogen",
+    "preparation_id": "0910f7c7802a0a33",
+    "registration_date": "2015-04-29T5:27:15+0000",
+    "registration_number": "97/052/15-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7802a0a14",
+    "spc_modified_date": "2022-10-25T10:38:52+0000"
+  },
+  "schema_version": 1
+}

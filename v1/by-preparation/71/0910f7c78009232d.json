@@ -1,0 +1,34 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9907226",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907226",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009232d"
+    },
+    {
+      "display_package_code": "9938409",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938409",
+      "package_invalid_date": "2019-02-13T9:59:36+0000",
+      "package_size": "1 x 36 g",
+      "preparation_id": "0910f7c78009232d"
+    }
+  ],
+  "preparation": {
+    "holder_id": "251",
+    "holder_name": "Dechra Regulatory B.V.",
+    "name": "Equipalazone",
+    "preparation_id": "0910f7c78009232d",
+    "registration_date": "1997-12-19T9:23:55+0000",
+    "registration_number": "96/1306/97-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78009232a",
+    "spc_modified_date": "2024-11-18T14:40:16+0000"
+  },
+  "schema_version": 1
+}

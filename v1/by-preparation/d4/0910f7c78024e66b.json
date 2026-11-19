@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700849",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700849",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78024e66b"
+    },
+    {
+      "display_package_code": "9700850",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700850",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78024e66b"
+    },
+    {
+      "display_package_code": "9902761",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902761",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78024e66b"
+    },
+    {
+      "display_package_code": "9902762",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902762",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78024e66b"
+    },
+    {
+      "display_package_code": "9902984",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902984",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78024e66b"
+    },
+    {
+      "display_package_code": "9905263",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905263",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78024e66b"
+    },
+    {
+      "display_package_code": "9905264",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905264",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78024e66b"
+    },
+    {
+      "display_package_code": "9905265",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905265",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78024e66b"
+    }
+  ],
+  "preparation": {
+    "holder_id": "100",
+    "holder_name": "Zoetis Belgium",
+    "name": "Apoquel",
+    "preparation_id": "0910f7c78024e66b",
+    "registration_date": "2013-09-12T12:48:34+0000",
+    "registration_number": "EU/2/13/154",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c78024e66a",
+    "spc_modified_date": "2023-11-01T9:37:20+0000"
+  },
+  "schema_version": 1
+}

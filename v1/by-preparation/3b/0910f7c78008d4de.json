@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9908467",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908467",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008d4de"
+    },
+    {
+      "display_package_code": "9908468",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908468",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008d4de"
+    },
+    {
+      "display_package_code": "9975315",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9975315",
+      "package_invalid_date": "2020-05-04T10:53:53+0000",
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c78008d4de"
+    },
+    {
+      "display_package_code": "9999427",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9999427",
+      "package_invalid_date": "2020-05-04T10:53:06+0000",
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c78008d4de"
+    }
+  ],
+  "preparation": {
+    "holder_id": "306",
+    "holder_name": "Elanco Animal Health GmbH",
+    "name": "BAYTRIL",
+    "preparation_id": "0910f7c78008d4de",
+    "registration_date": "1992-09-02T13:50:08+0000",
+    "registration_number": "96/655/92-C/05",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78008d4db",
+    "spc_modified_date": "2026-06-15T12:5:15+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9936533",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936533",
+      "package_invalid_date": null,
+      "package_size": "6 x 20 dávek",
+      "preparation_id": "0910f7c7800972b9"
+    },
+    {
+      "display_package_code": "9936534",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936534",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 dávek",
+      "preparation_id": "0910f7c7800972b9"
+    },
+    {
+      "display_package_code": "9936535",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936535",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 dávek",
+      "preparation_id": "0910f7c7800972b9"
+    }
+  ],
+  "preparation": {
+    "holder_id": "29",
+    "holder_name": "Dyntec, spol. s r.o.",
+    "name": "Morin",
+    "preparation_id": "0910f7c7800972b9",
+    "registration_date": "1996-08-20T9:7:55+0000",
+    "registration_number": "97/487/96-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7800972b5",
+    "spc_modified_date": "2022-10-26T7:59:54+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909494",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909494",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801b4e6c"
+    },
+    {
+      "display_package_code": "9909495",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909495",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801b4e6c"
+    },
+    {
+      "display_package_code": "9909496",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909496",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801b4e6c"
+    },
+    {
+      "display_package_code": "9909497",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909497",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801b4e6c"
+    },
+    {
+      "display_package_code": "9909498",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909498",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801b4e6c"
+    },
+    {
+      "display_package_code": "9909499",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909499",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801b4e6c"
+    },
+    {
+      "display_package_code": "9909500",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909500",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801b4e6c"
+    },
+    {
+      "display_package_code": "9910401",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910401",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801b4e6c"
+    }
+  ],
+  "preparation": {
+    "holder_id": "122",
+    "holder_name": "Tekro spol. s r.o.",
+    "name": "MEDITEK DOX",
+    "preparation_id": "0910f7c7801b4e6c",
+    "registration_date": "2021-10-21T9:49:14+0000",
+    "registration_number": "96/046/21-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7801b4e66",
+    "spc_modified_date": "2023-08-11T11:14:28+0000"
+  },
+  "schema_version": 1
+}

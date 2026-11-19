@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9935135",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935135",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c7800990c0"
+    },
+    {
+      "display_package_code": "9935136",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935136",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 ml",
+      "preparation_id": "0910f7c7800990c0"
+    },
+    {
+      "display_package_code": "9938172",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938172",
+      "package_invalid_date": null,
+      "package_size": "12 x 100 ml",
+      "preparation_id": "0910f7c7800990c0"
+    },
+    {
+      "display_package_code": "9938173",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938173",
+      "package_invalid_date": null,
+      "package_size": "12 x 250 ml",
+      "preparation_id": "0910f7c7800990c0"
+    }
+  ],
+  "preparation": {
+    "holder_id": "263",
+    "holder_name": "Kela N.V.",
+    "name": "PENI-KEL",
+    "preparation_id": "0910f7c7800990c0",
+    "registration_date": "1998-05-12T11:58:05+0000",
+    "registration_number": "96/032/98-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7800990bd",
+    "spc_modified_date": "2024-10-15T11:58:23+0000"
+  },
+  "schema_version": 1
+}

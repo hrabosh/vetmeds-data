@@ -1,0 +1,34 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9936726",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936726",
+      "package_invalid_date": null,
+      "package_size": "20 x 1 tbl.",
+      "preparation_id": "0910f7c780096ec4"
+    },
+    {
+      "display_package_code": "9937144",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937144",
+      "package_invalid_date": null,
+      "package_size": "100 x 1 tbl.",
+      "preparation_id": "0910f7c780096ec4"
+    }
+  ],
+  "preparation": {
+    "holder_id": "263",
+    "holder_name": "Kela N.V.",
+    "name": "METRICYCLIN",
+    "preparation_id": "0910f7c780096ec4",
+    "registration_date": "2001-07-23T10:0:05+0000",
+    "registration_number": "96/049/01-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780096ec0",
+    "spc_modified_date": "2026-09-08T10:0:30+0000"
+  },
+  "schema_version": 1
+}

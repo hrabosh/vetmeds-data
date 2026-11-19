@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902696",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902696",
+      "package_invalid_date": "2016-05-12T7:24:09+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7800f7101"
+    },
+    {
+      "display_package_code": "9905028",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905028",
+      "package_invalid_date": "2018-11-14T7:33:03+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7800f7101"
+    },
+    {
+      "display_package_code": "9906802",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906802",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f7101"
+    },
+    {
+      "display_package_code": "9911055",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911055",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f7101"
+    }
+  ],
+  "preparation": {
+    "holder_id": "248",
+    "holder_name": "Elanco GmbH",
+    "name": "Strenzen",
+    "preparation_id": "0910f7c7800f7101",
+    "registration_date": "2013-09-05T8:17:20+0000",
+    "registration_number": "96/035/13-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800f70fe",
+    "spc_modified_date": "2025-05-06T13:35:33+0000"
+  },
+  "schema_version": 1
+}

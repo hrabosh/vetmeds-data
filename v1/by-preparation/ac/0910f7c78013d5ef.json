@@ -1,0 +1,124 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700038",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700038",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78013d5ef"
+    },
+    {
+      "display_package_code": "9700039",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700039",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78013d5ef"
+    },
+    {
+      "display_package_code": "9901722",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901722",
+      "package_invalid_date": "2013-03-22T10:58:03+0000",
+      "package_size": "1 x 14 tbl.",
+      "preparation_id": "0910f7c78013d5ef"
+    },
+    {
+      "display_package_code": "9901723",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901723",
+      "package_invalid_date": "2013-03-22T10:58:17+0000",
+      "package_size": "10 x 14 tbl.",
+      "preparation_id": "0910f7c78013d5ef"
+    },
+    {
+      "display_package_code": "9902207",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902207",
+      "package_invalid_date": "2019-11-04T9:16:41+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78013d5ef"
+    },
+    {
+      "display_package_code": "9902208",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902208",
+      "package_invalid_date": "2019-11-04T9:17:11+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78013d5ef"
+    },
+    {
+      "display_package_code": "9907892",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907892",
+      "package_invalid_date": "2020-01-07T12:46:30+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78013d5ef"
+    },
+    {
+      "display_package_code": "9907893",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907893",
+      "package_invalid_date": "2020-01-07T12:48:22+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78013d5ef"
+    },
+    {
+      "display_package_code": "9908254",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908254",
+      "package_invalid_date": "2023-02-08T11:6:03+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78013d5ef"
+    },
+    {
+      "display_package_code": "9908255",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908255",
+      "package_invalid_date": "2023-02-08T11:6:10+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78013d5ef"
+    },
+    {
+      "display_package_code": "9910122",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910122",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78013d5ef"
+    },
+    {
+      "display_package_code": "9910123",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910123",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78013d5ef"
+    }
+  ],
+  "preparation": {
+    "holder_id": "299",
+    "holder_name": "VetViva Richter GmbH",
+    "name": "Benadil",
+    "preparation_id": "0910f7c78013d5ef",
+    "registration_date": "2012-09-12T6:6:56+0000",
+    "registration_number": "96/103/12-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78013851a",
+    "spc_modified_date": "2025-03-21T11:39:34+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9901559",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901559",
+      "package_invalid_date": "2019-03-07T11:53:56+0000",
+      "package_size": "1 x 100 ml (převod registrace)",
+      "preparation_id": "0910f7c78009501d"
+    },
+    {
+      "display_package_code": "9901560",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901560",
+      "package_invalid_date": "2019-03-07T11:54:54+0000",
+      "package_size": "1 x 1000 ml (převod registrace)",
+      "preparation_id": "0910f7c78009501d"
+    },
+    {
+      "display_package_code": "9907284",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907284",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009501d"
+    },
+    {
+      "display_package_code": "9907285",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907285",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009501d"
+    },
+    {
+      "display_package_code": "9962478",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9962478",
+      "package_invalid_date": "2012-07-13T9:41:16+0000",
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c78009501d"
+    },
+    {
+      "display_package_code": "9962479",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9962479",
+      "package_invalid_date": "2012-07-13T9:41:31+0000",
+      "package_size": "1 x 1000 ml",
+      "preparation_id": "0910f7c78009501d"
+    }
+  ],
+  "preparation": {
+    "holder_id": "254",
+    "holder_name": "AUDEVARD",
+    "name": "Imaverol",
+    "preparation_id": "0910f7c78009501d",
+    "registration_date": "1992-09-09T12:45:19+0000",
+    "registration_number": "96/519/92-S/C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78009501a",
+    "spc_modified_date": "2026-01-20T13:46:24+0000"
+  },
+  "schema_version": 1
+}

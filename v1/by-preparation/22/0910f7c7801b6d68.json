@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9904481",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904481",
+      "package_invalid_date": "2016-02-18T5:14:00+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7801b6d68"
+    },
+    {
+      "display_package_code": "9904482",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904482",
+      "package_invalid_date": "2016-02-18T5:14:14+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7801b6d68"
+    },
+    {
+      "display_package_code": "9904483",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904483",
+      "package_invalid_date": "2016-02-18T5:14:28+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7801b6d68"
+    },
+    {
+      "display_package_code": "9904484",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904484",
+      "package_invalid_date": "2016-02-18T5:14:42+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7801b6d68"
+    },
+    {
+      "display_package_code": "9904821",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904821",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801b6d68"
+    },
+    {
+      "display_package_code": "9904822",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904822",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801b6d68"
+    },
+    {
+      "display_package_code": "9904823",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904823",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801b6d68"
+    },
+    {
+      "display_package_code": "9904824",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904824",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801b6d68"
+    }
+  ],
+  "preparation": {
+    "holder_id": "34",
+    "holder_name": "Fatro, S.p.A.",
+    "name": "Masterflox",
+    "preparation_id": "0910f7c7801b6d68",
+    "registration_date": "2015-08-26T9:0:23+0000",
+    "registration_number": "96/082/15-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7801b6d63",
+    "spc_modified_date": "2026-06-30T9:0:40+0000"
+  },
+  "schema_version": 1
+}

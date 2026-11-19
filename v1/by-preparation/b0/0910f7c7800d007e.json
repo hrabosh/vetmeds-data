@@ -1,0 +1,79 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900452",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900452",
+      "package_invalid_date": null,
+      "package_size": "1 x 1000 dávek",
+      "preparation_id": "0910f7c7800d007e"
+    },
+    {
+      "display_package_code": "9900453",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900453",
+      "package_invalid_date": null,
+      "package_size": "1 x 2000 dávek",
+      "preparation_id": "0910f7c7800d007e"
+    },
+    {
+      "display_package_code": "9900454",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900454",
+      "package_invalid_date": null,
+      "package_size": "10 x 1000 dávek",
+      "preparation_id": "0910f7c7800d007e"
+    },
+    {
+      "display_package_code": "9900455",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900455",
+      "package_invalid_date": null,
+      "package_size": "10 x 2000 dávek",
+      "preparation_id": "0910f7c7800d007e"
+    },
+    {
+      "display_package_code": "9909659",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909659",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800d007e"
+    },
+    {
+      "display_package_code": "9911211",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911211",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800d007e"
+    },
+    {
+      "display_package_code": "9911212",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911212",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800d007e"
+    }
+  ],
+  "preparation": {
+    "holder_id": "53",
+    "holder_name": "Lohmann Animal Health GmbH",
+    "name": "AviPro Salmonella DUO",
+    "preparation_id": "0910f7c7800d007e",
+    "registration_date": "2011-06-27T7:15:28+0000",
+    "registration_number": "97/050/11-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800d0079",
+    "spc_modified_date": "2026-02-06T8:15:50+0000"
+  },
+  "schema_version": 1
+}

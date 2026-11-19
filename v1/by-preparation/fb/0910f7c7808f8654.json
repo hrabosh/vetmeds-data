@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906284",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906284",
+      "package_invalid_date": "2019-01-10T11:53:01+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7808f8654"
+    },
+    {
+      "display_package_code": "9906285",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906285",
+      "package_invalid_date": "2019-01-10T11:53:40+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7808f8654"
+    },
+    {
+      "display_package_code": "9906286",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906286",
+      "package_invalid_date": "2019-01-10T11:54:18+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7808f8654"
+    },
+    {
+      "display_package_code": "9906936",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906936",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808f8654"
+    },
+    {
+      "display_package_code": "9906937",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906937",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808f8654"
+    },
+    {
+      "display_package_code": "9906938",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906938",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808f8654"
+    }
+  ],
+  "preparation": {
+    "holder_id": "61",
+    "holder_name": "Norbrook Laboratories (Ireland) Limited",
+    "name": "Cepritect",
+    "preparation_id": "0910f7c7808f8654",
+    "registration_date": "2017-12-21T8:29:06+0000",
+    "registration_number": "96/057/17-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7808f8653",
+    "spc_modified_date": "2025-01-24T11:25:11+0000"
+  },
+  "schema_version": 1
+}

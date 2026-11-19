@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700814",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700814",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800ee5a3"
+    },
+    {
+      "display_package_code": "9904604",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904604",
+      "package_invalid_date": "2026-03-19T7:18:18+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7800ee5a3"
+    },
+    {
+      "display_package_code": "9934614",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934614",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 ml",
+      "preparation_id": "0910f7c7800ee5a3"
+    }
+  ],
+  "preparation": {
+    "holder_id": "177",
+    "holder_name": "Dechra Veterinary Products A-S",
+    "name": "Malaseb",
+    "preparation_id": "0910f7c7800ee5a3",
+    "registration_date": "2010-08-12T6:18:39+0000",
+    "registration_number": "96/040/10-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800ee5a0",
+    "spc_modified_date": "2025-07-30T8:39:04+0000"
+  },
+  "schema_version": 1
+}

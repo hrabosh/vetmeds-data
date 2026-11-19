@@ -1,0 +1,124 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9911053",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911053",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008f4ab"
+    },
+    {
+      "display_package_code": "9911054",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911054",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008f4ab"
+    },
+    {
+      "display_package_code": "9935063",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935063",
+      "package_invalid_date": "2024-06-05T9:3:05+0000",
+      "package_size": "1x500 dávek",
+      "preparation_id": "0910f7c78008f4ab"
+    },
+    {
+      "display_package_code": "9935155",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935155",
+      "package_invalid_date": "2024-06-05T9:3:22+0000",
+      "package_size": "10x500 dávek",
+      "preparation_id": "0910f7c78008f4ab"
+    },
+    {
+      "display_package_code": "9935280",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935280",
+      "package_invalid_date": "2024-06-05T9:4:19+0000",
+      "package_size": "1x1000 dávek",
+      "preparation_id": "0910f7c78008f4ab"
+    },
+    {
+      "display_package_code": "9935376",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935376",
+      "package_invalid_date": "2024-06-05T9:4:29+0000",
+      "package_size": "10x1000 dávek",
+      "preparation_id": "0910f7c78008f4ab"
+    },
+    {
+      "display_package_code": "9935454",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935454",
+      "package_invalid_date": "2024-06-05T9:4:41+0000",
+      "package_size": "1x2500 dávek",
+      "preparation_id": "0910f7c78008f4ab"
+    },
+    {
+      "display_package_code": "9935591",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935591",
+      "package_invalid_date": "2024-06-05T9:4:52+0000",
+      "package_size": "10x2500 dávek",
+      "preparation_id": "0910f7c78008f4ab"
+    },
+    {
+      "display_package_code": "9935880",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935880",
+      "package_invalid_date": null,
+      "package_size": "1x5000 dávek",
+      "preparation_id": "0910f7c78008f4ab"
+    },
+    {
+      "display_package_code": "9935960",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935960",
+      "package_invalid_date": null,
+      "package_size": "10x5000 dávek",
+      "preparation_id": "0910f7c78008f4ab"
+    },
+    {
+      "display_package_code": "9936075",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936075",
+      "package_invalid_date": "2024-06-05T9:5:36+0000",
+      "package_size": "1x10000 dávek",
+      "preparation_id": "0910f7c78008f4ab"
+    },
+    {
+      "display_package_code": "9936131",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936131",
+      "package_invalid_date": "2024-06-05T9:5:46+0000",
+      "package_size": "10x10000 dávek",
+      "preparation_id": "0910f7c78008f4ab"
+    }
+  ],
+  "preparation": {
+    "holder_id": "53",
+    "holder_name": "Lohmann Animal Health GmbH",
+    "name": "AviPro ND C131",
+    "preparation_id": "0910f7c78008f4ab",
+    "registration_date": "2007-09-19T9:8:51+0000",
+    "registration_number": "97/045/07-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78008f4a4",
+    "spc_modified_date": "2023-11-07T13:55:13+0000"
+  },
+  "schema_version": 1
+}

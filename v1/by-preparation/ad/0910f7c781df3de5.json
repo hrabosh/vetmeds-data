@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700775",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9700775",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781df3de5"
+    },
+    {
+      "display_package_code": "9700776",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9700776",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781df3de5"
+    },
+    {
+      "display_package_code": "9700777",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700777",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781df3de5"
+    }
+  ],
+  "preparation": {
+    "holder_id": "130",
+    "holder_name": "Beaphar B.V.",
+    "name": "Parecto",
+    "preparation_id": "0910f7c781df3de5",
+    "registration_date": "2026-02-06T11:23:56+0000",
+    "registration_number": "96/015/26-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781df3ddf",
+    "spc_modified_date": "2026-02-10T9:34:07+0000"
+  },
+  "schema_version": 1
+}

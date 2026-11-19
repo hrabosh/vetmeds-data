@@ -1,0 +1,79 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9939235",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939235",
+      "package_invalid_date": null,
+      "package_size": "1 x 10 tbl.",
+      "preparation_id": "0910f7c7800962f8"
+    },
+    {
+      "display_package_code": "9939236",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939236",
+      "package_invalid_date": null,
+      "package_size": "2 x 10 tbl.",
+      "preparation_id": "0910f7c7800962f8"
+    },
+    {
+      "display_package_code": "9939237",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939237",
+      "package_invalid_date": null,
+      "package_size": "3 x 10 tbl.",
+      "preparation_id": "0910f7c7800962f8"
+    },
+    {
+      "display_package_code": "9939240",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939240",
+      "package_invalid_date": null,
+      "package_size": "4 x 10 tbl.",
+      "preparation_id": "0910f7c7800962f8"
+    },
+    {
+      "display_package_code": "9939241",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939241",
+      "package_invalid_date": null,
+      "package_size": "5 x 10 tbl.",
+      "preparation_id": "0910f7c7800962f8"
+    },
+    {
+      "display_package_code": "9939242",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939242",
+      "package_invalid_date": null,
+      "package_size": "10 x 10 tbl.",
+      "preparation_id": "0910f7c7800962f8"
+    },
+    {
+      "display_package_code": "9939243",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939243",
+      "package_invalid_date": null,
+      "package_size": "25 x 10 tbl.",
+      "preparation_id": "0910f7c7800962f8"
+    }
+  ],
+  "preparation": {
+    "holder_id": "279",
+    "holder_name": "Vetoquinol s.r.o.",
+    "name": "MARBOCYL P",
+    "preparation_id": "0910f7c7800962f8",
+    "registration_date": "2005-04-11T13:53:40+0000",
+    "registration_number": "96/017/05-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800962f4",
+    "spc_modified_date": "2026-02-06T10:46:56+0000"
+  },
+  "schema_version": 1
+}

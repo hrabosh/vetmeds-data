@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9908603",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908603",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78157af2a"
+    },
+    {
+      "display_package_code": "9908604",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908604",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78157af2a"
+    },
+    {
+      "display_package_code": "9908605",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908605",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78157af2a"
+    }
+  ],
+  "preparation": {
+    "holder_id": "134",
+    "holder_name": "Vétoquinol S.A.",
+    "name": "Lydaxx",
+    "preparation_id": "0910f7c78157af2a",
+    "registration_date": "2020-05-18T8:56:34+0000",
+    "registration_number": "EU/2/20/253",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c78157af06",
+    "spc_modified_date": "2024-04-26T10:36:01+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,97 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700583",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700583",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781e51d43"
+    },
+    {
+      "display_package_code": "9700584",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700584",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781e51d43"
+    },
+    {
+      "display_package_code": "9700585",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700585",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781e51d43"
+    },
+    {
+      "display_package_code": "9700586",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700586",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781e51d43"
+    },
+    {
+      "display_package_code": "9700587",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700587",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781e51d43"
+    },
+    {
+      "display_package_code": "9700588",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700588",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781e51d43"
+    },
+    {
+      "display_package_code": "9700599",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700599",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781e51d43"
+    },
+    {
+      "display_package_code": "9700600",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700600",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781e51d43"
+    },
+    {
+      "display_package_code": "9700892",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700892",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781e51d43"
+    }
+  ],
+  "preparation": {
+    "holder_id": "16",
+    "holder_name": "Boehringer Ingelheim Vetmedica, GmbH",
+    "name": "Lenzelta",
+    "preparation_id": "0910f7c781e51d43",
+    "registration_date": "2025-11-24T6:2:12+0000",
+    "registration_number": "97/052/25-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781e51d42",
+    "spc_modified_date": "2026-03-31T8:28:49+0000"
+  },
+  "schema_version": 1
+}

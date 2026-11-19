@@ -1,0 +1,34 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900286",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900286",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 ml",
+      "preparation_id": "0910f7c7800e0a88"
+    },
+    {
+      "display_package_code": "9900287",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900287",
+      "package_invalid_date": null,
+      "package_size": "1 x 1000 ml",
+      "preparation_id": "0910f7c7800e0a88"
+    }
+  ],
+  "preparation": {
+    "holder_id": "275",
+    "holder_name": "Lavet Pharmaceuticals Ltd. 2",
+    "name": "Tilmicosol",
+    "preparation_id": "0910f7c7800e0a88",
+    "registration_date": "2011-03-29T6:15:49+0000",
+    "registration_number": "96/023/11-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800e0a82",
+    "spc_modified_date": "2023-11-09T9:57:24+0000"
+  },
+  "schema_version": 1
+}

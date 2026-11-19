@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9904635",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904635",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78044703d"
+    },
+    {
+      "display_package_code": "9904636",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904636",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78044703d"
+    },
+    {
+      "display_package_code": "9904637",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904637",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78044703d"
+    },
+    {
+      "display_package_code": "9904638",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904638",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78044703d"
+    },
+    {
+      "display_package_code": "9904639",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904639",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78044703d"
+    }
+  ],
+  "preparation": {
+    "holder_id": "112",
+    "holder_name": "VIRBAC",
+    "name": "Canigen DHPPi L",
+    "preparation_id": "0910f7c78044703d",
+    "registration_date": "2016-01-07T7:3:43+0000",
+    "registration_number": "97/002/16-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78044703c",
+    "spc_modified_date": "2024-01-23T10:37:27+0000"
+  },
+  "schema_version": 1
+}

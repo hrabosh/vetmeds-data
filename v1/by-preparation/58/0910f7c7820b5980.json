@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909218",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909218",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7820b5980"
+    },
+    {
+      "display_package_code": "9909219",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909219",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7820b5980"
+    },
+    {
+      "display_package_code": "9909220",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909220",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7820b5980"
+    }
+  ],
+  "preparation": {
+    "holder_id": "184",
+    "holder_name": "CZ Vaccines S.A.U.",
+    "name": "Bluevac BTV - BTV4",
+    "preparation_id": "0910f7c7820b5980",
+    "registration_date": "2011-04-14T8:9:04+0000",
+    "registration_number": "EU/2/11/122",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c780128e5b",
+    "spc_modified_date": "2026-08-06T11:12:58+0000"
+  },
+  "schema_version": 1
+}

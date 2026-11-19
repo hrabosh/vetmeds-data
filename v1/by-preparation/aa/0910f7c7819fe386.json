@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9910417",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910417",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7819fe386"
+    },
+    {
+      "display_package_code": "9910418",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910418",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7819fe386"
+    },
+    {
+      "display_package_code": "9910419",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910419",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7819fe386"
+    }
+  ],
+  "preparation": {
+    "holder_id": "290",
+    "holder_name": "Alfasan Nederland B.V.",
+    "name": "Presedine",
+    "preparation_id": "0910f7c7819fe386",
+    "registration_date": "2023-08-02T5:22:10+0000",
+    "registration_number": "96/040/23-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7819fe385",
+    "spc_modified_date": "2025-09-12T10:56:16+0000"
+  },
+  "schema_version": 1
+}

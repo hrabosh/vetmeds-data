@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9934560",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934560",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml_EU/2/05/053/003",
+      "preparation_id": "0910f7c7800f3b3b"
+    }
+  ],
+  "preparation": {
+    "holder_id": "100",
+    "holder_name": "Zoetis Belgium",
+    "name": "Naxcel",
+    "preparation_id": "0910f7c7800f3b3b",
+    "registration_date": "2009-10-08T9:3:08+0000",
+    "registration_number": "EU/2/05/053",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f3b35",
+    "spc_modified_date": "2023-07-14T8:33:19+0000"
+  },
+  "schema_version": 1
+}

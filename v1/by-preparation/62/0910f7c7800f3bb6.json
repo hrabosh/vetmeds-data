@@ -1,0 +1,106 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9934487",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934487",
+      "package_invalid_date": null,
+      "package_size": "1 x 20 ml (1 x 10 dávek)_EU/2/08/091/001",
+      "preparation_id": "0910f7c7800f3bb6"
+    },
+    {
+      "display_package_code": "9934488",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934488",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 ml (1 x 25 dávek)_EU/2/08/091/002",
+      "preparation_id": "0910f7c7800f3bb6"
+    },
+    {
+      "display_package_code": "9934489",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934489",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml (1 x 50 dávek)_EU/2/08/091/003",
+      "preparation_id": "0910f7c7800f3bb6"
+    },
+    {
+      "display_package_code": "9934490",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934490",
+      "package_invalid_date": null,
+      "package_size": "1 x 200 ml (1 x 100 dávek)_EU/2/08/091/004",
+      "preparation_id": "0910f7c7800f3bb6"
+    },
+    {
+      "display_package_code": "9934491",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934491",
+      "package_invalid_date": null,
+      "package_size": "1 x 500 ml (1 x 250 dávek)_EU/2/08/091/005",
+      "preparation_id": "0910f7c7800f3bb6"
+    },
+    {
+      "display_package_code": "9934492",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934492",
+      "package_invalid_date": null,
+      "package_size": "10 x 20 ml (10 x 10 dávek)_EU/2/08/091/006",
+      "preparation_id": "0910f7c7800f3bb6"
+    },
+    {
+      "display_package_code": "9934493",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934493",
+      "package_invalid_date": null,
+      "package_size": "10 x 50 ml (10 x 25 dávek)_EU/2/08/091/007",
+      "preparation_id": "0910f7c7800f3bb6"
+    },
+    {
+      "display_package_code": "9934494",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934494",
+      "package_invalid_date": null,
+      "package_size": "10 x 100 ml (10 x 50 dávek)_EU/2/08/091/008",
+      "preparation_id": "0910f7c7800f3bb6"
+    },
+    {
+      "display_package_code": "9934495",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934495",
+      "package_invalid_date": null,
+      "package_size": "10 x 200 ml (10 x 100 dávek)_EU/2/08/091/009",
+      "preparation_id": "0910f7c7800f3bb6"
+    },
+    {
+      "display_package_code": "9934496",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934496",
+      "package_invalid_date": null,
+      "package_size": "10 x 500 ml (10 x 250 dávek)_EU/2/08/091/010",
+      "preparation_id": "0910f7c7800f3bb6"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "Porcilis PCV",
+    "preparation_id": "0910f7c7800f3bb6",
+    "registration_date": "2009-01-12T11:45:44+0000",
+    "registration_number": "EU/2/08/091",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f3bb2",
+    "spc_modified_date": "2023-09-06T11:37:18+0000"
+  },
+  "schema_version": 1
+}

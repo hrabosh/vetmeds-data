@@ -1,0 +1,79 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909202",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909202",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78177c84e"
+    },
+    {
+      "display_package_code": "9909203",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909203",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78177c84e"
+    },
+    {
+      "display_package_code": "9909204",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909204",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78177c84e"
+    },
+    {
+      "display_package_code": "9909205",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909205",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78177c84e"
+    },
+    {
+      "display_package_code": "9909206",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909206",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78177c84e"
+    },
+    {
+      "display_package_code": "9909207",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909207",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78177c84e"
+    },
+    {
+      "display_package_code": "9909208",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909208",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78177c84e"
+    }
+  ],
+  "preparation": {
+    "holder_id": "37",
+    "holder_name": "Chanelle Pharmaceuticals Manufacturing, Ltd.",
+    "name": "Gastazole",
+    "preparation_id": "0910f7c78177c84e",
+    "registration_date": "2021-04-01T6:42:58+0000",
+    "registration_number": "96/020/21-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78177c84d",
+    "spc_modified_date": "2025-08-20T6:43:13+0000"
+  },
+  "schema_version": 1
+}

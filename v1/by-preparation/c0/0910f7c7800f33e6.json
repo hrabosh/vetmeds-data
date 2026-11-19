@@ -1,0 +1,160 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900970",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900970",
+      "package_invalid_date": null,
+      "package_size": "12 x 10 ml_EU/2/07/079/005",
+      "preparation_id": "0910f7c7800f33e6"
+    },
+    {
+      "display_package_code": "9900971",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900971",
+      "package_invalid_date": null,
+      "package_size": "12 x 50 ml_EU/2/07/079/006",
+      "preparation_id": "0910f7c7800f33e6"
+    },
+    {
+      "display_package_code": "9900972",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900972",
+      "package_invalid_date": null,
+      "package_size": "12 x 100 ml_EU/2/07/079/007",
+      "preparation_id": "0910f7c7800f33e6"
+    },
+    {
+      "display_package_code": "9900973",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900973",
+      "package_invalid_date": null,
+      "package_size": "12 x 250 ml_EU/2/07/079/008",
+      "preparation_id": "0910f7c7800f33e6"
+    },
+    {
+      "display_package_code": "9909501",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909501",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f33e6"
+    },
+    {
+      "display_package_code": "9909502",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909502",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f33e6"
+    },
+    {
+      "display_package_code": "9909503",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909503",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f33e6"
+    },
+    {
+      "display_package_code": "9909504",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909504",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f33e6"
+    },
+    {
+      "display_package_code": "9909505",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909505",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f33e6"
+    },
+    {
+      "display_package_code": "9909506",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909506",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f33e6"
+    },
+    {
+      "display_package_code": "9909507",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909507",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f33e6"
+    },
+    {
+      "display_package_code": "9909508",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909508",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f33e6"
+    },
+    {
+      "display_package_code": "9934414",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934414",
+      "package_invalid_date": null,
+      "package_size": "1 x 10 ml_EU/2/07/079/001",
+      "preparation_id": "0910f7c7800f33e6"
+    },
+    {
+      "display_package_code": "9934415",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934415",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 ml_EU/2/07/079/002",
+      "preparation_id": "0910f7c7800f33e6"
+    },
+    {
+      "display_package_code": "9934416",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934416",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml_EU/2/07/079/003",
+      "preparation_id": "0910f7c7800f33e6"
+    },
+    {
+      "display_package_code": "9934417",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934417",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 ml_EU/2/07/079/004",
+      "preparation_id": "0910f7c7800f33e6"
+    }
+  ],
+  "preparation": {
+    "holder_id": "16",
+    "holder_name": "Boehringer Ingelheim Vetmedica, GmbH",
+    "name": "Ingelvac CircoFLEX",
+    "preparation_id": "0910f7c7800f33e6",
+    "registration_date": "2008-02-13T12:34:49+0000",
+    "registration_number": "EU/2/07/079",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f33e3",
+    "spc_modified_date": "2025-05-05T11:50:06+0000"
+  },
+  "schema_version": 1
+}

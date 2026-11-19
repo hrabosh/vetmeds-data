@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9911318",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911318",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c4d493"
+    },
+    {
+      "display_package_code": "9911319",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911319",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c4d493"
+    },
+    {
+      "display_package_code": "9911320",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911320",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c4d493"
+    }
+  ],
+  "preparation": {
+    "holder_id": "251",
+    "holder_name": "Dechra Regulatory B.V.",
+    "name": "Duotic",
+    "preparation_id": "0910f7c781c4d493",
+    "registration_date": "2024-11-22T7:26:09+0000",
+    "registration_number": "EU/2/24/327",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c781c4d491",
+    "spc_modified_date": "2024-12-06T10:28:52+0000"
+  },
+  "schema_version": 1
+}

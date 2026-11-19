@@ -1,0 +1,79 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700366",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700366",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804b44b8"
+    },
+    {
+      "display_package_code": "9700367",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700367",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804b44b8"
+    },
+    {
+      "display_package_code": "9700368",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700368",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804b44b8"
+    },
+    {
+      "display_package_code": "9700369",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700369",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804b44b8"
+    },
+    {
+      "display_package_code": "9904965",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904965",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804b44b8"
+    },
+    {
+      "display_package_code": "9904966",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904966",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804b44b8"
+    },
+    {
+      "display_package_code": "9904967",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904967",
+      "package_invalid_date": "2016-11-15T5:6:23+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7804b44b8"
+    }
+  ],
+  "preparation": {
+    "holder_id": "280",
+    "holder_name": "Boehringer Ingelheim Animal Health France SCS",
+    "name": "Eurican DAP",
+    "preparation_id": "0910f7c7804b44b8",
+    "registration_date": "2016-04-08T9:20:40+0000",
+    "registration_number": "97/011/16-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7804b44b7",
+    "spc_modified_date": "2024-03-22T8:39:02+0000"
+  },
+  "schema_version": 1
+}

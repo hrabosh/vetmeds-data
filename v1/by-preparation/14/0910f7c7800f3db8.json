@@ -1,0 +1,187 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900551",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900551",
+      "package_invalid_date": "2016-08-11T11:51:49+0000",
+      "package_size": "1 x 50 ml_EU/2/08/082/007",
+      "preparation_id": "0910f7c7800f3db8"
+    },
+    {
+      "display_package_code": "9905315",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905315",
+      "package_invalid_date": "2019-12-19T13:0:13+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3db8"
+    },
+    {
+      "display_package_code": "9905316",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905316",
+      "package_invalid_date": "2019-12-19T13:2:08+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3db8"
+    },
+    {
+      "display_package_code": "9905317",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905317",
+      "package_invalid_date": "2019-12-19T13:4:11+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3db8"
+    },
+    {
+      "display_package_code": "9905318",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905318",
+      "package_invalid_date": "2019-12-19T13:8:03+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3db8"
+    },
+    {
+      "display_package_code": "9905319",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905319",
+      "package_invalid_date": "2019-12-19T13:10:05+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3db8"
+    },
+    {
+      "display_package_code": "9905320",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905320",
+      "package_invalid_date": "2019-12-19T13:12:11+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3db8"
+    },
+    {
+      "display_package_code": "9905321",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905321",
+      "package_invalid_date": "2019-12-19T13:14:12+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3db8"
+    },
+    {
+      "display_package_code": "9908078",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908078",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3db8"
+    },
+    {
+      "display_package_code": "9908079",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908079",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3db8"
+    },
+    {
+      "display_package_code": "9908081",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908081",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3db8"
+    },
+    {
+      "display_package_code": "9908082",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908082",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3db8"
+    },
+    {
+      "display_package_code": "9908084",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908084",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3db8"
+    },
+    {
+      "display_package_code": "9934432",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934432",
+      "package_invalid_date": "2016-08-11T11:35:24+0000",
+      "package_size": "1 x 100 ml_EU/2/08/082/001",
+      "preparation_id": "0910f7c7800f3db8"
+    },
+    {
+      "display_package_code": "9934433",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934433",
+      "package_invalid_date": "2016-08-11T11:36:28+0000",
+      "package_size": "1 x 250 ml_EU/2/08/082/002",
+      "preparation_id": "0910f7c7800f3db8"
+    },
+    {
+      "display_package_code": "9934434",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934434",
+      "package_invalid_date": "2016-08-11T11:37:30+0000",
+      "package_size": "1 x 500 ml_EU/2/08/082/003",
+      "preparation_id": "0910f7c7800f3db8"
+    },
+    {
+      "display_package_code": "9934545",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934545",
+      "package_invalid_date": "2016-08-11T11:38:27+0000",
+      "package_size": "1 x 100 ml_EU/2/08/082/004",
+      "preparation_id": "0910f7c7800f3db8"
+    },
+    {
+      "display_package_code": "9934546",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934546",
+      "package_invalid_date": "2016-08-11T11:39:24+0000",
+      "package_size": "1 x 250 ml_EU/2/08/082/005",
+      "preparation_id": "0910f7c7800f3db8"
+    },
+    {
+      "display_package_code": "9934547",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934547",
+      "package_invalid_date": "2016-08-11T11:51:24+0000",
+      "package_size": "1 x 500 ml_EU/2/08/082/006",
+      "preparation_id": "0910f7c7800f3db8"
+    }
+  ],
+  "preparation": {
+    "holder_id": "16",
+    "holder_name": "Boehringer Ingelheim Vetmedica, GmbH",
+    "name": "ZACTRAN",
+    "preparation_id": "0910f7c7800f3db8",
+    "registration_date": "2008-07-24T6:44:44+0000",
+    "registration_number": "EU/2/08/082",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f3db5",
+    "spc_modified_date": "2024-03-01T8:40:05+0000"
+  },
+  "schema_version": 1
+}

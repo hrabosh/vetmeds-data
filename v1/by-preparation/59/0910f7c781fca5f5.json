@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700763",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700763",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781fca5f5"
+    },
+    {
+      "display_package_code": "9700764",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700764",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781fca5f5"
+    },
+    {
+      "display_package_code": "9700765",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700765",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781fca5f5"
+    },
+    {
+      "display_package_code": "9700766",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700766",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781fca5f5"
+    },
+    {
+      "display_package_code": "9700767",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700767",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781fca5f5"
+    }
+  ],
+  "preparation": {
+    "holder_id": "24",
+    "holder_name": "CP-Pharma Handelsgesellschaft, mbH",
+    "name": "Firocoxib CP-Pharma",
+    "preparation_id": "0910f7c781fca5f5",
+    "registration_date": "2026-01-26T7:38:43+0000",
+    "registration_number": "EU/2/25/359",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c781fca5f4",
+    "spc_modified_date": "2026-02-03T8:50:54+0000"
+  },
+  "schema_version": 1
+}

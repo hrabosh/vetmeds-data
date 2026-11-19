@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900922",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900922",
+      "package_invalid_date": null,
+      "package_size": "1 x 20 ml_EU/2/11/134/005",
+      "preparation_id": "0910f7c780168ac5"
+    },
+    {
+      "display_package_code": "9900923",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900923",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 ml_EU/2/11/134/006",
+      "preparation_id": "0910f7c780168ac5"
+    },
+    {
+      "display_package_code": "9900924",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900924",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml_EU/2/11/134/007",
+      "preparation_id": "0910f7c780168ac5"
+    },
+    {
+      "display_package_code": "9900925",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900925",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 ml_EU/2/11/134/008",
+      "preparation_id": "0910f7c780168ac5"
+    }
+  ],
+  "preparation": {
+    "holder_id": "37",
+    "holder_name": "Chanelle Pharmaceuticals Manufacturing, Ltd.",
+    "name": "Inflacam",
+    "preparation_id": "0910f7c780168ac5",
+    "registration_date": "2011-12-09T13:29:30+0000",
+    "registration_number": "EU/2/11/134",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c780168aba",
+    "spc_modified_date": "2026-10-30T9:35:49+0000"
+  },
+  "schema_version": 1
+}

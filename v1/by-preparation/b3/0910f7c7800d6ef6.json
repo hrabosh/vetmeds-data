@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9904835",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904835",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800d6ef6"
+    },
+    {
+      "display_package_code": "9904836",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904836",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800d6ef6"
+    },
+    {
+      "display_package_code": "9938855",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938855",
+      "package_invalid_date": "2016-02-18T12:22:44+0000",
+      "package_size": "1 x 10 tbl.",
+      "preparation_id": "0910f7c7800d6ef6"
+    },
+    {
+      "display_package_code": "9938864",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938864",
+      "package_invalid_date": "2016-02-18T12:22:58+0000",
+      "package_size": "20 x 10 tbl.",
+      "preparation_id": "0910f7c7800d6ef6"
+    }
+  ],
+  "preparation": {
+    "holder_id": "322",
+    "holder_name": "Ceva Sante Animale",
+    "name": "Therios",
+    "preparation_id": "0910f7c7800d6ef6",
+    "registration_date": "2010-04-29T7:7:07+0000",
+    "registration_number": "96/021/10-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800d6eec",
+    "spc_modified_date": "2025-01-06T12:7:50+0000"
+  },
+  "schema_version": 1
+}

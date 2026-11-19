@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9907381",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907381",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814041ba"
+    }
+  ],
+  "preparation": {
+    "holder_id": "306",
+    "holder_name": "Elanco Animal Health GmbH",
+    "name": "Baycox Iron",
+    "preparation_id": "0910f7c7814041ba",
+    "registration_date": "2019-05-20T11:17:47+0000",
+    "registration_number": "EU/2/19/239",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7814041b9",
+    "spc_modified_date": "2024-01-05T12:43:58+0000"
+  },
+  "schema_version": 1
+}

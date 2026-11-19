@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9938032",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9938032",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c780095a52"
+    },
+    {
+      "display_package_code": "9938073",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9938073",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 ml",
+      "preparation_id": "0910f7c780095a52"
+    },
+    {
+      "display_package_code": "9938115",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9938115",
+      "package_invalid_date": null,
+      "package_size": "1 x 500 ml",
+      "preparation_id": "0910f7c780095a52"
+    }
+  ],
+  "preparation": {
+    "holder_id": "112",
+    "holder_name": "VIRBAC",
+    "name": "EFFIPRO",
+    "preparation_id": "0910f7c780095a52",
+    "registration_date": "2009-05-27T12:18:32+0000",
+    "registration_number": "99/069/09-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c780095a4e",
+    "spc_modified_date": "2026-05-05T12:14:35+0000"
+  },
+  "schema_version": 1
+}

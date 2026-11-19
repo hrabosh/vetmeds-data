@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700136",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700136",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781e4f415"
+    },
+    {
+      "display_package_code": "9700137",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700137",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781e4f415"
+    },
+    {
+      "display_package_code": "9700138",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700138",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781e4f415"
+    }
+  ],
+  "preparation": {
+    "holder_id": "184",
+    "holder_name": "CZ Vaccines S.A.U.",
+    "name": "HEPIZOVAC",
+    "preparation_id": "0910f7c781e4f415",
+    "registration_date": "2025-04-23T6:42:59+0000",
+    "registration_number": "EU/2/25/341",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c781e4f414",
+    "spc_modified_date": "2026-07-31T7:47:57+0000"
+  },
+  "schema_version": 1
+}

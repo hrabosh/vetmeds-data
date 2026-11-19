@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9904376",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904376",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801f9c4a"
+    },
+    {
+      "display_package_code": "9904377",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904377",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801f9c4a"
+    },
+    {
+      "display_package_code": "9904378",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904378",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801f9c4a"
+    },
+    {
+      "display_package_code": "9904379",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904379",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801f9c4a"
+    },
+    {
+      "display_package_code": "9904380",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904380",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801f9c4a"
+    },
+    {
+      "display_package_code": "9904381",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904381",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801f9c4a"
+    }
+  ],
+  "preparation": {
+    "holder_id": "180",
+    "holder_name": "Le Vet. Beheer, B.V.",
+    "name": "Metomotyl",
+    "preparation_id": "0910f7c7801f9c4a",
+    "registration_date": "2015-06-10T6:39:05+0000",
+    "registration_number": "96/060/15-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7801f9b0a",
+    "spc_modified_date": "2024-04-26T12:24:11+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700520",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9700520",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781d97ce3"
+    },
+    {
+      "display_package_code": "9700521",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9700521",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781d97ce3"
+    },
+    {
+      "display_package_code": "9700522",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700522",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781d97ce3"
+    }
+  ],
+  "preparation": {
+    "holder_id": "112",
+    "holder_name": "VIRBAC",
+    "name": "Prevexto",
+    "preparation_id": "0910f7c781d97ce3",
+    "registration_date": "2025-11-19T9:37:37+0000",
+    "registration_number": "96/055/25-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781d97ce2",
+    "spc_modified_date": "2025-11-28T10:31:37+0000"
+  },
+  "schema_version": 1
+}

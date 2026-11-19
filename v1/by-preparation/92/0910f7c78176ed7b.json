@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909898",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909898",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78176ed7b"
+    },
+    {
+      "display_package_code": "9909899",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909899",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78176ed7b"
+    },
+    {
+      "display_package_code": "9909900",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909900",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78176ed7b"
+    },
+    {
+      "display_package_code": "9909901",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909901",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78176ed7b"
+    }
+  ],
+  "preparation": {
+    "holder_id": "37",
+    "holder_name": "Chanelle Pharmaceuticals Manufacturing, Ltd.",
+    "name": "Chanaxin",
+    "preparation_id": "0910f7c78176ed7b",
+    "registration_date": "2022-04-19T12:42:53+0000",
+    "registration_number": "EU/2/22/283",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c78176ed7a",
+    "spc_modified_date": "2024-01-08T10:54:56+0000"
+  },
+  "schema_version": 1
+}

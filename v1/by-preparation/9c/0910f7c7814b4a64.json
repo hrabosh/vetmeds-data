@@ -1,0 +1,79 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700886",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700886",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814b4a64"
+    },
+    {
+      "display_package_code": "9700887",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700887",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814b4a64"
+    },
+    {
+      "display_package_code": "9907995",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907995",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814b4a64"
+    },
+    {
+      "display_package_code": "9907996",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907996",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814b4a64"
+    },
+    {
+      "display_package_code": "9907997",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907997",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814b4a64"
+    },
+    {
+      "display_package_code": "9907998",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907998",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814b4a64"
+    },
+    {
+      "display_package_code": "9907999",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907999",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814b4a64"
+    }
+  ],
+  "preparation": {
+    "holder_id": "49",
+    "holder_name": "Laboratorios Hipra S.A.",
+    "name": "Gumbohatch",
+    "preparation_id": "0910f7c7814b4a64",
+    "registration_date": "2019-11-12T8:14:48+0000",
+    "registration_number": "EU/2/19/245",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7814b4a63",
+    "spc_modified_date": "2026-01-08T12:59:36+0000"
+  },
+  "schema_version": 1
+}

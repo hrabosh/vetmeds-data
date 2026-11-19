@@ -1,0 +1,124 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9901170",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901170",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c7800d6ae6"
+    },
+    {
+      "display_package_code": "9901171",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901171",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c7800d6ae6"
+    },
+    {
+      "display_package_code": "9901172",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901172",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 ml",
+      "preparation_id": "0910f7c7800d6ae6"
+    },
+    {
+      "display_package_code": "9901173",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901173",
+      "package_invalid_date": null,
+      "package_size": "6 x 50 ml",
+      "preparation_id": "0910f7c7800d6ae6"
+    },
+    {
+      "display_package_code": "9901174",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901174",
+      "package_invalid_date": null,
+      "package_size": "10 x 50 ml",
+      "preparation_id": "0910f7c7800d6ae6"
+    },
+    {
+      "display_package_code": "9901175",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901175",
+      "package_invalid_date": null,
+      "package_size": "12 x 50 ml",
+      "preparation_id": "0910f7c7800d6ae6"
+    },
+    {
+      "display_package_code": "9901176",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901176",
+      "package_invalid_date": null,
+      "package_size": "6 x 100 ml",
+      "preparation_id": "0910f7c7800d6ae6"
+    },
+    {
+      "display_package_code": "9901177",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901177",
+      "package_invalid_date": null,
+      "package_size": "10 x 100 ml",
+      "preparation_id": "0910f7c7800d6ae6"
+    },
+    {
+      "display_package_code": "9901178",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901178",
+      "package_invalid_date": null,
+      "package_size": "12 x 100 ml",
+      "preparation_id": "0910f7c7800d6ae6"
+    },
+    {
+      "display_package_code": "9901179",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901179",
+      "package_invalid_date": null,
+      "package_size": "6 x 250 ml",
+      "preparation_id": "0910f7c7800d6ae6"
+    },
+    {
+      "display_package_code": "9901180",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901180",
+      "package_invalid_date": null,
+      "package_size": "10 x 250 ml",
+      "preparation_id": "0910f7c7800d6ae6"
+    },
+    {
+      "display_package_code": "9901181",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901181",
+      "package_invalid_date": null,
+      "package_size": "12 x 250 ml",
+      "preparation_id": "0910f7c7800d6ae6"
+    }
+  ],
+  "preparation": {
+    "holder_id": "263",
+    "holder_name": "Kela N.V.",
+    "name": "KELAPROFEN pro koně a prasata",
+    "preparation_id": "0910f7c7800d6ae6",
+    "registration_date": "2012-03-09T12:25:16+0000",
+    "registration_number": "96/035/12-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800d6ae3",
+    "spc_modified_date": "2025-10-08T12:3:45+0000"
+  },
+  "schema_version": 1
+}

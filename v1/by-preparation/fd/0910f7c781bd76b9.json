@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9911086",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911086",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781bd76b9"
+    }
+  ],
+  "preparation": {
+    "holder_id": "46",
+    "holder_name": "Krka d.d. Novo mesto",
+    "name": "Otomicol",
+    "preparation_id": "0910f7c781bd76b9",
+    "registration_date": "2024-06-19T7:39:42+0000",
+    "registration_number": "96/035/24-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c781bd6f26",
+    "spc_modified_date": "2026-10-13T7:39:58+0000"
+  },
+  "schema_version": 1
+}

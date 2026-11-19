@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902157",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902157",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c7801585f0"
+    },
+    {
+      "display_package_code": "9902158",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902158",
+      "package_invalid_date": null,
+      "package_size": "6 x 100 ml",
+      "preparation_id": "0910f7c7801585f0"
+    },
+    {
+      "display_package_code": "9902159",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902159",
+      "package_invalid_date": null,
+      "package_size": "12 x 100 ml",
+      "preparation_id": "0910f7c7801585f0"
+    },
+    {
+      "display_package_code": "9902160",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902160",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 ml",
+      "preparation_id": "0910f7c7801585f0"
+    },
+    {
+      "display_package_code": "9902161",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902161",
+      "package_invalid_date": null,
+      "package_size": "6 x 250 ml",
+      "preparation_id": "0910f7c7801585f0"
+    }
+  ],
+  "preparation": {
+    "holder_id": "178",
+    "holder_name": "Emdoka",
+    "name": "Ceffect",
+    "preparation_id": "0910f7c7801585f0",
+    "registration_date": "2013-03-12T13:18:39+0000",
+    "registration_number": "96/010/13-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7801585e6",
+    "spc_modified_date": "2026-03-20T11:35:27+0000"
+  },
+  "schema_version": 1
+}

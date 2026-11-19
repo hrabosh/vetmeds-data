@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9907336",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907336",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f32fd"
+    },
+    {
+      "display_package_code": "9907337",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907337",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f32fd"
+    },
+    {
+      "display_package_code": "9907338",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907338",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f32fd"
+    },
+    {
+      "display_package_code": "9934457",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934457",
+      "package_invalid_date": "2019-05-16T15:6:50+0000",
+      "package_size": "5 x 1 ml_EU/2/08/086/001",
+      "preparation_id": "0910f7c7800f32fd"
+    },
+    {
+      "display_package_code": "9934458",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934458",
+      "package_invalid_date": "2019-05-16T15:8:15+0000",
+      "package_size": "10 x 1 ml_EU/2/08/086/002",
+      "preparation_id": "0910f7c7800f32fd"
+    },
+    {
+      "display_package_code": "9934459",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934459",
+      "package_invalid_date": "2019-05-16T15:9:16+0000",
+      "package_size": "25 x 1 ml_EU/2/08/086/003",
+      "preparation_id": "0910f7c7800f32fd"
+    }
+  ],
+  "preparation": {
+    "holder_id": "100",
+    "holder_name": "Zoetis Belgium",
+    "name": "Equip WNV",
+    "preparation_id": "0910f7c7800f32fd",
+    "registration_date": "2008-11-21T13:12:58+0000",
+    "registration_number": "EU/2/08/086",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f32fa",
+    "spc_modified_date": "2023-01-17T12:23:41+0000"
+  },
+  "schema_version": 1
+}

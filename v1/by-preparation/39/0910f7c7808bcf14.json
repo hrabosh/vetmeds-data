@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906252",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906252",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808bcf14"
+    },
+    {
+      "display_package_code": "9906253",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906253",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808bcf14"
+    },
+    {
+      "display_package_code": "9906254",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906254",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808bcf14"
+    },
+    {
+      "display_package_code": "9906255",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906255",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808bcf14"
+    },
+    {
+      "display_package_code": "9906256",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906256",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808bcf14"
+    },
+    {
+      "display_package_code": "9906257",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906257",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808bcf14"
+    }
+  ],
+  "preparation": {
+    "holder_id": "33",
+    "holder_name": "Eurovet Animal Health, B.V.",
+    "name": "Solacyl",
+    "preparation_id": "0910f7c7808bcf14",
+    "registration_date": "2017-11-14T10:13:53+0000",
+    "registration_number": "96/052/17-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7808bcf13",
+    "spc_modified_date": "2023-10-25T11:34:28+0000"
+  },
+  "schema_version": 1
+}

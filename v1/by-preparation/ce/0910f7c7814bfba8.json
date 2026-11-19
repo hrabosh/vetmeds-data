@@ -1,0 +1,115 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9907321",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907321",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814bfba8"
+    },
+    {
+      "display_package_code": "9907322",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907322",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814bfba8"
+    },
+    {
+      "display_package_code": "9907323",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907323",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814bfba8"
+    },
+    {
+      "display_package_code": "9907324",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907324",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814bfba8"
+    },
+    {
+      "display_package_code": "9907325",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907325",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814bfba8"
+    },
+    {
+      "display_package_code": "9907326",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907326",
+      "package_invalid_date": "2024-06-26T6:43:04+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7814bfba8"
+    },
+    {
+      "display_package_code": "9909191",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909191",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814bfba8"
+    },
+    {
+      "display_package_code": "9909192",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909192",
+      "package_invalid_date": "2024-06-26T6:43:18+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7814bfba8"
+    },
+    {
+      "display_package_code": "9909193",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909193",
+      "package_invalid_date": "2024-06-26T6:43:32+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7814bfba8"
+    },
+    {
+      "display_package_code": "9911093",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911093",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814bfba8"
+    },
+    {
+      "display_package_code": "9911094",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911094",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814bfba8"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "Bovilis Intranasal RSP Live",
+    "preparation_id": "0910f7c7814bfba8",
+    "registration_date": "2019-05-03T6:46:50+0000",
+    "registration_number": "97/028/19-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7814bfba7",
+    "spc_modified_date": "2024-07-12T10:42:29+0000"
+  },
+  "schema_version": 1
+}

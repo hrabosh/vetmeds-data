@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700759",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700759",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781642640"
+    },
+    {
+      "display_package_code": "9700760",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700760",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781642640"
+    },
+    {
+      "display_package_code": "9909036",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909036",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781642640"
+    },
+    {
+      "display_package_code": "9909037",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909037",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781642640"
+    },
+    {
+      "display_package_code": "9909038",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909038",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781642640"
+    },
+    {
+      "display_package_code": "9909039",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909039",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781642640"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "Porcilis Lawsonia ID",
+    "preparation_id": "0910f7c781642640",
+    "registration_date": "2020-12-09T7:57:06+0000",
+    "registration_number": "97/075/20-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78164263f",
+    "spc_modified_date": "2026-01-30T7:57:22+0000"
+  },
+  "schema_version": 1
+}

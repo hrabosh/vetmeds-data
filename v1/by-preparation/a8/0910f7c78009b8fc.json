@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9994581",
+      "issue_class_id": "4",
+      "issue_class_name": "Pouze pro použití veterinárním lékařem",
+      "package_code": "9994581",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c78009b8fc"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "T 61",
+    "preparation_id": "0910f7c78009b8fc",
+    "registration_date": "1990-10-30T10:33:24+0000",
+    "registration_number": "96/234/90-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78009b8f8",
+    "spc_modified_date": "2026-09-15T5:45:04+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,97 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700360",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700360",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804db5ad"
+    },
+    {
+      "display_package_code": "9700361",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700361",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804db5ad"
+    },
+    {
+      "display_package_code": "9700362",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700362",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804db5ad"
+    },
+    {
+      "display_package_code": "9700363",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700363",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804db5ad"
+    },
+    {
+      "display_package_code": "9700364",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700364",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804db5ad"
+    },
+    {
+      "display_package_code": "9700365",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700365",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804db5ad"
+    },
+    {
+      "display_package_code": "9904968",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904968",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804db5ad"
+    },
+    {
+      "display_package_code": "9904969",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904969",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804db5ad"
+    },
+    {
+      "display_package_code": "9904970",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904970",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804db5ad"
+    }
+  ],
+  "preparation": {
+    "holder_id": "280",
+    "holder_name": "Boehringer Ingelheim Animal Health France SCS",
+    "name": "Eurican DAPPi",
+    "preparation_id": "0910f7c7804db5ad",
+    "registration_date": "2016-04-08T10:6:54+0000",
+    "registration_number": "97/012/16-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7804db5ac",
+    "spc_modified_date": "2024-03-22T8:39:50+0000"
+  },
+  "schema_version": 1
+}

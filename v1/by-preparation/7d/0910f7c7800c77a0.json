@@ -1,0 +1,34 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900754",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900754",
+      "package_invalid_date": null,
+      "package_size": "12 x 1 l",
+      "preparation_id": "0910f7c7800c77a0"
+    },
+    {
+      "display_package_code": "9900755",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900755",
+      "package_invalid_date": null,
+      "package_size": "4 x 5 l",
+      "preparation_id": "0910f7c7800c77a0"
+    }
+  ],
+  "preparation": {
+    "holder_id": "167",
+    "holder_name": "Global Vet Health S.L.",
+    "name": "Floxacin",
+    "preparation_id": "0910f7c7800c77a0",
+    "registration_date": "2011-11-15T13:12:19+0000",
+    "registration_number": "96/094/11-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7800c779d",
+    "spc_modified_date": "2026-06-30T9:53:49+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9908166",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908166",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781511ffe"
+    }
+  ],
+  "preparation": {
+    "holder_id": "249",
+    "holder_name": "QBiotics Netherlands B.V.",
+    "name": "Stelfonta",
+    "preparation_id": "0910f7c781511ffe",
+    "registration_date": "2020-01-15T13:16:16+0000",
+    "registration_number": "EU/2/19/248",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c781511ffd",
+    "spc_modified_date": "2026-09-11T10:3:44+0000"
+  },
+  "schema_version": 1
+}

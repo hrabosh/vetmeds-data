@@ -1,0 +1,106 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906375",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906375",
+      "package_invalid_date": "2023-02-09T6:3:53+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78123fcfb"
+    },
+    {
+      "display_package_code": "9906376",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906376",
+      "package_invalid_date": "2023-02-09T6:9:52+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78123fcfb"
+    },
+    {
+      "display_package_code": "9906377",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906377",
+      "package_invalid_date": "2023-02-09T6:14:54+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78123fcfb"
+    },
+    {
+      "display_package_code": "9906378",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906378",
+      "package_invalid_date": "2023-02-09T6:17:37+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78123fcfb"
+    },
+    {
+      "display_package_code": "9906379",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906379",
+      "package_invalid_date": "2023-02-09T6:21:41+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78123fcfb"
+    },
+    {
+      "display_package_code": "9910141",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910141",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78123fcfb"
+    },
+    {
+      "display_package_code": "9910142",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910142",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78123fcfb"
+    },
+    {
+      "display_package_code": "9910143",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910143",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78123fcfb"
+    },
+    {
+      "display_package_code": "9910144",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910144",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78123fcfb"
+    },
+    {
+      "display_package_code": "9910145",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910145",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78123fcfb"
+    }
+  ],
+  "preparation": {
+    "holder_id": "299",
+    "holder_name": "VetViva Richter GmbH",
+    "name": "Lidor",
+    "preparation_id": "0910f7c78123fcfb",
+    "registration_date": "2018-03-16T11:43:56+0000",
+    "registration_number": "96/011/18-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78123f63c",
+    "spc_modified_date": "2025-12-16T13:26:10+0000"
+  },
+  "schema_version": 1
+}

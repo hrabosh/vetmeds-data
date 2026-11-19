@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906366",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906366",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780f50a0e"
+    },
+    {
+      "display_package_code": "9906367",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906367",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780f50a0e"
+    },
+    {
+      "display_package_code": "9906368",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906368",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780f50a0e"
+    },
+    {
+      "display_package_code": "9906369",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906369",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780f50a0e"
+    },
+    {
+      "display_package_code": "9906370",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906370",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780f50a0e"
+    },
+    {
+      "display_package_code": "9906371",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906371",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780f50a0e"
+    },
+    {
+      "display_package_code": "9906372",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906372",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780f50a0e"
+    },
+    {
+      "display_package_code": "9906373",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906373",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780f50a0e"
+    }
+  ],
+  "preparation": {
+    "holder_id": "322",
+    "holder_name": "Ceva Sante Animale",
+    "name": "Gabbrovet",
+    "preparation_id": "0910f7c780f50a0e",
+    "registration_date": "2018-03-16T11:54:49+0000",
+    "registration_number": "96/013/18-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780f50a0d",
+    "spc_modified_date": "2026-06-03T10:55:06+0000"
+  },
+  "schema_version": 1
+}

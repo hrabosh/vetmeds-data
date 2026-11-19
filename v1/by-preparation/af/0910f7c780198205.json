@@ -1,0 +1,34 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9903234",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903234",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780198205"
+    },
+    {
+      "display_package_code": "9905861",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905861",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780198205"
+    }
+  ],
+  "preparation": {
+    "holder_id": "316",
+    "holder_name": "ALPHAVET Zrt.",
+    "name": "Alphaderm Plus",
+    "preparation_id": "0910f7c780198205",
+    "registration_date": "2014-05-28T12:46:20+0000",
+    "registration_number": "96/038/14-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c780198170",
+    "spc_modified_date": "2025-02-13T8:13:50+0000"
+  },
+  "schema_version": 1
+}

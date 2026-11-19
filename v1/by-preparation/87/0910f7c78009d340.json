@@ -1,0 +1,115 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902129",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902129",
+      "package_invalid_date": null,
+      "package_size": "1x 500 g",
+      "preparation_id": "0910f7c78009d340"
+    },
+    {
+      "display_package_code": "9902130",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902130",
+      "package_invalid_date": null,
+      "package_size": "1 x 1000 g",
+      "preparation_id": "0910f7c78009d340"
+    },
+    {
+      "display_package_code": "9902131",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902131",
+      "package_invalid_date": null,
+      "package_size": "1 x 2000 g",
+      "preparation_id": "0910f7c78009d340"
+    },
+    {
+      "display_package_code": "9902132",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902132",
+      "package_invalid_date": null,
+      "package_size": "1 x 3000 g",
+      "preparation_id": "0910f7c78009d340"
+    },
+    {
+      "display_package_code": "9936249",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936249",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 g",
+      "preparation_id": "0910f7c78009d340"
+    },
+    {
+      "display_package_code": "9936307",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936307",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 g",
+      "preparation_id": "0910f7c78009d340"
+    },
+    {
+      "display_package_code": "9936332",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936332",
+      "package_invalid_date": null,
+      "package_size": "1 x 200 g",
+      "preparation_id": "0910f7c78009d340"
+    },
+    {
+      "display_package_code": "9936379",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936379",
+      "package_invalid_date": null,
+      "package_size": "1 x 500 g",
+      "preparation_id": "0910f7c78009d340"
+    },
+    {
+      "display_package_code": "9936429",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936429",
+      "package_invalid_date": null,
+      "package_size": "1 x 1 000 g",
+      "preparation_id": "0910f7c78009d340"
+    },
+    {
+      "display_package_code": "9936467",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936467",
+      "package_invalid_date": null,
+      "package_size": "1 x 1 500 g",
+      "preparation_id": "0910f7c78009d340"
+    },
+    {
+      "display_package_code": "9936501",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936501",
+      "package_invalid_date": null,
+      "package_size": "1 x 3 000 g",
+      "preparation_id": "0910f7c78009d340"
+    }
+  ],
+  "preparation": {
+    "holder_id": "112",
+    "holder_name": "VIRBAC",
+    "name": "Suramox",
+    "preparation_id": "0910f7c78009d340",
+    "registration_date": "2002-07-11T8:31:08+0000",
+    "registration_number": "96/054/02-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78009d33d",
+    "spc_modified_date": "2026-10-13T8:32:09+0000"
+  },
+  "schema_version": 1
+}

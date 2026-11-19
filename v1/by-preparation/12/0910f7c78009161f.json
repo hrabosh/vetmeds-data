@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9936727",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936727",
+      "package_invalid_date": null,
+      "package_size": "1 x 1000 dávek",
+      "preparation_id": "0910f7c78009161f"
+    },
+    {
+      "display_package_code": "9936821",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936821",
+      "package_invalid_date": null,
+      "package_size": "1 x 2500 dávek",
+      "preparation_id": "0910f7c78009161f"
+    },
+    {
+      "display_package_code": "9936872",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936872",
+      "package_invalid_date": null,
+      "package_size": "1 x 5000 dávek",
+      "preparation_id": "0910f7c78009161f"
+    },
+    {
+      "display_package_code": "9939843",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939843",
+      "package_invalid_date": null,
+      "package_size": "20 x 1000 dávek",
+      "preparation_id": "0910f7c78009161f"
+    },
+    {
+      "display_package_code": "9939844",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939844",
+      "package_invalid_date": null,
+      "package_size": "20 x 2500 dávek",
+      "preparation_id": "0910f7c78009161f"
+    },
+    {
+      "display_package_code": "9939845",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939845",
+      "package_invalid_date": null,
+      "package_size": "20 x 5000 dávek",
+      "preparation_id": "0910f7c78009161f"
+    }
+  ],
+  "preparation": {
+    "holder_id": "276",
+    "holder_name": "Ceva Animal Health Slovakia s.r.o.",
+    "name": "CEVAC GUMBO L",
+    "preparation_id": "0910f7c78009161f",
+    "registration_date": "2003-10-06T10:21:57+0000",
+    "registration_number": "97/077/03-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78009161c",
+    "spc_modified_date": "2024-02-15T12:0:46+0000"
+  },
+  "schema_version": 1
+}

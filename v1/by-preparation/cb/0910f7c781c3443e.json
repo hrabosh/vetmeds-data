@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700069",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700069",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c3443e"
+    },
+    {
+      "display_package_code": "9700070",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700070",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c3443e"
+    },
+    {
+      "display_package_code": "9700071",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700071",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c3443e"
+    }
+  ],
+  "preparation": {
+    "holder_id": "303",
+    "holder_name": "Adoh B.V.",
+    "name": "Evoctin Plus",
+    "preparation_id": "0910f7c781c3443e",
+    "registration_date": "2025-08-28T5:35:04+0000",
+    "registration_number": "96/041/25-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781c3443d",
+    "spc_modified_date": "2025-09-02T11:8:52+0000"
+  },
+  "schema_version": 1
+}

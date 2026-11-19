@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9901395",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9901395",
+      "package_invalid_date": null,
+      "package_size": "1 x 0,5 ml (VY)",
+      "preparation_id": "0910f7c780139bfe"
+    },
+    {
+      "display_package_code": "9901396",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9901396",
+      "package_invalid_date": null,
+      "package_size": "3 x 0,5 ml (VY)",
+      "preparation_id": "0910f7c780139bfe"
+    },
+    {
+      "display_package_code": "9901397",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901397",
+      "package_invalid_date": null,
+      "package_size": "25 x 0,5 ml",
+      "preparation_id": "0910f7c780139bfe"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "FIPRON pro kočky",
+    "preparation_id": "0910f7c780139bfe",
+    "registration_date": "2012-06-15T7:14:11+0000",
+    "registration_number": "96/056/12-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c780139bf9",
+    "spc_modified_date": "2022-05-24T15:9:08+0000"
+  },
+  "schema_version": 1
+}

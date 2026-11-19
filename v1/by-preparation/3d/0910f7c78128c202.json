@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700648",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700648",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78128c202"
+    },
+    {
+      "display_package_code": "9700649",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700649",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78128c202"
+    },
+    {
+      "display_package_code": "9700650",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700650",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78128c202"
+    },
+    {
+      "display_package_code": "9906420",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906420",
+      "package_invalid_date": "2026-01-05T9:19:25+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78128c202"
+    },
+    {
+      "display_package_code": "9906421",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906421",
+      "package_invalid_date": "2026-01-05T9:19:32+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78128c202"
+    },
+    {
+      "display_package_code": "9906422",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906422",
+      "package_invalid_date": "2026-01-05T9:19:40+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78128c202"
+    }
+  ],
+  "preparation": {
+    "holder_id": "329",
+    "holder_name": "IZO S.r.l. a socio unico",
+    "name": "Avishield ND B1",
+    "preparation_id": "0910f7c78128c202",
+    "registration_date": "2018-04-18T14:31:58+0000",
+    "registration_number": "97/023/18-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78128c201",
+    "spc_modified_date": "2026-02-26T8:47:23+0000"
+  },
+  "schema_version": 1
+}

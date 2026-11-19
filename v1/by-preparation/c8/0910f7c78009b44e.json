@@ -1,0 +1,106 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900732",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900732",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c78009b44e"
+    },
+    {
+      "display_package_code": "9900733",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900733",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c78009b44e"
+    },
+    {
+      "display_package_code": "9900734",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900734",
+      "package_invalid_date": null,
+      "package_size": "10 x 100 ml",
+      "preparation_id": "0910f7c78009b44e"
+    },
+    {
+      "display_package_code": "9900735",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900735",
+      "package_invalid_date": null,
+      "package_size": "12 x 100 ml",
+      "preparation_id": "0910f7c78009b44e"
+    },
+    {
+      "display_package_code": "9937915",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937915",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c78009b44e"
+    },
+    {
+      "display_package_code": "9937922",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937922",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 ml",
+      "preparation_id": "0910f7c78009b44e"
+    },
+    {
+      "display_package_code": "9937931",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937931",
+      "package_invalid_date": null,
+      "package_size": "10 x 100 ml",
+      "preparation_id": "0910f7c78009b44e"
+    },
+    {
+      "display_package_code": "9937945",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937945",
+      "package_invalid_date": null,
+      "package_size": "10 x 250 ml",
+      "preparation_id": "0910f7c78009b44e"
+    },
+    {
+      "display_package_code": "9937966",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937966",
+      "package_invalid_date": null,
+      "package_size": "12 x 100 ml",
+      "preparation_id": "0910f7c78009b44e"
+    },
+    {
+      "display_package_code": "9937974",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937974",
+      "package_invalid_date": null,
+      "package_size": "12 x 250 ml",
+      "preparation_id": "0910f7c78009b44e"
+    }
+  ],
+  "preparation": {
+    "holder_id": "49",
+    "holder_name": "Laboratorios Hipra S.A.",
+    "name": "SELECTAN",
+    "preparation_id": "0910f7c78009b44e",
+    "registration_date": "2007-11-27T9:42:41+0000",
+    "registration_number": "96/056/07-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78009b44b",
+    "spc_modified_date": "2026-09-08T8:44:18+0000"
+  },
+  "schema_version": 1
+}

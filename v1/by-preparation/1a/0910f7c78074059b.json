@@ -1,0 +1,79 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906009",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906009",
+      "package_invalid_date": "2018-10-25T8:36:42+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78074059b"
+    },
+    {
+      "display_package_code": "9906010",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906010",
+      "package_invalid_date": "2018-10-25T8:37:31+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78074059b"
+    },
+    {
+      "display_package_code": "9906011",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906011",
+      "package_invalid_date": "2018-10-25T8:38:36+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78074059b"
+    },
+    {
+      "display_package_code": "9906757",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906757",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78074059b"
+    },
+    {
+      "display_package_code": "9906758",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906758",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78074059b"
+    },
+    {
+      "display_package_code": "9906759",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906759",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78074059b"
+    },
+    {
+      "display_package_code": "9911224",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911224",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78074059b"
+    }
+  ],
+  "preparation": {
+    "holder_id": "248",
+    "holder_name": "Elanco GmbH",
+    "name": "Credelio",
+    "preparation_id": "0910f7c78074059b",
+    "registration_date": "2017-04-25T9:40:04+0000",
+    "registration_number": "EU/2/17/206",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c78074059a",
+    "spc_modified_date": "2026-01-29T10:58:14+0000"
+  },
+  "schema_version": 1
+}

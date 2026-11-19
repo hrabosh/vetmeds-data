@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9901407",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9901407",
+      "package_invalid_date": null,
+      "package_size": "1 x 4,02 ml (VY)",
+      "preparation_id": "0910f7c780139bb3"
+    },
+    {
+      "display_package_code": "9901408",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9901408",
+      "package_invalid_date": null,
+      "package_size": "3 x 4,02 ml (VY)",
+      "preparation_id": "0910f7c780139bb3"
+    },
+    {
+      "display_package_code": "9901409",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901409",
+      "package_invalid_date": null,
+      "package_size": "25 x 4,02 ml",
+      "preparation_id": "0910f7c780139bb3"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "FIPRON pro psy XL",
+    "preparation_id": "0910f7c780139bb3",
+    "registration_date": "2012-06-15T11:24:22+0000",
+    "registration_number": "96/060/12-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c780139bad",
+    "spc_modified_date": "2022-05-24T15:11:05+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902558",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902558",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009d797"
+    },
+    {
+      "display_package_code": "9902559",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902559",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009d797"
+    },
+    {
+      "display_package_code": "9937044",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937044",
+      "package_invalid_date": "2013-06-03T8:35:58+0000",
+      "package_size": "10 x 1 dávka (10 x 1 lyofilizát + 10 x tekutá složka)",
+      "preparation_id": "0910f7c78009d797"
+    },
+    {
+      "display_package_code": "9937054",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937054",
+      "package_invalid_date": "2013-06-03T8:36:14+0000",
+      "package_size": "25 x 1 dávka (25 x 1 lyofilizát + 25 x tekutá složka)",
+      "preparation_id": "0910f7c78009d797"
+    }
+  ],
+  "preparation": {
+    "holder_id": "226",
+    "holder_name": "Zoetis Česká republika s.r.o.",
+    "name": "Vanguard Plus Puppy",
+    "preparation_id": "0910f7c78009d797",
+    "registration_date": "2004-02-11T12:31:03+0000",
+    "registration_number": "97/015/04-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78009d794",
+    "spc_modified_date": "2025-09-25T11:23:52+0000"
+  },
+  "schema_version": 1
+}

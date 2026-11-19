@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9903788",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9903788",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780221741"
+    },
+    {
+      "display_package_code": "9903789",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9903789",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780221741"
+    },
+    {
+      "display_package_code": "9903790",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903790",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780221741"
+    },
+    {
+      "display_package_code": "9903791",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903791",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780221741"
+    }
+  ],
+  "preparation": {
+    "holder_id": "112",
+    "holder_name": "VIRBAC",
+    "name": "Effitix",
+    "preparation_id": "0910f7c780221741",
+    "registration_date": "2014-09-29T11:16:17+0000",
+    "registration_number": "96/076/14-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78022173c",
+    "spc_modified_date": "2025-12-02T12:19:27+0000"
+  },
+  "schema_version": 1
+}

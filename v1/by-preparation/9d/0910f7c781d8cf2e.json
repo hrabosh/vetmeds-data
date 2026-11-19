@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700396",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700396",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781d8cf2e"
+    },
+    {
+      "display_package_code": "9700397",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700397",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781d8cf2e"
+    },
+    {
+      "display_package_code": "9700398",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700398",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781d8cf2e"
+    },
+    {
+      "display_package_code": "9700399",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700399",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781d8cf2e"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "Numelvi",
+    "preparation_id": "0910f7c781d8cf2e",
+    "registration_date": "2025-07-24T11:3:53+0000",
+    "registration_number": "EU/2/25/351",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c781d8cf2d",
+    "spc_modified_date": "2025-09-24T6:51:35+0000"
+  },
+  "schema_version": 1
+}

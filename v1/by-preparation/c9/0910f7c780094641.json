@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9938740",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938740",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c780094641"
+    },
+    {
+      "display_package_code": "9938741",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938741",
+      "package_invalid_date": null,
+      "package_size": "1 x 200 ml",
+      "preparation_id": "0910f7c780094641"
+    },
+    {
+      "display_package_code": "9938742",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938742",
+      "package_invalid_date": null,
+      "package_size": "1 x 1l",
+      "preparation_id": "0910f7c780094641"
+    },
+    {
+      "display_package_code": "9938743",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938743",
+      "package_invalid_date": null,
+      "package_size": "1 x 5 l",
+      "preparation_id": "0910f7c780094641"
+    }
+  ],
+  "preparation": {
+    "holder_id": "38",
+    "holder_name": "Chemifarma S.p.A.",
+    "name": "Chemispir",
+    "preparation_id": "0910f7c780094641",
+    "registration_date": "2000-03-01T8:4:56+0000",
+    "registration_number": "96/023/00-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78009463d",
+    "spc_modified_date": "2022-10-26T7:38:31+0000"
+  },
+  "schema_version": 1
+}

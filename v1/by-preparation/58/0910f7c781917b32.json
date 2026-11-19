@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9910026",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910026",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781917b32"
+    },
+    {
+      "display_package_code": "9910027",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910027",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781917b32"
+    },
+    {
+      "display_package_code": "9910028",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910028",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781917b32"
+    },
+    {
+      "display_package_code": "9910029",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910029",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781917b32"
+    }
+  ],
+  "preparation": {
+    "holder_id": "117",
+    "holder_name": "Huvepharma NV",
+    "name": "Huvexxin",
+    "preparation_id": "0910f7c781917b32",
+    "registration_date": "2022-12-30T7:26:00+0000",
+    "registration_number": "96/041/22-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c781917b30",
+    "spc_modified_date": "2024-04-02T12:44:41+0000"
+  },
+  "schema_version": 1
+}

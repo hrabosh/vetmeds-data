@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9935313",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935313",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c78009bcb2"
+    },
+    {
+      "display_package_code": "9935343",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935343",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c78009bcb2"
+    },
+    {
+      "display_package_code": "9935373",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935373",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 ml",
+      "preparation_id": "0910f7c78009bcb2"
+    },
+    {
+      "display_package_code": "9935584",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935584",
+      "package_invalid_date": null,
+      "package_size": "1 x 500 ml",
+      "preparation_id": "0910f7c78009bcb2"
+    },
+    {
+      "display_package_code": "9936857",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936857",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 ml",
+      "preparation_id": "0910f7c78009bcb2"
+    },
+    {
+      "display_package_code": "9968724",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9968724",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c78009bcb2"
+    }
+  ],
+  "preparation": {
+    "holder_id": "276",
+    "holder_name": "Ceva Animal Health Slovakia s.r.o.",
+    "name": "TETRAVET L.A",
+    "preparation_id": "0910f7c78009bcb2",
+    "registration_date": "1994-01-17T10:22:54+0000",
+    "registration_number": "96/027/94-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78009bcaf",
+    "spc_modified_date": "2023-04-24T8:32:06+0000"
+  },
+  "schema_version": 1
+}

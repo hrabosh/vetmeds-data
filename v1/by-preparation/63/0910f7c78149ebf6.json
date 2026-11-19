@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9907512",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907512",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78149ebf6"
+    },
+    {
+      "display_package_code": "9907513",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907513",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78149ebf6"
+    },
+    {
+      "display_package_code": "9907514",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907514",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78149ebf6"
+    },
+    {
+      "display_package_code": "9907515",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907515",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78149ebf6"
+    },
+    {
+      "display_package_code": "9907516",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907516",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78149ebf6"
+    },
+    {
+      "display_package_code": "9907517",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907517",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78149ebf6"
+    }
+  ],
+  "preparation": {
+    "holder_id": "119",
+    "holder_name": "Industrial Veterinaria S.A.",
+    "name": "Metrovis",
+    "preparation_id": "0910f7c78149ebf6",
+    "registration_date": "2019-06-28T9:13:25+0000",
+    "registration_number": "96/049/19-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78149e974",
+    "spc_modified_date": "2026-05-18T9:13:40+0000"
+  },
+  "schema_version": 1
+}

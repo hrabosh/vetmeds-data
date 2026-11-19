@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905516",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9905516",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78042b55d"
+    },
+    {
+      "display_package_code": "9905517",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9905517",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78042b55d"
+    },
+    {
+      "display_package_code": "9905518",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9905518",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78042b55d"
+    },
+    {
+      "display_package_code": "9905519",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9905519",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78042b55d"
+    },
+    {
+      "display_package_code": "9905520",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905520",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78042b55d"
+    }
+  ],
+  "preparation": {
+    "holder_id": "46",
+    "holder_name": "Krka d.d. Novo mesto",
+    "name": "Fypryst Combo 402mg 361,8mg",
+    "preparation_id": "0910f7c78042b55d",
+    "registration_date": "2016-08-31T8:57:41+0000",
+    "registration_number": "96/086/16-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78042b55c",
+    "spc_modified_date": "2025-04-15T4:42:17+0000"
+  },
+  "schema_version": 1
+}

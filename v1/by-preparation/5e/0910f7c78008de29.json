@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9934605",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934605",
+      "package_invalid_date": null,
+      "package_size": "1 x 540 ml",
+      "preparation_id": "0910f7c78008de29"
+    },
+    {
+      "display_package_code": "9934606",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934606",
+      "package_invalid_date": null,
+      "package_size": "1 x 1080 ml",
+      "preparation_id": "0910f7c78008de29"
+    },
+    {
+      "display_package_code": "9938601",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938601",
+      "package_invalid_date": null,
+      "package_size": "1 x 360 ml",
+      "preparation_id": "0910f7c78008de29"
+    },
+    {
+      "display_package_code": "9938626",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938626",
+      "package_invalid_date": null,
+      "package_size": "3 x 360 ml",
+      "preparation_id": "0910f7c78008de29"
+    }
+  ],
+  "preparation": {
+    "holder_id": "276",
+    "holder_name": "Ceva Animal Health Slovakia s.r.o.",
+    "name": "Altresyn",
+    "preparation_id": "0910f7c78008de29",
+    "registration_date": "2009-04-16T6:31:30+0000",
+    "registration_number": "96/057/09-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78008de26",
+    "spc_modified_date": "2026-07-21T6:31:53+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9910373",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910373",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ac038f"
+    },
+    {
+      "display_package_code": "9910374",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910374",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ac038f"
+    },
+    {
+      "display_package_code": "9910375",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910375",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ac038f"
+    },
+    {
+      "display_package_code": "9910376",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910376",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ac038f"
+    }
+  ],
+  "preparation": {
+    "holder_id": "319",
+    "holder_name": "Cenavisa S.L. (2)",
+    "name": "Censulfatrim",
+    "preparation_id": "0910f7c781ac038f",
+    "registration_date": "2023-06-16T9:22:03+0000",
+    "registration_number": "96/025/23-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781ac038e",
+    "spc_modified_date": "2026-01-14T10:23:02+0000"
+  },
+  "schema_version": 1
+}

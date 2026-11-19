@@ -1,0 +1,142 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9935292",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935292",
+      "package_invalid_date": null,
+      "package_size": "10 x 10 ml",
+      "preparation_id": "0910f7c7800bbc7e"
+    },
+    {
+      "display_package_code": "9935397",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935397",
+      "package_invalid_date": null,
+      "package_size": "1 x 10 ml",
+      "preparation_id": "0910f7c7800bbc7e"
+    },
+    {
+      "display_package_code": "9935437",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935437",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c7800bbc7e"
+    },
+    {
+      "display_package_code": "9935447",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935447",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c7800bbc7e"
+    },
+    {
+      "display_package_code": "9935490",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935490",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c7800bbc7e"
+    },
+    {
+      "display_package_code": "9935513",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935513",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c7800bbc7e"
+    },
+    {
+      "display_package_code": "9935514",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935514",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 ml",
+      "preparation_id": "0910f7c7800bbc7e"
+    },
+    {
+      "display_package_code": "9937198",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937198",
+      "package_invalid_date": null,
+      "package_size": "320 x 10 ml",
+      "preparation_id": "0910f7c7800bbc7e"
+    },
+    {
+      "display_package_code": "9937230",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937230",
+      "package_invalid_date": null,
+      "package_size": "105 x 50 ml",
+      "preparation_id": "0910f7c7800bbc7e"
+    },
+    {
+      "display_package_code": "9937278",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937278",
+      "package_invalid_date": null,
+      "package_size": "60 x 100 ml",
+      "preparation_id": "0910f7c7800bbc7e"
+    },
+    {
+      "display_package_code": "9937349",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937349",
+      "package_invalid_date": null,
+      "package_size": "30 x 250 ml",
+      "preparation_id": "0910f7c7800bbc7e"
+    },
+    {
+      "display_package_code": "9937401",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937401",
+      "package_invalid_date": null,
+      "package_size": "105 x 50 ml",
+      "preparation_id": "0910f7c7800bbc7e"
+    },
+    {
+      "display_package_code": "9937557",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937557",
+      "package_invalid_date": null,
+      "package_size": "60 x 100 ml",
+      "preparation_id": "0910f7c7800bbc7e"
+    },
+    {
+      "display_package_code": "9937688",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937688",
+      "package_invalid_date": null,
+      "package_size": "30 x 250 ml",
+      "preparation_id": "0910f7c7800bbc7e"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "BioBos BTV 8",
+    "preparation_id": "0910f7c7800bbc7e",
+    "registration_date": "2010-02-08T9:58:53+0000",
+    "registration_number": "97/002/10-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800bbc7a",
+    "spc_modified_date": "2026-07-28T8:59:09+0000"
+  },
+  "schema_version": 1
+}

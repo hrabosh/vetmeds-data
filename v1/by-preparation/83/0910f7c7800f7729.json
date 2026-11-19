@@ -1,0 +1,79 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902814",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902814",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f7729"
+    },
+    {
+      "display_package_code": "9902815",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902815",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f7729"
+    },
+    {
+      "display_package_code": "9909655",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909655",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f7729"
+    },
+    {
+      "display_package_code": "9909656",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909656",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f7729"
+    },
+    {
+      "display_package_code": "9938971",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938971",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 g",
+      "preparation_id": "0910f7c7800f7729"
+    },
+    {
+      "display_package_code": "9938995",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938995",
+      "package_invalid_date": null,
+      "package_size": "1 x 1 kg",
+      "preparation_id": "0910f7c7800f7729"
+    },
+    {
+      "display_package_code": "9938996",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938996",
+      "package_invalid_date": null,
+      "package_size": "1 x 5 kg",
+      "preparation_id": "0910f7c7800f7729"
+    }
+  ],
+  "preparation": {
+    "holder_id": "275",
+    "holder_name": "Lavet Pharmaceuticals Ltd. 2",
+    "name": "Ladoxyn 500 prasata, brojleři kura domácího, krůty",
+    "preparation_id": "0910f7c7800f7729",
+    "registration_date": "2010-03-18T8:18:02+0000",
+    "registration_number": "96/007/10-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7800f7726",
+    "spc_modified_date": "2022-10-25T10:54:49+0000"
+  },
+  "schema_version": 1
+}

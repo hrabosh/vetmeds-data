@@ -1,0 +1,97 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909820",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909820",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7817c562e"
+    },
+    {
+      "display_package_code": "9909821",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909821",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7817c562e"
+    },
+    {
+      "display_package_code": "9909822",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909822",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7817c562e"
+    },
+    {
+      "display_package_code": "9909823",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909823",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7817c562e"
+    },
+    {
+      "display_package_code": "9909824",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909824",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7817c562e"
+    },
+    {
+      "display_package_code": "9909825",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909825",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7817c562e"
+    },
+    {
+      "display_package_code": "9909826",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909826",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7817c562e"
+    },
+    {
+      "display_package_code": "9909827",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909827",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7817c562e"
+    },
+    {
+      "display_package_code": "9909828",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909828",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7817c562e"
+    }
+  ],
+  "preparation": {
+    "holder_id": "290",
+    "holder_name": "Alfasan Nederland B.V.",
+    "name": "Ketexx",
+    "preparation_id": "0910f7c7817c562e",
+    "registration_date": "2022-06-08T7:20:00+0000",
+    "registration_number": "96/016/22-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7817c562d",
+    "spc_modified_date": "2026-01-26T12:54:12+0000"
+  },
+  "schema_version": 1
+}

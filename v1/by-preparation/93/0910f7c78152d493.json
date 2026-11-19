@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9908837",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908837",
+      "package_invalid_date": "2023-04-18T12:23:04+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78152d493"
+    },
+    {
+      "display_package_code": "9908838",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908838",
+      "package_invalid_date": "2023-04-18T12:25:04+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78152d493"
+    },
+    {
+      "display_package_code": "9910267",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910267",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78152d493"
+    },
+    {
+      "display_package_code": "9910268",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910268",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78152d493"
+    }
+  ],
+  "preparation": {
+    "holder_id": "297",
+    "holder_name": "Nextmune Italy S.r.I.",
+    "name": "Tsefalen",
+    "preparation_id": "0910f7c78152d493",
+    "registration_date": "2020-10-22T9:40:31+0000",
+    "registration_number": "96/060/20-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78152d492",
+    "spc_modified_date": "2025-01-24T10:40:47+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,97 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9935025",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935025",
+      "package_invalid_date": null,
+      "package_size": "1x1 kg",
+      "preparation_id": "0910f7c780096e52"
+    },
+    {
+      "display_package_code": "9935157",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935157",
+      "package_invalid_date": null,
+      "package_size": "1 x 5 kg",
+      "preparation_id": "0910f7c780096e52"
+    },
+    {
+      "display_package_code": "9935496",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935496",
+      "package_invalid_date": null,
+      "package_size": "1 x 10 kg",
+      "preparation_id": "0910f7c780096e52"
+    },
+    {
+      "display_package_code": "9935658",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935658",
+      "package_invalid_date": null,
+      "package_size": "1 x 15 kg",
+      "preparation_id": "0910f7c780096e52"
+    },
+    {
+      "display_package_code": "9935735",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935735",
+      "package_invalid_date": null,
+      "package_size": "1x5 kg",
+      "preparation_id": "0910f7c780096e52"
+    },
+    {
+      "display_package_code": "9935885",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935885",
+      "package_invalid_date": null,
+      "package_size": "1x10 kg",
+      "preparation_id": "0910f7c780096e52"
+    },
+    {
+      "display_package_code": "9935981",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935981",
+      "package_invalid_date": null,
+      "package_size": "1x15 kg",
+      "preparation_id": "0910f7c780096e52"
+    },
+    {
+      "display_package_code": "9936294",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936294",
+      "package_invalid_date": null,
+      "package_size": "1x20 kg",
+      "preparation_id": "0910f7c780096e52"
+    },
+    {
+      "display_package_code": "9936483",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936483",
+      "package_invalid_date": null,
+      "package_size": "1x25 kg",
+      "preparation_id": "0910f7c780096e52"
+    }
+  ],
+  "preparation": {
+    "holder_id": "122",
+    "holder_name": "Tekro spol. s r.o.",
+    "name": "MEDITEK  TRISULFA",
+    "preparation_id": "0910f7c780096e52",
+    "registration_date": "2005-08-07T5:50:47+0000",
+    "registration_number": "98/030/05-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c780096e4f",
+    "spc_modified_date": "2022-10-26T7:53:18+0000"
+  },
+  "schema_version": 1
+}

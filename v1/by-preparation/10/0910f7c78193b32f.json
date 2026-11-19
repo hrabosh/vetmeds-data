@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9910357",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910357",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78193b32f"
+    },
+    {
+      "display_package_code": "9910358",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910358",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78193b32f"
+    },
+    {
+      "display_package_code": "9910359",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910359",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78193b32f"
+    },
+    {
+      "display_package_code": "9910360",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910360",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78193b32f"
+    },
+    {
+      "display_package_code": "9910361",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910361",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78193b32f"
+    },
+    {
+      "display_package_code": "9910362",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910362",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78193b32f"
+    },
+    {
+      "display_package_code": "9910363",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910363",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78193b32f"
+    },
+    {
+      "display_package_code": "9910364",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910364",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78193b32f"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "Bovilis Nasalgen-C",
+    "preparation_id": "0910f7c78193b32f",
+    "registration_date": "2023-03-31T10:42:28+0000",
+    "registration_number": "EU/2/23/294",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c78193b32e",
+    "spc_modified_date": "2024-12-06T11:56:09+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9936488",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936488",
+      "package_invalid_date": null,
+      "package_size": "10 x 1 dávka (lyofilizovaná frakce + tekutá frakce)",
+      "preparation_id": "0910f7c7800940fd"
+    }
+  ],
+  "preparation": {
+    "holder_id": "49",
+    "holder_name": "Laboratorios Hipra S.A.",
+    "name": "HIPRADOG-7",
+    "preparation_id": "0910f7c7800940fd",
+    "registration_date": "2003-07-29T9:42:49+0000",
+    "registration_number": "97/048/03-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800940fa",
+    "spc_modified_date": "2026-09-22T9:43:43+0000"
+  },
+  "schema_version": 1
+}

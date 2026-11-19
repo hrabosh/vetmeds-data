@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9910497",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910497",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a3a881"
+    }
+  ],
+  "preparation": {
+    "holder_id": "46",
+    "holder_name": "Krka d.d. Novo mesto",
+    "name": "Arocenia",
+    "preparation_id": "0910f7c781a3a881",
+    "registration_date": "2023-10-31T12:21:07+0000",
+    "registration_number": "96/051/23-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c781a3a880",
+    "spc_modified_date": "2024-11-12T13:14:44+0000"
+  },
+  "schema_version": 1
+}

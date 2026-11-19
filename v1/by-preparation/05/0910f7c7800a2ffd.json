@@ -1,0 +1,124 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900085",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900085",
+      "package_invalid_date": "2013-06-03T6:41:26+0000",
+      "package_size": "1 x 100 ml (50 dávek) (převod registrace)",
+      "preparation_id": "0910f7c7800a2ffd"
+    },
+    {
+      "display_package_code": "9900086",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900086",
+      "package_invalid_date": "2013-06-03T6:41:49+0000",
+      "package_size": "1 x 250 ml (125 dávek) (převod registrace)",
+      "preparation_id": "0910f7c7800a2ffd"
+    },
+    {
+      "display_package_code": "9900087",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900087",
+      "package_invalid_date": "2013-06-03T6:42:09+0000",
+      "package_size": "10 x 250 ml (10 x 125 dávek) (převod registrace)",
+      "preparation_id": "0910f7c7800a2ffd"
+    },
+    {
+      "display_package_code": "9900088",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900088",
+      "package_invalid_date": "2013-06-03T6:42:28+0000",
+      "package_size": "10 x 100 ml (10 x 50 dávek) (převod registrace)",
+      "preparation_id": "0910f7c7800a2ffd"
+    },
+    {
+      "display_package_code": "9902484",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902484",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800a2ffd"
+    },
+    {
+      "display_package_code": "9902485",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902485",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800a2ffd"
+    },
+    {
+      "display_package_code": "9902486",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902486",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800a2ffd"
+    },
+    {
+      "display_package_code": "9902487",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902487",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800a2ffd"
+    },
+    {
+      "display_package_code": "9939105",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939105",
+      "package_invalid_date": "2010-01-06T7:40:07+0000",
+      "package_size": "1 x 250 ml (125 dávek)",
+      "preparation_id": "0910f7c7800a2ffd"
+    },
+    {
+      "display_package_code": "9939106",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939106",
+      "package_invalid_date": "2010-01-06T7:40:26+0000",
+      "package_size": "10 x 250 ml (10 x 125 dávek)",
+      "preparation_id": "0910f7c7800a2ffd"
+    },
+    {
+      "display_package_code": "9969551",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9969551",
+      "package_invalid_date": "2010-01-06T7:40:52+0000",
+      "package_size": "10 x 100 ml (10 x 50 dávek)",
+      "preparation_id": "0910f7c7800a2ffd"
+    },
+    {
+      "display_package_code": "9969552",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9969552",
+      "package_invalid_date": "2010-01-06T7:39:45+0000",
+      "package_size": "1 x 100 ml (50 dávek)",
+      "preparation_id": "0910f7c7800a2ffd"
+    }
+  ],
+  "preparation": {
+    "holder_id": "226",
+    "holder_name": "Zoetis Česká republika s.r.o.",
+    "name": "SUVAXYN M. HYO",
+    "preparation_id": "0910f7c7800a2ffd",
+    "registration_date": "1994-05-05T9:49:45+0000",
+    "registration_number": "97/648/94-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800a2ffa",
+    "spc_modified_date": "2024-10-03T12:34:55+0000"
+  },
+  "schema_version": 1
+}

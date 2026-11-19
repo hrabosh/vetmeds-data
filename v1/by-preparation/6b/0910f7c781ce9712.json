@@ -1,0 +1,34 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700175",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700175",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ce9712"
+    },
+    {
+      "display_package_code": "9700176",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700176",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ce9712"
+    }
+  ],
+  "preparation": {
+    "holder_id": "24",
+    "holder_name": "CP-Pharma Handelsgesellschaft, mbH",
+    "name": "Cepezoo",
+    "preparation_id": "0910f7c781ce9712",
+    "registration_date": "2025-05-29T11:44:43+0000",
+    "registration_number": "96/016/25-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781ce9711",
+    "spc_modified_date": "2025-11-11T12:30:30+0000"
+  },
+  "schema_version": 1
+}

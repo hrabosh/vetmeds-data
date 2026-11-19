@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9934827",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934827",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 dávek",
+      "preparation_id": "0910f7c78009d27d"
+    },
+    {
+      "display_package_code": "9934828",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934828",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 dávek",
+      "preparation_id": "0910f7c78009d27d"
+    },
+    {
+      "display_package_code": "9934829",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934829",
+      "package_invalid_date": null,
+      "package_size": "4 x 50 dávek",
+      "preparation_id": "0910f7c78009d27d"
+    },
+    {
+      "display_package_code": "9938955",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938955",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 dávek",
+      "preparation_id": "0910f7c78009d27d"
+    },
+    {
+      "display_package_code": "9938956",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938956",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 dávek",
+      "preparation_id": "0910f7c78009d27d"
+    },
+    {
+      "display_package_code": "9938957",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938957",
+      "package_invalid_date": null,
+      "package_size": "4 x 50 dávek",
+      "preparation_id": "0910f7c78009d27d"
+    }
+  ],
+  "preparation": {
+    "holder_id": "29",
+    "holder_name": "Dyntec, spol. s r.o.",
+    "name": "SUIVAC EDT",
+    "preparation_id": "0910f7c78009d27d",
+    "registration_date": "2000-11-22T14:15:02+0000",
+    "registration_number": "97/075/00-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78009d279",
+    "spc_modified_date": "2022-10-26T9:2:52+0000"
+  },
+  "schema_version": 1
+}

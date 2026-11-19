@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9938020",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938020",
+      "package_invalid_date": null,
+      "package_size": "100x1 tbl.",
+      "preparation_id": "0910f7c7800cd8f4"
+    },
+    {
+      "display_package_code": "9939209",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9939209",
+      "package_invalid_date": null,
+      "package_size": "2x1 tbl.",
+      "preparation_id": "0910f7c7800cd8f4"
+    },
+    {
+      "display_package_code": "9939210",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9939210",
+      "package_invalid_date": null,
+      "package_size": "6x1 tbl.",
+      "preparation_id": "0910f7c7800cd8f4"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "CANIVERM forte",
+    "preparation_id": "0910f7c7800cd8f4",
+    "registration_date": "2001-06-12T7:46:21+0000",
+    "registration_number": "96/025/01-C/10",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800cd862",
+    "spc_modified_date": "2026-03-17T8:47:04+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,259 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900575",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900575",
+      "package_invalid_date": "2021-03-24T11:52:19+0000",
+      "package_size": "1 x 50 dávek bezjehelně",
+      "preparation_id": "0910f7c7800973a3"
+    },
+    {
+      "display_package_code": "9900576",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900576",
+      "package_invalid_date": "2021-03-24T11:50:37+0000",
+      "package_size": "5 x 50 dávek bezjehelně",
+      "preparation_id": "0910f7c7800973a3"
+    },
+    {
+      "display_package_code": "9900623",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900623",
+      "package_invalid_date": "2021-03-24T11:38:27+0000",
+      "package_size": "1 x 100 dávek bezjehelně",
+      "preparation_id": "0910f7c7800973a3"
+    },
+    {
+      "display_package_code": "9900624",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900624",
+      "package_invalid_date": "2021-03-24T11:40:26+0000",
+      "package_size": "5 x 100 dávek bezjehelně",
+      "preparation_id": "0910f7c7800973a3"
+    },
+    {
+      "display_package_code": "9900625",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900625",
+      "package_invalid_date": null,
+      "package_size": "1 x 10 dávek subkutánně",
+      "preparation_id": "0910f7c7800973a3"
+    },
+    {
+      "display_package_code": "9900626",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900626",
+      "package_invalid_date": null,
+      "package_size": "5 x 10 dávek subkutánně",
+      "preparation_id": "0910f7c7800973a3"
+    },
+    {
+      "display_package_code": "9900627",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900627",
+      "package_invalid_date": null,
+      "package_size": "1 x 20 dávek subkutánně",
+      "preparation_id": "0910f7c7800973a3"
+    },
+    {
+      "display_package_code": "9900628",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900628",
+      "package_invalid_date": null,
+      "package_size": "5 x 20 dávek subkutánně",
+      "preparation_id": "0910f7c7800973a3"
+    },
+    {
+      "display_package_code": "9900629",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900629",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 dávek dvojvpichem",
+      "preparation_id": "0910f7c7800973a3"
+    },
+    {
+      "display_package_code": "9900630",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900630",
+      "package_invalid_date": null,
+      "package_size": "5 x 50 dávek dvojvpichem",
+      "preparation_id": "0910f7c7800973a3"
+    },
+    {
+      "display_package_code": "9900631",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900631",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 dávek bezjehelně",
+      "preparation_id": "0910f7c7800973a3"
+    },
+    {
+      "display_package_code": "9900632",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900632",
+      "package_invalid_date": null,
+      "package_size": "5 x 50 dávek bezjehelně",
+      "preparation_id": "0910f7c7800973a3"
+    },
+    {
+      "display_package_code": "9936046",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936046",
+      "package_invalid_date": null,
+      "package_size": "5 x 1 dávka subkutánně",
+      "preparation_id": "0910f7c7800973a3"
+    },
+    {
+      "display_package_code": "9936169",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936169",
+      "package_invalid_date": null,
+      "package_size": "10 x 1 dávka subkutánně",
+      "preparation_id": "0910f7c7800973a3"
+    },
+    {
+      "display_package_code": "9936198",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936198",
+      "package_invalid_date": "2021-03-24T11:46:13+0000",
+      "package_size": "1 x 10 dávek subkutánně",
+      "preparation_id": "0910f7c7800973a3"
+    },
+    {
+      "display_package_code": "9936233",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936233",
+      "package_invalid_date": "2021-03-24T11:47:50+0000",
+      "package_size": "1 x 20 dávek subkutánně",
+      "preparation_id": "0910f7c7800973a3"
+    },
+    {
+      "display_package_code": "9936272",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936272",
+      "package_invalid_date": "2021-03-24T11:41:17+0000",
+      "package_size": "1 x 100 dávek dvojvpichem",
+      "preparation_id": "0910f7c7800973a3"
+    },
+    {
+      "display_package_code": "9936580",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936580",
+      "package_invalid_date": null,
+      "package_size": "1 x 1 dávka subkutánně",
+      "preparation_id": "0910f7c7800973a3"
+    },
+    {
+      "display_package_code": "9936845",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936845",
+      "package_invalid_date": "2021-03-24T11:47:00+0000",
+      "package_size": "5 x 10 dávek subkutánně",
+      "preparation_id": "0910f7c7800973a3"
+    },
+    {
+      "display_package_code": "9936846",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936846",
+      "package_invalid_date": "2021-03-24T11:36:23+0000",
+      "package_size": "1 x 40 dávek bezjehelně",
+      "preparation_id": "0910f7c7800973a3"
+    },
+    {
+      "display_package_code": "9936847",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936847",
+      "package_invalid_date": "2021-03-24T11:39:03+0000",
+      "package_size": "5 x 40 dávek bezjehelně",
+      "preparation_id": "0910f7c7800973a3"
+    },
+    {
+      "display_package_code": "9936848",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936848",
+      "package_invalid_date": "2021-03-24T11:37:35+0000",
+      "package_size": "1 x 80 dávek bezjehelně",
+      "preparation_id": "0910f7c7800973a3"
+    },
+    {
+      "display_package_code": "9936849",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936849",
+      "package_invalid_date": "2021-03-24T11:39:48+0000",
+      "package_size": "5 x 80 dávek bezjehelně",
+      "preparation_id": "0910f7c7800973a3"
+    },
+    {
+      "display_package_code": "9938446",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938446",
+      "package_invalid_date": "2021-03-24T11:49:58+0000",
+      "package_size": "1 x 50 dávek dvojvpichem",
+      "preparation_id": "0910f7c7800973a3"
+    },
+    {
+      "display_package_code": "9938447",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938447",
+      "package_invalid_date": "2021-03-24T11:51:43+0000",
+      "package_size": "5 x 50 dávek dvojvpichem",
+      "preparation_id": "0910f7c7800973a3"
+    },
+    {
+      "display_package_code": "9975412",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9975412",
+      "package_invalid_date": "2021-03-24T11:48:34+0000",
+      "package_size": "5 x 20 dávek subkutánně",
+      "preparation_id": "0910f7c7800973a3"
+    },
+    {
+      "display_package_code": "9996955",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9996955",
+      "package_invalid_date": "2021-03-24T11:41:53+0000",
+      "package_size": "5 x 100 dávek dvojvpichem",
+      "preparation_id": "0910f7c7800973a3"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "MYXOREN",
+    "preparation_id": "0910f7c7800973a3",
+    "registration_date": "1991-06-05T12:35:18+0000",
+    "registration_number": "97/191/91-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78009739f",
+    "spc_modified_date": "2025-01-23T9:18:39+0000"
+  },
+  "schema_version": 1
+}

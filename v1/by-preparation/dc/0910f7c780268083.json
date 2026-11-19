@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9903838",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903838",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780268083"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "Nobilis IB Primo QX",
+    "preparation_id": "0910f7c780268083",
+    "registration_date": "2014-09-04T9:17:52+0000",
+    "registration_number": "EU/2/14/174",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c780268082",
+    "spc_modified_date": "2024-05-14T9:40:28+0000"
+  },
+  "schema_version": 1
+}

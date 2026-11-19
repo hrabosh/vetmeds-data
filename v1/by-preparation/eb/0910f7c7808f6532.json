@@ -1,0 +1,115 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700943",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700943",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808f6532"
+    },
+    {
+      "display_package_code": "9700944",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700944",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808f6532"
+    },
+    {
+      "display_package_code": "9700945",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700945",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808f6532"
+    },
+    {
+      "display_package_code": "9700946",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700946",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808f6532"
+    },
+    {
+      "display_package_code": "9700947",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700947",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808f6532"
+    },
+    {
+      "display_package_code": "9700948",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700948",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808f6532"
+    },
+    {
+      "display_package_code": "9700949",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700949",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808f6532"
+    },
+    {
+      "display_package_code": "9700950",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700950",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808f6532"
+    },
+    {
+      "display_package_code": "9906701",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906701",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808f6532"
+    },
+    {
+      "display_package_code": "9906702",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906702",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808f6532"
+    },
+    {
+      "display_package_code": "9906703",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906703",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808f6532"
+    }
+  ],
+  "preparation": {
+    "holder_id": "209",
+    "holder_name": "Ceva-Phylaxia Veterinary Biologicals Co.Ltd.",
+    "name": "Novamune",
+    "preparation_id": "0910f7c7808f6532",
+    "registration_date": "2018-09-19T12:46:20+0000",
+    "registration_number": "97/054/18-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7808f6531",
+    "spc_modified_date": "2025-05-06T7:29:50+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906383",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906383",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78128105f"
+    },
+    {
+      "display_package_code": "9906384",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906384",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78128105f"
+    },
+    {
+      "display_package_code": "9906385",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906385",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78128105f"
+    }
+  ],
+  "preparation": {
+    "holder_id": "119",
+    "holder_name": "Industrial Veterinaria S.A.",
+    "name": "Vigophos",
+    "preparation_id": "0910f7c78128105f",
+    "registration_date": "2018-03-23T10:51:23+0000",
+    "registration_number": "96/016/18-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78128105e",
+    "spc_modified_date": "2025-11-07T10:3:10+0000"
+  },
+  "schema_version": 1
+}

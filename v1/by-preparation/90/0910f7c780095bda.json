@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900687",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900687",
+      "package_invalid_date": null,
+      "package_size": "1 x 1 kg (změna názvu)",
+      "preparation_id": "0910f7c780095bda"
+    },
+    {
+      "display_package_code": "9900688",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900688",
+      "package_invalid_date": null,
+      "package_size": "1 x 5 kg (změna názvu)",
+      "preparation_id": "0910f7c780095bda"
+    },
+    {
+      "display_package_code": "9936733",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936733",
+      "package_invalid_date": "2009-10-21T6:22:48+0000",
+      "package_size": "1 x 1 kg",
+      "preparation_id": "0910f7c780095bda"
+    },
+    {
+      "display_package_code": "9936780",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936780",
+      "package_invalid_date": "2009-10-21T6:24:07+0000",
+      "package_size": "1 x 5 kg",
+      "preparation_id": "0910f7c780095bda"
+    }
+  ],
+  "preparation": {
+    "holder_id": "38",
+    "holder_name": "Chemifarma S.p.A.",
+    "name": "CHEMISOLE",
+    "preparation_id": "0910f7c780095bda",
+    "registration_date": "2002-01-02T9:38:15+0000",
+    "registration_number": "96/001/02-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c780095bd7",
+    "spc_modified_date": "2026-08-31T8:39:35+0000"
+  },
+  "schema_version": 1
+}

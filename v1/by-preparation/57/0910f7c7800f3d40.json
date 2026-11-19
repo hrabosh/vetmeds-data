@@ -1,0 +1,34 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9934193",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934193",
+      "package_invalid_date": null,
+      "package_size": "3 x 1 ml_EU/2/99/014/005",
+      "preparation_id": "0910f7c7800f3d40"
+    },
+    {
+      "display_package_code": "9934198",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934198",
+      "package_invalid_date": null,
+      "package_size": "6 x 1 ml_EU/2/99/014/010",
+      "preparation_id": "0910f7c7800f3d40"
+    }
+  ],
+  "preparation": {
+    "holder_id": "100",
+    "holder_name": "Zoetis Belgium",
+    "name": "STRONGHOLD",
+    "preparation_id": "0910f7c7800f3d40",
+    "registration_date": "1999-11-25T14:49:23+0000",
+    "registration_number": "EU/2/99/014",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f3d1a",
+    "spc_modified_date": "2019-12-17T12:40:32+0000"
+  },
+  "schema_version": 1
+}

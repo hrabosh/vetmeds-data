@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900224",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900224",
+      "package_invalid_date": null,
+      "package_size": "1 x 5 ml",
+      "preparation_id": "0910f7c7800b8d19"
+    },
+    {
+      "display_package_code": "9900225",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900225",
+      "package_invalid_date": null,
+      "package_size": "5 x 5 ml",
+      "preparation_id": "0910f7c7800b8d19"
+    },
+    {
+      "display_package_code": "9900226",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900226",
+      "package_invalid_date": null,
+      "package_size": "1 x 20 ml",
+      "preparation_id": "0910f7c7800b8d19"
+    },
+    {
+      "display_package_code": "9900227",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900227",
+      "package_invalid_date": null,
+      "package_size": "5 x 20 ml",
+      "preparation_id": "0910f7c7800b8d19"
+    }
+  ],
+  "preparation": {
+    "holder_id": "294",
+    "holder_name": "Le Vet. B.V.",
+    "name": "Detonervin",
+    "preparation_id": "0910f7c7800b8d19",
+    "registration_date": "2011-03-24T7:57:58+0000",
+    "registration_number": "96/009/11-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800b8d16",
+    "spc_modified_date": "2025-09-08T6:42:36+0000"
+  },
+  "schema_version": 1
+}

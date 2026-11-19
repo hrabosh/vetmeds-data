@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9910083",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910083",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78193ebf8"
+    },
+    {
+      "display_package_code": "9910084",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910084",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78193ebf8"
+    },
+    {
+      "display_package_code": "9910085",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910085",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78193ebf8"
+    },
+    {
+      "display_package_code": "9910086",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910086",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78193ebf8"
+    },
+    {
+      "display_package_code": "9910087",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910087",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78193ebf8"
+    }
+  ],
+  "preparation": {
+    "holder_id": "290",
+    "holder_name": "Alfasan Nederland B.V.",
+    "name": "Cardisan",
+    "preparation_id": "0910f7c78193ebf8",
+    "registration_date": "2023-02-03T12:35:23+0000",
+    "registration_number": "96/008/23-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78193ebf2",
+    "spc_modified_date": "2024-07-02T10:32:26+0000"
+  },
+  "schema_version": 1
+}

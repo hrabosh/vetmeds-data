@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9934218",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934218",
+      "package_invalid_date": null,
+      "package_size": "1 x 20 ml_EU/2/96/001/003",
+      "preparation_id": "0910f7c7800f3bdd"
+    },
+    {
+      "display_package_code": "9934219",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934219",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 ml_EU/2/96/001/004",
+      "preparation_id": "0910f7c7800f3bdd"
+    },
+    {
+      "display_package_code": "9934220",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934220",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml_EU/2/96/001/005",
+      "preparation_id": "0910f7c7800f3bdd"
+    },
+    {
+      "display_package_code": "9934221",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934221",
+      "package_invalid_date": null,
+      "package_size": "1 x 20 ml_EU/2/96/001/006",
+      "preparation_id": "0910f7c7800f3bdd"
+    },
+    {
+      "display_package_code": "9934222",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934222",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 ml_EU/2/96/001/007",
+      "preparation_id": "0910f7c7800f3bdd"
+    },
+    {
+      "display_package_code": "9934223",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934223",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml_EU/2/96/001/008",
+      "preparation_id": "0910f7c7800f3bdd"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "Porcilis Porcoli Diluvac Forte",
+    "preparation_id": "0910f7c7800f3bdd",
+    "registration_date": "1996-02-29T12:4:12+0000",
+    "registration_number": "EU/2/96/001",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f3bd7",
+    "spc_modified_date": "2026-01-08T13:41:43+0000"
+  },
+  "schema_version": 1
+}

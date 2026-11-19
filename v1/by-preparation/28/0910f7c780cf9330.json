@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906324",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906324",
+      "package_invalid_date": "2020-06-03T9:45:41+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780cf9330"
+    },
+    {
+      "display_package_code": "9906325",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906325",
+      "package_invalid_date": "2020-06-03T9:46:25+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780cf9330"
+    },
+    {
+      "display_package_code": "9906326",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906326",
+      "package_invalid_date": "2020-06-03T9:47:53+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780cf9330"
+    },
+    {
+      "display_package_code": "9908610",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908610",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780cf9330"
+    },
+    {
+      "display_package_code": "9908611",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908611",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780cf9330"
+    },
+    {
+      "display_package_code": "9908612",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908612",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780cf9330"
+    }
+  ],
+  "preparation": {
+    "holder_id": "76",
+    "holder_name": "Univet, Ltd.",
+    "name": "Ubroseal blue Dry cow",
+    "preparation_id": "0910f7c780cf9330",
+    "registration_date": "2018-01-29T9:8:11+0000",
+    "registration_number": "96/007/18-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780cf932f",
+    "spc_modified_date": "2024-01-15T11:44:48+0000"
+  },
+  "schema_version": 1
+}

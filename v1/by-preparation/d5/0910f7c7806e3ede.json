@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905903",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905903",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7806e3ede"
+    },
+    {
+      "display_package_code": "9905904",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905904",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7806e3ede"
+    },
+    {
+      "display_package_code": "9905905",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905905",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7806e3ede"
+    }
+  ],
+  "preparation": {
+    "holder_id": "180",
+    "holder_name": "Le Vet. Beheer, B.V.",
+    "name": "Solvidine",
+    "preparation_id": "0910f7c7806e3ede",
+    "registration_date": "2017-04-20T11:59:16+0000",
+    "registration_number": "96/020/17-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7806e3edd",
+    "spc_modified_date": "2022-10-25T12:28:50+0000"
+  },
+  "schema_version": 1
+}

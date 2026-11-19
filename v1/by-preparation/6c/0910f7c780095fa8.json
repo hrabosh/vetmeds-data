@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9936500",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936500",
+      "package_invalid_date": null,
+      "package_size": "1 x 2000 dávek",
+      "preparation_id": "0910f7c780095fa8"
+    },
+    {
+      "display_package_code": "9936593",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936593",
+      "package_invalid_date": null,
+      "package_size": "1 x 10000 dávek",
+      "preparation_id": "0910f7c780095fa8"
+    },
+    {
+      "display_package_code": "9939015",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939015",
+      "package_invalid_date": null,
+      "package_size": "1 x 1000 dávek",
+      "preparation_id": "0910f7c780095fa8"
+    },
+    {
+      "display_package_code": "9968788",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9968788",
+      "package_invalid_date": null,
+      "package_size": "1 x 5000 dávek",
+      "preparation_id": "0910f7c780095fa8"
+    },
+    {
+      "display_package_code": "9968789",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9968789",
+      "package_invalid_date": null,
+      "package_size": "1 x 20000 dávek",
+      "preparation_id": "0910f7c780095fa8"
+    }
+  ],
+  "preparation": {
+    "holder_id": "314",
+    "holder_name": "BIOPHARM, Výzkumný ústav biofarmacie a veterinárních léčiv, a.s.(2)",
+    "name": "LIVACOX® T",
+    "preparation_id": "0910f7c780095fa8",
+    "registration_date": "1992-11-18T10:41:07+0000",
+    "registration_number": "97/778/92-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780095fa5",
+    "spc_modified_date": "2025-07-24T7:1:48+0000"
+  },
+  "schema_version": 1
+}

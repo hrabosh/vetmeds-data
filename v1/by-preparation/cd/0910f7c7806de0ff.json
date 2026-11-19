@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905826",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905826",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7806de0ff"
+    },
+    {
+      "display_package_code": "9905827",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905827",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7806de0ff"
+    },
+    {
+      "display_package_code": "9905828",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905828",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7806de0ff"
+    }
+  ],
+  "preparation": {
+    "holder_id": "34",
+    "holder_name": "Fatro, S.p.A.",
+    "name": "Ovucron",
+    "preparation_id": "0910f7c7806de0ff",
+    "registration_date": "2017-01-25T11:15:29+0000",
+    "registration_number": "96/008/17-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7806de0fe",
+    "spc_modified_date": "2026-04-20T10:15:44+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,34 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700758",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700758",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781f798f9"
+    },
+    {
+      "display_package_code": "9701017",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9701017",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781f798f9"
+    }
+  ],
+  "preparation": {
+    "holder_id": "16",
+    "holder_name": "Boehringer Ingelheim Vetmedica, GmbH",
+    "name": "VAXXINACT H5",
+    "preparation_id": "0910f7c781f798f9",
+    "registration_date": "2025-12-04T7:33:03+0000",
+    "registration_number": "EU/2/25/356",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c781f798f8",
+    "spc_modified_date": "2026-07-31T8:8:49+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9910986",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910986",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781add680"
+    },
+    {
+      "display_package_code": "9910987",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910987",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781add680"
+    },
+    {
+      "display_package_code": "9910988",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910988",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781add680"
+    }
+  ],
+  "preparation": {
+    "holder_id": "290",
+    "holder_name": "Alfasan Nederland B.V.",
+    "name": "Cartaxx",
+    "preparation_id": "0910f7c781add680",
+    "registration_date": "2024-05-28T9:15:42+0000",
+    "registration_number": "96/028/24-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c781add5e3",
+    "spc_modified_date": "2024-06-05T9:18:44+0000"
+  },
+  "schema_version": 1
+}

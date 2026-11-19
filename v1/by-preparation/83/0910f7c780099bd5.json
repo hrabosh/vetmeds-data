@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902378",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902378",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780099bd5"
+    },
+    {
+      "display_package_code": "9902379",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902379",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780099bd5"
+    },
+    {
+      "display_package_code": "9902380",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902380",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780099bd5"
+    },
+    {
+      "display_package_code": "9936412",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936412",
+      "package_invalid_date": "2013-06-03T5:49:18+0000",
+      "package_size": "24 x 4 g",
+      "preparation_id": "0910f7c780099bd5"
+    },
+    {
+      "display_package_code": "9936420",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936420",
+      "package_invalid_date": "2013-06-03T5:49:34+0000",
+      "package_size": "60 x 4 g",
+      "preparation_id": "0910f7c780099bd5"
+    },
+    {
+      "display_package_code": "9936431",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936431",
+      "package_invalid_date": "2013-06-03T5:50:32+0000",
+      "package_size": "120 x 4 g",
+      "preparation_id": "0910f7c780099bd5"
+    }
+  ],
+  "preparation": {
+    "holder_id": "226",
+    "holder_name": "Zoetis Česká republika s.r.o.",
+    "name": "ORBESEAL",
+    "preparation_id": "0910f7c780099bd5",
+    "registration_date": "2004-04-10T7:45:12+0000",
+    "registration_number": "96/021/04-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780099bd2",
+    "spc_modified_date": "2023-05-11T7:37:27+0000"
+  },
+  "schema_version": 1
+}

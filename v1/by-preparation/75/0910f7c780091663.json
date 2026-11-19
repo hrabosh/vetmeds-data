@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905096",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905096",
+      "package_invalid_date": "2021-07-27T8:39:52+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780091663"
+    },
+    {
+      "display_package_code": "9905097",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905097",
+      "package_invalid_date": "2021-07-27T8:38:29+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780091663"
+    },
+    {
+      "display_package_code": "9905098",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905098",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780091663"
+    },
+    {
+      "display_package_code": "9938551",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938551",
+      "package_invalid_date": null,
+      "package_size": "5 x 1000 dávek",
+      "preparation_id": "0910f7c780091663"
+    },
+    {
+      "display_package_code": "9939701",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939701",
+      "package_invalid_date": null,
+      "package_size": "1 x 500 dávek",
+      "preparation_id": "0910f7c780091663"
+    },
+    {
+      "display_package_code": "9939702",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939702",
+      "package_invalid_date": null,
+      "package_size": "1 x 1000 dávek",
+      "preparation_id": "0910f7c780091663"
+    }
+  ],
+  "preparation": {
+    "holder_id": "276",
+    "holder_name": "Ceva Animal Health Slovakia s.r.o.",
+    "name": "CEVAC ND-IB-EDS K",
+    "preparation_id": "0910f7c780091663",
+    "registration_date": "2003-11-19T6:17:45+0000",
+    "registration_number": "97/092/03-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78009165b",
+    "spc_modified_date": "2025-06-05T5:18:08+0000"
+  },
+  "schema_version": 1
+}

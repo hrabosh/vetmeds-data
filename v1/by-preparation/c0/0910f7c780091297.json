@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9936343",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936343",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c780091297"
+    }
+  ],
+  "preparation": {
+    "holder_id": "46",
+    "holder_name": "Krka d.d. Novo mesto",
+    "name": "Enroxil Max",
+    "preparation_id": "0910f7c780091297",
+    "registration_date": "2008-10-09T9:25:46+0000",
+    "registration_number": "96/052/08-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780091294",
+    "spc_modified_date": "2026-05-26T8:34:31+0000"
+  },
+  "schema_version": 1
+}

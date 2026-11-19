@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902467",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902467",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801a2a64"
+    }
+  ],
+  "preparation": {
+    "holder_id": "46",
+    "holder_name": "Krka d.d. Novo mesto",
+    "name": "Enrox Max pro skot a prasata",
+    "preparation_id": "0910f7c7801a2a64",
+    "registration_date": "2013-08-27T11:47:32+0000",
+    "registration_number": "96/033/13-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7801a2a5f",
+    "spc_modified_date": "2024-04-09T7:22:16+0000"
+  },
+  "schema_version": 1
+}

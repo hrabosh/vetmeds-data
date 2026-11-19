@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9910365",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910365",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781925e60"
+    },
+    {
+      "display_package_code": "9910366",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910366",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781925e60"
+    },
+    {
+      "display_package_code": "9910367",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910367",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781925e60"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "GONADORELIN Bioveta",
+    "preparation_id": "0910f7c781925e60",
+    "registration_date": "2023-06-08T12:25:15+0000",
+    "registration_number": "96/024/23-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781925e5f",
+    "spc_modified_date": "2023-08-31T6:44:42+0000"
+  },
+  "schema_version": 1
+}

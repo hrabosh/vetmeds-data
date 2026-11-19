@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700537",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700537",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ddb6c0"
+    },
+    {
+      "display_package_code": "9700538",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700538",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ddb6c0"
+    },
+    {
+      "display_package_code": "9700581",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700581",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ddb6c0"
+    },
+    {
+      "display_package_code": "9700582",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700582",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ddb6c0"
+    }
+  ],
+  "preparation": {
+    "holder_id": "38",
+    "holder_name": "Chemifarma S.p.A.",
+    "name": "Salicifarm",
+    "preparation_id": "0910f7c781ddb6c0",
+    "registration_date": "2025-11-13T10:3:07+0000",
+    "registration_number": "96/051/25-C",
+    "spc_extension": null,
+    "spc_id": "0910f7c781ddb6bf",
+    "spc_modified_date": null
+  },
+  "schema_version": 1
+}

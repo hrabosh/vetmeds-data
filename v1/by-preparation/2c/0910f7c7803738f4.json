@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905214",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9905214",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7803738f4"
+    },
+    {
+      "display_package_code": "9905215",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9905215",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7803738f4"
+    },
+    {
+      "display_package_code": "9905216",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905216",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7803738f4"
+    },
+    {
+      "display_package_code": "9905217",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905217",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7803738f4"
+    }
+  ],
+  "preparation": {
+    "holder_id": "112",
+    "holder_name": "VIRBAC",
+    "name": "Effipro Duo",
+    "preparation_id": "0910f7c7803738f4",
+    "registration_date": "2016-08-08T12:56:57+0000",
+    "registration_number": "96/065/16-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7803738f2",
+    "spc_modified_date": "2025-03-31T12:58:17+0000"
+  },
+  "schema_version": 1
+}

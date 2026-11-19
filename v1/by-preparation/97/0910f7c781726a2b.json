@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909323",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909323",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781726a2b"
+    },
+    {
+      "display_package_code": "9909324",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909324",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781726a2b"
+    },
+    {
+      "display_package_code": "9909325",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909325",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781726a2b"
+    }
+  ],
+  "preparation": {
+    "holder_id": "46",
+    "holder_name": "Krka d.d. Novo mesto",
+    "name": "Cladaxxa",
+    "preparation_id": "0910f7c781726a2b",
+    "registration_date": "2021-05-28T6:12:33+0000",
+    "registration_number": "96/029/21-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7817267d3",
+    "spc_modified_date": "2026-10-16T9:15:31+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,97 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900584",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900584",
+      "package_invalid_date": null,
+      "package_size": "1 x 0,4 ml_EU/2/03/039/039",
+      "preparation_id": "0910f7c7800f2f3d"
+    },
+    {
+      "display_package_code": "9900585",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900585",
+      "package_invalid_date": null,
+      "package_size": "2 x 0,4 ml_EU/2/03/039/040",
+      "preparation_id": "0910f7c7800f2f3d"
+    },
+    {
+      "display_package_code": "9900586",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900586",
+      "package_invalid_date": null,
+      "package_size": "9 x 0,4 ml_EU/2/03/039/041",
+      "preparation_id": "0910f7c7800f2f3d"
+    },
+    {
+      "display_package_code": "9900587",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900587",
+      "package_invalid_date": null,
+      "package_size": "12 x 0,4 ml_EU/2/03/039/042",
+      "preparation_id": "0910f7c7800f2f3d"
+    },
+    {
+      "display_package_code": "9934027",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934027",
+      "package_invalid_date": null,
+      "package_size": "3 x 0,4 ml_EU/2/03/039/005",
+      "preparation_id": "0910f7c7800f2f3d"
+    },
+    {
+      "display_package_code": "9934028",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934028",
+      "package_invalid_date": null,
+      "package_size": "6 x 0,4 ml_EU/2/03/039/006",
+      "preparation_id": "0910f7c7800f2f3d"
+    },
+    {
+      "display_package_code": "9934037",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934037",
+      "package_invalid_date": null,
+      "package_size": "4 x 0,4 ml_EU/2/03/039/015",
+      "preparation_id": "0910f7c7800f2f3d"
+    },
+    {
+      "display_package_code": "9934392",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934392",
+      "package_invalid_date": null,
+      "package_size": "21 x 0,4 ml_EU/2/03/039/023",
+      "preparation_id": "0910f7c7800f2f3d"
+    },
+    {
+      "display_package_code": "9934393",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934393",
+      "package_invalid_date": null,
+      "package_size": "42 x 0,4 ml_EU/2/03/039/024",
+      "preparation_id": "0910f7c7800f2f3d"
+    }
+  ],
+  "preparation": {
+    "holder_id": "306",
+    "holder_name": "Elanco Animal Health GmbH",
+    "name": "Advocate",
+    "preparation_id": "0910f7c7800f2f3d",
+    "registration_date": "2003-04-02T10:11:26+0000",
+    "registration_number": "EU/2/03/039",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f2f2e",
+    "spc_modified_date": "2024-06-07T8:8:25+0000"
+  },
+  "schema_version": 1
+}

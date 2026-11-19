@@ -1,0 +1,34 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9904485",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904485",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802336e9"
+    },
+    {
+      "display_package_code": "9904486",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904486",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802336e9"
+    }
+  ],
+  "preparation": {
+    "holder_id": "16",
+    "holder_name": "Boehringer Ingelheim Vetmedica, GmbH",
+    "name": "Vetmedin",
+    "preparation_id": "0910f7c7802336e9",
+    "registration_date": "2015-09-03T9:33:13+0000",
+    "registration_number": "96/084/15-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7802313b1",
+    "spc_modified_date": "2024-06-25T9:33:33+0000"
+  },
+  "schema_version": 1
+}

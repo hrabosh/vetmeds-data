@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9910436",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910436",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780099b43"
+    },
+    {
+      "display_package_code": "9990340",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9990340",
+      "package_invalid_date": null,
+      "package_size": "10 x 2 ml",
+      "preparation_id": "0910f7c780099b43"
+    },
+    {
+      "display_package_code": "9991053",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9991053",
+      "package_invalid_date": null,
+      "package_size": "1 x 10 ml",
+      "preparation_id": "0910f7c780099b43"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "OESTROPHAN",
+    "preparation_id": "0910f7c780099b43",
+    "registration_date": "1980-12-16T8:40:54+0000",
+    "registration_number": "99/238/80-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780099b40",
+    "spc_modified_date": "2025-09-23T11:51:04+0000"
+  },
+  "schema_version": 1
+}

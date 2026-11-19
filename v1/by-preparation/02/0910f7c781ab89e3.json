@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9910273",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910273",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ab89e3"
+    },
+    {
+      "display_package_code": "9910274",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910274",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ab89e3"
+    },
+    {
+      "display_package_code": "9910275",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910275",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ab89e3"
+    },
+    {
+      "display_package_code": "9910276",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910276",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ab89e3"
+    },
+    {
+      "display_package_code": "9910277",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910277",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ab89e3"
+    },
+    {
+      "display_package_code": "9910278",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910278",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ab89e3"
+    }
+  ],
+  "preparation": {
+    "holder_id": "48",
+    "holder_name": "Laboratorios Calier S.A.",
+    "name": "Primun Salmonella E",
+    "preparation_id": "0910f7c781ab89e3",
+    "registration_date": "2023-04-28T7:32:37+0000",
+    "registration_number": "97/018/23-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781ab89e2",
+    "spc_modified_date": "2023-05-22T9:37:12+0000"
+  },
+  "schema_version": 1
+}

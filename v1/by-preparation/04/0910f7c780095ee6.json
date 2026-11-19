@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700526",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700526",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780095ee6"
+    },
+    {
+      "display_package_code": "9700527",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700527",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780095ee6"
+    },
+    {
+      "display_package_code": "9902361",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902361",
+      "package_invalid_date": "2025-10-27T9:49:17+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780095ee6"
+    },
+    {
+      "display_package_code": "9902362",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902362",
+      "package_invalid_date": "2025-10-27T9:49:29+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780095ee6"
+    },
+    {
+      "display_package_code": "9991039",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9991039",
+      "package_invalid_date": "2013-06-03T10:23:10+0000",
+      "package_size": "1 x 1,5 kg",
+      "preparation_id": "0910f7c780095ee6"
+    },
+    {
+      "display_package_code": "9997485",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9997485",
+      "package_invalid_date": "2013-06-03T10:22:55+0000",
+      "package_size": "1 x 150 g",
+      "preparation_id": "0910f7c780095ee6"
+    }
+  ],
+  "preparation": {
+    "holder_id": "281",
+    "holder_name": "Phibro Animal Health (Poland) Sp. z o.o.",
+    "name": "Linco-spectin",
+    "preparation_id": "0910f7c780095ee6",
+    "registration_date": "1974-04-05T10:12:32+0000",
+    "registration_number": "99/237/72-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c780095ee2",
+    "spc_modified_date": "2026-10-09T9:13:28+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700042",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700042",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7813c0120"
+    },
+    {
+      "display_package_code": "9700043",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700043",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7813c0120"
+    },
+    {
+      "display_package_code": "9906431",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906431",
+      "package_invalid_date": "2019-06-06T4:2:54+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7813c0120"
+    },
+    {
+      "display_package_code": "9906432",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906432",
+      "package_invalid_date": "2019-06-06T4:4:04+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7813c0120"
+    },
+    {
+      "display_package_code": "9907440",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907440",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7813c0120"
+    },
+    {
+      "display_package_code": "9907441",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907441",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7813c0120"
+    }
+  ],
+  "preparation": {
+    "holder_id": "266",
+    "holder_name": "VETO PHARMA SAS",
+    "name": "Apivar",
+    "preparation_id": "0910f7c7813c0120",
+    "registration_date": "2018-04-27T7:53:51+0000",
+    "registration_number": "96/024/18-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7813bf7bf",
+    "spc_modified_date": "2025-04-22T12:17:32+0000"
+  },
+  "schema_version": 1
+}

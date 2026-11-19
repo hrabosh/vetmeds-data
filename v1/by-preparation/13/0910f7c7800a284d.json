@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9901561",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901561",
+      "package_invalid_date": "2019-12-17T11:16:13+0000",
+      "package_size": "1 x 15 ml (převod registrace)",
+      "preparation_id": "0910f7c7800a284d"
+    },
+    {
+      "display_package_code": "9901562",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901562",
+      "package_invalid_date": "2019-12-17T11:17:11+0000",
+      "package_size": "1 x 30 ml (převod registrace)",
+      "preparation_id": "0910f7c7800a284d"
+    },
+    {
+      "display_package_code": "9907980",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907980",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800a284d"
+    },
+    {
+      "display_package_code": "9907981",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907981",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800a284d"
+    },
+    {
+      "display_package_code": "9936787",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936787",
+      "package_invalid_date": "2012-07-13T5:57:37+0000",
+      "package_size": "1 x 30 ml",
+      "preparation_id": "0910f7c7800a284d"
+    },
+    {
+      "display_package_code": "9960047",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9960047",
+      "package_invalid_date": "2012-07-13T5:57:14+0000",
+      "package_size": "1 x 15 ml",
+      "preparation_id": "0910f7c7800a284d"
+    }
+  ],
+  "preparation": {
+    "holder_id": "248",
+    "holder_name": "Elanco GmbH",
+    "name": "SUROLAN",
+    "preparation_id": "0910f7c7800a284d",
+    "registration_date": "1992-05-07T21:17:33+0000",
+    "registration_number": "96/084/92-S/C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800a284a",
+    "spc_modified_date": "2023-02-02T12:44:09+0000"
+  },
+  "schema_version": 1
+}

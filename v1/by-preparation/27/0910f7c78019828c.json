@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902847",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902847",
+      "package_invalid_date": "2017-06-15T8:8:36+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78019828c"
+    },
+    {
+      "display_package_code": "9902848",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902848",
+      "package_invalid_date": "2017-06-15T8:8:55+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78019828c"
+    },
+    {
+      "display_package_code": "9902849",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902849",
+      "package_invalid_date": "2017-06-15T8:9:14+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78019828c"
+    },
+    {
+      "display_package_code": "9906064",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906064",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78019828c"
+    },
+    {
+      "display_package_code": "9906065",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906065",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78019828c"
+    },
+    {
+      "display_package_code": "9906066",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906066",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78019828c"
+    }
+  ],
+  "preparation": {
+    "holder_id": "134",
+    "holder_name": "Vétoquinol S.A.",
+    "name": "Oestracton",
+    "preparation_id": "0910f7c78019828c",
+    "registration_date": "2013-12-12T8:21:36+0000",
+    "registration_number": "96/061/13-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c780198287",
+    "spc_modified_date": "2022-10-25T11:35:47+0000"
+  },
+  "schema_version": 1
+}

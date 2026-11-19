@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905050",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905050",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780445837"
+    },
+    {
+      "display_package_code": "9905051",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905051",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780445837"
+    },
+    {
+      "display_package_code": "9905052",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905052",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780445837"
+    },
+    {
+      "display_package_code": "9905053",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905053",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780445837"
+    },
+    {
+      "display_package_code": "9905054",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905054",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780445837"
+    },
+    {
+      "display_package_code": "9905055",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905055",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780445837"
+    },
+    {
+      "display_package_code": "9905056",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905056",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780445837"
+    },
+    {
+      "display_package_code": "9905057",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905057",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780445837"
+    }
+  ],
+  "preparation": {
+    "holder_id": "33",
+    "holder_name": "Eurovet Animal Health, B.V.",
+    "name": "Cardisure",
+    "preparation_id": "0910f7c780445837",
+    "registration_date": "2016-06-06T11:55:15+0000",
+    "registration_number": "96/039/16-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780445834",
+    "spc_modified_date": "2026-08-14T8:50:32+0000"
+  },
+  "schema_version": 1
+}

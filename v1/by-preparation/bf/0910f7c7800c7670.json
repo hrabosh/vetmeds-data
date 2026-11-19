@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9938959",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938959",
+      "package_invalid_date": null,
+      "package_size": "5 ml roztoku + 50 fumigačních proužků",
+      "preparation_id": "0910f7c7800c7670"
+    }
+  ],
+  "preparation": {
+    "holder_id": "86",
+    "holder_name": "Výzkumný ústav včelařský s.r.o.",
+    "name": "MP 10 FUM",
+    "preparation_id": "0910f7c7800c7670",
+    "registration_date": "2009-08-28T11:45:33+0000",
+    "registration_number": "96/090/09-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800c766d",
+    "spc_modified_date": "2025-10-07T11:47:32+0000"
+  },
+  "schema_version": 1
+}

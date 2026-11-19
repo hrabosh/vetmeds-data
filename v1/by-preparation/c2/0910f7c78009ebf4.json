@@ -1,0 +1,34 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905968",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905968",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009ebf4"
+    },
+    {
+      "display_package_code": "9934877",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934877",
+      "package_invalid_date": "2019-02-13T9:25:00+0000",
+      "package_size": "3 x 10 tobolek",
+      "preparation_id": "0910f7c78009ebf4"
+    }
+  ],
+  "preparation": {
+    "holder_id": "251",
+    "holder_name": "Dechra Regulatory B.V.",
+    "name": "VETORYL",
+    "preparation_id": "0910f7c78009ebf4",
+    "registration_date": "2006-08-16T9:35:25+0000",
+    "registration_number": "96/015/06-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78009ebf1",
+    "spc_modified_date": "2024-09-27T9:6:11+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9968759",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9968759",
+      "package_invalid_date": null,
+      "package_size": "10 x 10 g",
+      "preparation_id": "0910f7c780096373"
+    }
+  ],
+  "preparation": {
+    "holder_id": "110",
+    "holder_name": "Veyx-Pharma GmbH",
+    "name": "Masti Veyxym",
+    "preparation_id": "0910f7c780096373",
+    "registration_date": "1994-09-09T9:1:32+0000",
+    "registration_number": "96/949/94-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78009636d",
+    "spc_modified_date": "2023-05-19T7:15:41+0000"
+  },
+  "schema_version": 1
+}

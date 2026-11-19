@@ -1,0 +1,358 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9908298",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9908298",
+      "package_invalid_date": "2020-08-04T10:28:29+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78124b987"
+    },
+    {
+      "display_package_code": "9908299",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9908299",
+      "package_invalid_date": "2020-08-04T10:34:13+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78124b987"
+    },
+    {
+      "display_package_code": "9908300",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9908300",
+      "package_invalid_date": "2020-08-04T10:37:33+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78124b987"
+    },
+    {
+      "display_package_code": "9908301",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9908301",
+      "package_invalid_date": "2020-08-04T10:40:46+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78124b987"
+    },
+    {
+      "display_package_code": "9908302",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9908302",
+      "package_invalid_date": "2020-08-04T10:43:14+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78124b987"
+    },
+    {
+      "display_package_code": "9908303",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9908303",
+      "package_invalid_date": "2020-08-04T10:47:00+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78124b987"
+    },
+    {
+      "display_package_code": "9908304",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9908304",
+      "package_invalid_date": "2020-08-04T10:52:08+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78124b987"
+    },
+    {
+      "display_package_code": "9908305",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9908305",
+      "package_invalid_date": "2020-08-04T10:53:17+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78124b987"
+    },
+    {
+      "display_package_code": "9908306",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908306",
+      "package_invalid_date": "2020-08-04T10:55:47+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78124b987"
+    },
+    {
+      "display_package_code": "9908307",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908307",
+      "package_invalid_date": "2020-08-04T10:58:02+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78124b987"
+    },
+    {
+      "display_package_code": "9908308",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908308",
+      "package_invalid_date": "2020-08-04T11:0:14+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78124b987"
+    },
+    {
+      "display_package_code": "9908309",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908309",
+      "package_invalid_date": "2020-08-04T11:2:00+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78124b987"
+    },
+    {
+      "display_package_code": "9908310",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908310",
+      "package_invalid_date": "2020-08-04T11:4:22+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78124b987"
+    },
+    {
+      "display_package_code": "9908311",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908311",
+      "package_invalid_date": "2020-08-04T11:6:46+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78124b987"
+    },
+    {
+      "display_package_code": "9908312",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908312",
+      "package_invalid_date": "2020-08-04T11:8:56+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78124b987"
+    },
+    {
+      "display_package_code": "9908313",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908313",
+      "package_invalid_date": "2020-08-04T11:13:25+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78124b987"
+    },
+    {
+      "display_package_code": "9908314",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908314",
+      "package_invalid_date": "2020-08-04T11:16:06+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78124b987"
+    },
+    {
+      "display_package_code": "9908315",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908315",
+      "package_invalid_date": "2020-08-04T11:19:55+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78124b987"
+    },
+    {
+      "display_package_code": "9908316",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908316",
+      "package_invalid_date": "2020-08-04T11:22:02+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78124b987"
+    },
+    {
+      "display_package_code": "9908667",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9908667",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78124b987"
+    },
+    {
+      "display_package_code": "9908668",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9908668",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78124b987"
+    },
+    {
+      "display_package_code": "9908669",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9908669",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78124b987"
+    },
+    {
+      "display_package_code": "9908670",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9908670",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78124b987"
+    },
+    {
+      "display_package_code": "9908671",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9908671",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78124b987"
+    },
+    {
+      "display_package_code": "9908672",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9908672",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78124b987"
+    },
+    {
+      "display_package_code": "9908673",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9908673",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78124b987"
+    },
+    {
+      "display_package_code": "9908674",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9908674",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78124b987"
+    },
+    {
+      "display_package_code": "9908675",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908675",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78124b987"
+    },
+    {
+      "display_package_code": "9908676",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908676",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78124b987"
+    },
+    {
+      "display_package_code": "9908677",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908677",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78124b987"
+    },
+    {
+      "display_package_code": "9908678",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908678",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78124b987"
+    },
+    {
+      "display_package_code": "9908679",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908679",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78124b987"
+    },
+    {
+      "display_package_code": "9908680",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908680",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78124b987"
+    },
+    {
+      "display_package_code": "9908681",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908681",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78124b987"
+    },
+    {
+      "display_package_code": "9908682",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908682",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78124b987"
+    },
+    {
+      "display_package_code": "9908683",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908683",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78124b987"
+    },
+    {
+      "display_package_code": "9908684",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908684",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78124b987"
+    },
+    {
+      "display_package_code": "9908685",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908685",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78124b987"
+    }
+  ],
+  "preparation": {
+    "holder_id": "37",
+    "holder_name": "Chanelle Pharmaceuticals Manufacturing, Ltd.",
+    "name": "Fipnil Combo",
+    "preparation_id": "0910f7c78124b987",
+    "registration_date": "2020-03-11T11:56:16+0000",
+    "registration_number": "96/021/20-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78124b982",
+    "spc_modified_date": "2025-08-01T6:55:39+0000"
+  },
+  "schema_version": 1
+}

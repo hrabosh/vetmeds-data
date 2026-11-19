@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9903504",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903504",
+      "package_invalid_date": "2019-07-03T9:55:06+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7800f2f8c"
+    },
+    {
+      "display_package_code": "9907572",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907572",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f2f8c"
+    },
+    {
+      "display_package_code": "9907573",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907573",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f2f8c"
+    },
+    {
+      "display_package_code": "9934569",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934569",
+      "package_invalid_date": "2013-01-31T11:22:48+0000",
+      "package_size": "1 x 16 g_EU/2/04/044/011(balení zrušeno)",
+      "preparation_id": "0910f7c7800f2f8c"
+    },
+    {
+      "display_package_code": "9934570",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934570",
+      "package_invalid_date": "2019-07-03T9:52:37+0000",
+      "package_size": "1 x 40 g_EU/2/04/044/012",
+      "preparation_id": "0910f7c7800f2f8c"
+    }
+  ],
+  "preparation": {
+    "holder_id": "256",
+    "holder_name": "ECO Animal Health Europe Limited",
+    "name": "Aivlosin",
+    "preparation_id": "0910f7c7800f2f8c",
+    "registration_date": "2004-09-09T10:17:28+0000",
+    "registration_number": "EU/2/04/044",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f2f5d",
+    "spc_modified_date": "2024-08-29T12:3:00+0000"
+  },
+  "schema_version": 1
+}

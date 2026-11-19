@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906953",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906953",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780093345"
+    },
+    {
+      "display_package_code": "9906954",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906954",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780093345"
+    },
+    {
+      "display_package_code": "9906955",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906955",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780093345"
+    },
+    {
+      "display_package_code": "9935407",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935407",
+      "package_invalid_date": "2019-01-10T10:45:20+0000",
+      "package_size": "1 X 250 ml",
+      "preparation_id": "0910f7c780093345"
+    },
+    {
+      "display_package_code": "9938879",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938879",
+      "package_invalid_date": "2019-01-10T10:43:21+0000",
+      "package_size": "1 X 50 ml",
+      "preparation_id": "0910f7c780093345"
+    },
+    {
+      "display_package_code": "9938880",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938880",
+      "package_invalid_date": "2019-01-10T10:43:58+0000",
+      "package_size": "1 X 100 ml",
+      "preparation_id": "0910f7c780093345"
+    }
+  ],
+  "preparation": {
+    "holder_id": "61",
+    "holder_name": "Norbrook Laboratories (Ireland) Limited",
+    "name": "Flunixin Norbrook",
+    "preparation_id": "0910f7c780093345",
+    "registration_date": "2000-06-12T7:56:37+0000",
+    "registration_number": "96/042/00-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c780093342",
+    "spc_modified_date": "2026-07-17T7:57:51+0000"
+  },
+  "schema_version": 1
+}

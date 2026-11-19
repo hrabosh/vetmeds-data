@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909174",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909174",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78164e3db"
+    },
+    {
+      "display_package_code": "9909175",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909175",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78164e3db"
+    },
+    {
+      "display_package_code": "9909176",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909176",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78164e3db"
+    }
+  ],
+  "preparation": {
+    "holder_id": "251",
+    "holder_name": "Dechra Regulatory B.V.",
+    "name": "Rexxolide",
+    "preparation_id": "0910f7c78164e3db",
+    "registration_date": "2020-12-03T7:9:10+0000",
+    "registration_number": "EU/2/20/263",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c78164e3da",
+    "spc_modified_date": "2026-04-16T10:43:35+0000"
+  },
+  "schema_version": 1
+}

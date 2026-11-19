@@ -1,0 +1,124 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9907395",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907395",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781466707"
+    },
+    {
+      "display_package_code": "9907396",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907396",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781466707"
+    },
+    {
+      "display_package_code": "9907397",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907397",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781466707"
+    },
+    {
+      "display_package_code": "9907398",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907398",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781466707"
+    },
+    {
+      "display_package_code": "9907399",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907399",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781466707"
+    },
+    {
+      "display_package_code": "9907400",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907400",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781466707"
+    },
+    {
+      "display_package_code": "9907401",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907401",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781466707"
+    },
+    {
+      "display_package_code": "9907402",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907402",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781466707"
+    },
+    {
+      "display_package_code": "9907403",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907403",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781466707"
+    },
+    {
+      "display_package_code": "9907404",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907404",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781466707"
+    },
+    {
+      "display_package_code": "9907405",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907405",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781466707"
+    },
+    {
+      "display_package_code": "9907406",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907406",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781466707"
+    }
+  ],
+  "preparation": {
+    "holder_id": "251",
+    "holder_name": "Dechra Regulatory B.V.",
+    "name": "Clindabactin",
+    "preparation_id": "0910f7c781466707",
+    "registration_date": "2019-06-04T6:33:56+0000",
+    "registration_number": "96/036/19-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781466706",
+    "spc_modified_date": "2025-05-30T8:37:40+0000"
+  },
+  "schema_version": 1
+}

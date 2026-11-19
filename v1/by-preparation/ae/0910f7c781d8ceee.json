@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700761",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700761",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781d8ceee"
+    }
+  ],
+  "preparation": {
+    "holder_id": "248",
+    "holder_name": "Elanco GmbH",
+    "name": "Varenzin",
+    "preparation_id": "0910f7c781d8ceee",
+    "registration_date": "2026-01-22T7:40:57+0000",
+    "registration_number": "EU/2/25/358",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c781d8ceed",
+    "spc_modified_date": "2026-01-29T10:15:18+0000"
+  },
+  "schema_version": 1
+}

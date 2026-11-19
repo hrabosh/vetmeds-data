@@ -1,0 +1,97 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900369",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900369",
+      "package_invalid_date": null,
+      "package_size": "50 x 1 ks inzertu (krabice plast)",
+      "preparation_id": "0910f7c7801211ee"
+    },
+    {
+      "display_package_code": "9900370",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900370",
+      "package_invalid_date": null,
+      "package_size": "50 x 1 ks inzertu + aplikátor (krabice plast)",
+      "preparation_id": "0910f7c7801211ee"
+    },
+    {
+      "display_package_code": "9904476",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904476",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801211ee"
+    },
+    {
+      "display_package_code": "9934750",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934750",
+      "package_invalid_date": null,
+      "package_size": "1 x 10 ks inzertů",
+      "preparation_id": "0910f7c7801211ee"
+    },
+    {
+      "display_package_code": "9934751",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934751",
+      "package_invalid_date": null,
+      "package_size": "10 x 1 ks inzertu",
+      "preparation_id": "0910f7c7801211ee"
+    },
+    {
+      "display_package_code": "9934752",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934752",
+      "package_invalid_date": null,
+      "package_size": "25 x 1 ks inzertu",
+      "preparation_id": "0910f7c7801211ee"
+    },
+    {
+      "display_package_code": "9934753",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934753",
+      "package_invalid_date": null,
+      "package_size": "50 x 1 ks inzertu",
+      "preparation_id": "0910f7c7801211ee"
+    },
+    {
+      "display_package_code": "9934754",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934754",
+      "package_invalid_date": null,
+      "package_size": "25 x 1 ks inzertu + aplikátor",
+      "preparation_id": "0910f7c7801211ee"
+    },
+    {
+      "display_package_code": "9934755",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934755",
+      "package_invalid_date": null,
+      "package_size": "50 x 1 ks inzertu + aplikátor",
+      "preparation_id": "0910f7c7801211ee"
+    }
+  ],
+  "preparation": {
+    "holder_id": "322",
+    "holder_name": "Ceva Sante Animale",
+    "name": "PRID delta",
+    "preparation_id": "0910f7c7801211ee",
+    "registration_date": "2011-04-26T11:56:37+0000",
+    "registration_number": "96/031/11-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7801211e8",
+    "spc_modified_date": "2026-04-27T11:56:58+0000"
+  },
+  "schema_version": 1
+}

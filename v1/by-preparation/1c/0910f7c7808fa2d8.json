@@ -1,0 +1,34 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906672",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906672",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808fa2d8"
+    },
+    {
+      "display_package_code": "9906673",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906673",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808fa2d8"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "Bravecto Plus",
+    "preparation_id": "0910f7c7808fa2d8",
+    "registration_date": "2018-05-08T10:52:35+0000",
+    "registration_number": "EU/2/18/224",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7808fa2d7",
+    "spc_modified_date": "2023-09-07T10:18:34+0000"
+  },
+  "schema_version": 1
+}

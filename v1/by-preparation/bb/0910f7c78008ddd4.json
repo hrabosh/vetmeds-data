@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902066",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902066",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml (převod registrace)",
+      "preparation_id": "0910f7c78008ddd4"
+    },
+    {
+      "display_package_code": "9902067",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902067",
+      "package_invalid_date": null,
+      "package_size": "1 x 1000 ml (převod registrace)",
+      "preparation_id": "0910f7c78008ddd4"
+    },
+    {
+      "display_package_code": "9902068",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902068",
+      "package_invalid_date": null,
+      "package_size": "1 x 5000 ml (převod registrace)",
+      "preparation_id": "0910f7c78008ddd4"
+    },
+    {
+      "display_package_code": "9937943",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937943",
+      "package_invalid_date": "2012-12-18T6:58:07+0000",
+      "package_size": "100 ml",
+      "preparation_id": "0910f7c78008ddd4"
+    },
+    {
+      "display_package_code": "9966721",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9966721",
+      "package_invalid_date": "2012-12-18T7:14:31+0000",
+      "package_size": "1000 ml",
+      "preparation_id": "0910f7c78008ddd4"
+    },
+    {
+      "display_package_code": "9966722",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9966722",
+      "package_invalid_date": "2012-12-18T7:14:48+0000",
+      "package_size": "5000 ml",
+      "preparation_id": "0910f7c78008ddd4"
+    }
+  ],
+  "preparation": {
+    "holder_id": "203",
+    "holder_name": "Mikrochem spol. s r.o.",
+    "name": "Aldifal",
+    "preparation_id": "0910f7c78008ddd4",
+    "registration_date": "1992-11-17T11:37:03+0000",
+    "registration_number": "96/676/92–S/C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78008ddd1",
+    "spc_modified_date": "2022-10-26T5:54:34+0000"
+  },
+  "schema_version": 1
+}

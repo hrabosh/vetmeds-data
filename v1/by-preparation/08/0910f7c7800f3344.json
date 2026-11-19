@@ -1,0 +1,97 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900497",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900497",
+      "package_invalid_date": "2017-08-31T9:49:26+0000",
+      "package_size": "7 x 7,32 g_EU/2/08/083/004",
+      "preparation_id": "0910f7c7800f3344"
+    },
+    {
+      "display_package_code": "9900498",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900498",
+      "package_invalid_date": "2017-08-31T9:50:00+0000",
+      "package_size": "14 x 7,32 g_EU/2/08/083/005",
+      "preparation_id": "0910f7c7800f3344"
+    },
+    {
+      "display_package_code": "9906163",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906163",
+      "package_invalid_date": "2020-11-10T11:52:15+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3344"
+    },
+    {
+      "display_package_code": "9906164",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906164",
+      "package_invalid_date": "2020-11-10T12:5:40+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3344"
+    },
+    {
+      "display_package_code": "9906165",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906165",
+      "package_invalid_date": "2020-11-10T12:1:49+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3344"
+    },
+    {
+      "display_package_code": "9908929",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908929",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3344"
+    },
+    {
+      "display_package_code": "9908930",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908930",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3344"
+    },
+    {
+      "display_package_code": "9908931",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908931",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3344"
+    },
+    {
+      "display_package_code": "9934419",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934419",
+      "package_invalid_date": "2017-08-31T9:48:55+0000",
+      "package_size": "1 x 7,32 g_EU/2/08/083/001",
+      "preparation_id": "0910f7c7800f3344"
+    }
+  ],
+  "preparation": {
+    "holder_id": "292",
+    "holder_name": "Audevard",
+    "name": "Equioxx",
+    "preparation_id": "0910f7c7800f3344",
+    "registration_date": "2008-06-25T12:10:47+0000",
+    "registration_number": "EU/2/08/083",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f3341",
+    "spc_modified_date": "2026-04-16T10:39:00+0000"
+  },
+  "schema_version": 1
+}

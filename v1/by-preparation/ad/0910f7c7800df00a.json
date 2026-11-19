@@ -1,0 +1,106 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900301",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900301",
+      "package_invalid_date": null,
+      "package_size": "5 x 100 ml",
+      "preparation_id": "0910f7c7800df00a"
+    },
+    {
+      "display_package_code": "9900302",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900302",
+      "package_invalid_date": null,
+      "package_size": "12 x 100 ml",
+      "preparation_id": "0910f7c7800df00a"
+    },
+    {
+      "display_package_code": "9900303",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900303",
+      "package_invalid_date": null,
+      "package_size": "20 x 100 ml",
+      "preparation_id": "0910f7c7800df00a"
+    },
+    {
+      "display_package_code": "9900304",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900304",
+      "package_invalid_date": null,
+      "package_size": "5 x 100 ml",
+      "preparation_id": "0910f7c7800df00a"
+    },
+    {
+      "display_package_code": "9900305",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900305",
+      "package_invalid_date": null,
+      "package_size": "12 x 100 ml",
+      "preparation_id": "0910f7c7800df00a"
+    },
+    {
+      "display_package_code": "9900306",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900306",
+      "package_invalid_date": null,
+      "package_size": "20 x 100 ml",
+      "preparation_id": "0910f7c7800df00a"
+    },
+    {
+      "display_package_code": "9900307",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900307",
+      "package_invalid_date": null,
+      "package_size": "12 x 200 ml",
+      "preparation_id": "0910f7c7800df00a"
+    },
+    {
+      "display_package_code": "9901182",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901182",
+      "package_invalid_date": null,
+      "package_size": "5 x 100 ml",
+      "preparation_id": "0910f7c7800df00a"
+    },
+    {
+      "display_package_code": "9901183",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901183",
+      "package_invalid_date": null,
+      "package_size": "12 x 100 ml",
+      "preparation_id": "0910f7c7800df00a"
+    },
+    {
+      "display_package_code": "9901184",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901184",
+      "package_invalid_date": null,
+      "package_size": "20 x 100 ml",
+      "preparation_id": "0910f7c7800df00a"
+    }
+  ],
+  "preparation": {
+    "holder_id": "168",
+    "holder_name": "Pharmacosmos",
+    "name": "Uniferon",
+    "preparation_id": "0910f7c7800df00a",
+    "registration_date": "2011-04-01T6:10:43+0000",
+    "registration_number": "96/028/11-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800df007",
+    "spc_modified_date": "2026-08-26T6:11:04+0000"
+  },
+  "schema_version": 1
+}

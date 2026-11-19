@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9939970",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939970",
+      "package_invalid_date": null,
+      "package_size": "5 x 2 tbl",
+      "preparation_id": "0910f7c780093cc6"
+    }
+  ],
+  "preparation": {
+    "holder_id": "152",
+    "holder_name": "Lavet Pharmaceuticals Ltd.",
+    "name": "HELM-EX Flavour",
+    "preparation_id": "0910f7c780093cc6",
+    "registration_date": "2003-08-27T10:40:45+0000",
+    "registration_number": "96/064/03-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780093cc2",
+    "spc_modified_date": "2026-05-26T10:41:04+0000"
+  },
+  "schema_version": 1
+}

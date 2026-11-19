@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9935315",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935315",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 g",
+      "preparation_id": "0910f7c78008e25e"
+    },
+    {
+      "display_package_code": "9935352",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935352",
+      "package_invalid_date": null,
+      "package_size": "1 x 500 g",
+      "preparation_id": "0910f7c78008e25e"
+    },
+    {
+      "display_package_code": "9935368",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935368",
+      "package_invalid_date": null,
+      "package_size": "1 x 3 kg",
+      "preparation_id": "0910f7c78008e25e"
+    },
+    {
+      "display_package_code": "9936390",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936390",
+      "package_invalid_date": null,
+      "package_size": "1 x 1 kg",
+      "preparation_id": "0910f7c78008e25e"
+    },
+    {
+      "display_package_code": "9936423",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936423",
+      "package_invalid_date": null,
+      "package_size": "1 x 5 kg",
+      "preparation_id": "0910f7c78008e25e"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "BIOVETA AMOXICILIN",
+    "preparation_id": "0910f7c78008e25e",
+    "registration_date": "2003-12-29T12:53:17+0000",
+    "registration_number": "96/095/03-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78008e25b",
+    "spc_modified_date": "2026-05-05T11:54:25+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9904581",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904581",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780363754"
+    },
+    {
+      "display_package_code": "9904582",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904582",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780363754"
+    },
+    {
+      "display_package_code": "9904583",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904583",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780363754"
+    },
+    {
+      "display_package_code": "9905832",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905832",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780363754"
+    }
+  ],
+  "preparation": {
+    "holder_id": "46",
+    "holder_name": "Krka d.d. Novo mesto",
+    "name": "Amatib",
+    "preparation_id": "0910f7c780363754",
+    "registration_date": "2015-11-05T11:31:32+0000",
+    "registration_number": "96/096/15-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c780363753",
+    "spc_modified_date": "2024-06-25T9:37:37+0000"
+  },
+  "schema_version": 1
+}

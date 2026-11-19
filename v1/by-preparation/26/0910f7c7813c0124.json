@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906848",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906848",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7813c0124"
+    },
+    {
+      "display_package_code": "9906849",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906849",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7813c0124"
+    },
+    {
+      "display_package_code": "9906850",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906850",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7813c0124"
+    },
+    {
+      "display_package_code": "9906851",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906851",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7813c0124"
+    }
+  ],
+  "preparation": {
+    "holder_id": "46",
+    "holder_name": "Krka d.d. Novo mesto",
+    "name": "Selehold pro kočky 7,6-10kg",
+    "preparation_id": "0910f7c7813c0124",
+    "registration_date": "2018-12-18T6:49:13+0000",
+    "registration_number": "96/070/18-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7813c0121",
+    "spc_modified_date": "2023-12-19T7:56:04+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9938181",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9938181",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c7800daac9"
+    },
+    {
+      "display_package_code": "9938203",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9938203",
+      "package_invalid_date": null,
+      "package_size": "1 x 200 ml",
+      "preparation_id": "0910f7c7800daac9"
+    },
+    {
+      "display_package_code": "9938233",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9938233",
+      "package_invalid_date": null,
+      "package_size": "1 x 1000 ml",
+      "preparation_id": "0910f7c7800daac9"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "PVP Jod",
+    "preparation_id": "0910f7c7800daac9",
+    "registration_date": "2009-05-29T6:47:39+0000",
+    "registration_number": "99/012/09-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800daac6",
+    "spc_modified_date": "2026-05-04T6:47:59+0000"
+  },
+  "schema_version": 1
+}

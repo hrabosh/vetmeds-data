@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902642",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902642",
+      "package_invalid_date": "2024-07-26T7:19:05+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780097be7"
+    },
+    {
+      "display_package_code": "9902643",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902643",
+      "package_invalid_date": "2024-07-26T7:19:35+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780097be7"
+    },
+    {
+      "display_package_code": "9907653",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907653",
+      "package_invalid_date": "2024-07-26T7:19:45+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780097be7"
+    },
+    {
+      "display_package_code": "9911140",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911140",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780097be7"
+    },
+    {
+      "display_package_code": "9936835",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936835",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 ml",
+      "preparation_id": "0910f7c780097be7"
+    },
+    {
+      "display_package_code": "9936852",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936852",
+      "package_invalid_date": null,
+      "package_size": "1 x 500 ml",
+      "preparation_id": "0910f7c780097be7"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "Nobilis Salenvac T",
+    "preparation_id": "0910f7c780097be7",
+    "registration_date": "2004-08-06T9:13:34+0000",
+    "registration_number": "97/129/04-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c780097be1",
+    "spc_modified_date": "2025-08-01T9:13:52+0000"
+  },
+  "schema_version": 1
+}

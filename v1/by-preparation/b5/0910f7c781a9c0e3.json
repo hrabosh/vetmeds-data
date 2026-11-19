@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9911006",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911006",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a9c0e3"
+    },
+    {
+      "display_package_code": "9911007",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911007",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a9c0e3"
+    },
+    {
+      "display_package_code": "9911008",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911008",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a9c0e3"
+    },
+    {
+      "display_package_code": "9911009",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911009",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a9c0e3"
+    },
+    {
+      "display_package_code": "9911010",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911010",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a9c0e3"
+    },
+    {
+      "display_package_code": "9911011",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911011",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a9c0e3"
+    }
+  ],
+  "preparation": {
+    "holder_id": "178",
+    "holder_name": "Emdoka",
+    "name": "Trilocur",
+    "preparation_id": "0910f7c781a9c0e3",
+    "registration_date": "2024-05-06T13:18:52+0000",
+    "registration_number": "EU/2/24/312",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c781a9c0de",
+    "spc_modified_date": "2026-02-24T12:46:09+0000"
+  },
+  "schema_version": 1
+}

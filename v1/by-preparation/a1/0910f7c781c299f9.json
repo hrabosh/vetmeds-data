@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700058",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700058",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c299f9"
+    }
+  ],
+  "preparation": {
+    "holder_id": "49",
+    "holder_name": "Laboratorios Hipra S.A.",
+    "name": "ICTHIOVAC ERM",
+    "preparation_id": "0910f7c781c299f9",
+    "registration_date": "2025-01-23T9:18:07+0000",
+    "registration_number": "EU/2/24/330",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c781c299f8",
+    "spc_modified_date": "2025-03-13T9:39:54+0000"
+  },
+  "schema_version": 1
+}

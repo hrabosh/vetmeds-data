@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9935385",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935385",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c78009eb6e"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "VETALGIN",
+    "preparation_id": "0910f7c78009eb6e",
+    "registration_date": "1995-08-22T5:44:29+0000",
+    "registration_number": "96/724/95-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78009eb6b",
+    "spc_modified_date": "2024-11-27T7:22:45+0000"
+  },
+  "schema_version": 1
+}

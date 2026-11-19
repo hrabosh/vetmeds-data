@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9935949",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935949",
+      "package_invalid_date": null,
+      "package_size": "10 x 1 dávka (10 lékovek s lyofilizovanou složkou + 10 lékvek s ředící složkou)",
+      "preparation_id": "0910f7c78009865e"
+    },
+    {
+      "display_package_code": "9935959",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935959",
+      "package_invalid_date": null,
+      "package_size": "25 x 1 dávka (25 lékovek s lyofilizovanou složkou + 25 lékovek s ředící složkou)",
+      "preparation_id": "0910f7c78009865e"
+    },
+    {
+      "display_package_code": "9935969",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935969",
+      "package_invalid_date": null,
+      "package_size": "50 x 1 dávka (50 lékovek s lyofilizovanou složkou + 50 lékovek s ředící složkou)",
+      "preparation_id": "0910f7c78009865e"
+    }
+  ],
+  "preparation": {
+    "holder_id": "112",
+    "holder_name": "VIRBAC",
+    "name": "PARVIGEN",
+    "preparation_id": "0910f7c78009865e",
+    "registration_date": "2001-12-20T12:9:03+0000",
+    "registration_number": "97/088/01-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c780098657",
+    "spc_modified_date": "2022-10-26T8:28:23+0000"
+  },
+  "schema_version": 1
+}

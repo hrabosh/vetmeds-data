@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9904551",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9904551",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78032ba60"
+    },
+    {
+      "display_package_code": "9904552",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9904552",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78032ba60"
+    },
+    {
+      "display_package_code": "9904553",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9904553",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78032ba60"
+    },
+    {
+      "display_package_code": "9904554",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9904554",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78032ba60"
+    },
+    {
+      "display_package_code": "9909346",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9909346",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78032ba60"
+    }
+  ],
+  "preparation": {
+    "holder_id": "46",
+    "holder_name": "Krka d.d. Novo mesto",
+    "name": "Ataxxa pro psy do 4 kg",
+    "preparation_id": "0910f7c78032ba60",
+    "registration_date": "2015-10-22T5:33:50+0000",
+    "registration_number": "96/090/15-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78032ba24",
+    "spc_modified_date": "2024-03-26T8:45:39+0000"
+  },
+  "schema_version": 1
+}

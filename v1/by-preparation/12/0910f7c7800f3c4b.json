@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909126",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909126",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3c4b"
+    },
+    {
+      "display_package_code": "9909127",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909127",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3c4b"
+    },
+    {
+      "display_package_code": "9909128",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909128",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3c4b"
+    },
+    {
+      "display_package_code": "9909129",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909129",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3c4b"
+    },
+    {
+      "display_package_code": "9934451",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934451",
+      "package_invalid_date": "2021-01-21T9:22:11+0000",
+      "package_size": "1 x 2 tbl._EU/2/05/054/028",
+      "preparation_id": "0910f7c7800f3c4b"
+    },
+    {
+      "display_package_code": "9934452",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934452",
+      "package_invalid_date": "2021-01-21T9:23:37+0000",
+      "package_size": "1 x 4 tbl._EU/2/05/054/029",
+      "preparation_id": "0910f7c7800f3c4b"
+    },
+    {
+      "display_package_code": "9934453",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934453",
+      "package_invalid_date": "2021-01-21T9:25:12+0000",
+      "package_size": "6 x 4 tbl._EU/2/05/054/030",
+      "preparation_id": "0910f7c7800f3c4b"
+    },
+    {
+      "display_package_code": "9934454",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934454",
+      "package_invalid_date": "2021-01-21T9:26:42+0000",
+      "package_size": "13 x 4 tbl._EU/2/05/054/031",
+      "preparation_id": "0910f7c7800f3c4b"
+    }
+  ],
+  "preparation": {
+    "holder_id": "134",
+    "holder_name": "Vétoquinol S.A.",
+    "name": "Profender",
+    "preparation_id": "0910f7c7800f3c4b",
+    "registration_date": "2005-07-27T5:38:46+0000",
+    "registration_number": "EU/2/05/054",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f3c24",
+    "spc_modified_date": "2025-07-11T9:10:22+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9997426",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9997426",
+      "package_invalid_date": null,
+      "package_size": "1 x 25 ml",
+      "preparation_id": "0910f7c78009d254"
+    },
+    {
+      "display_package_code": "9997427",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9997427",
+      "package_invalid_date": null,
+      "package_size": "1 x 5 ml",
+      "preparation_id": "0910f7c78009d254"
+    },
+    {
+      "display_package_code": "9997428",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9997428",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c78009d254"
+    },
+    {
+      "display_package_code": "9997429",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9997429",
+      "package_invalid_date": null,
+      "package_size": "5 x 5 ml",
+      "preparation_id": "0910f7c78009d254"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "TRICHOEQUEN",
+    "preparation_id": "0910f7c78009d254",
+    "registration_date": "1992-04-24T10:26:09+0000",
+    "registration_number": "97/294/92-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78009d251",
+    "spc_modified_date": "2026-10-29T7:25:32+0000"
+  },
+  "schema_version": 1
+}

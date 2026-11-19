@@ -1,0 +1,34 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700884",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700884",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781edb02c"
+    },
+    {
+      "display_package_code": "9700885",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700885",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781edb02c"
+    }
+  ],
+  "preparation": {
+    "holder_id": "299",
+    "holder_name": "VetViva Richter GmbH",
+    "name": "Ketiva",
+    "preparation_id": "0910f7c781edb02c",
+    "registration_date": "2026-03-17T12:5:47+0000",
+    "registration_number": "96/028/26-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781edaf43",
+    "spc_modified_date": "2026-09-23T11:6:46+0000"
+  },
+  "schema_version": 1
+}

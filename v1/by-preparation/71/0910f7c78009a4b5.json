@@ -1,0 +1,142 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900112",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900112",
+      "package_invalid_date": null,
+      "package_size": "10 x 100 ml (souběžný dovoz)",
+      "preparation_id": "0910f7c78009a4b5"
+    },
+    {
+      "display_package_code": "9900113",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900113",
+      "package_invalid_date": null,
+      "package_size": "4 x 250 ml (souběžný dovoz)",
+      "preparation_id": "0910f7c78009a4b5"
+    },
+    {
+      "display_package_code": "9908042",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908042",
+      "package_invalid_date": "2020-05-18T14:3:19+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78009a4b5"
+    },
+    {
+      "display_package_code": "9908043",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908043",
+      "package_invalid_date": "2024-07-17T7:32:59+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78009a4b5"
+    },
+    {
+      "display_package_code": "9908044",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908044",
+      "package_invalid_date": "2020-05-18T14:9:13+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78009a4b5"
+    },
+    {
+      "display_package_code": "9908045",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908045",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009a4b5"
+    },
+    {
+      "display_package_code": "9908046",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908046",
+      "package_invalid_date": "2020-05-18T14:11:33+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78009a4b5"
+    },
+    {
+      "display_package_code": "9908047",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908047",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009a4b5"
+    },
+    {
+      "display_package_code": "9934784",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934784",
+      "package_invalid_date": "2020-01-08T6:51:53+0000",
+      "package_size": "10 x 20 ml",
+      "preparation_id": "0910f7c78009a4b5"
+    },
+    {
+      "display_package_code": "9934785",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934785",
+      "package_invalid_date": "2020-01-08T6:52:23+0000",
+      "package_size": "10 x 100 ml",
+      "preparation_id": "0910f7c78009a4b5"
+    },
+    {
+      "display_package_code": "9934786",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934786",
+      "package_invalid_date": "2020-01-08T6:53:02+0000",
+      "package_size": "4 x 250 ml",
+      "preparation_id": "0910f7c78009a4b5"
+    },
+    {
+      "display_package_code": "9934787",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934787",
+      "package_invalid_date": "2020-01-08T6:53:36+0000",
+      "package_size": "1 x 20 ml",
+      "preparation_id": "0910f7c78009a4b5"
+    },
+    {
+      "display_package_code": "9934788",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934788",
+      "package_invalid_date": "2020-01-08T6:55:37+0000",
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c78009a4b5"
+    },
+    {
+      "display_package_code": "9934789",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934789",
+      "package_invalid_date": "2020-01-08T6:57:00+0000",
+      "package_size": "1 x 250 ml",
+      "preparation_id": "0910f7c78009a4b5"
+    }
+  ],
+  "preparation": {
+    "holder_id": "248",
+    "holder_name": "Elanco GmbH",
+    "name": "RESPISURE 1 ONE",
+    "preparation_id": "0910f7c78009a4b5",
+    "registration_date": "2003-10-09T10:29:27+0000",
+    "registration_number": "97/082/03-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78009a4b2",
+    "spc_modified_date": "2025-10-24T10:29:44+0000"
+  },
+  "schema_version": 1
+}

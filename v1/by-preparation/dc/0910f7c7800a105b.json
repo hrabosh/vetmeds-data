@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9907953",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907953",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800a105b"
+    },
+    {
+      "display_package_code": "9907954",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907954",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800a105b"
+    },
+    {
+      "display_package_code": "9907955",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907955",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800a105b"
+    },
+    {
+      "display_package_code": "9907956",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907956",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800a105b"
+    },
+    {
+      "display_package_code": "9935262",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935262",
+      "package_invalid_date": "2019-12-11T12:24:56+0000",
+      "package_size": "10 x 50 ml",
+      "preparation_id": "0910f7c7800a105b"
+    },
+    {
+      "display_package_code": "9937516",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937516",
+      "package_invalid_date": "2019-12-11T12:25:26+0000",
+      "package_size": "100 ml",
+      "preparation_id": "0910f7c7800a105b"
+    },
+    {
+      "display_package_code": "9997050",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9997050",
+      "package_invalid_date": "2019-12-11T12:24:27+0000",
+      "package_size": "50 ml",
+      "preparation_id": "0910f7c7800a105b"
+    },
+    {
+      "display_package_code": "9997051",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9997051",
+      "package_invalid_date": "2019-12-11T12:25:56+0000",
+      "package_size": "250 ml",
+      "preparation_id": "0910f7c7800a105b"
+    }
+  ],
+  "preparation": {
+    "holder_id": "27",
+    "holder_name": "Dopharma Research, B.V.",
+    "name": "SUANOVIL",
+    "preparation_id": "0910f7c7800a105b",
+    "registration_date": "1991-07-25T9:4:14+0000",
+    "registration_number": "96/258/91-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7800a1058",
+    "spc_modified_date": "2022-10-26T9:1:48+0000"
+  },
+  "schema_version": 1
+}

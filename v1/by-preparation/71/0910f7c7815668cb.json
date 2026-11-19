@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9908638",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908638",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815668cb"
+    },
+    {
+      "display_package_code": "9908639",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908639",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815668cb"
+    },
+    {
+      "display_package_code": "9908640",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908640",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815668cb"
+    },
+    {
+      "display_package_code": "9908641",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908641",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815668cb"
+    },
+    {
+      "display_package_code": "9908642",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908642",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815668cb"
+    }
+  ],
+  "preparation": {
+    "holder_id": "193",
+    "holder_name": "Bela-Pharm GmbH",
+    "name": "BelaZin",
+    "preparation_id": "0910f7c7815668cb",
+    "registration_date": "2020-07-28T6:5:38+0000",
+    "registration_number": "96/051/20-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7815668ca",
+    "spc_modified_date": "2025-10-24T9:4:05+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9938367",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938367",
+      "package_invalid_date": null,
+      "package_size": "1 x 1 l",
+      "preparation_id": "0910f7c78008dd86"
+    }
+  ],
+  "preparation": {
+    "holder_id": "37",
+    "holder_name": "Chanelle Pharmaceuticals Manufacturing, Ltd.",
+    "name": "Albex",
+    "preparation_id": "0910f7c78008dd86",
+    "registration_date": "1998-12-03T10:29:38+0000",
+    "registration_number": "96/143/98-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78008dd7f",
+    "spc_modified_date": "2026-09-22T9:29:55+0000"
+  },
+  "schema_version": 1
+}

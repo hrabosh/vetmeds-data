@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9910967",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910967",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781afcc7f"
+    },
+    {
+      "display_package_code": "9910968",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910968",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781afcc7f"
+    },
+    {
+      "display_package_code": "9910969",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910969",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781afcc7f"
+    },
+    {
+      "display_package_code": "9910970",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910970",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781afcc7f"
+    }
+  ],
+  "preparation": {
+    "holder_id": "24",
+    "holder_name": "CP-Pharma Handelsgesellschaft, mbH",
+    "name": "Tramatab",
+    "preparation_id": "0910f7c781afcc7f",
+    "registration_date": "2024-05-10T10:2:51+0000",
+    "registration_number": "96/023/24-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781afcc7e",
+    "spc_modified_date": "2024-08-06T11:16:23+0000"
+  },
+  "schema_version": 1
+}

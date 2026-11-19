@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9937670",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937670",
+      "package_invalid_date": null,
+      "package_size": "5x1 dávka",
+      "preparation_id": "0910f7c780097ceb"
+    },
+    {
+      "display_package_code": "9937697",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937697",
+      "package_invalid_date": null,
+      "package_size": "10x1 dávka",
+      "preparation_id": "0910f7c780097ceb"
+    },
+    {
+      "display_package_code": "9937726",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937726",
+      "package_invalid_date": null,
+      "package_size": "25x1 dávka",
+      "preparation_id": "0910f7c780097ceb"
+    },
+    {
+      "display_package_code": "9937773",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937773",
+      "package_invalid_date": null,
+      "package_size": "50x1 dávka",
+      "preparation_id": "0910f7c780097ceb"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "Nobivac Tricat Trio",
+    "preparation_id": "0910f7c780097ceb",
+    "registration_date": "2007-09-12T9:14:45+0000",
+    "registration_number": "97/043/07-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780097ce8",
+    "spc_modified_date": "2023-04-19T7:25:27+0000"
+  },
+  "schema_version": 1
+}

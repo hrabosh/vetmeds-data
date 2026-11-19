@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900089",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900089",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 ml (převod registrace)",
+      "preparation_id": "0910f7c78008e8ab"
+    },
+    {
+      "display_package_code": "9900090",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900090",
+      "package_invalid_date": null,
+      "package_size": "1 x 1 l (převod registrace)",
+      "preparation_id": "0910f7c78008e8ab"
+    },
+    {
+      "display_package_code": "9900091",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900091",
+      "package_invalid_date": null,
+      "package_size": "1 x 5 l (převod registrace)",
+      "preparation_id": "0910f7c78008e8ab"
+    },
+    {
+      "display_package_code": "9936172",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936172",
+      "package_invalid_date": "2011-01-06T11:14:34+0000",
+      "package_size": "1 x 250 ml",
+      "preparation_id": "0910f7c78008e8ab"
+    },
+    {
+      "display_package_code": "9936403",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936403",
+      "package_invalid_date": "2011-01-06T11:14:48+0000",
+      "package_size": "1 x 1 l kód",
+      "preparation_id": "0910f7c78008e8ab"
+    },
+    {
+      "display_package_code": "9936684",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936684",
+      "package_invalid_date": "2011-01-06T11:15:06+0000",
+      "package_size": "1 x 5 l",
+      "preparation_id": "0910f7c78008e8ab"
+    }
+  ],
+  "preparation": {
+    "holder_id": "306",
+    "holder_name": "Elanco Animal Health GmbH",
+    "name": "ByeMite",
+    "preparation_id": "0910f7c78008e8ab",
+    "registration_date": "2009-03-13T11:8:49+0000",
+    "registration_number": "96/009/09-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78008e8a8",
+    "spc_modified_date": "2026-01-14T14:35:40+0000"
+  },
+  "schema_version": 1
+}

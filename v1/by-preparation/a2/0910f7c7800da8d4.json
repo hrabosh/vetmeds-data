@@ -1,0 +1,34 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9908389",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9908389",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800da8d4"
+    },
+    {
+      "display_package_code": "9938219",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9938219",
+      "package_invalid_date": null,
+      "package_size": "150 ml (150g)",
+      "preparation_id": "0910f7c7800da8d4"
+    }
+  ],
+  "preparation": {
+    "holder_id": "137",
+    "holder_name": "Aveflor a.s.",
+    "name": "Arpalit Neo",
+    "preparation_id": "0910f7c7800da8d4",
+    "registration_date": "2009-05-29T7:25:20+0000",
+    "registration_number": "99/033/09-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800da8d1",
+    "spc_modified_date": "2026-03-17T8:25:38+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9908584",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908584",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800a301c"
+    },
+    {
+      "display_package_code": "9908585",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908585",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800a301c"
+    },
+    {
+      "display_package_code": "9908586",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908586",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800a301c"
+    },
+    {
+      "display_package_code": "9908587",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908587",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800a301c"
+    },
+    {
+      "display_package_code": "9937923",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937923",
+      "package_invalid_date": "2020-05-15T15:56:46+0000",
+      "package_size": "10 x 10 ml",
+      "preparation_id": "0910f7c7800a301c"
+    },
+    {
+      "display_package_code": "9939104",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939104",
+      "package_invalid_date": "2020-05-15T15:55:54+0000",
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c7800a301c"
+    },
+    {
+      "display_package_code": "9939927",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939927",
+      "package_invalid_date": "2020-05-15T15:57:50+0000",
+      "package_size": "12 x 50 ml",
+      "preparation_id": "0910f7c7800a301c"
+    },
+    {
+      "display_package_code": "9962765",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9962765",
+      "package_invalid_date": "2020-05-15T15:54:57+0000",
+      "package_size": "1 x 10 ml",
+      "preparation_id": "0910f7c7800a301c"
+    }
+  ],
+  "preparation": {
+    "holder_id": "78",
+    "holder_name": "V.M.D. n.v.",
+    "name": "SYNPITAN",
+    "preparation_id": "0910f7c7800a301c",
+    "registration_date": "1993-11-29T12:1:17+0000",
+    "registration_number": "96/655/92-S/C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7800a3019",
+    "spc_modified_date": "2022-10-26T9:7:11+0000"
+  },
+  "schema_version": 1
+}

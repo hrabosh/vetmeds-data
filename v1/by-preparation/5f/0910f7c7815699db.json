@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9908225",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908225",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815699db"
+    },
+    {
+      "display_package_code": "9908226",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908226",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815699db"
+    },
+    {
+      "display_package_code": "9908227",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908227",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815699db"
+    },
+    {
+      "display_package_code": "9908228",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908228",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815699db"
+    },
+    {
+      "display_package_code": "9908229",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908229",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815699db"
+    },
+    {
+      "display_package_code": "9908230",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908230",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815699db"
+    }
+  ],
+  "preparation": {
+    "holder_id": "46",
+    "holder_name": "Krka d.d. Novo mesto",
+    "name": "Prinocate",
+    "preparation_id": "0910f7c7815699db",
+    "registration_date": "2020-01-29T7:51:10+0000",
+    "registration_number": "96/011/20-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7815699d6",
+    "spc_modified_date": "2025-06-11T12:20:29+0000"
+  },
+  "schema_version": 1
+}

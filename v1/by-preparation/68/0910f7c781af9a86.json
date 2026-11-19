@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9911194",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911194",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781af9a86"
+    },
+    {
+      "display_package_code": "9911195",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911195",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781af9a86"
+    },
+    {
+      "display_package_code": "9911196",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911196",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781af9a86"
+    },
+    {
+      "display_package_code": "9911197",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911197",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781af9a86"
+    },
+    {
+      "display_package_code": "9911198",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911198",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781af9a86"
+    }
+  ],
+  "preparation": {
+    "holder_id": "190",
+    "holder_name": "Labiana Life Science, S.A.U.",
+    "name": "Calciolab",
+    "preparation_id": "0910f7c781af9a86",
+    "registration_date": "2024-09-18T8:21:37+0000",
+    "registration_number": "96/052/24-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c781af9994",
+    "spc_modified_date": "2024-09-24T10:41:02+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9904727",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904727",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800cecca"
+    },
+    {
+      "display_package_code": "9904728",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904728",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800cecca"
+    },
+    {
+      "display_package_code": "9904729",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904729",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800cecca"
+    },
+    {
+      "display_package_code": "9904730",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904730",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800cecca"
+    },
+    {
+      "display_package_code": "9938961",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938961",
+      "package_invalid_date": "2016-02-17T11:32:43+0000",
+      "package_size": "1 l",
+      "preparation_id": "0910f7c7800cecca"
+    },
+    {
+      "display_package_code": "9938962",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938962",
+      "package_invalid_date": "2016-02-17T11:32:56+0000",
+      "package_size": "2 l",
+      "preparation_id": "0910f7c7800cecca"
+    },
+    {
+      "display_package_code": "9938963",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938963",
+      "package_invalid_date": "2016-02-17T11:33:09+0000",
+      "package_size": "5 l",
+      "preparation_id": "0910f7c7800cecca"
+    },
+    {
+      "display_package_code": "9938970",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938970",
+      "package_invalid_date": "2016-02-17T11:33:23+0000",
+      "package_size": "10 l",
+      "preparation_id": "0910f7c7800cecca"
+    }
+  ],
+  "preparation": {
+    "holder_id": "322",
+    "holder_name": "Ceva Sante Animale",
+    "name": "PRACETAM",
+    "preparation_id": "0910f7c7800cecca",
+    "registration_date": "2010-03-18T10:21:15+0000",
+    "registration_number": "96/010/10-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800cecc7",
+    "spc_modified_date": "2024-05-28T11:17:00+0000"
+  },
+  "schema_version": 1
+}

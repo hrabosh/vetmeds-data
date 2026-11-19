@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700621",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700621",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781f7a392"
+    },
+    {
+      "display_package_code": "9700622",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700622",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781f7a392"
+    },
+    {
+      "display_package_code": "9700623",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700623",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781f7a392"
+    },
+    {
+      "display_package_code": "9700624",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700624",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781f7a392"
+    },
+    {
+      "display_package_code": "9700625",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700625",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781f7a392"
+    },
+    {
+      "display_package_code": "9700626",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700626",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781f7a392"
+    }
+  ],
+  "preparation": {
+    "holder_id": "190",
+    "holder_name": "Labiana Life Science, S.A.U.",
+    "name": "Labiprofen",
+    "preparation_id": "0910f7c781f7a392",
+    "registration_date": "2025-12-17T10:11:27+0000",
+    "registration_number": "96/061/25-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781f7a391",
+    "spc_modified_date": "2026-06-12T8:11:39+0000"
+  },
+  "schema_version": 1
+}

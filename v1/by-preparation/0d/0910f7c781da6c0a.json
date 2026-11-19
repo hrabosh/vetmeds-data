@@ -1,0 +1,34 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700611",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700611",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781da6c0a"
+    },
+    {
+      "display_package_code": "9700612",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700612",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781da6c0a"
+    }
+  ],
+  "preparation": {
+    "holder_id": "117",
+    "holder_name": "Huvepharma NV",
+    "name": "NeoSol",
+    "preparation_id": "0910f7c781da6c0a",
+    "registration_date": "2025-12-15T9:50:14+0000",
+    "registration_number": "96/060/25-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781da69ca",
+    "spc_modified_date": "2026-01-07T12:50:21+0000"
+  },
+  "schema_version": 1
+}

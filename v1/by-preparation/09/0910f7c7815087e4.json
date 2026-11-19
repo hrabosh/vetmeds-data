@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9908152",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908152",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815087e4"
+    },
+    {
+      "display_package_code": "9908153",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908153",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815087e4"
+    },
+    {
+      "display_package_code": "9908154",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908154",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815087e4"
+    },
+    {
+      "display_package_code": "9908155",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908155",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815087e4"
+    },
+    {
+      "display_package_code": "9908156",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908156",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815087e4"
+    },
+    {
+      "display_package_code": "9908157",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908157",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815087e4"
+    }
+  ],
+  "preparation": {
+    "holder_id": "68",
+    "holder_name": "Pharmagal s.r.o.",
+    "name": "Pneumotyl",
+    "preparation_id": "0910f7c7815087e4",
+    "registration_date": "2020-01-10T6:53:13+0000",
+    "registration_number": "96/004/20-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7815087e3",
+    "spc_modified_date": "2026-08-14T5:53:34+0000"
+  },
+  "schema_version": 1
+}

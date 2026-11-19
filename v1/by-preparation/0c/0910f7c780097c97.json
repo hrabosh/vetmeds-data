@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9904020",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904020",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780097c97"
+    },
+    {
+      "display_package_code": "9904021",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904021",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780097c97"
+    },
+    {
+      "display_package_code": "9904022",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904022",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780097c97"
+    },
+    {
+      "display_package_code": "9904023",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904023",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780097c97"
+    },
+    {
+      "display_package_code": "9936862",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936862",
+      "package_invalid_date": "2025-01-27T15:30:38+0000",
+      "package_size": "5 dávek",
+      "preparation_id": "0910f7c780097c97"
+    },
+    {
+      "display_package_code": "9936871",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936871",
+      "package_invalid_date": "2025-01-27T15:30:52+0000",
+      "package_size": "10 dávek",
+      "preparation_id": "0910f7c780097c97"
+    },
+    {
+      "display_package_code": "9936887",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936887",
+      "package_invalid_date": "2025-01-27T15:30:21+0000",
+      "package_size": "25 dávek",
+      "preparation_id": "0910f7c780097c97"
+    },
+    {
+      "display_package_code": "9936939",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936939",
+      "package_invalid_date": "2025-01-27T15:30:30+0000",
+      "package_size": "50 dávek",
+      "preparation_id": "0910f7c780097c97"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "Nobivac Pi",
+    "preparation_id": "0910f7c780097c97",
+    "registration_date": "2004-08-06T7:23:04+0000",
+    "registration_number": "97/128/04-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780097c92",
+    "spc_modified_date": "2025-01-31T8:41:55+0000"
+  },
+  "schema_version": 1
+}

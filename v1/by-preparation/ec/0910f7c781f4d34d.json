@@ -1,0 +1,34 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700784",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700784",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781f4d34d"
+    },
+    {
+      "display_package_code": "9700807",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700807",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781f4d34d"
+    }
+  ],
+  "preparation": {
+    "holder_id": "240",
+    "holder_name": "Interchemie Werken De Adelaar Eesti AS",
+    "name": "Introflor-300",
+    "preparation_id": "0910f7c781f4d34d",
+    "registration_date": "2026-02-10T10:5:37+0000",
+    "registration_number": "96/019/26-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781f4d34c",
+    "spc_modified_date": "2026-02-17T11:39:28+0000"
+  },
+  "schema_version": 1
+}

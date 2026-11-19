@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9936265",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936265",
+      "package_invalid_date": null,
+      "package_size": "10 x 1 dávka (lyofilizovaná frakce + tekutá frakce)",
+      "preparation_id": "0910f7c7800940a5"
+    }
+  ],
+  "preparation": {
+    "holder_id": "49",
+    "holder_name": "Laboratorios Hipra S.A.",
+    "name": "HIPRADOG-DHLP",
+    "preparation_id": "0910f7c7800940a5",
+    "registration_date": "2003-07-29T9:38:20+0000",
+    "registration_number": "97/049/03-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800940a2",
+    "spc_modified_date": "2026-09-22T9:38:37+0000"
+  },
+  "schema_version": 1
+}

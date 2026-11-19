@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700852",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700852",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7819808fd"
+    },
+    {
+      "display_package_code": "9909585",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909585",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7819808fd"
+    },
+    {
+      "display_package_code": "9909586",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909586",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7819808fd"
+    }
+  ],
+  "preparation": {
+    "holder_id": "100",
+    "holder_name": "Zoetis Belgium",
+    "name": "Apoquel",
+    "preparation_id": "0910f7c7819808fd",
+    "registration_date": "2013-09-12T12:20:29+0000",
+    "registration_number": "EU/2/13/154",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c78024e66a",
+    "spc_modified_date": "2023-11-01T9:37:20+0000"
+  },
+  "schema_version": 1
+}

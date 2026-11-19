@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9934804",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934804",
+      "package_invalid_date": null,
+      "package_size": "1 x 5 dávek (15 ml)",
+      "preparation_id": "0910f7c7800a0ba0"
+    },
+    {
+      "display_package_code": "9934805",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934805",
+      "package_invalid_date": null,
+      "package_size": "1 x 30 dávek (90 ml)",
+      "preparation_id": "0910f7c7800a0ba0"
+    },
+    {
+      "display_package_code": "9934806",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934806",
+      "package_invalid_date": null,
+      "package_size": "1 x 80 dávek (240 ml)",
+      "preparation_id": "0910f7c7800a0ba0"
+    }
+  ],
+  "preparation": {
+    "holder_id": "49",
+    "holder_name": "Laboratorios Hipra S.A.",
+    "name": "HIPRABOVIS BALANCE",
+    "preparation_id": "0910f7c7800a0ba0",
+    "registration_date": "2001-03-01T10:35:20+0000",
+    "registration_number": "97/006/01-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800a0b9d",
+    "spc_modified_date": "2026-09-22T9:35:37+0000"
+  },
+  "schema_version": 1
+}

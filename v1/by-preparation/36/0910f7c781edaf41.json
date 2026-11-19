@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9701040",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9701040",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781edaf41"
+    }
+  ],
+  "preparation": {
+    "holder_id": "237",
+    "holder_name": "WDT-Wirtschaftsgenossenschaft deutscher Tierarzte eG",
+    "name": "Novaderma",
+    "preparation_id": "0910f7c781edaf41",
+    "registration_date": "2026-08-21T8:45:53+0000",
+    "registration_number": "96/045/26-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781edaf40",
+    "spc_modified_date": "2026-09-08T11:33:46+0000"
+  },
+  "schema_version": 1
+}

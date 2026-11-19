@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700073",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700073",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781b6f270"
+    }
+  ],
+  "preparation": {
+    "holder_id": "301",
+    "holder_name": "Triviumvet Designated Activity Company",
+    "name": "Zetbelis",
+    "preparation_id": "0910f7c781b6f270",
+    "registration_date": "2025-04-02T11:59:51+0000",
+    "registration_number": "EU/2/25/336",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c781b6f26f",
+    "spc_modified_date": "2026-08-10T12:0:11+0000"
+  },
+  "schema_version": 1
+}

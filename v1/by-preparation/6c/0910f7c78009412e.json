@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900425",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900425",
+      "package_invalid_date": null,
+      "package_size": "1 x 1000 dávek",
+      "preparation_id": "0910f7c78009412e"
+    },
+    {
+      "display_package_code": "9900426",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900426",
+      "package_invalid_date": null,
+      "package_size": "1 x 5000 dávek",
+      "preparation_id": "0910f7c78009412e"
+    },
+    {
+      "display_package_code": "9939660",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939660",
+      "package_invalid_date": null,
+      "package_size": "10 x 1000 dávek",
+      "preparation_id": "0910f7c78009412e"
+    },
+    {
+      "display_package_code": "9939661",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939661",
+      "package_invalid_date": null,
+      "package_size": "10 x 5000 dávek",
+      "preparation_id": "0910f7c78009412e"
+    }
+  ],
+  "preparation": {
+    "holder_id": "49",
+    "holder_name": "Laboratorios Hipra S.A.",
+    "name": "HIPRAGUMBORO-GM97",
+    "preparation_id": "0910f7c78009412e",
+    "registration_date": "2004-02-25T12:20:01+0000",
+    "registration_number": "97/019/04-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78009412b",
+    "spc_modified_date": "2025-01-06T11:38:00+0000"
+  },
+  "schema_version": 1
+}

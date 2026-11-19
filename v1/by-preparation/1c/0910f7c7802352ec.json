@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9903553",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903553",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802352ec"
+    },
+    {
+      "display_package_code": "9903554",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903554",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802352ec"
+    },
+    {
+      "display_package_code": "9903555",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903555",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802352ec"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "Biocan Novel Pi L4",
+    "preparation_id": "0910f7c7802352ec",
+    "registration_date": "2014-08-28T9:20:51+0000",
+    "registration_number": "97/062/14-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7802352eb",
+    "spc_modified_date": "2026-09-01T9:21:08+0000"
+  },
+  "schema_version": 1
+}

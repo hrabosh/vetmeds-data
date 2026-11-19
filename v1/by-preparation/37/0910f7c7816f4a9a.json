@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909647",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909647",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7816f4a9a"
+    },
+    {
+      "display_package_code": "9909648",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909648",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7816f4a9a"
+    },
+    {
+      "display_package_code": "9909649",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909649",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7816f4a9a"
+    },
+    {
+      "display_package_code": "9909650",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909650",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7816f4a9a"
+    },
+    {
+      "display_package_code": "9909651",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909651",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7816f4a9a"
+    },
+    {
+      "display_package_code": "9909652",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909652",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7816f4a9a"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "BioBos BTV 4",
+    "preparation_id": "0910f7c7816f4a9a",
+    "registration_date": "2022-03-03T7:15:52+0000",
+    "registration_number": "97/006/22-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7816f4a99",
+    "spc_modified_date": "2026-05-27T11:39:42+0000"
+  },
+  "schema_version": 1
+}

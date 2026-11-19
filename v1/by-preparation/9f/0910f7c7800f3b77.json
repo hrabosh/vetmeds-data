@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9901705",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901705",
+      "package_invalid_date": null,
+      "package_size": "1 x 20 ml _EU/2/04/042/007",
+      "preparation_id": "0910f7c7800f3b77"
+    },
+    {
+      "display_package_code": "9901706",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901706",
+      "package_invalid_date": null,
+      "package_size": "12 x 20 ml_EU/2/04/042/008",
+      "preparation_id": "0910f7c7800f3b77"
+    },
+    {
+      "display_package_code": "9901707",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901707",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 ml_EU/2/04/042/009",
+      "preparation_id": "0910f7c7800f3b77"
+    },
+    {
+      "display_package_code": "9901708",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901708",
+      "package_invalid_date": null,
+      "package_size": "12 x 50 ml_EU/2/04/042/010",
+      "preparation_id": "0910f7c7800f3b77"
+    },
+    {
+      "display_package_code": "9934256",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934256",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml _EU/2/04/042/001",
+      "preparation_id": "0910f7c7800f3b77"
+    },
+    {
+      "display_package_code": "9934257",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934257",
+      "package_invalid_date": null,
+      "package_size": "12 x 100 ml _EU/2/04/042/002",
+      "preparation_id": "0910f7c7800f3b77"
+    }
+  ],
+  "preparation": {
+    "holder_id": "16",
+    "holder_name": "Boehringer Ingelheim Vetmedica, GmbH",
+    "name": "Novem",
+    "preparation_id": "0910f7c7800f3b77",
+    "registration_date": "2004-03-02T11:57:50+0000",
+    "registration_number": "EU/2/04/042",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f3b74",
+    "spc_modified_date": "2022-01-19T12:34:42+0000"
+  },
+  "schema_version": 1
+}

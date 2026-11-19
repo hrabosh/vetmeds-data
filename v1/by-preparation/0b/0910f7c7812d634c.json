@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906620",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906620",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7812d634c"
+    },
+    {
+      "display_package_code": "9906621",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906621",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7812d634c"
+    },
+    {
+      "display_package_code": "9906622",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906622",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7812d634c"
+    },
+    {
+      "display_package_code": "9906623",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906623",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7812d634c"
+    }
+  ],
+  "preparation": {
+    "holder_id": "193",
+    "holder_name": "Bela-Pharm GmbH",
+    "name": "LidoBel",
+    "preparation_id": "0910f7c7812d634c",
+    "registration_date": "2018-08-30T8:21:14+0000",
+    "registration_number": "96/050/18-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7812d634b",
+    "spc_modified_date": "2026-03-18T9:21:31+0000"
+  },
+  "schema_version": 1
+}

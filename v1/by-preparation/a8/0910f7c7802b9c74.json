@@ -1,0 +1,124 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9904131",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904131",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802b9c74"
+    },
+    {
+      "display_package_code": "9904132",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904132",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802b9c74"
+    },
+    {
+      "display_package_code": "9904133",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904133",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802b9c74"
+    },
+    {
+      "display_package_code": "9904134",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904134",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802b9c74"
+    },
+    {
+      "display_package_code": "9904135",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904135",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802b9c74"
+    },
+    {
+      "display_package_code": "9904136",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904136",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802b9c74"
+    },
+    {
+      "display_package_code": "9904137",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904137",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802b9c74"
+    },
+    {
+      "display_package_code": "9904138",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904138",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802b9c74"
+    },
+    {
+      "display_package_code": "9904139",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904139",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802b9c74"
+    },
+    {
+      "display_package_code": "9904140",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904140",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802b9c74"
+    },
+    {
+      "display_package_code": "9904141",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904141",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802b9c74"
+    },
+    {
+      "display_package_code": "9904142",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904142",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802b9c74"
+    }
+  ],
+  "preparation": {
+    "holder_id": "16",
+    "holder_name": "Boehringer Ingelheim Vetmedica, GmbH",
+    "name": "Ingelvac PRRSFLEX EU",
+    "preparation_id": "0910f7c7802b9c74",
+    "registration_date": "2015-03-11T10:3:31+0000",
+    "registration_number": "97/024/15-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7802b9c72",
+    "spc_modified_date": "2025-08-01T9:3:52+0000"
+  },
+  "schema_version": 1
+}

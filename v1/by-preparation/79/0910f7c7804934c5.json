@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905842",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905842",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804934c5"
+    },
+    {
+      "display_package_code": "9905843",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905843",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804934c5"
+    },
+    {
+      "display_package_code": "9905844",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905844",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804934c5"
+    }
+  ],
+  "preparation": {
+    "holder_id": "178",
+    "holder_name": "Emdoka",
+    "name": "Halagon",
+    "preparation_id": "0910f7c7804934c5",
+    "registration_date": "2016-12-13T10:4:24+0000",
+    "registration_number": "EU/2/16/201",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7804934c4",
+    "spc_modified_date": "2026-05-22T7:4:02+0000"
+  },
+  "schema_version": 1
+}

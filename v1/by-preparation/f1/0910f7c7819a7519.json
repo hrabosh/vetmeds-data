@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9910794",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910794",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7819a7519"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "CEFAMAM LC",
+    "preparation_id": "0910f7c7819a7519",
+    "registration_date": "2024-03-07T10:24:26+0000",
+    "registration_number": "96/005/24-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7819a71ec",
+    "spc_modified_date": "2024-03-21T11:54:53+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9904407",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904407",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780268531"
+    },
+    {
+      "display_package_code": "9904408",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904408",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780268531"
+    },
+    {
+      "display_package_code": "9904409",
+      "issue_class_id": "4",
+      "issue_class_name": "Pouze pro použití veterinárním lékařem",
+      "package_code": "9904409",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780268531"
+    },
+    {
+      "display_package_code": "9904410",
+      "issue_class_id": "4",
+      "issue_class_name": "Pouze pro použití veterinárním lékařem",
+      "package_code": "9904410",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780268531"
+    },
+    {
+      "display_package_code": "9904411",
+      "issue_class_id": "4",
+      "issue_class_name": "Pouze pro použití veterinárním lékařem",
+      "package_code": "9904411",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780268531"
+    }
+  ],
+  "preparation": {
+    "holder_id": "65",
+    "holder_name": "Orion Corporation",
+    "name": "Sileo",
+    "preparation_id": "0910f7c780268531",
+    "registration_date": "2015-06-10T6:59:35+0000",
+    "registration_number": "EU/2/15/181",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c780268530",
+    "spc_modified_date": "2022-07-25T8:17:40+0000"
+  },
+  "schema_version": 1
+}

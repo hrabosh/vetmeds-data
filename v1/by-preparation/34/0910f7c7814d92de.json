@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9907642",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907642",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814d92de"
+    },
+    {
+      "display_package_code": "9907643",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907643",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814d92de"
+    },
+    {
+      "display_package_code": "9907644",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907644",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814d92de"
+    },
+    {
+      "display_package_code": "9907645",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907645",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814d92de"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "BioSuis Salm",
+    "preparation_id": "0910f7c7814d92de",
+    "registration_date": "2019-07-17T8:24:31+0000",
+    "registration_number": "97/055/19-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7814d92dd",
+    "spc_modified_date": "2026-11-06T9:24:46+0000"
+  },
+  "schema_version": 1
+}

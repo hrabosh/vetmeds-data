@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9936300",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936300",
+      "package_invalid_date": null,
+      "package_size": "1 x 20 ml",
+      "preparation_id": "0910f7c78009904d"
+    },
+    {
+      "display_package_code": "9936334",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936334",
+      "package_invalid_date": null,
+      "package_size": "5 x 20 ml",
+      "preparation_id": "0910f7c78009904d"
+    },
+    {
+      "display_package_code": "9936411",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936411",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c78009904d"
+    },
+    {
+      "display_package_code": "9936449",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936449",
+      "package_invalid_date": "2014-08-12T10:5:04+0000",
+      "package_size": "1 x 500 ml",
+      "preparation_id": "0910f7c78009904d"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "PASORIN-OL",
+    "preparation_id": "0910f7c78009904d",
+    "registration_date": "2001-12-21T7:38:55+0000",
+    "registration_number": "97/091/01/C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78009904a",
+    "spc_modified_date": "2025-02-14T7:45:29+0000"
+  },
+  "schema_version": 1
+}

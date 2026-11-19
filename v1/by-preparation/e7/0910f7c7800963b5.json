@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9935325",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935325",
+      "package_invalid_date": null,
+      "package_size": "1 x 20 injektorů + 20 čisticích ubrousků",
+      "preparation_id": "0910f7c7800963b5"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "Mastijet Forte",
+    "preparation_id": "0910f7c7800963b5",
+    "registration_date": "2001-10-03T13:17:53+0000",
+    "registration_number": "96/055/01-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800963b1",
+    "spc_modified_date": "2023-07-11T8:42:57+0000"
+  },
+  "schema_version": 1
+}

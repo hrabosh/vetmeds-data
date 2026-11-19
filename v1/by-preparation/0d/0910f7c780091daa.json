@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9939580",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939580",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 ml",
+      "preparation_id": "0910f7c780091daa"
+    },
+    {
+      "display_package_code": "9939581",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939581",
+      "package_invalid_date": null,
+      "package_size": "1 x 500 ml",
+      "preparation_id": "0910f7c780091daa"
+    },
+    {
+      "display_package_code": "9939582",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939582",
+      "package_invalid_date": null,
+      "package_size": "1 x 1 l",
+      "preparation_id": "0910f7c780091daa"
+    },
+    {
+      "display_package_code": "9939583",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939583",
+      "package_invalid_date": null,
+      "package_size": "1 x 2 l",
+      "preparation_id": "0910f7c780091daa"
+    },
+    {
+      "display_package_code": "9939584",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939584",
+      "package_invalid_date": null,
+      "package_size": "1 x 5 l",
+      "preparation_id": "0910f7c780091daa"
+    },
+    {
+      "display_package_code": "9939585",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939585",
+      "package_invalid_date": null,
+      "package_size": "1 x 10 l",
+      "preparation_id": "0910f7c780091daa"
+    }
+  ],
+  "preparation": {
+    "holder_id": "276",
+    "holder_name": "Ceva Animal Health Slovakia s.r.o.",
+    "name": "COLIVET",
+    "preparation_id": "0910f7c780091daa",
+    "registration_date": "2005-02-22T15:9:00+0000",
+    "registration_number": "96/007/05-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780091da7",
+    "spc_modified_date": "2025-09-18T12:2:32+0000"
+  },
+  "schema_version": 1
+}

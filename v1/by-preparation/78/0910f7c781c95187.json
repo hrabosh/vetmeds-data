@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700072",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700072",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c95187"
+    }
+  ],
+  "preparation": {
+    "holder_id": "248",
+    "holder_name": "Elanco GmbH",
+    "name": "Elmaro",
+    "preparation_id": "0910f7c781c95187",
+    "registration_date": "2025-03-28T6:42:55+0000",
+    "registration_number": "EU/2/25/337",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c781c95186",
+    "spc_modified_date": "2025-04-23T12:27:33+0000"
+  },
+  "schema_version": 1
+}

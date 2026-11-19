@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909028",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9909028",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808ddc32"
+    },
+    {
+      "display_package_code": "9909029",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9909029",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808ddc32"
+    },
+    {
+      "display_package_code": "9909030",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9909030",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808ddc32"
+    },
+    {
+      "display_package_code": "9909031",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9909031",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808ddc32"
+    },
+    {
+      "display_package_code": "9909032",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909032",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808ddc32"
+    },
+    {
+      "display_package_code": "9909033",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909033",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808ddc32"
+    },
+    {
+      "display_package_code": "9909034",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909034",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808ddc32"
+    },
+    {
+      "display_package_code": "9909035",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909035",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808ddc32"
+    }
+  ],
+  "preparation": {
+    "holder_id": "276",
+    "holder_name": "Ceva Animal Health Slovakia s.r.o.",
+    "name": "Cestal Plus",
+    "preparation_id": "0910f7c7808ddc32",
+    "registration_date": "2020-12-03T13:37:32+0000",
+    "registration_number": "96/074/20-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7808ddc31",
+    "spc_modified_date": "2024-12-30T8:59:35+0000"
+  },
+  "schema_version": 1
+}

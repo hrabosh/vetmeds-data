@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905192",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905192",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780355c1f"
+    },
+    {
+      "display_package_code": "9905193",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905193",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780355c1f"
+    },
+    {
+      "display_package_code": "9905194",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905194",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780355c1f"
+    }
+  ],
+  "preparation": {
+    "holder_id": "279",
+    "holder_name": "Vetoquinol s.r.o.",
+    "name": "Cefaseptin",
+    "preparation_id": "0910f7c780355c1f",
+    "registration_date": "2016-07-27T10:24:24+0000",
+    "registration_number": "96/059/16-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780355bff",
+    "spc_modified_date": "2026-09-01T10:24:42+0000"
+  },
+  "schema_version": 1
+}

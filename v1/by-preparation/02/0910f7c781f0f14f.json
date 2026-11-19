@@ -1,0 +1,34 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700995",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700995",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781f0f14f"
+    },
+    {
+      "display_package_code": "9700996",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700996",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781f0f14f"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "Nobivac NXT HC",
+    "preparation_id": "0910f7c781f0f14f",
+    "registration_date": "2026-07-02T6:2:34+0000",
+    "registration_number": "EU/2/26/367",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c781f0f14d",
+    "spc_modified_date": "2026-07-23T9:8:48+0000"
+  },
+  "schema_version": 1
+}

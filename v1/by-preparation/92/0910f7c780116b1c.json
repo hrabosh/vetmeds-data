@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900252",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900252",
+      "package_invalid_date": null,
+      "package_size": "1 x lyofilizát + 1 x 10 ml rozpouštědla (1 x 5 dávek)_EU/2/10/114/001",
+      "preparation_id": "0910f7c780116b1c"
+    },
+    {
+      "display_package_code": "9900253",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900253",
+      "package_invalid_date": null,
+      "package_size": "1 x lyofilizát + 1 x 50 ml rozpouštědla (1 x 25 dávek)_EU/2/10/114/002",
+      "preparation_id": "0910f7c780116b1c"
+    },
+    {
+      "display_package_code": "9901551",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901551",
+      "package_invalid_date": null,
+      "package_size": "1 x lyofilizát + 1 x 60 ml rozpouštědla (1 x 30 dávek)_EU/2/10/114/003",
+      "preparation_id": "0910f7c780116b1c"
+    }
+  ],
+  "preparation": {
+    "holder_id": "49",
+    "holder_name": "Laboratorios Hipra S.A.",
+    "name": "Hiprabovis IBR marker live",
+    "preparation_id": "0910f7c780116b1c",
+    "registration_date": "2011-01-27T13:30:51+0000",
+    "registration_number": "EU/2/10/114",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c780116b19",
+    "spc_modified_date": "2024-01-09T11:12:18+0000"
+  },
+  "schema_version": 1
+}

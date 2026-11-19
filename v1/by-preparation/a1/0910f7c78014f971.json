@@ -1,0 +1,178 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902054",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902054",
+      "package_invalid_date": "2019-01-10T11:41:16+0000",
+      "package_size": "1 x 20 ml",
+      "preparation_id": "0910f7c78014f971"
+    },
+    {
+      "display_package_code": "9902055",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902055",
+      "package_invalid_date": "2019-01-10T11:41:56+0000",
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c78014f971"
+    },
+    {
+      "display_package_code": "9902056",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902056",
+      "package_invalid_date": "2019-01-10T11:42:46+0000",
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c78014f971"
+    },
+    {
+      "display_package_code": "9902057",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902057",
+      "package_invalid_date": "2019-01-10T11:43:24+0000",
+      "package_size": "1 x 250 ml",
+      "preparation_id": "0910f7c78014f971"
+    },
+    {
+      "display_package_code": "9902058",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902058",
+      "package_invalid_date": "2019-01-10T11:44:12+0000",
+      "package_size": "1 x 500 ml",
+      "preparation_id": "0910f7c78014f971"
+    },
+    {
+      "display_package_code": "9902059",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902059",
+      "package_invalid_date": "2019-01-10T11:45:00+0000",
+      "package_size": "1 x 60 ml",
+      "preparation_id": "0910f7c78014f971"
+    },
+    {
+      "display_package_code": "9902060",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902060",
+      "package_invalid_date": "2019-01-10T11:45:41+0000",
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c78014f971"
+    },
+    {
+      "display_package_code": "9902061",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902061",
+      "package_invalid_date": "2019-01-10T11:46:30+0000",
+      "package_size": "1 x 250 ml",
+      "preparation_id": "0910f7c78014f971"
+    },
+    {
+      "display_package_code": "9902062",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902062",
+      "package_invalid_date": "2019-01-10T11:47:08+0000",
+      "package_size": "1 x 500 ml",
+      "preparation_id": "0910f7c78014f971"
+    },
+    {
+      "display_package_code": "9906962",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906962",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78014f971"
+    },
+    {
+      "display_package_code": "9906963",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906963",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78014f971"
+    },
+    {
+      "display_package_code": "9906964",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906964",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78014f971"
+    },
+    {
+      "display_package_code": "9906965",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906965",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78014f971"
+    },
+    {
+      "display_package_code": "9906966",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906966",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78014f971"
+    },
+    {
+      "display_package_code": "9906967",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906967",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78014f971"
+    },
+    {
+      "display_package_code": "9906968",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906968",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78014f971"
+    },
+    {
+      "display_package_code": "9906969",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906969",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78014f971"
+    },
+    {
+      "display_package_code": "9906970",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906970",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78014f971"
+    }
+  ],
+  "preparation": {
+    "holder_id": "61",
+    "holder_name": "Norbrook Laboratories (Ireland) Limited",
+    "name": "Marbonor",
+    "preparation_id": "0910f7c78014f971",
+    "registration_date": "2012-12-18T9:4:46+0000",
+    "registration_number": "96/120/12-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78014f96c",
+    "spc_modified_date": "2025-09-26T8:5:05+0000"
+  },
+  "schema_version": 1
+}

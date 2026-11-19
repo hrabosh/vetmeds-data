@@ -1,0 +1,124 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900262",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9900262",
+      "package_invalid_date": null,
+      "package_size": "1 x 2 tbl.",
+      "preparation_id": "0910f7c78011a5d5"
+    },
+    {
+      "display_package_code": "9900263",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9900263",
+      "package_invalid_date": null,
+      "package_size": "2 x 2 tbl.",
+      "preparation_id": "0910f7c78011a5d5"
+    },
+    {
+      "display_package_code": "9900264",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9900264",
+      "package_invalid_date": null,
+      "package_size": "1 x 10 tbl.",
+      "preparation_id": "0910f7c78011a5d5"
+    },
+    {
+      "display_package_code": "9900265",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9900265",
+      "package_invalid_date": null,
+      "package_size": "2 x 6 tbl.",
+      "preparation_id": "0910f7c78011a5d5"
+    },
+    {
+      "display_package_code": "9900266",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9900266",
+      "package_invalid_date": null,
+      "package_size": "4 x 6 tbl.",
+      "preparation_id": "0910f7c78011a5d5"
+    },
+    {
+      "display_package_code": "9900267",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9900267",
+      "package_invalid_date": null,
+      "package_size": "3 x 10 tbl.",
+      "preparation_id": "0910f7c78011a5d5"
+    },
+    {
+      "display_package_code": "9900268",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9900268",
+      "package_invalid_date": null,
+      "package_size": "5 x 6 tbl.",
+      "preparation_id": "0910f7c78011a5d5"
+    },
+    {
+      "display_package_code": "9900269",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9900269",
+      "package_invalid_date": null,
+      "package_size": "5 x 10 tbl.",
+      "preparation_id": "0910f7c78011a5d5"
+    },
+    {
+      "display_package_code": "9900270",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9900270",
+      "package_invalid_date": null,
+      "package_size": "10 x 6 tbl.",
+      "preparation_id": "0910f7c78011a5d5"
+    },
+    {
+      "display_package_code": "9900271",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9900271",
+      "package_invalid_date": null,
+      "package_size": "6 x 10 tbl.",
+      "preparation_id": "0910f7c78011a5d5"
+    },
+    {
+      "display_package_code": "9900272",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9900272",
+      "package_invalid_date": null,
+      "package_size": "10 x 10 tbl.",
+      "preparation_id": "0910f7c78011a5d5"
+    },
+    {
+      "display_package_code": "9900273",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9900273",
+      "package_invalid_date": null,
+      "package_size": "17 x 6 tbl.",
+      "preparation_id": "0910f7c78011a5d5"
+    }
+  ],
+  "preparation": {
+    "holder_id": "46",
+    "holder_name": "Krka d.d. Novo mesto",
+    "name": "Dehinel Plus",
+    "preparation_id": "0910f7c78011a5d5",
+    "registration_date": "2011-03-29T9:29:09+0000",
+    "registration_number": "96/013/11-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78011a5c0",
+    "spc_modified_date": "2025-01-21T10:29:36+0000"
+  },
+  "schema_version": 1
+}

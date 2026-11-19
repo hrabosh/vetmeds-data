@@ -1,0 +1,97 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9903198",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903198",
+      "package_invalid_date": "2019-12-17T12:45:05+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780280e83"
+    },
+    {
+      "display_package_code": "9903199",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903199",
+      "package_invalid_date": "2019-12-17T12:48:06+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780280e83"
+    },
+    {
+      "display_package_code": "9903200",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903200",
+      "package_invalid_date": "2019-12-17T12:50:41+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780280e83"
+    },
+    {
+      "display_package_code": "9907665",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907665",
+      "package_invalid_date": "2019-12-17T12:52:37+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780280e83"
+    },
+    {
+      "display_package_code": "9908128",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908128",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780280e83"
+    },
+    {
+      "display_package_code": "9908129",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908129",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780280e83"
+    },
+    {
+      "display_package_code": "9908130",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908130",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780280e83"
+    },
+    {
+      "display_package_code": "9908131",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908131",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780280e83"
+    },
+    {
+      "display_package_code": "9908777",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908777",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780280e83"
+    }
+  ],
+  "preparation": {
+    "holder_id": "16",
+    "holder_name": "Boehringer Ingelheim Vetmedica, GmbH",
+    "name": "NexGard",
+    "preparation_id": "0910f7c780280e83",
+    "registration_date": "2014-02-11T8:6:20+0000",
+    "registration_number": "EU/2/13/159",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c780267df3",
+    "spc_modified_date": "2025-09-26T11:21:09+0000"
+  },
+  "schema_version": 1
+}

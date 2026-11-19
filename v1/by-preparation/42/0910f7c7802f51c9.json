@@ -1,0 +1,124 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905084",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905084",
+      "package_invalid_date": "2016-07-12T15:25:12+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7802f51c9"
+    },
+    {
+      "display_package_code": "9905085",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905085",
+      "package_invalid_date": "2016-07-12T15:26:01+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7802f51c9"
+    },
+    {
+      "display_package_code": "9905086",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905086",
+      "package_invalid_date": "2016-07-12T15:26:47+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7802f51c9"
+    },
+    {
+      "display_package_code": "9905087",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905087",
+      "package_invalid_date": "2016-07-12T15:27:45+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7802f51c9"
+    },
+    {
+      "display_package_code": "9905088",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905088",
+      "package_invalid_date": "2016-07-12T15:28:39+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7802f51c9"
+    },
+    {
+      "display_package_code": "9905089",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905089",
+      "package_invalid_date": "2016-07-12T15:29:27+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7802f51c9"
+    },
+    {
+      "display_package_code": "9905136",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905136",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802f51c9"
+    },
+    {
+      "display_package_code": "9905137",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905137",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802f51c9"
+    },
+    {
+      "display_package_code": "9905138",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905138",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802f51c9"
+    },
+    {
+      "display_package_code": "9905139",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905139",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802f51c9"
+    },
+    {
+      "display_package_code": "9905140",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905140",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802f51c9"
+    },
+    {
+      "display_package_code": "9905141",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905141",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802f51c9"
+    }
+  ],
+  "preparation": {
+    "holder_id": "162",
+    "holder_name": "Divasa-Farmavic S.A.",
+    "name": "Permacyl pro skot",
+    "preparation_id": "0910f7c7802f51c9",
+    "registration_date": "2016-06-07T10:41:08+0000",
+    "registration_number": "96/046/16-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7802f5188",
+    "spc_modified_date": "2026-10-09T10:41:25+0000"
+  },
+  "schema_version": 1
+}

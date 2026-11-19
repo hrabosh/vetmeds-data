@@ -1,0 +1,97 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9908873",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908873",
+      "package_invalid_date": "2023-04-24T7:12:35+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78030ef93"
+    },
+    {
+      "display_package_code": "9908874",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908874",
+      "package_invalid_date": "2023-04-24T7:14:54+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78030ef93"
+    },
+    {
+      "display_package_code": "9908875",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908875",
+      "package_invalid_date": "2023-04-24T7:16:46+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78030ef93"
+    },
+    {
+      "display_package_code": "9910283",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910283",
+      "package_invalid_date": "2023-05-17T9:33:37+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78030ef93"
+    },
+    {
+      "display_package_code": "9910284",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910284",
+      "package_invalid_date": "2023-05-17T9:36:07+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78030ef93"
+    },
+    {
+      "display_package_code": "9910285",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910285",
+      "package_invalid_date": "2023-05-17T9:38:05+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78030ef93"
+    },
+    {
+      "display_package_code": "9910344",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910344",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78030ef93"
+    },
+    {
+      "display_package_code": "9910345",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910345",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78030ef93"
+    },
+    {
+      "display_package_code": "9910346",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910346",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78030ef93"
+    }
+  ],
+  "preparation": {
+    "holder_id": "34",
+    "holder_name": "Fatro, S.p.A.",
+    "name": "MASTIVIA",
+    "preparation_id": "0910f7c78030ef93",
+    "registration_date": "2020-10-29T7:16:00+0000",
+    "registration_number": "96/065/20-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78030ef92",
+    "spc_modified_date": "2023-06-08T13:22:39+0000"
+  },
+  "schema_version": 1
+}

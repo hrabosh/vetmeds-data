@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9911186",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911186",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c270d3"
+    },
+    {
+      "display_package_code": "9911187",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911187",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c270d3"
+    },
+    {
+      "display_package_code": "9911188",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911188",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c270d3"
+    },
+    {
+      "display_package_code": "9911189",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911189",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c270d3"
+    },
+    {
+      "display_package_code": "9911190",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911190",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c270d3"
+    },
+    {
+      "display_package_code": "9911191",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911191",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c270d3"
+    },
+    {
+      "display_package_code": "9911192",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911192",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c270d3"
+    },
+    {
+      "display_package_code": "9911193",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911193",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c270d3"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "BioBos Mastiguard",
+    "preparation_id": "0910f7c781c270d3",
+    "registration_date": "2024-09-16T11:19:12+0000",
+    "registration_number": "97/051/24-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781c270d2",
+    "spc_modified_date": "2024-10-10T7:10:31+0000"
+  },
+  "schema_version": 1
+}

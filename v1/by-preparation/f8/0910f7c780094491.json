@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9936695",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936695",
+      "package_invalid_date": null,
+      "package_size": "1 x 1000 dávek (1 x 500 ml)",
+      "preparation_id": "0910f7c780094491"
+    }
+  ],
+  "preparation": {
+    "holder_id": "49",
+    "holder_name": "Laboratorios Hipra S.A.",
+    "name": "HIPRAVIAR-TRT",
+    "preparation_id": "0910f7c780094491",
+    "registration_date": "2004-04-15T4:19:44+0000",
+    "registration_number": "97/071/04-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78009448e",
+    "spc_modified_date": "2022-10-26T7:37:20+0000"
+  },
+  "schema_version": 1
+}

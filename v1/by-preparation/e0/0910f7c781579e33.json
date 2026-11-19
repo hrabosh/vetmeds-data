@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9908433",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908433",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781579e33"
+    },
+    {
+      "display_package_code": "9908434",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908434",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781579e33"
+    },
+    {
+      "display_package_code": "9908435",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908435",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781579e33"
+    },
+    {
+      "display_package_code": "9908436",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908436",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781579e33"
+    }
+  ],
+  "preparation": {
+    "holder_id": "20",
+    "holder_name": "Ceva Santé Animale",
+    "name": "Tulaven",
+    "preparation_id": "0910f7c781579e33",
+    "registration_date": "2020-04-24T9:35:08+0000",
+    "registration_number": "EU/2/20/251",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c781579e32",
+    "spc_modified_date": "2024-05-14T9:9:51+0000"
+  },
+  "schema_version": 1
+}

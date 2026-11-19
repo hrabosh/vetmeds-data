@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9934224",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934224",
+      "package_invalid_date": null,
+      "package_size": "10 x 1 dávka + ředidlo_EU/2/04/043/001",
+      "preparation_id": "0910f7c7800f3332"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "Equilis StrepE",
+    "preparation_id": "0910f7c7800f3332",
+    "registration_date": "2004-05-07T8:16:09+0000",
+    "registration_number": "EU/2/04/043",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f332f",
+    "spc_modified_date": "2016-01-15T15:30:04+0000"
+  },
+  "schema_version": 1
+}

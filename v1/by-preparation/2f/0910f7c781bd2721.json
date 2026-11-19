@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9911068",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911068",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781bd2721"
+    },
+    {
+      "display_package_code": "9911069",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911069",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781bd2721"
+    },
+    {
+      "display_package_code": "9911070",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911070",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781bd2721"
+    },
+    {
+      "display_package_code": "9911071",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911071",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781bd2721"
+    },
+    {
+      "display_package_code": "9911072",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911072",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781bd2721"
+    }
+  ],
+  "preparation": {
+    "holder_id": "251",
+    "holder_name": "Dechra Regulatory B.V.",
+    "name": "Vetoryl flavoured",
+    "preparation_id": "0910f7c781bd2721",
+    "registration_date": "2024-06-17T9:49:55+0000",
+    "registration_number": "96/033/24-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c781bd271e",
+    "spc_modified_date": "2024-09-27T9:50:19+0000"
+  },
+  "schema_version": 1
+}

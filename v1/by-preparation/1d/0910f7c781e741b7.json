@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9701031",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9701031",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781e741b7"
+    },
+    {
+      "display_package_code": "9701032",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9701032",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781e741b7"
+    },
+    {
+      "display_package_code": "9701033",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9701033",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781e741b7"
+    },
+    {
+      "display_package_code": "9701034",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9701034",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781e741b7"
+    }
+  ],
+  "preparation": {
+    "holder_id": "266",
+    "holder_name": "VETO PHARMA SAS",
+    "name": "Optivar",
+    "preparation_id": "0910f7c781e741b7",
+    "registration_date": "2026-08-11T7:40:32+0000",
+    "registration_number": "96/043/26-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781e73ead",
+    "spc_modified_date": "2026-08-14T7:42:12+0000"
+  },
+  "schema_version": 1
+}

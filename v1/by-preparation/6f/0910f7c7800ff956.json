@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900871",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900871",
+      "package_invalid_date": null,
+      "package_size": "1 x 1 kg",
+      "preparation_id": "0910f7c7800ff956"
+    },
+    {
+      "display_package_code": "9900872",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900872",
+      "package_invalid_date": null,
+      "package_size": "1 x 5 kg",
+      "preparation_id": "0910f7c7800ff956"
+    },
+    {
+      "display_package_code": "9900873",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900873",
+      "package_invalid_date": null,
+      "package_size": "1 x 10 kg",
+      "preparation_id": "0910f7c7800ff956"
+    },
+    {
+      "display_package_code": "9900874",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900874",
+      "package_invalid_date": null,
+      "package_size": "1 x 1 kg",
+      "preparation_id": "0910f7c7800ff956"
+    },
+    {
+      "display_package_code": "9900875",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900875",
+      "package_invalid_date": null,
+      "package_size": "1 x 5 kg",
+      "preparation_id": "0910f7c7800ff956"
+    },
+    {
+      "display_package_code": "9900876",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900876",
+      "package_invalid_date": null,
+      "package_size": "1 x 10 kg",
+      "preparation_id": "0910f7c7800ff956"
+    }
+  ],
+  "preparation": {
+    "holder_id": "46",
+    "holder_name": "Krka d.d. Novo mesto",
+    "name": "Entemulin",
+    "preparation_id": "0910f7c7800ff956",
+    "registration_date": "2012-01-16T7:49:08+0000",
+    "registration_number": "96/006/12-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7800ff952",
+    "spc_modified_date": "2025-01-06T12:38:53+0000"
+  },
+  "schema_version": 1
+}

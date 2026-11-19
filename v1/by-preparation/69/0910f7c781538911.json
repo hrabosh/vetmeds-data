@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9908577",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908577",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781538911"
+    },
+    {
+      "display_package_code": "9908578",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908578",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781538911"
+    },
+    {
+      "display_package_code": "9908579",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908579",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781538911"
+    },
+    {
+      "display_package_code": "9908580",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908580",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781538911"
+    },
+    {
+      "display_package_code": "9908581",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908581",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781538911"
+    },
+    {
+      "display_package_code": "9908582",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908582",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781538911"
+    }
+  ],
+  "preparation": {
+    "holder_id": "209",
+    "holder_name": "Ceva-Phylaxia Veterinary Biologicals Co.Ltd.",
+    "name": "Vectormune FP + ILT + AE",
+    "preparation_id": "0910f7c781538911",
+    "registration_date": "2020-04-24T8:17:06+0000",
+    "registration_number": "EU/2/20/250",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c781538910",
+    "spc_modified_date": "2026-04-17T8:35:23+0000"
+  },
+  "schema_version": 1
+}

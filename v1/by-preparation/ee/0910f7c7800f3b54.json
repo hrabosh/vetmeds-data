@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9934304",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934304",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 ml_EU/2/06/061/001",
+      "preparation_id": "0910f7c7800f3b54"
+    },
+    {
+      "display_package_code": "9934305",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934305",
+      "package_invalid_date": null,
+      "package_size": "1 x 500 ml_EU/2/06/061/002",
+      "preparation_id": "0910f7c7800f3b54"
+    },
+    {
+      "display_package_code": "9934306",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934306",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 ml_EU/2/06/061/003",
+      "preparation_id": "0910f7c7800f3b54"
+    },
+    {
+      "display_package_code": "9934307",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934307",
+      "package_invalid_date": null,
+      "package_size": "1 x 500 ml_EU/2/06/061/004",
+      "preparation_id": "0910f7c7800f3b54"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "Nobilis Influenza H5N2",
+    "preparation_id": "0910f7c7800f3b54",
+    "registration_date": "2006-09-01T10:53:53+0000",
+    "registration_number": "EU/2/06/061",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f3b51",
+    "spc_modified_date": "2023-06-06T5:32:47+0000"
+  },
+  "schema_version": 1
+}

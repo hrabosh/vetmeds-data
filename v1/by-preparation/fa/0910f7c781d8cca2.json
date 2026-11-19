@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700602",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700602",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781d8cca2"
+    },
+    {
+      "display_package_code": "9700603",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700603",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781d8cca2"
+    },
+    {
+      "display_package_code": "9700604",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700604",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781d8cca2"
+    }
+  ],
+  "preparation": {
+    "holder_id": "100",
+    "holder_name": "Zoetis Belgium",
+    "name": "Lenivia",
+    "preparation_id": "0910f7c781d8cca2",
+    "registration_date": "2025-11-21T11:27:57+0000",
+    "registration_number": "EU/2/25/355",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c781d8cbef",
+    "spc_modified_date": "2025-12-09T12:57:56+0000"
+  },
+  "schema_version": 1
+}

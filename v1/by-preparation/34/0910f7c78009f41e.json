@@ -1,0 +1,142 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9935064",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935064",
+      "package_invalid_date": null,
+      "package_size": "12 x 50 ml",
+      "preparation_id": "0910f7c78009f41e"
+    },
+    {
+      "display_package_code": "9935294",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935294",
+      "package_invalid_date": null,
+      "package_size": "24 x 50 ml",
+      "preparation_id": "0910f7c78009f41e"
+    },
+    {
+      "display_package_code": "9935400",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935400",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c78009f41e"
+    },
+    {
+      "display_package_code": "9935656",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935656",
+      "package_invalid_date": null,
+      "package_size": "12 x 100 ml",
+      "preparation_id": "0910f7c78009f41e"
+    },
+    {
+      "display_package_code": "9935739",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935739",
+      "package_invalid_date": null,
+      "package_size": "20 x 100 ml",
+      "preparation_id": "0910f7c78009f41e"
+    },
+    {
+      "display_package_code": "9938101",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938101",
+      "package_invalid_date": null,
+      "package_size": "1 x 1 ml",
+      "preparation_id": "0910f7c78009f41e"
+    },
+    {
+      "display_package_code": "9938120",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938120",
+      "package_invalid_date": null,
+      "package_size": "10 x 1 ml",
+      "preparation_id": "0910f7c78009f41e"
+    },
+    {
+      "display_package_code": "9938127",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938127",
+      "package_invalid_date": null,
+      "package_size": "1 x 5 ml",
+      "preparation_id": "0910f7c78009f41e"
+    },
+    {
+      "display_package_code": "9938156",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938156",
+      "package_invalid_date": null,
+      "package_size": "10 x 5 ml",
+      "preparation_id": "0910f7c78009f41e"
+    },
+    {
+      "display_package_code": "9938171",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938171",
+      "package_invalid_date": null,
+      "package_size": "1 x 20 ml",
+      "preparation_id": "0910f7c78009f41e"
+    },
+    {
+      "display_package_code": "9938183",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938183",
+      "package_invalid_date": null,
+      "package_size": "5 x 20 ml",
+      "preparation_id": "0910f7c78009f41e"
+    },
+    {
+      "display_package_code": "9938204",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938204",
+      "package_invalid_date": null,
+      "package_size": "10 x 20 ml",
+      "preparation_id": "0910f7c78009f41e"
+    },
+    {
+      "display_package_code": "9938213",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938213",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c78009f41e"
+    },
+    {
+      "display_package_code": "9938221",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938221",
+      "package_invalid_date": null,
+      "package_size": "6 x 50 ml",
+      "preparation_id": "0910f7c78009f41e"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "XYLASED",
+    "preparation_id": "0910f7c78009f41e",
+    "registration_date": "2008-05-21T10:58:16+0000",
+    "registration_number": "96/029/08-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78009f41b",
+    "spc_modified_date": "2026-08-17T10:59:29+0000"
+  },
+  "schema_version": 1
+}

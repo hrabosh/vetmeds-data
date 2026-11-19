@@ -1,0 +1,97 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700010",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700010",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814b6d1e"
+    },
+    {
+      "display_package_code": "9700011",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700011",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814b6d1e"
+    },
+    {
+      "display_package_code": "9700012",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700012",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814b6d1e"
+    },
+    {
+      "display_package_code": "9700013",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700013",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814b6d1e"
+    },
+    {
+      "display_package_code": "9907201",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907201",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814b6d1e"
+    },
+    {
+      "display_package_code": "9907202",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907202",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814b6d1e"
+    },
+    {
+      "display_package_code": "9907203",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907203",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814b6d1e"
+    },
+    {
+      "display_package_code": "9907204",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907204",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814b6d1e"
+    },
+    {
+      "display_package_code": "9907205",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907205",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814b6d1e"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "Pestorin RHDV 2",
+    "preparation_id": "0910f7c7814b6d1e",
+    "registration_date": "2019-02-07T13:18:18+0000",
+    "registration_number": "97/006/19-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7814b6d1d",
+    "spc_modified_date": "2025-01-23T9:8:26+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905891",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905891",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804b7ceb"
+    },
+    {
+      "display_package_code": "9905892",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905892",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804b7ceb"
+    },
+    {
+      "display_package_code": "9905893",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905893",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804b7ceb"
+    },
+    {
+      "display_package_code": "9905894",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905894",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804b7ceb"
+    },
+    {
+      "display_package_code": "9905895",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905895",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804b7ceb"
+    },
+    {
+      "display_package_code": "9905896",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905896",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804b7ceb"
+    }
+  ],
+  "preparation": {
+    "holder_id": "119",
+    "holder_name": "Industrial Veterinaria S.A.",
+    "name": "Boflox Flavour",
+    "preparation_id": "0910f7c7804b7ceb",
+    "registration_date": "2017-04-19T7:3:59+0000",
+    "registration_number": "96/019/17-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7804b7cea",
+    "spc_modified_date": "2026-09-18T7:4:20+0000"
+  },
+  "schema_version": 1
+}

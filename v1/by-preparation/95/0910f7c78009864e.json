@@ -1,0 +1,124 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9936782",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936782",
+      "package_invalid_date": null,
+      "package_size": "1 x 5 kg",
+      "preparation_id": "0910f7c78009864e"
+    },
+    {
+      "display_package_code": "9936829",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936829",
+      "package_invalid_date": null,
+      "package_size": "1 x 8 kg",
+      "preparation_id": "0910f7c78009864e"
+    },
+    {
+      "display_package_code": "9936867",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936867",
+      "package_invalid_date": null,
+      "package_size": "1 x 10 kg",
+      "preparation_id": "0910f7c78009864e"
+    },
+    {
+      "display_package_code": "9936959",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936959",
+      "package_invalid_date": null,
+      "package_size": "1 x 15 kg",
+      "preparation_id": "0910f7c78009864e"
+    },
+    {
+      "display_package_code": "9937039",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937039",
+      "package_invalid_date": null,
+      "package_size": "1 x 16 kg",
+      "preparation_id": "0910f7c78009864e"
+    },
+    {
+      "display_package_code": "9937058",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937058",
+      "package_invalid_date": null,
+      "package_size": "1 x 20 kg",
+      "preparation_id": "0910f7c78009864e"
+    },
+    {
+      "display_package_code": "9937105",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937105",
+      "package_invalid_date": null,
+      "package_size": "1 x 25 kg",
+      "preparation_id": "0910f7c78009864e"
+    },
+    {
+      "display_package_code": "9937156",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937156",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 kg",
+      "preparation_id": "0910f7c78009864e"
+    },
+    {
+      "display_package_code": "9937219",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937219",
+      "package_invalid_date": null,
+      "package_size": "1 x 1 kg",
+      "preparation_id": "0910f7c78009864e"
+    },
+    {
+      "display_package_code": "9937270",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937270",
+      "package_invalid_date": null,
+      "package_size": "1 x 5 kg",
+      "preparation_id": "0910f7c78009864e"
+    },
+    {
+      "display_package_code": "9937310",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937310",
+      "package_invalid_date": null,
+      "package_size": "1 x 10 kg",
+      "preparation_id": "0910f7c78009864e"
+    },
+    {
+      "display_package_code": "9937319",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937319",
+      "package_invalid_date": null,
+      "package_size": "1 x 15 kg",
+      "preparation_id": "0910f7c78009864e"
+    }
+  ],
+  "preparation": {
+    "holder_id": "122",
+    "holder_name": "Tekro spol. s r.o.",
+    "name": "MEDITEK  DOX",
+    "preparation_id": "0910f7c78009864e",
+    "registration_date": "2005-08-29T11:3:01+0000",
+    "registration_number": "98/031/05-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78009864b",
+    "spc_modified_date": "2026-05-12T11:3:53+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,106 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902118",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902118",
+      "package_invalid_date": "2014-01-17T9:43:03+0000",
+      "package_size": "5 x 1 dávka",
+      "preparation_id": "0910f7c78019720c"
+    },
+    {
+      "display_package_code": "9902119",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902119",
+      "package_invalid_date": "2014-01-17T9:48:28+0000",
+      "package_size": "10 x 1 dávka",
+      "preparation_id": "0910f7c78019720c"
+    },
+    {
+      "display_package_code": "9902120",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902120",
+      "package_invalid_date": "2014-01-17T9:46:10+0000",
+      "package_size": "1 x 5 dávek",
+      "preparation_id": "0910f7c78019720c"
+    },
+    {
+      "display_package_code": "9902121",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902121",
+      "package_invalid_date": "2014-01-17T9:45:01+0000",
+      "package_size": "10 x 5 dávek",
+      "preparation_id": "0910f7c78019720c"
+    },
+    {
+      "display_package_code": "9902128",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902128",
+      "package_invalid_date": "2014-01-17T9:43:52+0000",
+      "package_size": "2 x 1 dávka",
+      "preparation_id": "0910f7c78019720c"
+    },
+    {
+      "display_package_code": "9902920",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902920",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78019720c"
+    },
+    {
+      "display_package_code": "9902921",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902921",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78019720c"
+    },
+    {
+      "display_package_code": "9902922",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902922",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78019720c"
+    },
+    {
+      "display_package_code": "9902923",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902923",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78019720c"
+    },
+    {
+      "display_package_code": "9902924",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902924",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78019720c"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "BioEquin FH",
+    "preparation_id": "0910f7c78019720c",
+    "registration_date": "2013-02-14T10:54:41+0000",
+    "registration_number": "97/006/13-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c780197207",
+    "spc_modified_date": "2025-12-19T8:53:42+0000"
+  },
+  "schema_version": 1
+}

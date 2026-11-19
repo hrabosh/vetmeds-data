@@ -1,0 +1,133 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9904217",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904217",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78025c8a9"
+    },
+    {
+      "display_package_code": "9904218",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904218",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78025c8a9"
+    },
+    {
+      "display_package_code": "9904219",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904219",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78025c8a9"
+    },
+    {
+      "display_package_code": "9904220",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904220",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78025c8a9"
+    },
+    {
+      "display_package_code": "9904221",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904221",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78025c8a9"
+    },
+    {
+      "display_package_code": "9904222",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904222",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78025c8a9"
+    },
+    {
+      "display_package_code": "9904223",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904223",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78025c8a9"
+    },
+    {
+      "display_package_code": "9904224",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904224",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78025c8a9"
+    },
+    {
+      "display_package_code": "9904225",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904225",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78025c8a9"
+    },
+    {
+      "display_package_code": "9904226",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904226",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78025c8a9"
+    },
+    {
+      "display_package_code": "9904227",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904227",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78025c8a9"
+    },
+    {
+      "display_package_code": "9904228",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904228",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78025c8a9"
+    },
+    {
+      "display_package_code": "9904229",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904229",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78025c8a9"
+    }
+  ],
+  "preparation": {
+    "holder_id": "180",
+    "holder_name": "Le Vet. Beheer, B.V.",
+    "name": "Amoxibactin",
+    "preparation_id": "0910f7c78025c8a9",
+    "registration_date": "2015-03-30T6:25:19+0000",
+    "registration_number": "96/038/15-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78025c8a6",
+    "spc_modified_date": "2026-09-15T5:56:42+0000"
+  },
+  "schema_version": 1
+}

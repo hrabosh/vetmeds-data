@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9937264",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937264",
+      "package_invalid_date": "2025-03-26T13:14:21+0000",
+      "package_size": "1 x 2000 dávek",
+      "preparation_id": "0910f7c78008f4e5"
+    },
+    {
+      "display_package_code": "9937271",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937271",
+      "package_invalid_date": null,
+      "package_size": "1 x 2500 dávek",
+      "preparation_id": "0910f7c78008f4e5"
+    },
+    {
+      "display_package_code": "9937365",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937365",
+      "package_invalid_date": null,
+      "package_size": "1 x 5000 dávek",
+      "preparation_id": "0910f7c78008f4e5"
+    },
+    {
+      "display_package_code": "9937436",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937436",
+      "package_invalid_date": "2025-03-26T8:5:01+0000",
+      "package_size": "10 x 2000 dávek",
+      "preparation_id": "0910f7c78008f4e5"
+    },
+    {
+      "display_package_code": "9937990",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937990",
+      "package_invalid_date": null,
+      "package_size": "1 x 1000 dávek",
+      "preparation_id": "0910f7c78008f4e5"
+    },
+    {
+      "display_package_code": "9938082",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938082",
+      "package_invalid_date": null,
+      "package_size": "10 x 1000 dávek",
+      "preparation_id": "0910f7c78008f4e5"
+    },
+    {
+      "display_package_code": "9938270",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938270",
+      "package_invalid_date": null,
+      "package_size": "10 x 2500 dávek",
+      "preparation_id": "0910f7c78008f4e5"
+    },
+    {
+      "display_package_code": "9938327",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938327",
+      "package_invalid_date": null,
+      "package_size": "10 x 5000 dávek",
+      "preparation_id": "0910f7c78008f4e5"
+    }
+  ],
+  "preparation": {
+    "holder_id": "53",
+    "holder_name": "Lohmann Animal Health GmbH",
+    "name": "AviPro Precise",
+    "preparation_id": "0910f7c78008f4e5",
+    "registration_date": "1997-11-18T8:5:02+0000",
+    "registration_number": "97/1076/97-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78008f4e2",
+    "spc_modified_date": "2025-03-31T12:36:45+0000"
+  },
+  "schema_version": 1
+}

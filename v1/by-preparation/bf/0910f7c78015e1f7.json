@@ -1,0 +1,178 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900979",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900979",
+      "package_invalid_date": "2020-12-01T7:48:56+0000",
+      "package_size": "1 x 1 tuba po 1 ml",
+      "preparation_id": "0910f7c78015e1f7"
+    },
+    {
+      "display_package_code": "9900980",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900980",
+      "package_invalid_date": "2020-12-01T7:50:37+0000",
+      "package_size": "1 x 2 tuby po 1 ml",
+      "preparation_id": "0910f7c78015e1f7"
+    },
+    {
+      "display_package_code": "9900981",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900981",
+      "package_invalid_date": "2020-12-01T7:52:18+0000",
+      "package_size": "1 x 3 tuby po 1 ml",
+      "preparation_id": "0910f7c78015e1f7"
+    },
+    {
+      "display_package_code": "9900982",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900982",
+      "package_invalid_date": "2020-12-01T7:54:31+0000",
+      "package_size": "1 x 4 tuby po 1 ml",
+      "preparation_id": "0910f7c78015e1f7"
+    },
+    {
+      "display_package_code": "9900983",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900983",
+      "package_invalid_date": "2020-12-01T7:56:31+0000",
+      "package_size": "1 x 6 tub po 1 ml",
+      "preparation_id": "0910f7c78015e1f7"
+    },
+    {
+      "display_package_code": "9900984",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900984",
+      "package_invalid_date": "2020-12-01T7:58:20+0000",
+      "package_size": "1 x 8 tub po 1 ml",
+      "preparation_id": "0910f7c78015e1f7"
+    },
+    {
+      "display_package_code": "9900985",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900985",
+      "package_invalid_date": "2020-12-01T8:0:14+0000",
+      "package_size": "1 x 3 tuby po 1 ml",
+      "preparation_id": "0910f7c78015e1f7"
+    },
+    {
+      "display_package_code": "9900986",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900986",
+      "package_invalid_date": "2020-12-01T8:1:59+0000",
+      "package_size": "2 x 3 tuby po 1 ml",
+      "preparation_id": "0910f7c78015e1f7"
+    },
+    {
+      "display_package_code": "9900987",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900987",
+      "package_invalid_date": "2020-12-01T8:3:39+0000",
+      "package_size": "7 x 3 tuby po 1 ml",
+      "preparation_id": "0910f7c78015e1f7"
+    },
+    {
+      "display_package_code": "9908989",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908989",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78015e1f7"
+    },
+    {
+      "display_package_code": "9908990",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908990",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78015e1f7"
+    },
+    {
+      "display_package_code": "9908991",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908991",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78015e1f7"
+    },
+    {
+      "display_package_code": "9908992",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908992",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78015e1f7"
+    },
+    {
+      "display_package_code": "9908993",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908993",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78015e1f7"
+    },
+    {
+      "display_package_code": "9908994",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908994",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78015e1f7"
+    },
+    {
+      "display_package_code": "9908995",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908995",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78015e1f7"
+    },
+    {
+      "display_package_code": "9908996",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908996",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78015e1f7"
+    },
+    {
+      "display_package_code": "9908997",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908997",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78015e1f7"
+    }
+  ],
+  "preparation": {
+    "holder_id": "284",
+    "holder_name": "Pets Choice Healthcare Ltd.",
+    "name": "VETCARE",
+    "preparation_id": "0910f7c78015e1f7",
+    "registration_date": "2012-02-23T6:49:58+0000",
+    "registration_number": "96/027/12-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78015e1f2",
+    "spc_modified_date": "2022-10-26T9:28:26+0000"
+  },
+  "schema_version": 1
+}

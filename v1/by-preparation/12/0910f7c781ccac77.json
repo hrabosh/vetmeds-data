@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700383",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700383",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ccac77"
+    },
+    {
+      "display_package_code": "9700384",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700384",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ccac77"
+    },
+    {
+      "display_package_code": "9700385",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700385",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ccac77"
+    },
+    {
+      "display_package_code": "9700589",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700589",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ccac77"
+    }
+  ],
+  "preparation": {
+    "holder_id": "117",
+    "holder_name": "Huvepharma NV",
+    "name": "Cocciril",
+    "preparation_id": "0910f7c781ccac77",
+    "registration_date": "2025-08-25T8:55:16+0000",
+    "registration_number": "96/039/25-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c781ccac76",
+    "spc_modified_date": "2025-12-12T12:13:27+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9903496",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903496",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780095249"
+    },
+    {
+      "display_package_code": "9936725",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936725",
+      "package_invalid_date": null,
+      "package_size": "1 x 14 tbl.",
+      "preparation_id": "0910f7c780095249"
+    },
+    {
+      "display_package_code": "9936889",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936889",
+      "package_invalid_date": null,
+      "package_size": "1 x 20 tbl",
+      "preparation_id": "0910f7c780095249"
+    },
+    {
+      "display_package_code": "9938832",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938832",
+      "package_invalid_date": null,
+      "package_size": "1 x 70 tbl.",
+      "preparation_id": "0910f7c780095249"
+    },
+    {
+      "display_package_code": "9938843",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938843",
+      "package_invalid_date": null,
+      "package_size": "1 x 140 tbl.",
+      "preparation_id": "0910f7c780095249"
+    }
+  ],
+  "preparation": {
+    "holder_id": "65",
+    "holder_name": "Orion Corporation",
+    "name": "KEFAVET VET",
+    "preparation_id": "0910f7c780095249",
+    "registration_date": "2008-03-17T13:25:34+0000",
+    "registration_number": "96/015/08-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780095246",
+    "spc_modified_date": "2025-07-02T9:39:53+0000"
+  },
+  "schema_version": 1
+}

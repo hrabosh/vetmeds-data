@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700319",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700319",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781d1f976"
+    },
+    {
+      "display_package_code": "9700320",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700320",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781d1f976"
+    },
+    {
+      "display_package_code": "9700321",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700321",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781d1f976"
+    },
+    {
+      "display_package_code": "9700322",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700322",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781d1f976"
+    },
+    {
+      "display_package_code": "9700323",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700323",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781d1f976"
+    }
+  ],
+  "preparation": {
+    "holder_id": "46",
+    "holder_name": "Krka d.d. Novo mesto",
+    "name": "Dehinexxa",
+    "preparation_id": "0910f7c781d1f976",
+    "registration_date": "2025-08-12T9:14:00+0000",
+    "registration_number": "96/028/25-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c781d1f973",
+    "spc_modified_date": "2026-07-08T9:24:52+0000"
+  },
+  "schema_version": 1
+}

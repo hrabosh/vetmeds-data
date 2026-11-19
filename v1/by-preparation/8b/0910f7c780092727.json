@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900841",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9900841",
+      "package_invalid_date": null,
+      "package_size": "1 x 1 ml (vyhrazený přípravek)",
+      "preparation_id": "0910f7c780092727"
+    },
+    {
+      "display_package_code": "9900842",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9900842",
+      "package_invalid_date": null,
+      "package_size": "2 x 1 ml (vyhrazený přípravek)",
+      "preparation_id": "0910f7c780092727"
+    },
+    {
+      "display_package_code": "9900843",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9900843",
+      "package_invalid_date": null,
+      "package_size": "3 x 1 ml",
+      "preparation_id": "0910f7c780092727"
+    },
+    {
+      "display_package_code": "9900844",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9900844",
+      "package_invalid_date": null,
+      "package_size": "4 x 1 ml",
+      "preparation_id": "0910f7c780092727"
+    },
+    {
+      "display_package_code": "9938554",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9938554",
+      "package_invalid_date": null,
+      "package_size": "6 x 1 ml",
+      "preparation_id": "0910f7c780092727"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "Exspot",
+    "preparation_id": "0910f7c780092727",
+    "registration_date": "1996-12-17T13:23:49+0000",
+    "registration_number": "96/817/96-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780092724",
+    "spc_modified_date": "2024-10-15T11:48:59+0000"
+  },
+  "schema_version": 1
+}

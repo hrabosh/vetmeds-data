@@ -1,0 +1,34 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700904",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700904",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3b65"
+    },
+    {
+      "display_package_code": "9934145",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934145",
+      "package_invalid_date": null,
+      "package_size": "5 x 1 dávka + 5 x 0,5 ml sterilní ředidlo_EU/2/02/034/001",
+      "preparation_id": "0910f7c7800f3b65"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "Nobivac Bb",
+    "preparation_id": "0910f7c7800f3b65",
+    "registration_date": "2002-09-10T6:47:15+0000",
+    "registration_number": "EU/2/02/034",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f3b62",
+    "spc_modified_date": "2021-02-16T12:41:48+0000"
+  },
+  "schema_version": 1
+}

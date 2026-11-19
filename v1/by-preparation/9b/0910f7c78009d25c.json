@@ -1,0 +1,160 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900143",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900143",
+      "package_invalid_date": null,
+      "package_size": "1 x 5 dávek (1 x 10 ml) i.m. aplikace",
+      "preparation_id": "0910f7c78009d25c"
+    },
+    {
+      "display_package_code": "9900144",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900144",
+      "package_invalid_date": null,
+      "package_size": "1 x 25 dávek (1 x 50 ml) i.m. aplikace",
+      "preparation_id": "0910f7c78009d25c"
+    },
+    {
+      "display_package_code": "9900145",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900145",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 dávek (1 x 100 ml) i.m. aplikace",
+      "preparation_id": "0910f7c78009d25c"
+    },
+    {
+      "display_package_code": "9900146",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900146",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 dávek (1 x 500 ml) i.m. aplikace",
+      "preparation_id": "0910f7c78009d25c"
+    },
+    {
+      "display_package_code": "9900147",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900147",
+      "package_invalid_date": null,
+      "package_size": "1 x 25 dávek (1 x 5 ml) i.d. aplikace",
+      "preparation_id": "0910f7c78009d25c"
+    },
+    {
+      "display_package_code": "9900148",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900148",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 dávek (1 x 10 ml) i.d. aplikace",
+      "preparation_id": "0910f7c78009d25c"
+    },
+    {
+      "display_package_code": "9900149",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900149",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 dávek (1 x 50 ml) i.d. aplikace",
+      "preparation_id": "0910f7c78009d25c"
+    },
+    {
+      "display_package_code": "9900150",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900150",
+      "package_invalid_date": null,
+      "package_size": "1 x 500 dávek (1 x 100 ml) i.d. aplikace",
+      "preparation_id": "0910f7c78009d25c"
+    },
+    {
+      "display_package_code": "9936254",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936254",
+      "package_invalid_date": null,
+      "package_size": "50 dávek (10 ml ) i.d. aplikace",
+      "preparation_id": "0910f7c78009d25c"
+    },
+    {
+      "display_package_code": "9936283",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936283",
+      "package_invalid_date": null,
+      "package_size": "500 dávek (100 ml) i.d. aplikace",
+      "preparation_id": "0910f7c78009d25c"
+    },
+    {
+      "display_package_code": "9937879",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937879",
+      "package_invalid_date": null,
+      "package_size": "5 dávek (10 ml) i.m. aplikace",
+      "preparation_id": "0910f7c78009d25c"
+    },
+    {
+      "display_package_code": "9937884",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937884",
+      "package_invalid_date": null,
+      "package_size": "50 dávek (100 ml) i.m. aplikace",
+      "preparation_id": "0910f7c78009d25c"
+    },
+    {
+      "display_package_code": "9938022",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938022",
+      "package_invalid_date": null,
+      "package_size": "250 dávek (500 ml) i.m. aplikace",
+      "preparation_id": "0910f7c78009d25c"
+    },
+    {
+      "display_package_code": "9938045",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938045",
+      "package_invalid_date": null,
+      "package_size": "25 dávek (50 ml) i.m. aplikace",
+      "preparation_id": "0910f7c78009d25c"
+    },
+    {
+      "display_package_code": "9938056",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938056",
+      "package_invalid_date": null,
+      "package_size": "25 dávek (5 ml ) i.d. aplikace",
+      "preparation_id": "0910f7c78009d25c"
+    },
+    {
+      "display_package_code": "9938089",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938089",
+      "package_invalid_date": null,
+      "package_size": "250 dávek (50 ml) i.d. aplikace",
+      "preparation_id": "0910f7c78009d25c"
+    }
+  ],
+  "preparation": {
+    "holder_id": "29",
+    "holder_name": "Dyntec, spol. s r.o.",
+    "name": "SUIVAC APP",
+    "preparation_id": "0910f7c78009d25c",
+    "registration_date": "2001-11-02T8:54:39+0000",
+    "registration_number": "97/056/01-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78009d259",
+    "spc_modified_date": "2026-06-09T7:33:13+0000"
+  },
+  "schema_version": 1
+}

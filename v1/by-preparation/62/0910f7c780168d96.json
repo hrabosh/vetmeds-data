@@ -1,0 +1,142 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906337",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906337",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780168d96"
+    },
+    {
+      "display_package_code": "9906338",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906338",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780168d96"
+    },
+    {
+      "display_package_code": "9906339",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906339",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780168d96"
+    },
+    {
+      "display_package_code": "9906340",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906340",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780168d96"
+    },
+    {
+      "display_package_code": "9906341",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906341",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780168d96"
+    },
+    {
+      "display_package_code": "9906342",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906342",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780168d96"
+    },
+    {
+      "display_package_code": "9906343",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906343",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780168d96"
+    },
+    {
+      "display_package_code": "9906344",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906344",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780168d96"
+    },
+    {
+      "display_package_code": "9906345",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906345",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780168d96"
+    },
+    {
+      "display_package_code": "9906346",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906346",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780168d96"
+    },
+    {
+      "display_package_code": "9906347",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906347",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780168d96"
+    },
+    {
+      "display_package_code": "9906348",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906348",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780168d96"
+    },
+    {
+      "display_package_code": "9906349",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906349",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780168d96"
+    },
+    {
+      "display_package_code": "9906350",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906350",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780168d96"
+    }
+  ],
+  "preparation": {
+    "holder_id": "37",
+    "holder_name": "Chanelle Pharmaceuticals Manufacturing, Ltd.",
+    "name": "Epityl 60 mg",
+    "preparation_id": "0910f7c780168d96",
+    "registration_date": "2018-03-05T7:0:08+0000",
+    "registration_number": "96/008/18-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c780168d91",
+    "spc_modified_date": "2024-09-24T6:1:01+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937651",
+      "package_invalid_date": null,
+      "package_size": "12 x 100 ml",
+      "preparation_id": "0910f7c780091e21"
+    },
+    {
+      "display_package_code": "",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938380",
+      "package_invalid_date": null,
+      "package_size": "12 x 250 ml",
+      "preparation_id": "0910f7c780091e21"
+    },
+    {
+      "display_package_code": "",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938998",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c780091e21"
+    },
+    {
+      "display_package_code": "",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938999",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 ml",
+      "preparation_id": "0910f7c780091e21"
+    }
+  ],
+  "preparation": {
+    "holder_id": "263",
+    "holder_name": "Kela N.V.",
+    "name": "COMBI-KEL",
+    "preparation_id": "0910f7c780091e21",
+    "registration_date": "1997-12-05T8:25:24+0000",
+    "registration_number": "96/1198/97-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c780091e1e",
+    "spc_modified_date": "2022-10-26T6:53:23+0000"
+  },
+  "schema_version": 1
+}

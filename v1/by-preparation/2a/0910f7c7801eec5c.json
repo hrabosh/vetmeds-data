@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9903573",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903573",
+      "package_invalid_date": "2016-02-17T11:22:39+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7801eec5c"
+    },
+    {
+      "display_package_code": "9903574",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903574",
+      "package_invalid_date": "2016-02-17T11:22:53+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7801eec5c"
+    },
+    {
+      "display_package_code": "9903575",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903575",
+      "package_invalid_date": "2016-02-17T11:23:10+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7801eec5c"
+    },
+    {
+      "display_package_code": "9903576",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903576",
+      "package_invalid_date": "2016-02-17T11:23:25+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7801eec5c"
+    },
+    {
+      "display_package_code": "9904716",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904716",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801eec5c"
+    },
+    {
+      "display_package_code": "9904717",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904717",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801eec5c"
+    },
+    {
+      "display_package_code": "9904718",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904718",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801eec5c"
+    },
+    {
+      "display_package_code": "9904719",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904719",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801eec5c"
+    }
+  ],
+  "preparation": {
+    "holder_id": "322",
+    "holder_name": "Ceva Sante Animale",
+    "name": "Zodon",
+    "preparation_id": "0910f7c7801eec5c",
+    "registration_date": "2014-09-04T6:30:41+0000",
+    "registration_number": "96/067/14-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7801eec59",
+    "spc_modified_date": "2025-08-11T10:43:45+0000"
+  },
+  "schema_version": 1
+}

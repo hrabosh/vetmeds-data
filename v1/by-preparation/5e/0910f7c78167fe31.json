@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909180",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909180",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78167fe31"
+    },
+    {
+      "display_package_code": "9909181",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909181",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78167fe31"
+    },
+    {
+      "display_package_code": "9909182",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909182",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78167fe31"
+    },
+    {
+      "display_package_code": "9909183",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909183",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78167fe31"
+    }
+  ],
+  "preparation": {
+    "holder_id": "117",
+    "holder_name": "Huvepharma NV",
+    "name": "Huvamox",
+    "preparation_id": "0910f7c78167fe31",
+    "registration_date": "2021-03-15T18:43:50+0000",
+    "registration_number": "96/013/21-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78167fe30",
+    "spc_modified_date": "2024-01-15T11:26:49+0000"
+  },
+  "schema_version": 1
+}

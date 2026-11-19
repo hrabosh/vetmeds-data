@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909545",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909545",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7819647c2"
+    },
+    {
+      "display_package_code": "9909546",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909546",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7819647c2"
+    },
+    {
+      "display_package_code": "9909547",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909547",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7819647c2"
+    }
+  ],
+  "preparation": {
+    "holder_id": "178",
+    "holder_name": "Emdoka",
+    "name": "Emdocam pro skot a prasata",
+    "preparation_id": "0910f7c7819647c2",
+    "registration_date": "2011-08-18T5:57:53+0000",
+    "registration_number": "EU/2/11/128",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c78016634b",
+    "spc_modified_date": "2026-01-08T13:27:31+0000"
+  },
+  "schema_version": 1
+}

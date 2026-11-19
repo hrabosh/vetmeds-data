@@ -1,0 +1,232 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900013",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900013",
+      "package_invalid_date": "2013-06-03T6:56:54+0000",
+      "package_size": "1 x 20 ml (10 dávek) (převod registrace)",
+      "preparation_id": "0910f7c78009dffa"
+    },
+    {
+      "display_package_code": "9900014",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900014",
+      "package_invalid_date": "2013-06-03T6:57:15+0000",
+      "package_size": "1 x 100 ml (50 dávek) (převod registrace)",
+      "preparation_id": "0910f7c78009dffa"
+    },
+    {
+      "display_package_code": "9900015",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900015",
+      "package_invalid_date": "2013-06-03T6:57:36+0000",
+      "package_size": "1 x 250 ml (125 dávek) (převod registrace)",
+      "preparation_id": "0910f7c78009dffa"
+    },
+    {
+      "display_package_code": "9900016",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900016",
+      "package_invalid_date": "2013-06-03T6:57:57+0000",
+      "package_size": "10 x 20 ml (10 x 10 dávek) (převod registrace)",
+      "preparation_id": "0910f7c78009dffa"
+    },
+    {
+      "display_package_code": "9900017",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900017",
+      "package_invalid_date": "2013-06-03T6:58:15+0000",
+      "package_size": "10 x 100 ml (10 x 50 dávek) (převod registrace)",
+      "preparation_id": "0910f7c78009dffa"
+    },
+    {
+      "display_package_code": "9900018",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900018",
+      "package_invalid_date": "2013-06-03T6:58:43+0000",
+      "package_size": "10 x 250 ml (10 x 125 dávek) (převod registrace)",
+      "preparation_id": "0910f7c78009dffa"
+    },
+    {
+      "display_package_code": "9900019",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900019",
+      "package_invalid_date": "2013-06-03T6:59:29+0000",
+      "package_size": "1 x 100 ml (50 dávek) (převod registrace)",
+      "preparation_id": "0910f7c78009dffa"
+    },
+    {
+      "display_package_code": "9900020",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900020",
+      "package_invalid_date": "2013-06-03T6:59:53+0000",
+      "package_size": "10 x 100 ml (10 x 50 dávek) (převod registrace)",
+      "preparation_id": "0910f7c78009dffa"
+    },
+    {
+      "display_package_code": "9902498",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902498",
+      "package_invalid_date": "2014-06-03T7:5:19+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78009dffa"
+    },
+    {
+      "display_package_code": "9902499",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902499",
+      "package_invalid_date": "2014-06-03T7:5:42+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78009dffa"
+    },
+    {
+      "display_package_code": "9902500",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902500",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009dffa"
+    },
+    {
+      "display_package_code": "9902501",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902501",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009dffa"
+    },
+    {
+      "display_package_code": "9902502",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902502",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009dffa"
+    },
+    {
+      "display_package_code": "9902503",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902503",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009dffa"
+    },
+    {
+      "display_package_code": "9902504",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902504",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009dffa"
+    },
+    {
+      "display_package_code": "9902505",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902505",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009dffa"
+    },
+    {
+      "display_package_code": "9937305",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937305",
+      "package_invalid_date": "2011-11-01T7:49:20+0000",
+      "package_size": "1 x 100 ml (50 dávek)",
+      "preparation_id": "0910f7c78009dffa"
+    },
+    {
+      "display_package_code": "9937859",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937859",
+      "package_invalid_date": "2011-11-01T7:48:44+0000",
+      "package_size": "1 x 20 ml (10 dávek)",
+      "preparation_id": "0910f7c78009dffa"
+    },
+    {
+      "display_package_code": "9937940",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937940",
+      "package_invalid_date": "2011-11-01T7:50:29+0000",
+      "package_size": "1 x 250 ml (125 dávek)",
+      "preparation_id": "0910f7c78009dffa"
+    },
+    {
+      "display_package_code": "9938053",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938053",
+      "package_invalid_date": "2011-11-01T7:51:09+0000",
+      "package_size": "10 x 20 ml (10 dávek)",
+      "preparation_id": "0910f7c78009dffa"
+    },
+    {
+      "display_package_code": "9938066",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938066",
+      "package_invalid_date": "2011-11-01T7:51:44+0000",
+      "package_size": "10 x 100 ml (50 dávek)",
+      "preparation_id": "0910f7c78009dffa"
+    },
+    {
+      "display_package_code": "9938093",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938093",
+      "package_invalid_date": "2011-11-01T7:54:40+0000",
+      "package_size": "10 x 250 ml (125 dávek)",
+      "preparation_id": "0910f7c78009dffa"
+    },
+    {
+      "display_package_code": "9938118",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938118",
+      "package_invalid_date": "2011-11-01T7:55:08+0000",
+      "package_size": "1 x 100 ml (50 dávek)",
+      "preparation_id": "0910f7c78009dffa"
+    },
+    {
+      "display_package_code": "9938129",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938129",
+      "package_invalid_date": "2011-11-01T7:55:28+0000",
+      "package_size": "10 x 100 ml (50 dávek)",
+      "preparation_id": "0910f7c78009dffa"
+    }
+  ],
+  "preparation": {
+    "holder_id": "226",
+    "holder_name": "Zoetis Česká republika s.r.o.",
+    "name": "Suvaxyn MH-One",
+    "preparation_id": "0910f7c78009dffa",
+    "registration_date": "2008-07-31T9:48:59+0000",
+    "registration_number": "97/045/08-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78009dff4",
+    "spc_modified_date": "2024-01-23T10:49:27+0000"
+  },
+  "schema_version": 1
+}

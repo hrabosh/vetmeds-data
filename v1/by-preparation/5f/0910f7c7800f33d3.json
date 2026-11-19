@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900967",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900967",
+      "package_invalid_date": "2026-03-12T13:36:35+0000",
+      "package_size": "1 x 20 ml (1 x 10 dávek)_EU/2/09/095/004",
+      "preparation_id": "0910f7c7800f33d3"
+    },
+    {
+      "display_package_code": "9900968",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900968",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml (1 x 50 dávek)_EU/2/09/095/005",
+      "preparation_id": "0910f7c7800f33d3"
+    },
+    {
+      "display_package_code": "9900969",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900969",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 ml (1 x 125 dávek)_EU/2/09/095/006",
+      "preparation_id": "0910f7c7800f33d3"
+    },
+    {
+      "display_package_code": "9934514",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934514",
+      "package_invalid_date": "2026-03-12T13:35:46+0000",
+      "package_size": "12 x 20 ml (12 x 10 dávek)_EU/2/09/095/001",
+      "preparation_id": "0910f7c7800f33d3"
+    },
+    {
+      "display_package_code": "9934515",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934515",
+      "package_invalid_date": null,
+      "package_size": "10 x 100 ml (10 x 50 dávek)_EU/2/09/095/002",
+      "preparation_id": "0910f7c7800f33d3"
+    },
+    {
+      "display_package_code": "9934516",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934516",
+      "package_invalid_date": null,
+      "package_size": "4 x 250 ml (4 x 125 dávek)_EU/2/09/095/003",
+      "preparation_id": "0910f7c7800f33d3"
+    }
+  ],
+  "preparation": {
+    "holder_id": "100",
+    "holder_name": "Zoetis Belgium",
+    "name": "Improvac",
+    "preparation_id": "0910f7c7800f33d3",
+    "registration_date": "2009-05-11T12:36:38+0000",
+    "registration_number": "EU/2/09/095",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f33cf",
+    "spc_modified_date": "2023-07-14T8:3:18+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9907977",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907977",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3356"
+    },
+    {
+      "display_package_code": "9907978",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907978",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3356"
+    },
+    {
+      "display_package_code": "9907979",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907979",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3356"
+    },
+    {
+      "display_package_code": "9934080",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934080",
+      "package_invalid_date": "2019-12-10T10:46:45+0000",
+      "package_size": "2 x 10 dávek + ředidlo_EU/2/01/029/001",
+      "preparation_id": "0910f7c7800f3356"
+    },
+    {
+      "display_package_code": "9934081",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934081",
+      "package_invalid_date": "2019-12-10T10:48:29+0000",
+      "package_size": "2 x 50 dávek+ředidlo_EU/2/01/029/002",
+      "preparation_id": "0910f7c7800f3356"
+    },
+    {
+      "display_package_code": "9934082",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934082",
+      "package_invalid_date": "2019-12-10T10:45:05+0000",
+      "package_size": "2 x 1 dávka + ředidlo_EU/2/01/029/003",
+      "preparation_id": "0910f7c7800f3356"
+    }
+  ],
+  "preparation": {
+    "holder_id": "16",
+    "holder_name": "Boehringer Ingelheim Vetmedica, GmbH",
+    "name": "Eurican Herpes 205",
+    "preparation_id": "0910f7c7800f3356",
+    "registration_date": "2001-03-26T8:48:44+0000",
+    "registration_number": "EU/2/01/029",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f3350",
+    "spc_modified_date": "2025-01-29T12:57:09+0000"
+  },
+  "schema_version": 1
+}

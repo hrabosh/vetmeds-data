@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9907314",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907314",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78140934c"
+    },
+    {
+      "display_package_code": "9907315",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907315",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78140934c"
+    },
+    {
+      "display_package_code": "9907316",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907316",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78140934c"
+    }
+  ],
+  "preparation": {
+    "holder_id": "46",
+    "holder_name": "Krka d.d. Novo mesto",
+    "name": "Tuloxxin",
+    "preparation_id": "0910f7c78140934c",
+    "registration_date": "2019-04-25T17:7:04+0000",
+    "registration_number": "96/027/19-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78140934b",
+    "spc_modified_date": "2024-07-10T8:21:21+0000"
+  },
+  "schema_version": 1
+}

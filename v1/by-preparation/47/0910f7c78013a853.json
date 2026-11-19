@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9903830",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903830",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78013a853"
+    }
+  ],
+  "preparation": {
+    "holder_id": "25",
+    "holder_name": "Cymedica, spol. s r. o.",
+    "name": "Amix vet T",
+    "preparation_id": "0910f7c78013a853",
+    "registration_date": "2014-10-31T7:6:09+0000",
+    "registration_number": "96/083/14-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78013a84b",
+    "spc_modified_date": "2022-10-26T5:59:03+0000"
+  },
+  "schema_version": 1
+}

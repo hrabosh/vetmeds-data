@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900082",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900082",
+      "package_invalid_date": "2011-01-14T10:33:22+0000",
+      "package_size": "1 x 12,2 g (převod registrace) zrušeno",
+      "preparation_id": "0910f7c7800912f3"
+    },
+    {
+      "display_package_code": "9902003",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902003",
+      "package_invalid_date": "2013-06-03T8:46:28+0000",
+      "package_size": "1 x 14,8 g",
+      "preparation_id": "0910f7c7800912f3"
+    },
+    {
+      "display_package_code": "9902328",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902328",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800912f3"
+    },
+    {
+      "display_package_code": "9937546",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937546",
+      "package_invalid_date": "2011-01-14T10:33:08+0000",
+      "package_size": "1 x 12,2 g",
+      "preparation_id": "0910f7c7800912f3"
+    }
+  ],
+  "preparation": {
+    "holder_id": "226",
+    "holder_name": "Zoetis Česká republika s.r.o.",
+    "name": "EQUEST",
+    "preparation_id": "0910f7c7800912f3",
+    "registration_date": "1997-12-29T11:50:15+0000",
+    "registration_number": "96/1340/97-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800912f0",
+    "spc_modified_date": "2024-06-04T10:50:36+0000"
+  },
+  "schema_version": 1
+}

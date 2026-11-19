@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9911254",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911254",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781bd240b"
+    },
+    {
+      "display_package_code": "9911255",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911255",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781bd240b"
+    },
+    {
+      "display_package_code": "9911256",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911256",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781bd240b"
+    }
+  ],
+  "preparation": {
+    "holder_id": "119",
+    "holder_name": "Industrial Veterinaria S.A.",
+    "name": "Flunex",
+    "preparation_id": "0910f7c781bd240b",
+    "registration_date": "2024-11-07T7:44:26+0000",
+    "registration_number": "96/057/24-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c781bd240a",
+    "spc_modified_date": "2025-09-08T7:48:00+0000"
+  },
+  "schema_version": 1
+}

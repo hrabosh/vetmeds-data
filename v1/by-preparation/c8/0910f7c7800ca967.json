@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9934660",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934660",
+      "package_invalid_date": null,
+      "package_size": "1 x 25 kg",
+      "preparation_id": "0910f7c7800ca967"
+    }
+  ],
+  "preparation": {
+    "holder_id": "48",
+    "holder_name": "Laboratorios Calier S.A.",
+    "name": "Zoobiotic Globulit",
+    "preparation_id": "0910f7c7800ca967",
+    "registration_date": "2010-11-02T13:14:02+0000",
+    "registration_number": "98/046/10-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800ca964",
+    "spc_modified_date": "2026-08-28T12:14:19+0000"
+  },
+  "schema_version": 1
+}

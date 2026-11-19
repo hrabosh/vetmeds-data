@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700095",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700095",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ac1686"
+    },
+    {
+      "display_package_code": "9700096",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700096",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ac1686"
+    },
+    {
+      "display_package_code": "9910839",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910839",
+      "package_invalid_date": "2025-04-30T7:27:45+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c781ac1686"
+    },
+    {
+      "display_package_code": "9910870",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910870",
+      "package_invalid_date": "2025-04-30T7:28:00+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c781ac1686"
+    }
+  ],
+  "preparation": {
+    "holder_id": "24",
+    "holder_name": "CP-Pharma Handelsgesellschaft, mbH",
+    "name": "Levoroxin",
+    "preparation_id": "0910f7c781ac1686",
+    "registration_date": "2024-04-23T9:11:44+0000",
+    "registration_number": "96/017/24-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c781ac167d",
+    "spc_modified_date": "2025-05-12T9:19:11+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9901093",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901093",
+      "package_invalid_date": "2016-11-01T14:4:45+0000",
+      "package_size": "18 x 10 g",
+      "preparation_id": "0910f7c7800d6bb6"
+    },
+    {
+      "display_package_code": "9901094",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901094",
+      "package_invalid_date": "2016-11-01T14:5:20+0000",
+      "package_size": "60 x 10 g",
+      "preparation_id": "0910f7c7800d6bb6"
+    },
+    {
+      "display_package_code": "9905675",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905675",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800d6bb6"
+    },
+    {
+      "display_package_code": "9905676",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905676",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800d6bb6"
+    }
+  ],
+  "preparation": {
+    "holder_id": "293",
+    "holder_name": "Ecuphar Veterinaria S.L.U. 2",
+    "name": "Danilon Equidos",
+    "preparation_id": "0910f7c7800d6bb6",
+    "registration_date": "2011-10-04T11:1:50+0000",
+    "registration_number": "96/086/11-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800d6bb2",
+    "spc_modified_date": "2025-10-21T11:2:06+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905012",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905012",
+      "package_invalid_date": "2023-07-26T8:54:26+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7803e1b37"
+    },
+    {
+      "display_package_code": "9905013",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905013",
+      "package_invalid_date": "2023-07-26T8:56:04+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7803e1b37"
+    },
+    {
+      "display_package_code": "9905014",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905014",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7803e1b37"
+    },
+    {
+      "display_package_code": "9905015",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905015",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7803e1b37"
+    }
+  ],
+  "preparation": {
+    "holder_id": "119",
+    "holder_name": "Industrial Veterinaria S.A.",
+    "name": "Rhemox",
+    "preparation_id": "0910f7c7803e1b37",
+    "registration_date": "2016-04-25T9:21:49+0000",
+    "registration_number": "96/030/16-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7803e1b36",
+    "spc_modified_date": "2024-12-17T11:12:35+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9910539",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910539",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a578fe"
+    },
+    {
+      "display_package_code": "9910540",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910540",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a578fe"
+    },
+    {
+      "display_package_code": "9910541",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910541",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a578fe"
+    },
+    {
+      "display_package_code": "9910542",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910542",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a578fe"
+    }
+  ],
+  "preparation": {
+    "holder_id": "24",
+    "holder_name": "CP-Pharma Handelsgesellschaft, mbH",
+    "name": "Loxitab",
+    "preparation_id": "0910f7c781a578fe",
+    "registration_date": "2023-10-19T11:57:11+0000",
+    "registration_number": "EU/2/23/301",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c781a572b7",
+    "spc_modified_date": "2023-11-01T12:20:03+0000"
+  },
+  "schema_version": 1
+}

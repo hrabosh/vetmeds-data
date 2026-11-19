@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905076",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905076",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780445a8c"
+    },
+    {
+      "display_package_code": "9905077",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905077",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780445a8c"
+    },
+    {
+      "display_package_code": "9906283",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906283",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780445a8c"
+    }
+  ],
+  "preparation": {
+    "holder_id": "119",
+    "holder_name": "Industrial Veterinaria S.A.",
+    "name": "Medeson",
+    "preparation_id": "0910f7c780445a8c",
+    "registration_date": "2016-06-08T7:7:54+0000",
+    "registration_number": "96/044/16-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780445a8b",
+    "spc_modified_date": "2025-10-31T8:8:10+0000"
+  },
+  "schema_version": 1
+}

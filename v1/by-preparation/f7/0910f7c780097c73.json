@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9904072",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904072",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780097c73"
+    },
+    {
+      "display_package_code": "9904073",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904073",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780097c73"
+    },
+    {
+      "display_package_code": "9904074",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904074",
+      "package_invalid_date": "2023-11-02T7:53:29+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780097c73"
+    },
+    {
+      "display_package_code": "9904075",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904075",
+      "package_invalid_date": "2023-11-02T7:53:36+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780097c73"
+    },
+    {
+      "display_package_code": "9935021",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935021",
+      "package_invalid_date": "2023-11-02T7:52:35+0000",
+      "package_size": "1 x 10 ml",
+      "preparation_id": "0910f7c780097c73"
+    },
+    {
+      "display_package_code": "9935146",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935146",
+      "package_invalid_date": "2023-11-02T7:52:46+0000",
+      "package_size": "10 x 10 ml",
+      "preparation_id": "0910f7c780097c73"
+    },
+    {
+      "display_package_code": "9997460",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9997460",
+      "package_invalid_date": null,
+      "package_size": "10 x 1 ml",
+      "preparation_id": "0910f7c780097c73"
+    },
+    {
+      "display_package_code": "9997764",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9997764",
+      "package_invalid_date": null,
+      "package_size": "50 x 1 ml",
+      "preparation_id": "0910f7c780097c73"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "Nobivac Lepto",
+    "preparation_id": "0910f7c780097c73",
+    "registration_date": "1991-12-11T10:47:21+0000",
+    "registration_number": "97/380/91-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780097c6f",
+    "spc_modified_date": "2026-04-20T11:7:43+0000"
+  },
+  "schema_version": 1
+}

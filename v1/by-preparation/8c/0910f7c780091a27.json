@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9939958",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939958",
+      "package_invalid_date": null,
+      "package_size": "3 x 8 g",
+      "preparation_id": "0910f7c780091a27"
+    },
+    {
+      "display_package_code": "9939959",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939959",
+      "package_invalid_date": null,
+      "package_size": "15 x 8 g",
+      "preparation_id": "0910f7c780091a27"
+    },
+    {
+      "display_package_code": "9939960",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939960",
+      "package_invalid_date": null,
+      "package_size": "20 x 8 g",
+      "preparation_id": "0910f7c780091a27"
+    },
+    {
+      "display_package_code": "9939961",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939961",
+      "package_invalid_date": null,
+      "package_size": "24 x 8 g",
+      "preparation_id": "0910f7c780091a27"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "Cobactan LC",
+    "preparation_id": "0910f7c780091a27",
+    "registration_date": "2003-02-26T13:14:22+0000",
+    "registration_number": "96/011/03-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780091a23",
+    "spc_modified_date": "2024-03-28T7:14:55+0000"
+  },
+  "schema_version": 1
+}

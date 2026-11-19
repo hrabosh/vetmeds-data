@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9907183",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907183",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780091629"
+    },
+    {
+      "display_package_code": "9939840",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939840",
+      "package_invalid_date": null,
+      "package_size": "20 x 1000 dávek",
+      "preparation_id": "0910f7c780091629"
+    },
+    {
+      "display_package_code": "9939841",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939841",
+      "package_invalid_date": null,
+      "package_size": "20 x 2500 dávek",
+      "preparation_id": "0910f7c780091629"
+    },
+    {
+      "display_package_code": "9939842",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939842",
+      "package_invalid_date": null,
+      "package_size": "20 x 5000 dávek",
+      "preparation_id": "0910f7c780091629"
+    }
+  ],
+  "preparation": {
+    "holder_id": "276",
+    "holder_name": "Ceva Animal Health Slovakia s.r.o.",
+    "name": "CEVAC IBD L",
+    "preparation_id": "0910f7c780091629",
+    "registration_date": "2003-10-06T10:24:11+0000",
+    "registration_number": "97/078/03-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780091626",
+    "spc_modified_date": "2024-05-09T11:42:13+0000"
+  },
+  "schema_version": 1
+}

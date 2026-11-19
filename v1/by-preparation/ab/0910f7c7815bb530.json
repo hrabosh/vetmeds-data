@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909051",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909051",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815bb530"
+    }
+  ],
+  "preparation": {
+    "holder_id": "134",
+    "holder_name": "Vétoquinol S.A.",
+    "name": "Ovugel",
+    "preparation_id": "0910f7c7815bb530",
+    "registration_date": "2020-11-10T8:23:35+0000",
+    "registration_number": "EU/2/20/260",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7815bb52f",
+    "spc_modified_date": "2024-04-26T11:16:31+0000"
+  },
+  "schema_version": 1
+}

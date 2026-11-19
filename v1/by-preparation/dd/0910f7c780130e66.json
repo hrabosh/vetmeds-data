@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9901209",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901209",
+      "package_invalid_date": "2024-01-16T7:47:48+0000",
+      "package_size": "1 x 20 ml",
+      "preparation_id": "0910f7c780130e66"
+    },
+    {
+      "display_package_code": "9902117",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902117",
+      "package_invalid_date": "2024-01-16T7:47:59+0000",
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c780130e66"
+    },
+    {
+      "display_package_code": "9910700",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910700",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780130e66"
+    },
+    {
+      "display_package_code": "9910701",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910701",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780130e66"
+    }
+  ],
+  "preparation": {
+    "holder_id": "112",
+    "holder_name": "VIRBAC",
+    "name": "Cyclix",
+    "preparation_id": "0910f7c780130e66",
+    "registration_date": "2012-04-19T7:33:37+0000",
+    "registration_number": "96/041/12-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780130e5b",
+    "spc_modified_date": "2025-08-22T11:33:06+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9904691",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904691",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78042fbbd"
+    },
+    {
+      "display_package_code": "9904692",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904692",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78042fbbd"
+    },
+    {
+      "display_package_code": "9904693",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904693",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78042fbbd"
+    }
+  ],
+  "preparation": {
+    "holder_id": "100",
+    "holder_name": "Zoetis Belgium",
+    "name": "Simparica",
+    "preparation_id": "0910f7c78042fbbd",
+    "registration_date": "2015-11-06T8:39:26+0000",
+    "registration_number": "EU/2/15/191",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c78039f991",
+    "spc_modified_date": "2023-07-14T10:18:24+0000"
+  },
+  "schema_version": 1
+}

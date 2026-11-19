@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9936324",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936324",
+      "package_invalid_date": null,
+      "package_size": "10 x 500 dávek",
+      "preparation_id": "0910f7c780094463"
+    },
+    {
+      "display_package_code": "9936376",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936376",
+      "package_invalid_date": null,
+      "package_size": "10 x 1000 dávek",
+      "preparation_id": "0910f7c780094463"
+    },
+    {
+      "display_package_code": "9936401",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936401",
+      "package_invalid_date": null,
+      "package_size": "10 x 2500 dávek",
+      "preparation_id": "0910f7c780094463"
+    },
+    {
+      "display_package_code": "9939414",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939414",
+      "package_invalid_date": null,
+      "package_size": "5 x 30 ml rozpouštědla (pro 5 x 1000 dávek)",
+      "preparation_id": "0910f7c780094463"
+    }
+  ],
+  "preparation": {
+    "holder_id": "49",
+    "holder_name": "Laboratorios Hipra S.A.",
+    "name": "Hipraviar — SH120",
+    "preparation_id": "0910f7c780094463",
+    "registration_date": "2004-04-15T6:46:19+0000",
+    "registration_number": "97/085/04-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800941f1",
+    "spc_modified_date": "2026-10-29T7:46:43+0000"
+  },
+  "schema_version": 1
+}

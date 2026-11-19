@@ -1,0 +1,178 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9904536",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904536",
+      "package_invalid_date": "2020-05-04T10:11:04+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78008d654"
+    },
+    {
+      "display_package_code": "9908494",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9908494",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008d654"
+    },
+    {
+      "display_package_code": "9908495",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9908495",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008d654"
+    },
+    {
+      "display_package_code": "9908496",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9908496",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008d654"
+    },
+    {
+      "display_package_code": "9908497",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9908497",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008d654"
+    },
+    {
+      "display_package_code": "9908498",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9908498",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008d654"
+    },
+    {
+      "display_package_code": "9908499",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908499",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008d654"
+    },
+    {
+      "display_package_code": "9911022",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9911022",
+      "package_invalid_date": "2024-11-04T8:1:53+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78008d654"
+    },
+    {
+      "display_package_code": "9911023",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9911023",
+      "package_invalid_date": "2024-11-04T8:2:03+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78008d654"
+    },
+    {
+      "display_package_code": "9911024",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9911024",
+      "package_invalid_date": "2024-11-04T8:2:12+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78008d654"
+    },
+    {
+      "display_package_code": "9911025",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9911025",
+      "package_invalid_date": "2024-11-04T8:2:21+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78008d654"
+    },
+    {
+      "display_package_code": "9911026",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9911026",
+      "package_invalid_date": "2024-11-04T8:2:33+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78008d654"
+    },
+    {
+      "display_package_code": "9911027",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911027",
+      "package_invalid_date": "2024-11-04T8:2:44+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78008d654"
+    },
+    {
+      "display_package_code": "9935058",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9935058",
+      "package_invalid_date": "2020-05-04T10:7:49+0000",
+      "package_size": "3 x 2,5 ml",
+      "preparation_id": "0910f7c78008d654"
+    },
+    {
+      "display_package_code": "9935068",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9935068",
+      "package_invalid_date": "2020-05-04T10:8:49+0000",
+      "package_size": "4 x 2,5 ml",
+      "preparation_id": "0910f7c78008d654"
+    },
+    {
+      "display_package_code": "9935091",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9935091",
+      "package_invalid_date": "2020-05-04T10:10:09+0000",
+      "package_size": "6 x 2,5 ml",
+      "preparation_id": "0910f7c78008d654"
+    },
+    {
+      "display_package_code": "9936550",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9936550",
+      "package_invalid_date": "2020-05-04T10:5:59+0000",
+      "package_size": "1 x 2,5 ml (VY)",
+      "preparation_id": "0910f7c78008d654"
+    },
+    {
+      "display_package_code": "9936559",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9936559",
+      "package_invalid_date": "2020-05-04T10:6:53+0000",
+      "package_size": "2 x 2,5 ml",
+      "preparation_id": "0910f7c78008d654"
+    }
+  ],
+  "preparation": {
+    "holder_id": "306",
+    "holder_name": "Elanco Animal Health GmbH",
+    "name": "Advantix spot-on pro psy",
+    "preparation_id": "0910f7c78008d654",
+    "registration_date": "2004-01-28T12:34:21+0000",
+    "registration_number": "96/007/04-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78008d651",
+    "spc_modified_date": "2026-07-31T11:34:48+0000"
+  },
+  "schema_version": 1
+}

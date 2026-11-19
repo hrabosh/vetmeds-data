@@ -1,0 +1,124 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909209",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909209",
+      "package_invalid_date": "2021-04-06T6:22:32+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78008e465"
+    },
+    {
+      "display_package_code": "9909210",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909210",
+      "package_invalid_date": "2021-04-06T6:23:31+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78008e465"
+    },
+    {
+      "display_package_code": "9909211",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909211",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008e465"
+    },
+    {
+      "display_package_code": "9909212",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909212",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008e465"
+    },
+    {
+      "display_package_code": "9909213",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909213",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008e465"
+    },
+    {
+      "display_package_code": "9909214",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909214",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008e465"
+    },
+    {
+      "display_package_code": "9935266",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935266",
+      "package_invalid_date": "2021-04-06T6:21:59+0000",
+      "package_size": "1 x 1 dávka",
+      "preparation_id": "0910f7c78008e465"
+    },
+    {
+      "display_package_code": "9935286",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935286",
+      "package_invalid_date": null,
+      "package_size": "1 x 5 dávek",
+      "preparation_id": "0910f7c78008e465"
+    },
+    {
+      "display_package_code": "9935304",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935304",
+      "package_invalid_date": null,
+      "package_size": "1 x 10 dávek",
+      "preparation_id": "0910f7c78008e465"
+    },
+    {
+      "display_package_code": "9935478",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935478",
+      "package_invalid_date": null,
+      "package_size": "1 x 25 dávek",
+      "preparation_id": "0910f7c78008e465"
+    },
+    {
+      "display_package_code": "9935495",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935495",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 dávek",
+      "preparation_id": "0910f7c78008e465"
+    },
+    {
+      "display_package_code": "9935507",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935507",
+      "package_invalid_date": null,
+      "package_size": "1 x 125 dávek",
+      "preparation_id": "0910f7c78008e465"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "Bovilis BVD",
+    "preparation_id": "0910f7c78008e465",
+    "registration_date": "2004-03-17T15:8:07+0000",
+    "registration_number": "97/027/04-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78008e462",
+    "spc_modified_date": "2023-10-16T8:1:42+0000"
+  },
+  "schema_version": 1
+}

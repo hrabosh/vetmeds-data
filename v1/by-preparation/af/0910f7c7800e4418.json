@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9901410",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901410",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 g",
+      "preparation_id": "0910f7c7800e4418"
+    },
+    {
+      "display_package_code": "9901411",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901411",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 g",
+      "preparation_id": "0910f7c7800e4418"
+    },
+    {
+      "display_package_code": "9901412",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901412",
+      "package_invalid_date": null,
+      "package_size": "1 x 500 g",
+      "preparation_id": "0910f7c7800e4418"
+    },
+    {
+      "display_package_code": "9901413",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901413",
+      "package_invalid_date": null,
+      "package_size": "1 x 1000 g",
+      "preparation_id": "0910f7c7800e4418"
+    }
+  ],
+  "preparation": {
+    "holder_id": "165",
+    "holder_name": "Intersign",
+    "name": "DOXYFORT",
+    "preparation_id": "0910f7c7800e4418",
+    "registration_date": "2012-06-18T9:17:48+0000",
+    "registration_number": "96/064/12-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7800e4408",
+    "spc_modified_date": "2022-10-26T7:0:37+0000"
+  },
+  "schema_version": 1
+}

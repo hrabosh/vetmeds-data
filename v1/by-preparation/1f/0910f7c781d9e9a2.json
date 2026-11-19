@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700032",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700032",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781d9e9a2"
+    }
+  ],
+  "preparation": {
+    "holder_id": "315",
+    "holder_name": "Interchemie werken “De Adelaar” B.V.",
+    "name": "Intermectin injection",
+    "preparation_id": "0910f7c781d9e9a2",
+    "registration_date": "2025-01-29T6:46:54+0000",
+    "registration_number": "96/005/25-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781d9e82d",
+    "spc_modified_date": "2025-02-07T9:27:39+0000"
+  },
+  "schema_version": 1
+}

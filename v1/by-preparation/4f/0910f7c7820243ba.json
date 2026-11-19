@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9701047",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9701047",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7820243ba"
+    }
+  ],
+  "preparation": {
+    "holder_id": "328",
+    "holder_name": "Maperath Herbal Limited",
+    "name": "Cartrophen Vet",
+    "preparation_id": "0910f7c7820243ba",
+    "registration_date": "2026-08-31T7:32:23+0000",
+    "registration_number": "96/048/26-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7820243b9",
+    "spc_modified_date": "2026-11-10T8:32:35+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906132",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906132",
+      "package_invalid_date": "2019-12-16T9:37:49+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3c07"
+    },
+    {
+      "display_package_code": "9908005",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908005",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3c07"
+    },
+    {
+      "display_package_code": "9908006",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908006",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3c07"
+    },
+    {
+      "display_package_code": "9908007",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908007",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3c07"
+    },
+    {
+      "display_package_code": "9908008",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908008",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3c07"
+    },
+    {
+      "display_package_code": "9934231",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934231",
+      "package_invalid_date": "2019-12-16T9:28:08+0000",
+      "package_size": "1 x 10 tbl._EU/2/04/045/003",
+      "preparation_id": "0910f7c7800f3c07"
+    },
+    {
+      "display_package_code": "9934232",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934232",
+      "package_invalid_date": "2019-12-16T9:30:54+0000",
+      "package_size": "3 x 10 tbl._EU/2/04/045/004",
+      "preparation_id": "0910f7c7800f3c07"
+    },
+    {
+      "display_package_code": "9934362",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934362",
+      "package_invalid_date": "2019-12-16T9:34:47+0000",
+      "package_size": "18 x 10 tbl._EU/2/04/045/006",
+      "preparation_id": "0910f7c7800f3c07"
+    }
+  ],
+  "preparation": {
+    "holder_id": "16",
+    "holder_name": "Boehringer Ingelheim Vetmedica, GmbH",
+    "name": "Previcox",
+    "preparation_id": "0910f7c7800f3c07",
+    "registration_date": "2004-09-13T5:26:09+0000",
+    "registration_number": "EU/2/04/045",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f3bfd",
+    "spc_modified_date": "2024-01-05T8:12:24+0000"
+  },
+  "schema_version": 1
+}

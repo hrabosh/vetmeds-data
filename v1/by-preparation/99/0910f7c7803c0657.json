@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905118",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905118",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7803c0657"
+    },
+    {
+      "display_package_code": "9905119",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905119",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7803c0657"
+    },
+    {
+      "display_package_code": "9905120",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905120",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7803c0657"
+    }
+  ],
+  "preparation": {
+    "holder_id": "279",
+    "holder_name": "Vetoquinol s.r.o.",
+    "name": "Tylucyl pro skot a prasata",
+    "preparation_id": "0910f7c7803c0657",
+    "registration_date": "2016-06-24T5:47:16+0000",
+    "registration_number": "96/051/16-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7803c0656",
+    "spc_modified_date": "2026-01-14T12:10:21+0000"
+  },
+  "schema_version": 1
+}

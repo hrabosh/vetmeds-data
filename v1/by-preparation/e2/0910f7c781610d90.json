@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9908876",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908876",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781610d90"
+    },
+    {
+      "display_package_code": "9908877",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908877",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781610d90"
+    },
+    {
+      "display_package_code": "9908878",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908878",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781610d90"
+    },
+    {
+      "display_package_code": "9908879",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908879",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781610d90"
+    },
+    {
+      "display_package_code": "9908880",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908880",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781610d90"
+    },
+    {
+      "display_package_code": "9908881",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908881",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781610d90"
+    }
+  ],
+  "preparation": {
+    "holder_id": "119",
+    "holder_name": "Industrial Veterinaria S.A.",
+    "name": "Doxinyl",
+    "preparation_id": "0910f7c781610d90",
+    "registration_date": "2021-01-07T14:51:32+0000",
+    "registration_number": "96/007/21-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c781610d58",
+    "spc_modified_date": "2025-12-16T13:1:48+0000"
+  },
+  "schema_version": 1
+}

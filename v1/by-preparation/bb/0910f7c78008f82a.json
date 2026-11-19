@@ -1,0 +1,412 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9935116",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935116",
+      "package_invalid_date": null,
+      "package_size": "30 x 10 tbl.",
+      "preparation_id": "0910f7c78008f82a"
+    },
+    {
+      "display_package_code": "9935211",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935211",
+      "package_invalid_date": null,
+      "package_size": "50 x 10 tbl.",
+      "preparation_id": "0910f7c78008f82a"
+    },
+    {
+      "display_package_code": "9935272",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935272",
+      "package_invalid_date": null,
+      "package_size": "100 x 10 tbl.",
+      "preparation_id": "0910f7c78008f82a"
+    },
+    {
+      "display_package_code": "9935838",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935838",
+      "package_invalid_date": null,
+      "package_size": "1 x 6 tbl.",
+      "preparation_id": "0910f7c78008f82a"
+    },
+    {
+      "display_package_code": "9935948",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935948",
+      "package_invalid_date": null,
+      "package_size": "1 x 10 tbl.",
+      "preparation_id": "0910f7c78008f82a"
+    },
+    {
+      "display_package_code": "9936167",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936167",
+      "package_invalid_date": null,
+      "package_size": "1 x 14 tbl.",
+      "preparation_id": "0910f7c78008f82a"
+    },
+    {
+      "display_package_code": "9936317",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936317",
+      "package_invalid_date": null,
+      "package_size": "1 x 20 tbl.",
+      "preparation_id": "0910f7c78008f82a"
+    },
+    {
+      "display_package_code": "9936447",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936447",
+      "package_invalid_date": null,
+      "package_size": "1 x 28 tbl.",
+      "preparation_id": "0910f7c78008f82a"
+    },
+    {
+      "display_package_code": "9936584",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936584",
+      "package_invalid_date": null,
+      "package_size": "1 x 30 tbl.",
+      "preparation_id": "0910f7c78008f82a"
+    },
+    {
+      "display_package_code": "9936664",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936664",
+      "package_invalid_date": null,
+      "package_size": "1 x 42 tbl.",
+      "preparation_id": "0910f7c78008f82a"
+    },
+    {
+      "display_package_code": "9936792",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936792",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 tbl.",
+      "preparation_id": "0910f7c78008f82a"
+    },
+    {
+      "display_package_code": "9936906",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936906",
+      "package_invalid_date": null,
+      "package_size": "5 x 14 tbl.",
+      "preparation_id": "0910f7c78008f82a"
+    },
+    {
+      "display_package_code": "9937014",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937014",
+      "package_invalid_date": null,
+      "package_size": "1 x 60 tbl.",
+      "preparation_id": "0910f7c78008f82a"
+    },
+    {
+      "display_package_code": "9937078",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937078",
+      "package_invalid_date": null,
+      "package_size": "1 x 70 tbl.",
+      "preparation_id": "0910f7c78008f82a"
+    },
+    {
+      "display_package_code": "9937139",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937139",
+      "package_invalid_date": null,
+      "package_size": "10 x 14 tbl.",
+      "preparation_id": "0910f7c78008f82a"
+    },
+    {
+      "display_package_code": "9937161",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937161",
+      "package_invalid_date": null,
+      "package_size": "20 x 14 tbl.",
+      "preparation_id": "0910f7c78008f82a"
+    },
+    {
+      "display_package_code": "9937193",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937193",
+      "package_invalid_date": null,
+      "package_size": "1 x 84 tbl.",
+      "preparation_id": "0910f7c78008f82a"
+    },
+    {
+      "display_package_code": "9937251",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937251",
+      "package_invalid_date": null,
+      "package_size": "1 x 98 tbl.",
+      "preparation_id": "0910f7c78008f82a"
+    },
+    {
+      "display_package_code": "9937358",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937358",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 tbl.",
+      "preparation_id": "0910f7c78008f82a"
+    },
+    {
+      "display_package_code": "9937371",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937371",
+      "package_invalid_date": null,
+      "package_size": "1 x 140 tbl.",
+      "preparation_id": "0910f7c78008f82a"
+    },
+    {
+      "display_package_code": "9937380",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937380",
+      "package_invalid_date": null,
+      "package_size": "1 x 180 tbl.",
+      "preparation_id": "0910f7c78008f82a"
+    },
+    {
+      "display_package_code": "9937420",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937420",
+      "package_invalid_date": null,
+      "package_size": "1 x 200 tbl.",
+      "preparation_id": "0910f7c78008f82a"
+    },
+    {
+      "display_package_code": "9937437",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937437",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 tbl.",
+      "preparation_id": "0910f7c78008f82a"
+    },
+    {
+      "display_package_code": "9937479",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937479",
+      "package_invalid_date": null,
+      "package_size": "1 x 280 tbl.",
+      "preparation_id": "0910f7c78008f82a"
+    },
+    {
+      "display_package_code": "9937508",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937508",
+      "package_invalid_date": null,
+      "package_size": "1 x 300 tbl.",
+      "preparation_id": "0910f7c78008f82a"
+    },
+    {
+      "display_package_code": "9937545",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937545",
+      "package_invalid_date": null,
+      "package_size": "1 x 6 tbl.",
+      "preparation_id": "0910f7c78008f82a"
+    },
+    {
+      "display_package_code": "9937595",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937595",
+      "package_invalid_date": null,
+      "package_size": "1 x 10 tbl.",
+      "preparation_id": "0910f7c78008f82a"
+    },
+    {
+      "display_package_code": "9937623",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937623",
+      "package_invalid_date": null,
+      "package_size": "1 x 14 tbl.",
+      "preparation_id": "0910f7c78008f82a"
+    },
+    {
+      "display_package_code": "9937681",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937681",
+      "package_invalid_date": null,
+      "package_size": "2 x 10 tbl.",
+      "preparation_id": "0910f7c78008f82a"
+    },
+    {
+      "display_package_code": "9937716",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937716",
+      "package_invalid_date": null,
+      "package_size": "2 x 14 tbl.",
+      "preparation_id": "0910f7c78008f82a"
+    },
+    {
+      "display_package_code": "9937758",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937758",
+      "package_invalid_date": null,
+      "package_size": "3 x 10 tbl.",
+      "preparation_id": "0910f7c78008f82a"
+    },
+    {
+      "display_package_code": "9937797",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937797",
+      "package_invalid_date": null,
+      "package_size": "3 x 14 tbl.",
+      "preparation_id": "0910f7c78008f82a"
+    },
+    {
+      "display_package_code": "9937827",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937827",
+      "package_invalid_date": null,
+      "package_size": "5 x 10 tbl.",
+      "preparation_id": "0910f7c78008f82a"
+    },
+    {
+      "display_package_code": "9937845",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937845",
+      "package_invalid_date": null,
+      "package_size": "4 x 14 tbl.",
+      "preparation_id": "0910f7c78008f82a"
+    },
+    {
+      "display_package_code": "9937875",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937875",
+      "package_invalid_date": null,
+      "package_size": "6 x 10 tbl.",
+      "preparation_id": "0910f7c78008f82a"
+    },
+    {
+      "display_package_code": "9937901",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937901",
+      "package_invalid_date": null,
+      "package_size": "7 x 10 tbl.",
+      "preparation_id": "0910f7c78008f82a"
+    },
+    {
+      "display_package_code": "9937917",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937917",
+      "package_invalid_date": null,
+      "package_size": "6 x 14 tbl.",
+      "preparation_id": "0910f7c78008f82a"
+    },
+    {
+      "display_package_code": "9937927",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937927",
+      "package_invalid_date": null,
+      "package_size": "7 x 14 tbl.",
+      "preparation_id": "0910f7c78008f82a"
+    },
+    {
+      "display_package_code": "9937936",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937936",
+      "package_invalid_date": null,
+      "package_size": "10 x 10 tbl.",
+      "preparation_id": "0910f7c78008f82a"
+    },
+    {
+      "display_package_code": "9937962",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937962",
+      "package_invalid_date": null,
+      "package_size": "14 x 10 tbl.",
+      "preparation_id": "0910f7c78008f82a"
+    },
+    {
+      "display_package_code": "9937973",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937973",
+      "package_invalid_date": null,
+      "package_size": "18 x 10 tbl.",
+      "preparation_id": "0910f7c78008f82a"
+    },
+    {
+      "display_package_code": "9938009",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938009",
+      "package_invalid_date": null,
+      "package_size": "20 x 10 tbl.",
+      "preparation_id": "0910f7c78008f82a"
+    },
+    {
+      "display_package_code": "9938033",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938033",
+      "package_invalid_date": null,
+      "package_size": "25 x 10 tbl.",
+      "preparation_id": "0910f7c78008f82a"
+    },
+    {
+      "display_package_code": "9938051",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938051",
+      "package_invalid_date": null,
+      "package_size": "28 x 10 tbl.",
+      "preparation_id": "0910f7c78008f82a"
+    }
+  ],
+  "preparation": {
+    "holder_id": "37",
+    "holder_name": "Chanelle Pharmaceuticals Manufacturing, Ltd.",
+    "name": "Canidryl",
+    "preparation_id": "0910f7c78008f82a",
+    "registration_date": "2008-04-16T9:40:19+0000",
+    "registration_number": "96/021/08-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78008f826",
+    "spc_modified_date": "2022-10-25T8:27:04+0000"
+  },
+  "schema_version": 1
+}

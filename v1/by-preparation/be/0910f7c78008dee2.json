@@ -1,0 +1,106 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9935198",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935198",
+      "package_invalid_date": "2013-03-27T9:8:56+0000",
+      "package_size": "1 x 500 ml",
+      "preparation_id": "0910f7c78008dee2"
+    },
+    {
+      "display_package_code": "9938678",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938678",
+      "package_invalid_date": "2013-03-27T9:7:53+0000",
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c78008dee2"
+    },
+    {
+      "display_package_code": "9938804",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938804",
+      "package_invalid_date": "2013-03-27T9:8:14+0000",
+      "package_size": "12 x 50 ml",
+      "preparation_id": "0910f7c78008dee2"
+    },
+    {
+      "display_package_code": "9938908",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938908",
+      "package_invalid_date": "2013-03-27T9:8:31+0000",
+      "package_size": "24 x 50 ml",
+      "preparation_id": "0910f7c78008dee2"
+    },
+    {
+      "display_package_code": "9939046",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939046",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c78008dee2"
+    },
+    {
+      "display_package_code": "9939053",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939053",
+      "package_invalid_date": null,
+      "package_size": "12 x 100 ml",
+      "preparation_id": "0910f7c78008dee2"
+    },
+    {
+      "display_package_code": "9939070",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939070",
+      "package_invalid_date": null,
+      "package_size": "20 x 100 ml",
+      "preparation_id": "0910f7c78008dee2"
+    },
+    {
+      "display_package_code": "9939219",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939219",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 ml",
+      "preparation_id": "0910f7c78008dee2"
+    },
+    {
+      "display_package_code": "9939226",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939226",
+      "package_invalid_date": null,
+      "package_size": "12 x 250 ml",
+      "preparation_id": "0910f7c78008dee2"
+    },
+    {
+      "display_package_code": "9939233",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939233",
+      "package_invalid_date": null,
+      "package_size": "20 x 250 ml",
+      "preparation_id": "0910f7c78008dee2"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "Amoxicillin Bioveta LA",
+    "preparation_id": "0910f7c78008dee2",
+    "registration_date": "2002-12-16T8:19:16+0000",
+    "registration_number": "96/085/02-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78008dedf",
+    "spc_modified_date": "2026-10-20T7:19:38+0000"
+  },
+  "schema_version": 1
+}

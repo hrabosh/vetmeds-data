@@ -1,0 +1,124 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9907726",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907726",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78146f762"
+    },
+    {
+      "display_package_code": "9907727",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907727",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78146f762"
+    },
+    {
+      "display_package_code": "9907728",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907728",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78146f762"
+    },
+    {
+      "display_package_code": "9907729",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907729",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78146f762"
+    },
+    {
+      "display_package_code": "9907730",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907730",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78146f762"
+    },
+    {
+      "display_package_code": "9907731",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907731",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78146f762"
+    },
+    {
+      "display_package_code": "9907732",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907732",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78146f762"
+    },
+    {
+      "display_package_code": "9907733",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907733",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78146f762"
+    },
+    {
+      "display_package_code": "9907734",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907734",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78146f762"
+    },
+    {
+      "display_package_code": "9907735",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907735",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78146f762"
+    },
+    {
+      "display_package_code": "9907736",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907736",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78146f762"
+    },
+    {
+      "display_package_code": "9907737",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907737",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78146f762"
+    }
+  ],
+  "preparation": {
+    "holder_id": "182",
+    "holder_name": "Ecuphar NV",
+    "name": "Metrocare",
+    "preparation_id": "0910f7c78146f762",
+    "registration_date": "2019-08-28T11:49:50+0000",
+    "registration_number": "96/067/19-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78146f760",
+    "spc_modified_date": "2026-08-10T6:49:15+0000"
+  },
+  "schema_version": 1
+}

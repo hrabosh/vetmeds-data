@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700838",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9700838",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a0b41f"
+    },
+    {
+      "display_package_code": "9909958",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9909958",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a0b41f"
+    },
+    {
+      "display_package_code": "9909959",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9909959",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a0b41f"
+    }
+  ],
+  "preparation": {
+    "holder_id": "248",
+    "holder_name": "Elanco GmbH",
+    "name": "AdTab",
+    "preparation_id": "0910f7c781a0b41f",
+    "registration_date": "2022-09-13T7:25:13+0000",
+    "registration_number": "EU/2/22/288",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c781a0b41d",
+    "spc_modified_date": "2026-01-09T12:19:15+0000"
+  },
+  "schema_version": 1
+}

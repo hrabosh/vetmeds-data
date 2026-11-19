@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9910042",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910042",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78189e7f8"
+    }
+  ],
+  "preparation": {
+    "holder_id": "272",
+    "holder_name": "EquiCord S.L.",
+    "name": "DogStem",
+    "preparation_id": "0910f7c78189e7f8",
+    "registration_date": "2022-11-30T6:43:59+0000",
+    "registration_number": "EU/2/22/285",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c78189e7f7",
+    "spc_modified_date": "2026-07-31T7:51:58+0000"
+  },
+  "schema_version": 1
+}

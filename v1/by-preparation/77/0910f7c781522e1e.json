@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9908632",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908632",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781522e1e"
+    },
+    {
+      "display_package_code": "9908633",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908633",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781522e1e"
+    },
+    {
+      "display_package_code": "9908634",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908634",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781522e1e"
+    },
+    {
+      "display_package_code": "9908635",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908635",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781522e1e"
+    },
+    {
+      "display_package_code": "9908636",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908636",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781522e1e"
+    }
+  ],
+  "preparation": {
+    "holder_id": "209",
+    "holder_name": "Ceva-Phylaxia Veterinary Biologicals Co.Ltd.",
+    "name": "Nextmune",
+    "preparation_id": "0910f7c781522e1e",
+    "registration_date": "2020-06-26T10:43:15+0000",
+    "registration_number": "97/050/20-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781522e1d",
+    "spc_modified_date": "2025-01-28T11:43:32+0000"
+  },
+  "schema_version": 1
+}

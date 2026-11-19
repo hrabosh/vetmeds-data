@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905935",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905935",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780847811"
+    },
+    {
+      "display_package_code": "9905936",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905936",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780847811"
+    },
+    {
+      "display_package_code": "9905937",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905937",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780847811"
+    },
+    {
+      "display_package_code": "9905938",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905938",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780847811"
+    },
+    {
+      "display_package_code": "9905939",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905939",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780847811"
+    }
+  ],
+  "preparation": {
+    "holder_id": "76",
+    "holder_name": "Univet, Ltd.",
+    "name": "Curofen",
+    "preparation_id": "0910f7c780847811",
+    "registration_date": "2017-05-26T6:2:32+0000",
+    "registration_number": "96/029/17-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780847810",
+    "spc_modified_date": "2024-02-19T12:50:21+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900509",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900509",
+      "package_invalid_date": "2016-02-17T12:54:10+0000",
+      "package_size": "2 x 6 tbl.",
+      "preparation_id": "0910f7c7801355eb"
+    },
+    {
+      "display_package_code": "9900510",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900510",
+      "package_invalid_date": "2016-02-17T12:54:24+0000",
+      "package_size": "20 x 6 tbl.",
+      "preparation_id": "0910f7c7801355eb"
+    },
+    {
+      "display_package_code": "9904750",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904750",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801355eb"
+    },
+    {
+      "display_package_code": "9904751",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904751",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801355eb"
+    }
+  ],
+  "preparation": {
+    "holder_id": "322",
+    "holder_name": "Ceva Sante Animale",
+    "name": "Xeden",
+    "preparation_id": "0910f7c7801355eb",
+    "registration_date": "2011-07-07T6:17:55+0000",
+    "registration_number": "96/051/11-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7801355e6",
+    "spc_modified_date": "2026-04-27T12:18:55+0000"
+  },
+  "schema_version": 1
+}

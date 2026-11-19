@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9936640",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936640",
+      "package_invalid_date": null,
+      "package_size": "1 x 25 g",
+      "preparation_id": "0910f7c780093b05"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "GAMMAVIT BIO",
+    "preparation_id": "0910f7c780093b05",
+    "registration_date": "2001-12-27T7:36:20+0000",
+    "registration_number": "96/093/01-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780093b02",
+    "spc_modified_date": "2026-06-30T7:38:49+0000"
+  },
+  "schema_version": 1
+}

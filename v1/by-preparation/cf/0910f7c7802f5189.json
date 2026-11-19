@@ -1,0 +1,124 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905078",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905078",
+      "package_invalid_date": "2016-07-12T15:11:45+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7802f5189"
+    },
+    {
+      "display_package_code": "9905079",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905079",
+      "package_invalid_date": "2016-07-12T15:12:46+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7802f5189"
+    },
+    {
+      "display_package_code": "9905080",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905080",
+      "package_invalid_date": "2016-07-12T15:13:39+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7802f5189"
+    },
+    {
+      "display_package_code": "9905081",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905081",
+      "package_invalid_date": "2016-07-12T15:14:50+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7802f5189"
+    },
+    {
+      "display_package_code": "9905082",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905082",
+      "package_invalid_date": "2016-07-12T15:15:32+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7802f5189"
+    },
+    {
+      "display_package_code": "9905083",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905083",
+      "package_invalid_date": "2016-07-12T15:16:15+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7802f5189"
+    },
+    {
+      "display_package_code": "9905130",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905130",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802f5189"
+    },
+    {
+      "display_package_code": "9905131",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905131",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802f5189"
+    },
+    {
+      "display_package_code": "9905132",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905132",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802f5189"
+    },
+    {
+      "display_package_code": "9905133",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905133",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802f5189"
+    },
+    {
+      "display_package_code": "9905134",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905134",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802f5189"
+    },
+    {
+      "display_package_code": "9905135",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905135",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802f5189"
+    }
+  ],
+  "preparation": {
+    "holder_id": "162",
+    "holder_name": "Divasa-Farmavic S.A.",
+    "name": "Penethaone pro skot",
+    "preparation_id": "0910f7c7802f5189",
+    "registration_date": "2016-06-07T10:38:40+0000",
+    "registration_number": "96/045/16-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7802f5187",
+    "spc_modified_date": "2026-10-09T10:38:56+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,34 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9907577",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907577",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78206c1eb"
+    },
+    {
+      "display_package_code": "9907578",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907578",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78206c1eb"
+    }
+  ],
+  "preparation": {
+    "holder_id": "61",
+    "holder_name": "Norbrook Laboratories (Ireland) Limited",
+    "name": "Loxicom_",
+    "preparation_id": "0910f7c78206c1eb",
+    "registration_date": "2009-02-10T10:12:19+0000",
+    "registration_number": "EU/2/08/090",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f3ab1",
+    "spc_modified_date": "2022-02-15T9:24:31+0000"
+  },
+  "schema_version": 1
+}

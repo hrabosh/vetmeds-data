@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9908463",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908463",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008d4ed"
+    },
+    {
+      "display_package_code": "9908464",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908464",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008d4ed"
+    },
+    {
+      "display_package_code": "9936208",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936208",
+      "package_invalid_date": "2020-05-04T10:41:33+0000",
+      "package_size": "1 x 10 tablet",
+      "preparation_id": "0910f7c78008d4ed"
+    },
+    {
+      "display_package_code": "9962717",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9962717",
+      "package_invalid_date": "2020-05-04T10:42:22+0000",
+      "package_size": "5 x 10 tablet",
+      "preparation_id": "0910f7c78008d4ed"
+    }
+  ],
+  "preparation": {
+    "holder_id": "306",
+    "holder_name": "Elanco Animal Health GmbH",
+    "name": "BAYTRIL flavour",
+    "preparation_id": "0910f7c78008d4ed",
+    "registration_date": "1992-12-09T14:5:25+0000",
+    "registration_number": "96/810/92-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78008d4ea",
+    "spc_modified_date": "2025-06-26T6:26:00+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,232 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9903960",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903960",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009602a"
+    },
+    {
+      "display_package_code": "9903961",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903961",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009602a"
+    },
+    {
+      "display_package_code": "9903962",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903962",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009602a"
+    },
+    {
+      "display_package_code": "9903963",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903963",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009602a"
+    },
+    {
+      "display_package_code": "9903964",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903964",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009602a"
+    },
+    {
+      "display_package_code": "9903965",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903965",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009602a"
+    },
+    {
+      "display_package_code": "9903966",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903966",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009602a"
+    },
+    {
+      "display_package_code": "9903967",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903967",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009602a"
+    },
+    {
+      "display_package_code": "9903968",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903968",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009602a"
+    },
+    {
+      "display_package_code": "9903969",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903969",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009602a"
+    },
+    {
+      "display_package_code": "9903970",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903970",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009602a"
+    },
+    {
+      "display_package_code": "9903971",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903971",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009602a"
+    },
+    {
+      "display_package_code": "9935081",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935081",
+      "package_invalid_date": null,
+      "package_size": "1x50 ml",
+      "preparation_id": "0910f7c78009602a"
+    },
+    {
+      "display_package_code": "9935203",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935203",
+      "package_invalid_date": null,
+      "package_size": "2x50 ml",
+      "preparation_id": "0910f7c78009602a"
+    },
+    {
+      "display_package_code": "9935334",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935334",
+      "package_invalid_date": null,
+      "package_size": "5x50 ml",
+      "preparation_id": "0910f7c78009602a"
+    },
+    {
+      "display_package_code": "9935393",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935393",
+      "package_invalid_date": null,
+      "package_size": "10x50 ml",
+      "preparation_id": "0910f7c78009602a"
+    },
+    {
+      "display_package_code": "9935685",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935685",
+      "package_invalid_date": null,
+      "package_size": "1x100 ml",
+      "preparation_id": "0910f7c78009602a"
+    },
+    {
+      "display_package_code": "9936163",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936163",
+      "package_invalid_date": null,
+      "package_size": "2x100 ml",
+      "preparation_id": "0910f7c78009602a"
+    },
+    {
+      "display_package_code": "9936395",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936395",
+      "package_invalid_date": null,
+      "package_size": "5x100 ml",
+      "preparation_id": "0910f7c78009602a"
+    },
+    {
+      "display_package_code": "9936596",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936596",
+      "package_invalid_date": null,
+      "package_size": "10x100 ml",
+      "preparation_id": "0910f7c78009602a"
+    },
+    {
+      "display_package_code": "9936853",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936853",
+      "package_invalid_date": null,
+      "package_size": "1x200 ml",
+      "preparation_id": "0910f7c78009602a"
+    },
+    {
+      "display_package_code": "9937130",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937130",
+      "package_invalid_date": null,
+      "package_size": "2x200 ml",
+      "preparation_id": "0910f7c78009602a"
+    },
+    {
+      "display_package_code": "9937196",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937196",
+      "package_invalid_date": null,
+      "package_size": "5x200 ml",
+      "preparation_id": "0910f7c78009602a"
+    },
+    {
+      "display_package_code": "9937294",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937294",
+      "package_invalid_date": null,
+      "package_size": "10x200 ml",
+      "preparation_id": "0910f7c78009602a"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "M+PAC",
+    "preparation_id": "0910f7c78009602a",
+    "registration_date": "2002-09-12T4:55:41+0000",
+    "registration_number": "97/068/02-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c780096027",
+    "spc_modified_date": "2022-10-25T10:58:42+0000"
+  },
+  "schema_version": 1
+}

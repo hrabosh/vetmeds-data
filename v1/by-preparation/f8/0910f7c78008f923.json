@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9936004",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936004",
+      "package_invalid_date": null,
+      "package_size": "10 x 1 dávka",
+      "preparation_id": "0910f7c78008f923"
+    },
+    {
+      "display_package_code": "9936005",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936005",
+      "package_invalid_date": null,
+      "package_size": "50 x 1 dávka",
+      "preparation_id": "0910f7c78008f923"
+    },
+    {
+      "display_package_code": "9938900",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938900",
+      "package_invalid_date": null,
+      "package_size": "25 x 1 dávka",
+      "preparation_id": "0910f7c78008f923"
+    }
+  ],
+  "preparation": {
+    "holder_id": "112",
+    "holder_name": "VIRBAC",
+    "name": "CANIGEN DHA2PPiLR",
+    "preparation_id": "0910f7c78008f923",
+    "registration_date": "1994-09-09T8:40:06+0000",
+    "registration_number": "97/962/94-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78008f91f",
+    "spc_modified_date": "2025-03-12T13:12:35+0000"
+  },
+  "schema_version": 1
+}

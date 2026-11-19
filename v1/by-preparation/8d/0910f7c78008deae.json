@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905182",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905182",
+      "package_invalid_date": "2018-11-14T7:36:28+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78008deae"
+    },
+    {
+      "display_package_code": "9906803",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906803",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008deae"
+    },
+    {
+      "display_package_code": "9937173",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937173",
+      "package_invalid_date": "2016-08-02T8:30:49+0000",
+      "package_size": "1 x 500 g",
+      "preparation_id": "0910f7c78008deae"
+    }
+  ],
+  "preparation": {
+    "holder_id": "248",
+    "holder_name": "Elanco GmbH",
+    "name": "Amoksiklav",
+    "preparation_id": "0910f7c78008deae",
+    "registration_date": "1998-07-01T13:39:21+0000",
+    "registration_number": "96/069/98-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78008deaa",
+    "spc_modified_date": "2024-11-14T10:4:32+0000"
+  },
+  "schema_version": 1
+}

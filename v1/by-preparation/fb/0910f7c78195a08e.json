@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9910017",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910017",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78195a08e"
+    }
+  ],
+  "preparation": {
+    "holder_id": "112",
+    "holder_name": "VIRBAC",
+    "name": "Cortotic",
+    "preparation_id": "0910f7c78195a08e",
+    "registration_date": "2022-12-05T7:51:36+0000",
+    "registration_number": "96/038/22-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78195a08d",
+    "spc_modified_date": "2025-02-05T12:24:57+0000"
+  },
+  "schema_version": 1
+}

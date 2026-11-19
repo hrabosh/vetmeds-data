@@ -1,0 +1,160 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909430",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909430",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78174bc39"
+    },
+    {
+      "display_package_code": "9909431",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909431",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78174bc39"
+    },
+    {
+      "display_package_code": "9909432",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909432",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78174bc39"
+    },
+    {
+      "display_package_code": "9909433",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909433",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78174bc39"
+    },
+    {
+      "display_package_code": "9909434",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909434",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78174bc39"
+    },
+    {
+      "display_package_code": "9909435",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909435",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78174bc39"
+    },
+    {
+      "display_package_code": "9909436",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909436",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78174bc39"
+    },
+    {
+      "display_package_code": "9909437",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909437",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78174bc39"
+    },
+    {
+      "display_package_code": "9909438",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909438",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78174bc39"
+    },
+    {
+      "display_package_code": "9909439",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909439",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78174bc39"
+    },
+    {
+      "display_package_code": "9909440",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909440",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78174bc39"
+    },
+    {
+      "display_package_code": "9909441",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909441",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78174bc39"
+    },
+    {
+      "display_package_code": "9909442",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909442",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78174bc39"
+    },
+    {
+      "display_package_code": "9909443",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909443",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78174bc39"
+    },
+    {
+      "display_package_code": "9909444",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909444",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78174bc39"
+    },
+    {
+      "display_package_code": "9909445",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909445",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78174bc39"
+    }
+  ],
+  "preparation": {
+    "holder_id": "290",
+    "holder_name": "Alfasan Nederland B.V.",
+    "name": "Pergosafe",
+    "preparation_id": "0910f7c78174bc39",
+    "registration_date": "2021-08-18T11:37:23+0000",
+    "registration_number": "96/037/21-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78174b92d",
+    "spc_modified_date": "2026-04-17T11:37:40+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,142 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909567",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909567",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009b8f2"
+    },
+    {
+      "display_package_code": "9909568",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909568",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009b8f2"
+    },
+    {
+      "display_package_code": "9909569",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909569",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009b8f2"
+    },
+    {
+      "display_package_code": "9909570",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909570",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009b8f2"
+    },
+    {
+      "display_package_code": "9938410",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938410",
+      "package_invalid_date": null,
+      "package_size": "1 x 200 dávek",
+      "preparation_id": "0910f7c78009b8f2"
+    },
+    {
+      "display_package_code": "9938443",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938443",
+      "package_invalid_date": null,
+      "package_size": "1 x 500 dávek",
+      "preparation_id": "0910f7c78009b8f2"
+    },
+    {
+      "display_package_code": "9938482",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938482",
+      "package_invalid_date": null,
+      "package_size": "1 x 1000 dávek",
+      "preparation_id": "0910f7c78009b8f2"
+    },
+    {
+      "display_package_code": "9938511",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938511",
+      "package_invalid_date": null,
+      "package_size": "1 x 2500 dávek",
+      "preparation_id": "0910f7c78009b8f2"
+    },
+    {
+      "display_package_code": "9938527",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938527",
+      "package_invalid_date": null,
+      "package_size": "1 x 5000 dávek",
+      "preparation_id": "0910f7c78009b8f2"
+    },
+    {
+      "display_package_code": "9938548",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938548",
+      "package_invalid_date": null,
+      "package_size": "10 x 200 dávek",
+      "preparation_id": "0910f7c78009b8f2"
+    },
+    {
+      "display_package_code": "9938559",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938559",
+      "package_invalid_date": null,
+      "package_size": "10 x 500 dávek",
+      "preparation_id": "0910f7c78009b8f2"
+    },
+    {
+      "display_package_code": "9938572",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938572",
+      "package_invalid_date": null,
+      "package_size": "10 x 1000 dávek",
+      "preparation_id": "0910f7c78009b8f2"
+    },
+    {
+      "display_package_code": "9938579",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938579",
+      "package_invalid_date": null,
+      "package_size": "10 x 2500 dávek",
+      "preparation_id": "0910f7c78009b8f2"
+    },
+    {
+      "display_package_code": "9938586",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938586",
+      "package_invalid_date": null,
+      "package_size": "10 x 5000 dávek",
+      "preparation_id": "0910f7c78009b8f2"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "ORNIBUR Intermediate Plus",
+    "preparation_id": "0910f7c78009b8f2",
+    "registration_date": "2009-04-16T13:29:35+0000",
+    "registration_number": "97/055/09-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78009b8ef",
+    "spc_modified_date": "2025-02-28T10:16:14+0000"
+  },
+  "schema_version": 1
+}

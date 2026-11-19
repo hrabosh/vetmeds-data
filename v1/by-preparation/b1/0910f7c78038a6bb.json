@@ -1,0 +1,97 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906705",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906705",
+      "package_invalid_date": "2019-10-08T11:27:36+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78038a6bb"
+    },
+    {
+      "display_package_code": "9906706",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906706",
+      "package_invalid_date": "2019-10-08T11:28:53+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78038a6bb"
+    },
+    {
+      "display_package_code": "9906707",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906707",
+      "package_invalid_date": "2019-10-08T11:30:09+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78038a6bb"
+    },
+    {
+      "display_package_code": "9907825",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907825",
+      "package_invalid_date": "2020-01-07T9:17:38+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78038a6bb"
+    },
+    {
+      "display_package_code": "9907826",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907826",
+      "package_invalid_date": "2020-01-07T9:18:24+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78038a6bb"
+    },
+    {
+      "display_package_code": "9907827",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907827",
+      "package_invalid_date": "2020-01-07T9:23:39+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78038a6bb"
+    },
+    {
+      "display_package_code": "9908017",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908017",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78038a6bb"
+    },
+    {
+      "display_package_code": "9908018",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908018",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78038a6bb"
+    },
+    {
+      "display_package_code": "9908019",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908019",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78038a6bb"
+    }
+  ],
+  "preparation": {
+    "holder_id": "34",
+    "holder_name": "Fatro, S.p.A.",
+    "name": "Aristos P",
+    "preparation_id": "0910f7c78038a6bb",
+    "registration_date": "2018-10-08T11:20:16+0000",
+    "registration_number": "96/056/18-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78038a6ba",
+    "spc_modified_date": "2026-03-20T11:39:51+0000"
+  },
+  "schema_version": 1
+}

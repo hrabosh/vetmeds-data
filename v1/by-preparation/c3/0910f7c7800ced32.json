@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900383",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9900383",
+      "package_invalid_date": null,
+      "package_size": "1 x 4,02 ml pipeta (VY)",
+      "preparation_id": "0910f7c7800ced32"
+    },
+    {
+      "display_package_code": "9900384",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9900384",
+      "package_invalid_date": null,
+      "package_size": "6 x 4,02 ml pipeta (VY)",
+      "preparation_id": "0910f7c7800ced32"
+    },
+    {
+      "display_package_code": "9900385",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9900385",
+      "package_invalid_date": null,
+      "package_size": "10 x 4,02 ml pipeta",
+      "preparation_id": "0910f7c7800ced32"
+    },
+    {
+      "display_package_code": "9900386",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9900386",
+      "package_invalid_date": null,
+      "package_size": "20 x 4,02 ml pipeta",
+      "preparation_id": "0910f7c7800ced32"
+    },
+    {
+      "display_package_code": "9938170",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9938170",
+      "package_invalid_date": null,
+      "package_size": "3 x 4,02 ml pipeta (VY)",
+      "preparation_id": "0910f7c7800ced32"
+    }
+  ],
+  "preparation": {
+    "holder_id": "46",
+    "holder_name": "Krka d.d. Novo mesto",
+    "name": "FYPRYST",
+    "preparation_id": "0910f7c7800ced32",
+    "registration_date": "2010-03-24T9:37:06+0000",
+    "registration_number": "96/015/10-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7800ced19",
+    "spc_modified_date": "2025-12-19T9:33:54+0000"
+  },
+  "schema_version": 1
+}

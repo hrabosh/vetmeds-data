@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9904980",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904980",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7803d8482"
+    },
+    {
+      "display_package_code": "9904981",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904981",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7803d8482"
+    },
+    {
+      "display_package_code": "9904982",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904982",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7803d8482"
+    },
+    {
+      "display_package_code": "9904983",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904983",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7803d8482"
+    }
+  ],
+  "preparation": {
+    "holder_id": "280",
+    "holder_name": "Boehringer Ingelheim Animal Health France SCS",
+    "name": "Bioral H120 Neo",
+    "preparation_id": "0910f7c7803d8482",
+    "registration_date": "2016-04-19T6:17:44+0000",
+    "registration_number": "97/029/16-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7803d8481",
+    "spc_modified_date": "2024-07-15T11:59:42+0000"
+  },
+  "schema_version": 1
+}

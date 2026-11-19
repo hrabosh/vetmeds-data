@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9907992",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907992",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814ddb79"
+    },
+    {
+      "display_package_code": "9907993",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907993",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814ddb79"
+    },
+    {
+      "display_package_code": "9907994",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907994",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814ddb79"
+    },
+    {
+      "display_package_code": "9908599",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908599",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814ddb79"
+    }
+  ],
+  "preparation": {
+    "holder_id": "306",
+    "holder_name": "Elanco Animal Health GmbH",
+    "name": "Neptra",
+    "preparation_id": "0910f7c7814ddb79",
+    "registration_date": "2019-12-10T9:20:13+0000",
+    "registration_number": "EU/2/19/246",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7814ddb78",
+    "spc_modified_date": "2026-07-23T7:37:35+0000"
+  },
+  "schema_version": 1
+}

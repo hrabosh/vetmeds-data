@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9903972",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9903972",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78015d672"
+    },
+    {
+      "display_package_code": "9903973",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903973",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78015d672"
+    },
+    {
+      "display_package_code": "9903974",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903974",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78015d672"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "TOP SPOT ON DOG",
+    "preparation_id": "0910f7c78015d672",
+    "registration_date": "2014-12-12T11:48:53+0000",
+    "registration_number": "96/092/14-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78015d66d",
+    "spc_modified_date": "2026-04-13T10:49:11+0000"
+  },
+  "schema_version": 1
+}

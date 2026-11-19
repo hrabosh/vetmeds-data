@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9937163",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937163",
+      "package_invalid_date": null,
+      "package_size": " 1 x 250 ml",
+      "preparation_id": "0910f7c780095132"
+    },
+    {
+      "display_package_code": "9937164",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937164",
+      "package_invalid_date": null,
+      "package_size": "1 x 1 l",
+      "preparation_id": "0910f7c780095132"
+    },
+    {
+      "display_package_code": "9938325",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938325",
+      "package_invalid_date": null,
+      "package_size": "1 x 5 l",
+      "preparation_id": "0910f7c780095132"
+    },
+    {
+      "display_package_code": "9938494",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938494",
+      "package_invalid_date": null,
+      "package_size": "1 x 2,5 l",
+      "preparation_id": "0910f7c780095132"
+    }
+  ],
+  "preparation": {
+    "holder_id": "280",
+    "holder_name": "Boehringer Ingelheim Animal Health France SCS",
+    "name": "IVOMEC EPRINEX",
+    "preparation_id": "0910f7c780095132",
+    "registration_date": "1998-11-12T13:52:57+0000",
+    "registration_number": "96/124/98-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78009512e",
+    "spc_modified_date": "2022-10-26T7:41:30+0000"
+  },
+  "schema_version": 1
+}

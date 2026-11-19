@@ -1,0 +1,34 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700836",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700836",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781f4d860"
+    },
+    {
+      "display_package_code": "9700837",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700837",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781f4d860"
+    }
+  ],
+  "preparation": {
+    "holder_id": "34",
+    "holder_name": "Fatro, S.p.A.",
+    "name": "Continence",
+    "preparation_id": "0910f7c781f4d860",
+    "registration_date": "2026-03-11T13:26:58+0000",
+    "registration_number": "96/024/26-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781f4d85f",
+    "spc_modified_date": "2026-03-18T8:1:36+0000"
+  },
+  "schema_version": 1
+}

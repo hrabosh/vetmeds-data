@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9904214",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904214",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802cd59a"
+    },
+    {
+      "display_package_code": "9904215",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904215",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802cd59a"
+    },
+    {
+      "display_package_code": "9904216",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904216",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802cd59a"
+    }
+  ],
+  "preparation": {
+    "holder_id": "110",
+    "holder_name": "Veyx-Pharma GmbH",
+    "name": "Gonavet Veyx",
+    "preparation_id": "0910f7c7802cd59a",
+    "registration_date": "2015-03-26T11:22:10+0000",
+    "registration_number": "96/035/15-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7802cd599",
+    "spc_modified_date": "2026-09-15T10:22:25+0000"
+  },
+  "schema_version": 1
+}

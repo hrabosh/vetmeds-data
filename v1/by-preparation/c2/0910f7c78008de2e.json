@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9936767",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936767",
+      "package_invalid_date": null,
+      "package_size": "2 x 1 dávka",
+      "preparation_id": "0910f7c78008de2e"
+    },
+    {
+      "display_package_code": "9936903",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936903",
+      "package_invalid_date": null,
+      "package_size": "10 x 1 dávka",
+      "preparation_id": "0910f7c78008de2e"
+    },
+    {
+      "display_package_code": "9936978",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936978",
+      "package_invalid_date": null,
+      "package_size": "20 x 1 dávka",
+      "preparation_id": "0910f7c78008de2e"
+    },
+    {
+      "display_package_code": "9937097",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937097",
+      "package_invalid_date": null,
+      "package_size": "50 x 1 dávka",
+      "preparation_id": "0910f7c78008de2e"
+    },
+    {
+      "display_package_code": "9937116",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937116",
+      "package_invalid_date": null,
+      "package_size": "100 x 1 dávka",
+      "preparation_id": "0910f7c78008de2e"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "BIOCAN M Plus",
+    "preparation_id": "0910f7c78008de2e",
+    "registration_date": "2001-07-18T11:38:03+0000",
+    "registration_number": "97/043/01-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78008de2b",
+    "spc_modified_date": "2026-02-27T11:7:34+0000"
+  },
+  "schema_version": 1
+}

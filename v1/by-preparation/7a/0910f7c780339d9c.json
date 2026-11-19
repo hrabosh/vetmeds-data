@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905617",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905617",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780339d9c"
+    },
+    {
+      "display_package_code": "9905618",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905618",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780339d9c"
+    },
+    {
+      "display_package_code": "9905619",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905619",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780339d9c"
+    },
+    {
+      "display_package_code": "9905620",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905620",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780339d9c"
+    },
+    {
+      "display_package_code": "9905621",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905621",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780339d9c"
+    },
+    {
+      "display_package_code": "9905622",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905622",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780339d9c"
+    }
+  ],
+  "preparation": {
+    "holder_id": "180",
+    "holder_name": "Le Vet. Beheer, B.V.",
+    "name": "Enrobactin",
+    "preparation_id": "0910f7c780339d9c",
+    "registration_date": "2016-09-13T8:58:48+0000",
+    "registration_number": "96/089/16-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780339d9b",
+    "spc_modified_date": "2026-08-10T8:59:03+0000"
+  },
+  "schema_version": 1
+}

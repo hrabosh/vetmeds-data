@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9907479",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9907479",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780095584"
+    },
+    {
+      "display_package_code": "9908444",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9908444",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780095584"
+    },
+    {
+      "display_package_code": "9938690",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9938690",
+      "package_invalid_date": "2020-05-04T9:49:57+0000",
+      "package_size": "1 obojek",
+      "preparation_id": "0910f7c780095584"
+    }
+  ],
+  "preparation": {
+    "holder_id": "306",
+    "holder_name": "Elanco Animal Health GmbH",
+    "name": "Kiltix",
+    "preparation_id": "0910f7c780095584",
+    "registration_date": "2009-06-26T11:1:20+0000",
+    "registration_number": "99/020/09-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780095581",
+    "spc_modified_date": "2025-04-10T11:3:42+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902031",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902031",
+      "package_invalid_date": null,
+      "package_size": "6 x 1 dávka",
+      "preparation_id": "0910f7c78008fdb3"
+    },
+    {
+      "display_package_code": "9902032",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902032",
+      "package_invalid_date": null,
+      "package_size": "30 x 1 dávka",
+      "preparation_id": "0910f7c78008fdb3"
+    },
+    {
+      "display_package_code": "9936087",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936087",
+      "package_invalid_date": null,
+      "package_size": "30 x 1 dávka",
+      "preparation_id": "0910f7c78008fdb3"
+    },
+    {
+      "display_package_code": "9998225",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9998225",
+      "package_invalid_date": null,
+      "package_size": "6 x 1 dávka",
+      "preparation_id": "0910f7c78008fdb3"
+    }
+  ],
+  "preparation": {
+    "holder_id": "29",
+    "holder_name": "Dyntec, spol. s r.o.",
+    "name": "CANVAC DHP",
+    "preparation_id": "0910f7c78008fdb3",
+    "registration_date": "1994-06-01T11:54:33+0000",
+    "registration_number": "97/752/94-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78008fd78",
+    "spc_modified_date": "2026-02-11T12:54:50+0000"
+  },
+  "schema_version": 1
+}

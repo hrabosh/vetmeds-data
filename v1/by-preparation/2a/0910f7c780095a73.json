@@ -1,0 +1,232 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9935138",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9935138",
+      "package_invalid_date": null,
+      "package_size": "6 x 0,67 ml",
+      "preparation_id": "0910f7c780095a73"
+    },
+    {
+      "display_package_code": "9935546",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9935546",
+      "package_invalid_date": null,
+      "package_size": "8 x 0,67 ml",
+      "preparation_id": "0910f7c780095a73"
+    },
+    {
+      "display_package_code": "9935861",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9935861",
+      "package_invalid_date": null,
+      "package_size": "12 x 0,67 ml",
+      "preparation_id": "0910f7c780095a73"
+    },
+    {
+      "display_package_code": "9936183",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9936183",
+      "package_invalid_date": null,
+      "package_size": "24 x 0,67 ml",
+      "preparation_id": "0910f7c780095a73"
+    },
+    {
+      "display_package_code": "9936440",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9936440",
+      "package_invalid_date": null,
+      "package_size": "30 x 0,67 ml",
+      "preparation_id": "0910f7c780095a73"
+    },
+    {
+      "display_package_code": "9936661",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9936661",
+      "package_invalid_date": null,
+      "package_size": "60 x 0,67 ml",
+      "preparation_id": "0910f7c780095a73"
+    },
+    {
+      "display_package_code": "9936794",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9936794",
+      "package_invalid_date": null,
+      "package_size": "90 x 0,67 ml",
+      "preparation_id": "0910f7c780095a73"
+    },
+    {
+      "display_package_code": "9936966",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9936966",
+      "package_invalid_date": null,
+      "package_size": "150 x 0,67 ml",
+      "preparation_id": "0910f7c780095a73"
+    },
+    {
+      "display_package_code": "9938432",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9938432",
+      "package_invalid_date": null,
+      "package_size": "1 x 0,67 ml",
+      "preparation_id": "0910f7c780095a73"
+    },
+    {
+      "display_package_code": "9938449",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9938449",
+      "package_invalid_date": null,
+      "package_size": "2 x 0,67 ml",
+      "preparation_id": "0910f7c780095a73"
+    },
+    {
+      "display_package_code": "9938496",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9938496",
+      "package_invalid_date": null,
+      "package_size": "3 x 0,67 ml",
+      "preparation_id": "0910f7c780095a73"
+    },
+    {
+      "display_package_code": "9938520",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9938520",
+      "package_invalid_date": null,
+      "package_size": "4 x 0,67 ml",
+      "preparation_id": "0910f7c780095a73"
+    },
+    {
+      "display_package_code": "9938531",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9938531",
+      "package_invalid_date": null,
+      "package_size": "6 x 0,67 ml",
+      "preparation_id": "0910f7c780095a73"
+    },
+    {
+      "display_package_code": "9938552",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9938552",
+      "package_invalid_date": null,
+      "package_size": "8 x 0,67 ml",
+      "preparation_id": "0910f7c780095a73"
+    },
+    {
+      "display_package_code": "9938562",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9938562",
+      "package_invalid_date": null,
+      "package_size": "12 x 0,67 ml",
+      "preparation_id": "0910f7c780095a73"
+    },
+    {
+      "display_package_code": "9938575",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9938575",
+      "package_invalid_date": null,
+      "package_size": "24 x 0,67 ml",
+      "preparation_id": "0910f7c780095a73"
+    },
+    {
+      "display_package_code": "9938582",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9938582",
+      "package_invalid_date": null,
+      "package_size": "30 x 0,67 ml",
+      "preparation_id": "0910f7c780095a73"
+    },
+    {
+      "display_package_code": "9938589",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9938589",
+      "package_invalid_date": null,
+      "package_size": "60 x 0,67 ml",
+      "preparation_id": "0910f7c780095a73"
+    },
+    {
+      "display_package_code": "9938604",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9938604",
+      "package_invalid_date": null,
+      "package_size": "90 x 0,67 ml",
+      "preparation_id": "0910f7c780095a73"
+    },
+    {
+      "display_package_code": "9938634",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9938634",
+      "package_invalid_date": null,
+      "package_size": "150 x 0,67 ml",
+      "preparation_id": "0910f7c780095a73"
+    },
+    {
+      "display_package_code": "9938645",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9938645",
+      "package_invalid_date": null,
+      "package_size": "1 x 0,67 ml",
+      "preparation_id": "0910f7c780095a73"
+    },
+    {
+      "display_package_code": "9938668",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9938668",
+      "package_invalid_date": null,
+      "package_size": "2 x 0,67 ml",
+      "preparation_id": "0910f7c780095a73"
+    },
+    {
+      "display_package_code": "9938684",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9938684",
+      "package_invalid_date": null,
+      "package_size": "3 x 0,67 ml",
+      "preparation_id": "0910f7c780095a73"
+    },
+    {
+      "display_package_code": "9938697",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9938697",
+      "package_invalid_date": null,
+      "package_size": "4 x 0,67 ml",
+      "preparation_id": "0910f7c780095a73"
+    }
+  ],
+  "preparation": {
+    "holder_id": "112",
+    "holder_name": "VIRBAC",
+    "name": "EFFIPRO",
+    "preparation_id": "0910f7c780095a73",
+    "registration_date": "2009-06-16T12:29:22+0000",
+    "registration_number": "96/071/09-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c780095a6f",
+    "spc_modified_date": "2024-09-24T12:29:41+0000"
+  },
+  "schema_version": 1
+}

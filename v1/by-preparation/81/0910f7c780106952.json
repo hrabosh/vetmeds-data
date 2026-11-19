@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900124",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900124",
+      "package_invalid_date": "2021-07-30T8:17:45+0000",
+      "package_size": "1 x 25 ml_EU/2/10/111/004",
+      "preparation_id": "0910f7c780106952"
+    },
+    {
+      "display_package_code": "9900446",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900446",
+      "package_invalid_date": "2021-07-30T8:25:53+0000",
+      "package_size": "1 x 10 ml_EU/2/10/111/006",
+      "preparation_id": "0910f7c780106952"
+    },
+    {
+      "display_package_code": "9900860",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900860",
+      "package_invalid_date": "2021-07-30T8:23:51+0000",
+      "package_size": "1 x 5 ml_EU/2/10/111/007",
+      "preparation_id": "0910f7c780106952"
+    },
+    {
+      "display_package_code": "9909471",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909471",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780106952"
+    },
+    {
+      "display_package_code": "9909472",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909472",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780106952"
+    },
+    {
+      "display_package_code": "9909473",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909473",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780106952"
+    }
+  ],
+  "preparation": {
+    "holder_id": "251",
+    "holder_name": "Dechra Regulatory B.V.",
+    "name": "Meloxoral",
+    "preparation_id": "0910f7c780106952",
+    "registration_date": "2010-10-19T9:0:04+0000",
+    "registration_number": "EU/2/10/111",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c780106948",
+    "spc_modified_date": "2024-01-09T9:58:56+0000"
+  },
+  "schema_version": 1
+}

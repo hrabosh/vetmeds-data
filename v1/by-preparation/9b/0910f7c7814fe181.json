@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9907244",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907244",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814fe181"
+    },
+    {
+      "display_package_code": "9907245",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907245",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814fe181"
+    },
+    {
+      "display_package_code": "9907246",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907246",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814fe181"
+    },
+    {
+      "display_package_code": "9907247",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907247",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814fe181"
+    }
+  ],
+  "preparation": {
+    "holder_id": "24",
+    "holder_name": "CP-Pharma Handelsgesellschaft, mbH",
+    "name": "Vetemex",
+    "preparation_id": "0910f7c7814fe181",
+    "registration_date": "2019-02-25T10:30:52+0000",
+    "registration_number": "96/010/19-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7814fe17f",
+    "spc_modified_date": "2024-07-02T9:31:40+0000"
+  },
+  "schema_version": 1
+}

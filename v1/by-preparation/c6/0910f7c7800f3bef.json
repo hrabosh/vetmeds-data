@@ -1,0 +1,97 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905300",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9905300",
+      "package_invalid_date": "2019-06-28T10:43:27+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3bef"
+    },
+    {
+      "display_package_code": "9905301",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9905301",
+      "package_invalid_date": "2019-06-28T10:46:56+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3bef"
+    },
+    {
+      "display_package_code": "9905302",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9905302",
+      "package_invalid_date": "2019-06-28T10:51:03+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3bef"
+    },
+    {
+      "display_package_code": "9907507",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9907507",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3bef"
+    },
+    {
+      "display_package_code": "9907508",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9907508",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3bef"
+    },
+    {
+      "display_package_code": "9907509",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9907509",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3bef"
+    },
+    {
+      "display_package_code": "9934323",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9934323",
+      "package_invalid_date": "2016-08-11T11:8:06+0000",
+      "package_size": "3 x 0,45 ml_EU/2/06/066/001",
+      "preparation_id": "0910f7c7800f3bef"
+    },
+    {
+      "display_package_code": "9934324",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9934324",
+      "package_invalid_date": "2016-08-11T11:9:13+0000",
+      "package_size": "6 x 0,45 ml_EU/2/06/066/002",
+      "preparation_id": "0910f7c7800f3bef"
+    },
+    {
+      "display_package_code": "9934325",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9934325",
+      "package_invalid_date": "2016-08-11T11:11:49+0000",
+      "package_size": "30 x 0,45 ml_EU/2/06/066/003",
+      "preparation_id": "0910f7c7800f3bef"
+    }
+  ],
+  "preparation": {
+    "holder_id": "248",
+    "holder_name": "Elanco GmbH",
+    "name": "Prac-tic",
+    "preparation_id": "0910f7c7800f3bef",
+    "registration_date": "2006-12-18T14:45:30+0000",
+    "registration_number": "EU/2/06/066",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f3bea",
+    "spc_modified_date": "2019-06-26T11:3:11+0000"
+  },
+  "schema_version": 1
+}

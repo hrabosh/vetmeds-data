@@ -1,0 +1,79 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909943",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909943",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818b0eb9"
+    },
+    {
+      "display_package_code": "9909944",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909944",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818b0eb9"
+    },
+    {
+      "display_package_code": "9909945",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909945",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818b0eb9"
+    },
+    {
+      "display_package_code": "9909946",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909946",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818b0eb9"
+    },
+    {
+      "display_package_code": "9911050",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911050",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818b0eb9"
+    },
+    {
+      "display_package_code": "9911051",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911051",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818b0eb9"
+    },
+    {
+      "display_package_code": "9911052",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911052",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818b0eb9"
+    }
+  ],
+  "preparation": {
+    "holder_id": "322",
+    "holder_name": "Ceva Sante Animale",
+    "name": "Gabbrovet Multi",
+    "preparation_id": "0910f7c7818b0eb9",
+    "registration_date": "2022-09-07T7:17:38+0000",
+    "registration_number": "96/031/22-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7818b0eb8",
+    "spc_modified_date": "2025-08-14T11:47:52+0000"
+  },
+  "schema_version": 1
+}

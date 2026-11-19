@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9904576",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904576",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78039887a"
+    },
+    {
+      "display_package_code": "9904577",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904577",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78039887a"
+    },
+    {
+      "display_package_code": "9904578",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904578",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78039887a"
+    },
+    {
+      "display_package_code": "9904579",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904579",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78039887a"
+    },
+    {
+      "display_package_code": "9904580",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904580",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78039887a"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "BioEquin FT",
+    "preparation_id": "0910f7c78039887a",
+    "registration_date": "2015-11-04T11:56:50+0000",
+    "registration_number": "97/094/15-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780398879",
+    "spc_modified_date": "2025-06-13T7:8:21+0000"
+  },
+  "schema_version": 1
+}

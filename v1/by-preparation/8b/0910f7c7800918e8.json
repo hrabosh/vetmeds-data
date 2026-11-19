@@ -1,0 +1,106 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9901704",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901704",
+      "package_invalid_date": null,
+      "package_size": "20 x 4000 dávek",
+      "preparation_id": "0910f7c7800918e8"
+    },
+    {
+      "display_package_code": "9906309",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906309",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800918e8"
+    },
+    {
+      "display_package_code": "9906584",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906584",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800918e8"
+    },
+    {
+      "display_package_code": "9906585",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906585",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800918e8"
+    },
+    {
+      "display_package_code": "9906586",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906586",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800918e8"
+    },
+    {
+      "display_package_code": "9906587",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906587",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800918e8"
+    },
+    {
+      "display_package_code": "9906588",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906588",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800918e8"
+    },
+    {
+      "display_package_code": "9939484",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939484",
+      "package_invalid_date": null,
+      "package_size": "20 x 2000 dávek",
+      "preparation_id": "0910f7c7800918e8"
+    },
+    {
+      "display_package_code": "9939485",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939485",
+      "package_invalid_date": null,
+      "package_size": "20 x 2500 dávek",
+      "preparation_id": "0910f7c7800918e8"
+    },
+    {
+      "display_package_code": "9939486",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939486",
+      "package_invalid_date": null,
+      "package_size": "20 x 5000 dávek",
+      "preparation_id": "0910f7c7800918e8"
+    }
+  ],
+  "preparation": {
+    "holder_id": "276",
+    "holder_name": "Ceva Animal Health Slovakia s.r.o.",
+    "name": "CEVAC TRANSMUNE",
+    "preparation_id": "0910f7c7800918e8",
+    "registration_date": "2008-03-17T11:21:08+0000",
+    "registration_number": "97/004/08-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800918e5",
+    "spc_modified_date": "2026-10-09T10:21:30+0000"
+  },
+  "schema_version": 1
+}

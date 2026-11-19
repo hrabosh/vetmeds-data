@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9911174",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911174",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ca5cc1"
+    },
+    {
+      "display_package_code": "9911175",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911175",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ca5cc1"
+    },
+    {
+      "display_package_code": "9911176",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911176",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ca5cc1"
+    },
+    {
+      "display_package_code": "9911177",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911177",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ca5cc1"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "ORNIVAC Coryza",
+    "preparation_id": "0910f7c781ca5cc1",
+    "registration_date": "2024-08-30T11:9:06+0000",
+    "registration_number": "97/049/24-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781ca5cc0",
+    "spc_modified_date": "2024-09-17T10:50:43+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,79 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9903532",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903532",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780265d59"
+    },
+    {
+      "display_package_code": "9903533",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903533",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780265d59"
+    },
+    {
+      "display_package_code": "9903534",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903534",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780265d59"
+    },
+    {
+      "display_package_code": "9903535",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903535",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780265d59"
+    },
+    {
+      "display_package_code": "9903536",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903536",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780265d59"
+    },
+    {
+      "display_package_code": "9903537",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903537",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780265d59"
+    },
+    {
+      "display_package_code": "9903538",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903538",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780265d59"
+    }
+  ],
+  "preparation": {
+    "holder_id": "49",
+    "holder_name": "Laboratorios Hipra S.A.",
+    "name": "Eryseng Parvo",
+    "preparation_id": "0910f7c780265d59",
+    "registration_date": "2014-07-08T8:46:26+0000",
+    "registration_number": "EU/2/14/167",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c780265d08",
+    "spc_modified_date": "2019-11-08T12:0:10+0000"
+  },
+  "schema_version": 1
+}

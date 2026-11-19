@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905825",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905825",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804b7eb0"
+    }
+  ],
+  "preparation": {
+    "holder_id": "180",
+    "holder_name": "Le Vet. Beheer, B.V.",
+    "name": "Recicort Ear Drops",
+    "preparation_id": "0910f7c7804b7eb0",
+    "registration_date": "2017-01-23T10:25:33+0000",
+    "registration_number": "96/007/17-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7804b7cee",
+    "spc_modified_date": "2026-05-29T10:59:22+0000"
+  },
+  "schema_version": 1
+}

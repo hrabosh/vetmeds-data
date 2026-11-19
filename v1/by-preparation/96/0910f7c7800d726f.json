@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9935563",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9935563",
+      "package_invalid_date": null,
+      "package_size": "1 x 5 l",
+      "preparation_id": "0910f7c7800d726f"
+    },
+    {
+      "display_package_code": "9935598",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9935598",
+      "package_invalid_date": null,
+      "package_size": "1 x 10 l",
+      "preparation_id": "0910f7c7800d726f"
+    },
+    {
+      "display_package_code": "9935982",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9935982",
+      "package_invalid_date": null,
+      "package_size": "1 x 20 l",
+      "preparation_id": "0910f7c7800d726f"
+    },
+    {
+      "display_package_code": "9935983",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9935983",
+      "package_invalid_date": null,
+      "package_size": "1 x 60 l",
+      "preparation_id": "0910f7c7800d726f"
+    },
+    {
+      "display_package_code": "9935988",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9935988",
+      "package_invalid_date": null,
+      "package_size": "1 x 200 l",
+      "preparation_id": "0910f7c7800d726f"
+    }
+  ],
+  "preparation": {
+    "holder_id": "141",
+    "holder_name": "DeLaval NV",
+    "name": "Blockade",
+    "preparation_id": "0910f7c7800d726f",
+    "registration_date": "2010-04-20T6:36:30+0000",
+    "registration_number": "99/028/10-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800d726c",
+    "spc_modified_date": "2025-10-24T9:9:01+0000"
+  },
+  "schema_version": 1
+}

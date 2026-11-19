@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9910393",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910393",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818e4256"
+    },
+    {
+      "display_package_code": "9910402",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910402",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818e4256"
+    },
+    {
+      "display_package_code": "9910403",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910403",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818e4256"
+    }
+  ],
+  "preparation": {
+    "holder_id": "209",
+    "holder_name": "Ceva-Phylaxia Veterinary Biologicals Co.Ltd.",
+    "name": "Newflend ND H9",
+    "preparation_id": "0910f7c7818e4256",
+    "registration_date": "2023-05-16T6:59:35+0000",
+    "registration_number": "EU/2/23/296",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7818e4255",
+    "spc_modified_date": "2025-09-30T10:57:54+0000"
+  },
+  "schema_version": 1
+}

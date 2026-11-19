@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905877",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905877",
+      "package_invalid_date": "2020-05-04T10:34:11+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7804bc9e5"
+    },
+    {
+      "display_package_code": "9905878",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905878",
+      "package_invalid_date": "2020-05-04T10:36:07+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7804bc9e5"
+    },
+    {
+      "display_package_code": "9905879",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905879",
+      "package_invalid_date": "2020-05-04T10:38:25+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7804bc9e5"
+    },
+    {
+      "display_package_code": "9908460",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908460",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804bc9e5"
+    },
+    {
+      "display_package_code": "9908461",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908461",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804bc9e5"
+    },
+    {
+      "display_package_code": "9908462",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908462",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804bc9e5"
+    }
+  ],
+  "preparation": {
+    "holder_id": "306",
+    "holder_name": "Elanco Animal Health GmbH",
+    "name": "Baycox Multi",
+    "preparation_id": "0910f7c7804bc9e5",
+    "registration_date": "2017-03-14T13:43:40+0000",
+    "registration_number": "96/016/17-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7804bc9e4",
+    "spc_modified_date": "2025-11-14T13:26:15+0000"
+  },
+  "schema_version": 1
+}

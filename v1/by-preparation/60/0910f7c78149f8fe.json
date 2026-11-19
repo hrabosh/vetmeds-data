@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906447",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906447",
+      "package_invalid_date": "2019-02-06T9:7:26+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78149f8fe"
+    },
+    {
+      "display_package_code": "9906448",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906448",
+      "package_invalid_date": "2019-02-06T9:11:50+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78149f8fe"
+    },
+    {
+      "display_package_code": "9907195",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907195",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78149f8fe"
+    },
+    {
+      "display_package_code": "9907196",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907196",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78149f8fe"
+    }
+  ],
+  "preparation": {
+    "holder_id": "248",
+    "holder_name": "Elanco GmbH",
+    "name": "Galliprant",
+    "preparation_id": "0910f7c78149f8fe",
+    "registration_date": "2018-01-09T9:43:23+0000",
+    "registration_number": "EU/2/17/221",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7806dc93d",
+    "spc_modified_date": "2024-01-29T7:50:10+0000"
+  },
+  "schema_version": 1
+}

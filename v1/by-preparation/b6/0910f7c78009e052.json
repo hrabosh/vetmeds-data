@@ -1,0 +1,106 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902530",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902530",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009e052"
+    },
+    {
+      "display_package_code": "9902531",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902531",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009e052"
+    },
+    {
+      "display_package_code": "9902532",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902532",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009e052"
+    },
+    {
+      "display_package_code": "9902533",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902533",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009e052"
+    },
+    {
+      "display_package_code": "9902534",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902534",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009e052"
+    },
+    {
+      "display_package_code": "9937355",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937355",
+      "package_invalid_date": "2013-06-03T7:53:57+0000",
+      "package_size": "1 x 10 tbl.",
+      "preparation_id": "0910f7c78009e052"
+    },
+    {
+      "display_package_code": "9938706",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938706",
+      "package_invalid_date": "2013-06-03T7:54:12+0000",
+      "package_size": "2 x 10 tbl.",
+      "preparation_id": "0910f7c78009e052"
+    },
+    {
+      "display_package_code": "9971778",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9971778",
+      "package_invalid_date": "2013-06-03T7:54:41+0000",
+      "package_size": "10 x 10 tbl.",
+      "preparation_id": "0910f7c78009e052"
+    },
+    {
+      "display_package_code": "9971779",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9971779",
+      "package_invalid_date": "2013-06-03T7:55:01+0000",
+      "package_size": "25 x 10 tbl.",
+      "preparation_id": "0910f7c78009e052"
+    },
+    {
+      "display_package_code": "9971780",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9971780",
+      "package_invalid_date": "2013-06-03T7:55:18+0000",
+      "package_size": "50 x 10 tbl.",
+      "preparation_id": "0910f7c78009e052"
+    }
+  ],
+  "preparation": {
+    "holder_id": "226",
+    "holder_name": "Zoetis Česká republika s.r.o.",
+    "name": "Synulox",
+    "preparation_id": "0910f7c78009e052",
+    "registration_date": "1993-11-05T11:26:09+0000",
+    "registration_number": "96/1177/93-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78009e04f",
+    "spc_modified_date": "2026-03-20T11:26:30+0000"
+  },
+  "schema_version": 1
+}

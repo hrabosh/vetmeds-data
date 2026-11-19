@@ -1,0 +1,142 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902471",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902471",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009b3a1"
+    },
+    {
+      "display_package_code": "9902472",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902472",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009b3a1"
+    },
+    {
+      "display_package_code": "9902473",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902473",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009b3a1"
+    },
+    {
+      "display_package_code": "9902474",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902474",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009b3a1"
+    },
+    {
+      "display_package_code": "9902475",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902475",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009b3a1"
+    },
+    {
+      "display_package_code": "9902476",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902476",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009b3a1"
+    },
+    {
+      "display_package_code": "9902477",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902477",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009b3a1"
+    },
+    {
+      "display_package_code": "9939855",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939855",
+      "package_invalid_date": "2013-06-03T9:25:53+0000",
+      "package_size": "1 x 14 tbl.",
+      "preparation_id": "0910f7c78009b3a1"
+    },
+    {
+      "display_package_code": "9939856",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939856",
+      "package_invalid_date": "2013-06-03T9:26:12+0000",
+      "package_size": "1 x 20 tbl.",
+      "preparation_id": "0910f7c78009b3a1"
+    },
+    {
+      "display_package_code": "9939857",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939857",
+      "package_invalid_date": "2013-06-03T9:26:28+0000",
+      "package_size": "1 x 30 tbl.",
+      "preparation_id": "0910f7c78009b3a1"
+    },
+    {
+      "display_package_code": "9939858",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939858",
+      "package_invalid_date": "2013-06-03T9:26:58+0000",
+      "package_size": "1 x 50 tbl.",
+      "preparation_id": "0910f7c78009b3a1"
+    },
+    {
+      "display_package_code": "9939859",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939859",
+      "package_invalid_date": "2013-06-03T9:27:16+0000",
+      "package_size": "1 x 60 tbl.",
+      "preparation_id": "0910f7c78009b3a1"
+    },
+    {
+      "display_package_code": "9939860",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939860",
+      "package_invalid_date": "2013-06-03T9:27:32+0000",
+      "package_size": "1 x 100 tbl.",
+      "preparation_id": "0910f7c78009b3a1"
+    },
+    {
+      "display_package_code": "9939861",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939861",
+      "package_invalid_date": "2013-06-03T9:27:51+0000",
+      "package_size": "1 x 180 tbl.",
+      "preparation_id": "0910f7c78009b3a1"
+    }
+  ],
+  "preparation": {
+    "holder_id": "226",
+    "holder_name": "Zoetis Česká republika s.r.o.",
+    "name": "Rimadyl Palatable",
+    "preparation_id": "0910f7c78009b3a1",
+    "registration_date": "2003-03-20T9:10:29+0000",
+    "registration_number": "96/025/03-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78009b39e",
+    "spc_modified_date": "2025-09-19T8:19:19+0000"
+  },
+  "schema_version": 1
+}

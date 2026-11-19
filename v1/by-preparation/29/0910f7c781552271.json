@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9908572",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908572",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781552271"
+    },
+    {
+      "display_package_code": "9908573",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908573",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781552271"
+    },
+    {
+      "display_package_code": "9908574",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908574",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781552271"
+    },
+    {
+      "display_package_code": "9908575",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908575",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781552271"
+    },
+    {
+      "display_package_code": "9908576",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908576",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781552271"
+    }
+  ],
+  "preparation": {
+    "holder_id": "112",
+    "holder_name": "VIRBAC",
+    "name": "Tulissin",
+    "preparation_id": "0910f7c781552271",
+    "registration_date": "2020-04-24T7:52:33+0000",
+    "registration_number": "EU/2/20/252",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c78155226f",
+    "spc_modified_date": "2025-01-29T12:8:34+0000"
+  },
+  "schema_version": 1
+}

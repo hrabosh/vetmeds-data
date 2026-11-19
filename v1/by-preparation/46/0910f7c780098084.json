@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9907096",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907096",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780098084"
+    },
+    {
+      "display_package_code": "9907097",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907097",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780098084"
+    },
+    {
+      "display_package_code": "9907098",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907098",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780098084"
+    },
+    {
+      "display_package_code": "9907099",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907099",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780098084"
+    },
+    {
+      "display_package_code": "9938262",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938262",
+      "package_invalid_date": "2019-01-10T12:48:59+0000",
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c780098084"
+    },
+    {
+      "display_package_code": "9938263",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938263",
+      "package_invalid_date": "2019-01-10T12:46:52+0000",
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c780098084"
+    },
+    {
+      "display_package_code": "9938264",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938264",
+      "package_invalid_date": "2019-01-10T12:47:31+0000",
+      "package_size": "1 x 250 ml",
+      "preparation_id": "0910f7c780098084"
+    },
+    {
+      "display_package_code": "9938265",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938265",
+      "package_invalid_date": "2019-01-10T12:48:17+0000",
+      "package_size": "1 x 500 ml",
+      "preparation_id": "0910f7c780098084"
+    }
+  ],
+  "preparation": {
+    "holder_id": "61",
+    "holder_name": "Norbrook Laboratories (Ireland) Limited",
+    "name": "Noromectin",
+    "preparation_id": "0910f7c780098084",
+    "registration_date": "2000-11-20T9:43:45+0000",
+    "registration_number": "96/065/00-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780098081",
+    "spc_modified_date": "2026-04-10T8:44:37+0000"
+  },
+  "schema_version": 1
+}

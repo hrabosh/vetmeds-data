@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9939169",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939169",
+      "package_invalid_date": null,
+      "package_size": "10 dávek",
+      "preparation_id": "0910f7c78009728d"
+    },
+    {
+      "display_package_code": "9939170",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939170",
+      "package_invalid_date": null,
+      "package_size": "40 dávek",
+      "preparation_id": "0910f7c78009728d"
+    },
+    {
+      "display_package_code": "9939171",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939171",
+      "package_invalid_date": null,
+      "package_size": "80 dávek",
+      "preparation_id": "0910f7c78009728d"
+    },
+    {
+      "display_package_code": "9939172",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939172",
+      "package_invalid_date": null,
+      "package_size": "160 dávek",
+      "preparation_id": "0910f7c78009728d"
+    },
+    {
+      "display_package_code": "9939173",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939173",
+      "package_invalid_date": null,
+      "package_size": "6 x 10 dávek",
+      "preparation_id": "0910f7c78009728d"
+    },
+    {
+      "display_package_code": "9939174",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939174",
+      "package_invalid_date": null,
+      "package_size": "6 x 40 dávek",
+      "preparation_id": "0910f7c78009728d"
+    },
+    {
+      "display_package_code": "9939175",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939175",
+      "package_invalid_date": null,
+      "package_size": "6 x 80 dávek",
+      "preparation_id": "0910f7c78009728d"
+    },
+    {
+      "display_package_code": "9939176",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939176",
+      "package_invalid_date": null,
+      "package_size": "6 x 160 dávek",
+      "preparation_id": "0910f7c78009728d"
+    }
+  ],
+  "preparation": {
+    "holder_id": "29",
+    "holder_name": "Dyntec, spol. s r.o.",
+    "name": "MM-VAC",
+    "preparation_id": "0910f7c78009728d",
+    "registration_date": "2001-03-20T6:24:15+0000",
+    "registration_number": "97/009/01-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78009728a",
+    "spc_modified_date": "2022-10-26T7:59:24+0000"
+  },
+  "schema_version": 1
+}

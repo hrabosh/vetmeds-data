@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9904664",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904664",
+      "package_invalid_date": "2019-02-06T8:35:29+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7803567ed"
+    },
+    {
+      "display_package_code": "9904665",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904665",
+      "package_invalid_date": "2019-02-06T8:37:42+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7803567ed"
+    },
+    {
+      "display_package_code": "9904666",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904666",
+      "package_invalid_date": "2019-02-06T8:40:40+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7803567ed"
+    },
+    {
+      "display_package_code": "9907188",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907188",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7803567ed"
+    },
+    {
+      "display_package_code": "9907189",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907189",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7803567ed"
+    },
+    {
+      "display_package_code": "9907190",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907190",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7803567ed"
+    }
+  ],
+  "preparation": {
+    "holder_id": "248",
+    "holder_name": "Elanco GmbH",
+    "name": "Imrestor",
+    "preparation_id": "0910f7c7803567ed",
+    "registration_date": "2015-12-09T12:6:40+0000",
+    "registration_number": "EU/2/15/193",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c78035655b",
+    "spc_modified_date": "2020-11-10T11:36:31+0000"
+  },
+  "schema_version": 1
+}

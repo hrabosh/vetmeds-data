@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902669",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902669",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801809c2"
+    },
+    {
+      "display_package_code": "9902670",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902670",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801809c2"
+    },
+    {
+      "display_package_code": "9902671",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902671",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801809c2"
+    },
+    {
+      "display_package_code": "9902672",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902672",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801809c2"
+    },
+    {
+      "display_package_code": "9902673",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902673",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801809c2"
+    },
+    {
+      "display_package_code": "9902674",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902674",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801809c2"
+    },
+    {
+      "display_package_code": "9902675",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902675",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801809c2"
+    },
+    {
+      "display_package_code": "9902676",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902676",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801809c2"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "BIOSUIS PRRS inact Eu+Am",
+    "preparation_id": "0910f7c7801809c2",
+    "registration_date": "2013-07-02T12:50:44+0000",
+    "registration_number": "97/025/13-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7801809bd",
+    "spc_modified_date": "2025-03-03T13:51:02+0000"
+  },
+  "schema_version": 1
+}

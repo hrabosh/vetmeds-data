@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909966",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909966",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a328be"
+    },
+    {
+      "display_package_code": "9909967",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909967",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a328be"
+    },
+    {
+      "display_package_code": "9909968",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909968",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a328be"
+    },
+    {
+      "display_package_code": "9909969",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909969",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a328be"
+    },
+    {
+      "display_package_code": "9909970",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909970",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a328be"
+    },
+    {
+      "display_package_code": "9909971",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909971",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a328be"
+    },
+    {
+      "display_package_code": "9909972",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909972",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a328be"
+    },
+    {
+      "display_package_code": "9909973",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909973",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a328be"
+    }
+  ],
+  "preparation": {
+    "holder_id": "27",
+    "holder_name": "Dopharma Research, B.V.",
+    "name": "Tylogran",
+    "preparation_id": "0910f7c781a328be",
+    "registration_date": "2022-10-12T6:49:11+0000",
+    "registration_number": "96/035/22-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781a32801",
+    "spc_modified_date": "2023-10-13T12:11:56+0000"
+  },
+  "schema_version": 1
+}

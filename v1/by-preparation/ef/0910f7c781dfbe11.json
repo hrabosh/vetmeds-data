@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700771",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700771",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781dfbe11"
+    },
+    {
+      "display_package_code": "9700772",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700772",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781dfbe11"
+    },
+    {
+      "display_package_code": "9700773",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700773",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781dfbe11"
+    },
+    {
+      "display_package_code": "9700774",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700774",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781dfbe11"
+    }
+  ],
+  "preparation": {
+    "holder_id": "117",
+    "holder_name": "Huvepharma NV",
+    "name": "Pereprin",
+    "preparation_id": "0910f7c781dfbe11",
+    "registration_date": "2026-02-10T11:46:57+0000",
+    "registration_number": "96/018/26-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781dfbe10",
+    "spc_modified_date": "2026-03-18T8:12:49+0000"
+  },
+  "schema_version": 1
+}

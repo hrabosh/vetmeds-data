@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9907846",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907846",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78151777f"
+    },
+    {
+      "display_package_code": "9907847",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907847",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78151777f"
+    },
+    {
+      "display_package_code": "9907848",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907848",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78151777f"
+    }
+  ],
+  "preparation": {
+    "holder_id": "138",
+    "holder_name": "Vet - Agro Trading Sp. z o.o.",
+    "name": "Flunishot",
+    "preparation_id": "0910f7c78151777f",
+    "registration_date": "2019-10-29T10:16:26+0000",
+    "registration_number": "96/082/19-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c781517041",
+    "spc_modified_date": "2025-11-10T10:17:05+0000"
+  },
+  "schema_version": 1
+}

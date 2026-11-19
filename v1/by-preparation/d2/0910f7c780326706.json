@@ -1,0 +1,115 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9904143",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904143",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780326706"
+    },
+    {
+      "display_package_code": "9904144",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904144",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780326706"
+    },
+    {
+      "display_package_code": "9904145",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904145",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780326706"
+    },
+    {
+      "display_package_code": "9904146",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904146",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780326706"
+    },
+    {
+      "display_package_code": "9904147",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904147",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780326706"
+    },
+    {
+      "display_package_code": "9904148",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904148",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780326706"
+    },
+    {
+      "display_package_code": "9904149",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904149",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780326706"
+    },
+    {
+      "display_package_code": "9904150",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904150",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780326706"
+    },
+    {
+      "display_package_code": "9904151",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904151",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780326706"
+    },
+    {
+      "display_package_code": "9904152",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904152",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780326706"
+    },
+    {
+      "display_package_code": "9904153",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904153",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780326706"
+    }
+  ],
+  "preparation": {
+    "holder_id": "193",
+    "holder_name": "Bela-Pharm GmbH",
+    "name": "Oxytobel",
+    "preparation_id": "0910f7c780326706",
+    "registration_date": "2015-03-11T9:13:18+0000",
+    "registration_number": "96/026/15-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780326705",
+    "spc_modified_date": "2026-02-27T9:24:53+0000"
+  },
+  "schema_version": 1
+}

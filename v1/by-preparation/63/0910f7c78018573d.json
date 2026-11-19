@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9903243",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903243",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78018573d"
+    },
+    {
+      "display_package_code": "9904532",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904532",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78018573d"
+    },
+    {
+      "display_package_code": "9904533",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904533",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78018573d"
+    }
+  ],
+  "preparation": {
+    "holder_id": "180",
+    "holder_name": "Le Vet. Beheer, B.V.",
+    "name": "Carprofelican",
+    "preparation_id": "0910f7c78018573d",
+    "registration_date": "2014-06-05T11:51:23+0000",
+    "registration_number": "96/040/14-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c780185738",
+    "spc_modified_date": "2024-01-26T12:51:41+0000"
+  },
+  "schema_version": 1
+}

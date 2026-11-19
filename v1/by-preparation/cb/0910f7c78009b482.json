@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902479",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902479",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009b482"
+    },
+    {
+      "display_package_code": "9902480",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902480",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009b482"
+    },
+    {
+      "display_package_code": "9904130",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904130",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009b482"
+    },
+    {
+      "display_package_code": "9934645",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934645",
+      "package_invalid_date": "2013-06-03T9:44:50+0000",
+      "package_size": "1 x 25 dávek",
+      "preparation_id": "0910f7c78009b482"
+    },
+    {
+      "display_package_code": "9939349",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939349",
+      "package_invalid_date": "2013-06-03T9:44:26+0000",
+      "package_size": "1x 5 dávek",
+      "preparation_id": "0910f7c78009b482"
+    }
+  ],
+  "preparation": {
+    "holder_id": "226",
+    "holder_name": "Zoetis Česká republika s.r.o.",
+    "name": "Rispoval RS+PI3 IntraNasal",
+    "preparation_id": "0910f7c78009b482",
+    "registration_date": "2006-12-29T12:7:12+0000",
+    "registration_number": "97/042/06-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78009b479",
+    "spc_modified_date": "2024-06-04T10:33:35+0000"
+  },
+  "schema_version": 1
+}

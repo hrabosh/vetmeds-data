@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909312",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909312",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009d110"
+    },
+    {
+      "display_package_code": "9909313",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909313",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009d110"
+    },
+    {
+      "display_package_code": "9909314",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909314",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009d110"
+    },
+    {
+      "display_package_code": "9936223",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936223",
+      "package_invalid_date": "2021-05-25T10:56:17+0000",
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c78009d110"
+    },
+    {
+      "display_package_code": "9936268",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936268",
+      "package_invalid_date": "2021-05-25T11:10:56+0000",
+      "package_size": "1 x 250 ml",
+      "preparation_id": "0910f7c78009d110"
+    },
+    {
+      "display_package_code": "9936328",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936328",
+      "package_invalid_date": "2021-05-25T10:53:21+0000",
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c78009d110"
+    }
+  ],
+  "preparation": {
+    "holder_id": "279",
+    "holder_name": "Vetoquinol s.r.o.",
+    "name": "TOLFEDINE CS",
+    "preparation_id": "0910f7c78009d110",
+    "registration_date": "2004-04-29T7:36:06+0000",
+    "registration_number": "96/112/04-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78009d10c",
+    "spc_modified_date": "2026-06-30T7:37:34+0000"
+  },
+  "schema_version": 1
+}

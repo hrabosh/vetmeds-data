@@ -1,0 +1,34 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9907274",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907274",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c782128987"
+    },
+    {
+      "display_package_code": "9907275",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907275",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c782128987"
+    }
+  ],
+  "preparation": {
+    "holder_id": "176",
+    "holder_name": "Laboratorios SYVA, S.A.U.",
+    "name": "Syvazul BTV BTV 8",
+    "preparation_id": "0910f7c782128987",
+    "registration_date": "2019-01-09T7:3:01+0000",
+    "registration_number": "EU/2/18/231",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7812c136f",
+    "spc_modified_date": "2024-06-07T8:37:08+0000"
+  },
+  "schema_version": 1
+}

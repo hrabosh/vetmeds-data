@@ -1,0 +1,79 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700590",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700590",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800915f1"
+    },
+    {
+      "display_package_code": "9907184",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907184",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800915f1"
+    },
+    {
+      "display_package_code": "9909079",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909079",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800915f1"
+    },
+    {
+      "display_package_code": "9910416",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910416",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800915f1"
+    },
+    {
+      "display_package_code": "9939837",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939837",
+      "package_invalid_date": null,
+      "package_size": "20 x 1000 dávek",
+      "preparation_id": "0910f7c7800915f1"
+    },
+    {
+      "display_package_code": "9939838",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939838",
+      "package_invalid_date": null,
+      "package_size": "20 x 2500 dávek",
+      "preparation_id": "0910f7c7800915f1"
+    },
+    {
+      "display_package_code": "9939839",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939839",
+      "package_invalid_date": null,
+      "package_size": "20 x 5000 dávek",
+      "preparation_id": "0910f7c7800915f1"
+    }
+  ],
+  "preparation": {
+    "holder_id": "276",
+    "holder_name": "Ceva Animal Health Slovakia s.r.o.",
+    "name": "CEVAC BRON 120 L",
+    "preparation_id": "0910f7c7800915f1",
+    "registration_date": "2003-04-21T12:10:34+0000",
+    "registration_number": "97/037/03-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800915ee",
+    "spc_modified_date": "2024-02-01T9:12:28+0000"
+  },
+  "schema_version": 1
+}

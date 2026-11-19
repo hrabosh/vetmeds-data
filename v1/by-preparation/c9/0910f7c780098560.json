@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9990301",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9990301",
+      "package_invalid_date": null,
+      "package_size": "1 x 1 000 ml",
+      "preparation_id": "0910f7c780098560"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "Panacur",
+    "preparation_id": "0910f7c780098560",
+    "registration_date": "1976-01-01T12:50:47+0000",
+    "registration_number": "10/041/76-S/C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78009855d",
+    "spc_modified_date": "2024-05-09T11:51:05+0000"
+  },
+  "schema_version": 1
+}

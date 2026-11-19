@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9908030",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908030",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3cc2"
+    },
+    {
+      "display_package_code": "9908031",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908031",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3cc2"
+    },
+    {
+      "display_package_code": "9909081",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909081",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3cc2"
+    },
+    {
+      "display_package_code": "9909082",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909082",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3cc2"
+    },
+    {
+      "display_package_code": "9934246",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934246",
+      "package_invalid_date": "2019-12-16T11:34:08+0000",
+      "package_size": "10 x 1 dávka + 10 x 1 ml ředidla _EU/2/04/047/001",
+      "preparation_id": "0910f7c7800f3cc2"
+    },
+    {
+      "display_package_code": "9934247",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934247",
+      "package_invalid_date": "2019-12-16T11:35:46+0000",
+      "package_size": "50 x 1 dávka + 50 x 1 ml ředidla_EU/2/04/047/002",
+      "preparation_id": "0910f7c7800f3cc2"
+    }
+  ],
+  "preparation": {
+    "holder_id": "16",
+    "holder_name": "Boehringer Ingelheim Vetmedica, GmbH",
+    "name": "Purevax RCPCh FeLV",
+    "preparation_id": "0910f7c7800f3cc2",
+    "registration_date": "2005-02-23T11:1:25+0000",
+    "registration_number": "EU/2/04/047",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f3cbe",
+    "spc_modified_date": "2022-11-24T12:4:32+0000"
+  },
+  "schema_version": 1
+}

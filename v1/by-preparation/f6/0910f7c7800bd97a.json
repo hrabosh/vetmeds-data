@@ -1,0 +1,205 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9904844",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904844",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800bd97a"
+    },
+    {
+      "display_package_code": "9904845",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904845",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800bd97a"
+    },
+    {
+      "display_package_code": "9904846",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904846",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800bd97a"
+    },
+    {
+      "display_package_code": "9904847",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904847",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800bd97a"
+    },
+    {
+      "display_package_code": "9904848",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904848",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800bd97a"
+    },
+    {
+      "display_package_code": "9904849",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904849",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800bd97a"
+    },
+    {
+      "display_package_code": "9904850",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904850",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800bd97a"
+    },
+    {
+      "display_package_code": "9910702",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910702",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800bd97a"
+    },
+    {
+      "display_package_code": "9910703",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910703",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800bd97a"
+    },
+    {
+      "display_package_code": "9910704",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910704",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800bd97a"
+    },
+    {
+      "display_package_code": "9910705",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910705",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800bd97a"
+    },
+    {
+      "display_package_code": "9910706",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910706",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800bd97a"
+    },
+    {
+      "display_package_code": "9910707",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910707",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800bd97a"
+    },
+    {
+      "display_package_code": "9910708",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910708",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800bd97a"
+    },
+    {
+      "display_package_code": "9938747",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938747",
+      "package_invalid_date": "2016-02-18T12:35:34+0000",
+      "package_size": "1 x 10 tbl.",
+      "preparation_id": "0910f7c7800bd97a"
+    },
+    {
+      "display_package_code": "9938774",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938774",
+      "package_invalid_date": "2016-02-18T12:35:48+0000",
+      "package_size": "2 x 10 tbl.",
+      "preparation_id": "0910f7c7800bd97a"
+    },
+    {
+      "display_package_code": "9938775",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938775",
+      "package_invalid_date": "2016-02-18T12:36:04+0000",
+      "package_size": "3 x 10 tbl.",
+      "preparation_id": "0910f7c7800bd97a"
+    },
+    {
+      "display_package_code": "9938776",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938776",
+      "package_invalid_date": "2016-02-18T12:36:22+0000",
+      "package_size": "5 x 10 tbl.",
+      "preparation_id": "0910f7c7800bd97a"
+    },
+    {
+      "display_package_code": "9938777",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938777",
+      "package_invalid_date": "2016-02-18T12:36:39+0000",
+      "package_size": "10 x 10 tbl.",
+      "preparation_id": "0910f7c7800bd97a"
+    },
+    {
+      "display_package_code": "9938780",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938780",
+      "package_invalid_date": "2016-02-18T12:36:54+0000",
+      "package_size": "20 x 10 tbl.",
+      "preparation_id": "0910f7c7800bd97a"
+    },
+    {
+      "display_package_code": "9938783",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938783",
+      "package_invalid_date": "2016-02-18T12:37:08+0000",
+      "package_size": "50 x 10 tbl.",
+      "preparation_id": "0910f7c7800bd97a"
+    }
+  ],
+  "preparation": {
+    "holder_id": "322",
+    "holder_name": "Ceva Sante Animale",
+    "name": "Nelio",
+    "preparation_id": "0910f7c7800bd97a",
+    "registration_date": "2010-03-18T7:39:21+0000",
+    "registration_number": "96/005/10-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800bd977",
+    "spc_modified_date": "2025-05-20T12:33:36+0000"
+  },
+  "schema_version": 1
+}

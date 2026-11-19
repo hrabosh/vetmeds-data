@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9937535",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937535",
+      "package_invalid_date": null,
+      "package_size": "1 x 170 g",
+      "preparation_id": "0910f7c7800927b2"
+    }
+  ],
+  "preparation": {
+    "holder_id": "34",
+    "holder_name": "Fatro, S.p.A.",
+    "name": "FATROXIMIN TOPIC",
+    "preparation_id": "0910f7c7800927b2",
+    "registration_date": "1998-12-08T7:16:58+0000",
+    "registration_number": "96/148/98-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7800927ae",
+    "spc_modified_date": "2022-10-26T7:16:09+0000"
+  },
+  "schema_version": 1
+}

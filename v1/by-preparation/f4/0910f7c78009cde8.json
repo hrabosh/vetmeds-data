@@ -1,0 +1,97 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9937429",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937429",
+      "package_invalid_date": "2024-08-28T9:48:46+0000",
+      "package_size": "1 x 10 ml",
+      "preparation_id": "0910f7c78009cde8"
+    },
+    {
+      "display_package_code": "9937481",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937481",
+      "package_invalid_date": "2024-08-28T9:49:00+0000",
+      "package_size": " 5 x 10 ml",
+      "preparation_id": "0910f7c78009cde8"
+    },
+    {
+      "display_package_code": "9937538",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937538",
+      "package_invalid_date": "2024-08-28T9:49:12+0000",
+      "package_size": "10 x 10 ml",
+      "preparation_id": "0910f7c78009cde8"
+    },
+    {
+      "display_package_code": "9937601",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937601",
+      "package_invalid_date": "2024-08-28T9:49:26+0000",
+      "package_size": " 1 x 20 ml",
+      "preparation_id": "0910f7c78009cde8"
+    },
+    {
+      "display_package_code": "9937669",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937669",
+      "package_invalid_date": "2024-08-28T9:49:41+0000",
+      "package_size": "5 x 20 ml",
+      "preparation_id": "0910f7c78009cde8"
+    },
+    {
+      "display_package_code": "9937733",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937733",
+      "package_invalid_date": "2024-08-28T9:49:54+0000",
+      "package_size": "10 x 20 ml",
+      "preparation_id": "0910f7c78009cde8"
+    },
+    {
+      "display_package_code": "9937784",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937784",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c78009cde8"
+    },
+    {
+      "display_package_code": "9937830",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937830",
+      "package_invalid_date": null,
+      "package_size": "12 x 50 ml",
+      "preparation_id": "0910f7c78009cde8"
+    },
+    {
+      "display_package_code": "9937868",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937868",
+      "package_invalid_date": null,
+      "package_size": "24 x 50 ml",
+      "preparation_id": "0910f7c78009cde8"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "OXYTOCIN BIO",
+    "preparation_id": "0910f7c78009cde8",
+    "registration_date": "2008-06-12T9:19:49+0000",
+    "registration_number": "96/032/08-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78009cde5",
+    "spc_modified_date": "2026-02-11T10:20:10+0000"
+  },
+  "schema_version": 1
+}

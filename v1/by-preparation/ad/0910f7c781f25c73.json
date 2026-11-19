@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700748",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700748",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781f25c73"
+    },
+    {
+      "display_package_code": "9700749",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700749",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781f25c73"
+    },
+    {
+      "display_package_code": "9700750",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700750",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781f25c73"
+    },
+    {
+      "display_package_code": "9700751",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700751",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781f25c73"
+    }
+  ],
+  "preparation": {
+    "holder_id": "46",
+    "holder_name": "Krka d.d. Novo mesto",
+    "name": "Robexera",
+    "preparation_id": "0910f7c781f25c73",
+    "registration_date": "2026-01-14T11:25:29+0000",
+    "registration_number": "96/002/26-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c781f25c72",
+    "spc_modified_date": "2026-04-29T12:14:26+0000"
+  },
+  "schema_version": 1
+}

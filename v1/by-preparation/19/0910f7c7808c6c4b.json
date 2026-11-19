@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906433",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906433",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808c6c4b"
+    },
+    {
+      "display_package_code": "9906434",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906434",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808c6c4b"
+    },
+    {
+      "display_package_code": "9906435",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906435",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808c6c4b"
+    },
+    {
+      "display_package_code": "9906436",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906436",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808c6c4b"
+    },
+    {
+      "display_package_code": "9906437",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906437",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808c6c4b"
+    },
+    {
+      "display_package_code": "9906438",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906438",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808c6c4b"
+    },
+    {
+      "display_package_code": "9906439",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906439",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808c6c4b"
+    },
+    {
+      "display_package_code": "9907877",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907877",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808c6c4b"
+    }
+  ],
+  "preparation": {
+    "holder_id": "65",
+    "holder_name": "Orion Corporation",
+    "name": "Clevor",
+    "preparation_id": "0910f7c7808c6c4b",
+    "registration_date": "2018-04-13T8:6:03+0000",
+    "registration_number": "EU/2/17/222",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7808c6c4a",
+    "spc_modified_date": "2025-05-05T11:11:24+0000"
+  },
+  "schema_version": 1
+}

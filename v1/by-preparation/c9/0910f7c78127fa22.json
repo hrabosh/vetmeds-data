@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9907353",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907353",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78127fa22"
+    },
+    {
+      "display_package_code": "9907354",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907354",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78127fa22"
+    },
+    {
+      "display_package_code": "9907355",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907355",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78127fa22"
+    },
+    {
+      "display_package_code": "9939501",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939501",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78127fa22"
+    }
+  ],
+  "preparation": {
+    "holder_id": "49",
+    "holder_name": "Laboratorios Hipra S.A.",
+    "name": "UBAC",
+    "preparation_id": "0910f7c78127fa22",
+    "registration_date": "2018-07-26T7:56:00+0000",
+    "registration_number": "EU/2/18/227",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c78127fa21",
+    "spc_modified_date": "2024-01-09T11:34:35+0000"
+  },
+  "schema_version": 1
+}

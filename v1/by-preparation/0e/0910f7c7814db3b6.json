@@ -1,0 +1,97 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9907431",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9907431",
+      "package_invalid_date": "2020-05-04T12:29:35+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7814db3b6"
+    },
+    {
+      "display_package_code": "9907432",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9907432",
+      "package_invalid_date": "2020-05-04T12:30:21+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7814db3b6"
+    },
+    {
+      "display_package_code": "9907433",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907433",
+      "package_invalid_date": "2020-05-04T12:31:07+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7814db3b6"
+    },
+    {
+      "display_package_code": "9908473",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9908473",
+      "package_invalid_date": "2020-11-09T11:28:13+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7814db3b6"
+    },
+    {
+      "display_package_code": "9908474",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9908474",
+      "package_invalid_date": "2020-11-09T11:30:23+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7814db3b6"
+    },
+    {
+      "display_package_code": "9908475",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908475",
+      "package_invalid_date": "2020-11-09T11:31:50+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7814db3b6"
+    },
+    {
+      "display_package_code": "9908895",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9908895",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814db3b6"
+    },
+    {
+      "display_package_code": "9908896",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9908896",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814db3b6"
+    },
+    {
+      "display_package_code": "9908897",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908897",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814db3b6"
+    }
+  ],
+  "preparation": {
+    "holder_id": "134",
+    "holder_name": "Vétoquinol S.A.",
+    "name": "Dronspot",
+    "preparation_id": "0910f7c7814db3b6",
+    "registration_date": "2019-06-05T9:21:42+0000",
+    "registration_number": "96/039/19-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7814db3b1",
+    "spc_modified_date": "2026-02-13T10:22:01+0000"
+  },
+  "schema_version": 1
+}

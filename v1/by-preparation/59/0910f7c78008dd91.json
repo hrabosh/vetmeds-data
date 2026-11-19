@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9938532",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938532",
+      "package_invalid_date": null,
+      "package_size": "10 x 1 dávka",
+      "preparation_id": "0910f7c78008dd91"
+    },
+    {
+      "display_package_code": "9938533",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938533",
+      "package_invalid_date": null,
+      "package_size": "20 x 1 dávka",
+      "preparation_id": "0910f7c78008dd91"
+    },
+    {
+      "display_package_code": "9938534",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938534",
+      "package_invalid_date": null,
+      "package_size": "50 x 1 dávka",
+      "preparation_id": "0910f7c78008dd91"
+    },
+    {
+      "display_package_code": "9938535",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938535",
+      "package_invalid_date": null,
+      "package_size": "100 x 1 dávka",
+      "preparation_id": "0910f7c78008dd91"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "Biocan C",
+    "preparation_id": "0910f7c78008dd91",
+    "registration_date": "1999-07-08T10:3:18+0000",
+    "registration_number": "97/031/99-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78008dd8e",
+    "spc_modified_date": "2026-02-06T11:3:34+0000"
+  },
+  "schema_version": 1
+}

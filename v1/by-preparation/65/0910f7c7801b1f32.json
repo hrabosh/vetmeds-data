@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902107",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902107",
+      "package_invalid_date": null,
+      "package_size": "1 x 20 ml_EU/2/12/144/001",
+      "preparation_id": "0910f7c7801b1f32"
+    },
+    {
+      "display_package_code": "9902108",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902108",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 ml_EU/2/12/144/002",
+      "preparation_id": "0910f7c7801b1f32"
+    },
+    {
+      "display_package_code": "9902109",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902109",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml_EU/2/12/144/003",
+      "preparation_id": "0910f7c7801b1f32"
+    },
+    {
+      "display_package_code": "9902110",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902110",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 ml_EU/2/12/144/004",
+      "preparation_id": "0910f7c7801b1f32"
+    }
+  ],
+  "preparation": {
+    "holder_id": "100",
+    "holder_name": "Zoetis Belgium",
+    "name": "Contacera",
+    "preparation_id": "0910f7c7801b1f32",
+    "registration_date": "2012-12-06T9:23:33+0000",
+    "registration_number": "EU/2/12/144",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7801b1f2f",
+    "spc_modified_date": "2023-07-13T11:52:27+0000"
+  },
+  "schema_version": 1
+}

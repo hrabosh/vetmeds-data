@@ -1,0 +1,124 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9903208",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903208",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78011c65e"
+    },
+    {
+      "display_package_code": "9903209",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903209",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78011c65e"
+    },
+    {
+      "display_package_code": "9903210",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903210",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78011c65e"
+    },
+    {
+      "display_package_code": "9903211",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903211",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78011c65e"
+    },
+    {
+      "display_package_code": "9903212",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903212",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78011c65e"
+    },
+    {
+      "display_package_code": "9903213",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903213",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78011c65e"
+    },
+    {
+      "display_package_code": "9903214",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903214",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78011c65e"
+    },
+    {
+      "display_package_code": "9903215",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903215",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78011c65e"
+    },
+    {
+      "display_package_code": "9903216",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903216",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78011c65e"
+    },
+    {
+      "display_package_code": "9903217",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903217",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78011c65e"
+    },
+    {
+      "display_package_code": "9903218",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903218",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78011c65e"
+    },
+    {
+      "display_package_code": "9903219",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903219",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78011c65e"
+    }
+  ],
+  "preparation": {
+    "holder_id": "37",
+    "holder_name": "Chanelle Pharmaceuticals Manufacturing, Ltd.",
+    "name": "Fenoflox",
+    "preparation_id": "0910f7c78011c65e",
+    "registration_date": "2014-05-15T10:28:18+0000",
+    "registration_number": "96/036/14-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78011c659",
+    "spc_modified_date": "2022-10-25T9:46:17+0000"
+  },
+  "schema_version": 1
+}

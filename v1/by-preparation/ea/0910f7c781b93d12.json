@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9911261",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911261",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781b93d12"
+    },
+    {
+      "display_package_code": "9911262",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911262",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781b93d12"
+    },
+    {
+      "display_package_code": "9911263",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911263",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781b93d12"
+    },
+    {
+      "display_package_code": "9911264",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911264",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781b93d12"
+    }
+  ],
+  "preparation": {
+    "holder_id": "24",
+    "holder_name": "CP-Pharma Handelsgesellschaft, mbH",
+    "name": "Cepeloron",
+    "preparation_id": "0910f7c781b93d12",
+    "registration_date": "2024-09-12T13:20:39+0000",
+    "registration_number": "EU/2/24/321",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c781b93d0f",
+    "spc_modified_date": "2024-11-13T10:22:30+0000"
+  },
+  "schema_version": 1
+}

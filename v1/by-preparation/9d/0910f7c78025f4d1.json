@@ -1,0 +1,142 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902937",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902937",
+      "package_invalid_date": "2019-11-06T9:47:10+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78025f4d1"
+    },
+    {
+      "display_package_code": "9902938",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902938",
+      "package_invalid_date": "2019-11-06T9:48:56+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78025f4d1"
+    },
+    {
+      "display_package_code": "9902939",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902939",
+      "package_invalid_date": "2019-11-06T9:55:37+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78025f4d1"
+    },
+    {
+      "display_package_code": "9902940",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902940",
+      "package_invalid_date": "2019-11-06T9:57:27+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78025f4d1"
+    },
+    {
+      "display_package_code": "9902941",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902941",
+      "package_invalid_date": "2019-11-06T9:59:00+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78025f4d1"
+    },
+    {
+      "display_package_code": "9905322",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905322",
+      "package_invalid_date": "2019-11-06T10:0:50+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78025f4d1"
+    },
+    {
+      "display_package_code": "9905323",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905323",
+      "package_invalid_date": "2019-11-06T10:2:24+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78025f4d1"
+    },
+    {
+      "display_package_code": "9907894",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9907894",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78025f4d1"
+    },
+    {
+      "display_package_code": "9907895",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9907895",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78025f4d1"
+    },
+    {
+      "display_package_code": "9907896",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9907896",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78025f4d1"
+    },
+    {
+      "display_package_code": "9907897",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9907897",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78025f4d1"
+    },
+    {
+      "display_package_code": "9907898",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9907898",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78025f4d1"
+    },
+    {
+      "display_package_code": "9907899",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9907899",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78025f4d1"
+    },
+    {
+      "display_package_code": "9907900",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9907900",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78025f4d1"
+    }
+  ],
+  "preparation": {
+    "holder_id": "322",
+    "holder_name": "Ceva Sante Animale",
+    "name": "Vectra 3D",
+    "preparation_id": "0910f7c78025f4d1",
+    "registration_date": "2013-12-04T9:17:38+0000",
+    "registration_number": "EU/2/13/156",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c78025f4cf",
+    "spc_modified_date": "2024-07-23T12:11:46+0000"
+  },
+  "schema_version": 1
+}

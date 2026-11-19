@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906062",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906062",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3ccb"
+    },
+    {
+      "display_package_code": "9906063",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906063",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3ccb"
+    },
+    {
+      "display_package_code": "9934172",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934172",
+      "package_invalid_date": "2017-06-07T6:44:25+0000",
+      "package_size": "1 x 30 ml_EU/2/97/005/001",
+      "preparation_id": "0910f7c7800f3ccb"
+    },
+    {
+      "display_package_code": "9934173",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934173",
+      "package_invalid_date": "2017-06-07T6:45:30+0000",
+      "package_size": "3 x 30 ml_EU/2/97/005/005",
+      "preparation_id": "0910f7c7800f3ccb"
+    }
+  ],
+  "preparation": {
+    "holder_id": "321",
+    "holder_name": "Grovet B.V.",
+    "name": "Quadrisol",
+    "preparation_id": "0910f7c7800f3ccb",
+    "registration_date": "1997-12-04T11:58:36+0000",
+    "registration_number": "EU/2/97/005",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f3cc8",
+    "spc_modified_date": "2025-05-05T12:45:25+0000"
+  },
+  "schema_version": 1
+}

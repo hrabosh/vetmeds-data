@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9901431",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901431",
+      "package_invalid_date": null,
+      "package_size": "1 x 7 tbl.",
+      "preparation_id": "0910f7c78013105f"
+    },
+    {
+      "display_package_code": "9901432",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901432",
+      "package_invalid_date": null,
+      "package_size": "2 x 7 tbl.",
+      "preparation_id": "0910f7c78013105f"
+    },
+    {
+      "display_package_code": "9901433",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901433",
+      "package_invalid_date": null,
+      "package_size": "4 x 7 tbl.",
+      "preparation_id": "0910f7c78013105f"
+    },
+    {
+      "display_package_code": "9901434",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901434",
+      "package_invalid_date": null,
+      "package_size": "10 x 7 tbl.",
+      "preparation_id": "0910f7c78013105f"
+    }
+  ],
+  "preparation": {
+    "holder_id": "275",
+    "holder_name": "Lavet Pharmaceuticals Ltd. 2",
+    "name": "Benamax Flavour",
+    "preparation_id": "0910f7c78013105f",
+    "registration_date": "2012-06-19T10:26:07+0000",
+    "registration_number": "96/070/12-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c780131052",
+    "spc_modified_date": "2022-10-25T8:15:49+0000"
+  },
+  "schema_version": 1
+}

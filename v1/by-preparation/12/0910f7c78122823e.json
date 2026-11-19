@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906365",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906365",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78122823e"
+    }
+  ],
+  "preparation": {
+    "holder_id": "50",
+    "holder_name": "Laboratorios Karizoo, S.A.",
+    "name": "Sevotek",
+    "preparation_id": "0910f7c78122823e",
+    "registration_date": "2018-03-16T12:32:19+0000",
+    "registration_number": "96/010/18-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78122823d",
+    "spc_modified_date": "2026-05-06T11:32:36+0000"
+  },
+  "schema_version": 1
+}

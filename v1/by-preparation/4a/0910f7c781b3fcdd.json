@@ -1,0 +1,79 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9910610",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910610",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781b3fcdd"
+    },
+    {
+      "display_package_code": "9910611",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910611",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781b3fcdd"
+    },
+    {
+      "display_package_code": "9910612",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910612",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781b3fcdd"
+    },
+    {
+      "display_package_code": "9910613",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910613",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781b3fcdd"
+    },
+    {
+      "display_package_code": "9910614",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910614",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781b3fcdd"
+    },
+    {
+      "display_package_code": "9910615",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910615",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781b3fcdd"
+    },
+    {
+      "display_package_code": "9910616",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910616",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781b3fcdd"
+    }
+  ],
+  "preparation": {
+    "holder_id": "27",
+    "holder_name": "Dopharma Research, B.V.",
+    "name": "Amoxy Active",
+    "preparation_id": "0910f7c781b3fcdd",
+    "registration_date": "2024-01-11T12:1:52+0000",
+    "registration_number": "96/002/24-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c781b3fcdc",
+    "spc_modified_date": "2025-01-13T10:1:54+0000"
+  },
+  "schema_version": 1
+}

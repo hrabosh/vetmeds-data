@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906634",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906634",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780093cea"
+    },
+    {
+      "display_package_code": "9937132",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937132",
+      "package_invalid_date": null,
+      "package_size": "1 x 20 g",
+      "preparation_id": "0910f7c780093cea"
+    },
+    {
+      "display_package_code": "9937133",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937133",
+      "package_invalid_date": null,
+      "package_size": "1 x 1 kg",
+      "preparation_id": "0910f7c780093cea"
+    },
+    {
+      "display_package_code": "9937134",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937134",
+      "package_invalid_date": "2018-08-29T6:33:49+0000",
+      "package_size": "1 x 5 kg",
+      "preparation_id": "0910f7c780093cea"
+    }
+  ],
+  "preparation": {
+    "holder_id": "68",
+    "holder_name": "Pharmagal s.r.o.",
+    "name": "HELMIGAL",
+    "preparation_id": "0910f7c780093cea",
+    "registration_date": "2000-04-06T12:22:13+0000",
+    "registration_number": "96/026/00-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c780093ce6",
+    "spc_modified_date": "2025-03-31T12:22:58+0000"
+  },
+  "schema_version": 1
+}

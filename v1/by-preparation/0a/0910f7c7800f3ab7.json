@@ -1,0 +1,106 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9903230",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903230",
+      "package_invalid_date": "2019-07-03T11:27:31+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3ab7"
+    },
+    {
+      "display_package_code": "9906126",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906126",
+      "package_invalid_date": "2019-07-03T11:29:47+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3ab7"
+    },
+    {
+      "display_package_code": "9907581",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907581",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3ab7"
+    },
+    {
+      "display_package_code": "9907582",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907582",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3ab7"
+    },
+    {
+      "display_package_code": "9907583",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907583",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3ab7"
+    },
+    {
+      "display_package_code": "9907584",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907584",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3ab7"
+    },
+    {
+      "display_package_code": "9907585",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907585",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3ab7"
+    },
+    {
+      "display_package_code": "9934506",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934506",
+      "package_invalid_date": "2019-07-03T11:19:13+0000",
+      "package_size": "1 x 10 ml_EU/2/08/090/003",
+      "preparation_id": "0910f7c7800f3ab7"
+    },
+    {
+      "display_package_code": "9934507",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934507",
+      "package_invalid_date": "2019-07-03T11:21:12+0000",
+      "package_size": "1 x 32 ml_EU/2/08/090/004",
+      "preparation_id": "0910f7c7800f3ab7"
+    },
+    {
+      "display_package_code": "9934508",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934508",
+      "package_invalid_date": "2019-07-03T11:23:15+0000",
+      "package_size": "1 x 100 ml_EU/2/08/090/005",
+      "preparation_id": "0910f7c7800f3ab7"
+    }
+  ],
+  "preparation": {
+    "holder_id": "61",
+    "holder_name": "Norbrook Laboratories (Ireland) Limited",
+    "name": "Loxicom",
+    "preparation_id": "0910f7c7800f3ab7",
+    "registration_date": "2009-02-10T12:6:00+0000",
+    "registration_number": "EU/2/08/090",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f3ab1",
+    "spc_modified_date": "2022-02-15T9:24:31+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9908256",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908256",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815668c7"
+    },
+    {
+      "display_package_code": "9908257",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908257",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815668c7"
+    },
+    {
+      "display_package_code": "9908258",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908258",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815668c7"
+    }
+  ],
+  "preparation": {
+    "holder_id": "293",
+    "holder_name": "Ecuphar Veterinaria S.L.U. 2",
+    "name": "Hemosilate",
+    "preparation_id": "0910f7c7815668c7",
+    "registration_date": "2020-02-26T7:49:10+0000",
+    "registration_number": "96/018/20-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7815668c6",
+    "spc_modified_date": "2025-09-08T6:49:24+0000"
+  },
+  "schema_version": 1
+}

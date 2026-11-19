@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9934055",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934055",
+      "package_invalid_date": null,
+      "package_size": "1 x 500 ml_EU/2/03/041/005",
+      "preparation_id": "0910f7c7820b983d"
+    }
+  ],
+  "preparation": {
+    "holder_id": "100",
+    "holder_name": "Zoetis Belgium",
+    "name": "Draxxin_",
+    "preparation_id": "0910f7c7820b983d",
+    "registration_date": "2003-11-11T9:46:42+0000",
+    "registration_number": "EU/2/03/041",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f32f4",
+    "spc_modified_date": "2024-04-26T10:43:02+0000"
+  },
+  "schema_version": 1
+}

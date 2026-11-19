@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9903712",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903712",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801b7df4"
+    },
+    {
+      "display_package_code": "9903713",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903713",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801b7df4"
+    },
+    {
+      "display_package_code": "9903714",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903714",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801b7df4"
+    },
+    {
+      "display_package_code": "9903715",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903715",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801b7df4"
+    }
+  ],
+  "preparation": {
+    "holder_id": "178",
+    "holder_name": "Emdoka",
+    "name": "Ceffect LC",
+    "preparation_id": "0910f7c7801b7df4",
+    "registration_date": "2014-09-23T5:14:22+0000",
+    "registration_number": "96/071/14-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7801b7def",
+    "spc_modified_date": "2022-10-25T8:39:15+0000"
+  },
+  "schema_version": 1
+}

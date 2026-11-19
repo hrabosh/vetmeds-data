@@ -1,0 +1,34 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9701072",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9701072",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781fcbd88"
+    },
+    {
+      "display_package_code": "9701073",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9701073",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781fcbd88"
+    }
+  ],
+  "preparation": {
+    "holder_id": "290",
+    "holder_name": "Alfasan Nederland B.V.",
+    "name": "Fumexx",
+    "preparation_id": "0910f7c781fcbd88",
+    "registration_date": "2026-10-22T8:13:10+0000",
+    "registration_number": "96/050/26-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781fcbd87",
+    "spc_modified_date": "2026-11-02T9:14:06+0000"
+  },
+  "schema_version": 1
+}

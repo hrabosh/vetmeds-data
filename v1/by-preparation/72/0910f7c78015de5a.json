@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902826",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902826",
+      "package_invalid_date": "2018-02-20T12:18:28+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78015de5a"
+    },
+    {
+      "display_package_code": "9902827",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902827",
+      "package_invalid_date": "2018-02-20T12:19:29+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78015de5a"
+    },
+    {
+      "display_package_code": "9906334",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906334",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78015de5a"
+    },
+    {
+      "display_package_code": "9906336",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906336",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78015de5a"
+    }
+  ],
+  "preparation": {
+    "holder_id": "189",
+    "holder_name": "SUPER´S DIANA, S.L.",
+    "name": "Diacef",
+    "preparation_id": "0910f7c78015de5a",
+    "registration_date": "2013-11-14T13:35:21+0000",
+    "registration_number": "96/047/13-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78015de55",
+    "spc_modified_date": "2026-03-25T13:35:41+0000"
+  },
+  "schema_version": 1
+}

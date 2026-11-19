@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9907631",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907631",
+      "package_invalid_date": "2019-12-19T6:16:39+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78149a61b"
+    },
+    {
+      "display_package_code": "9907632",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907632",
+      "package_invalid_date": "2019-12-19T6:17:11+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78149a61b"
+    },
+    {
+      "display_package_code": "9907984",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907984",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78149a61b"
+    },
+    {
+      "display_package_code": "9907985",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907985",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78149a61b"
+    }
+  ],
+  "preparation": {
+    "holder_id": "34",
+    "holder_name": "Fatro, S.p.A.",
+    "name": "Semelcef",
+    "preparation_id": "0910f7c78149a61b",
+    "registration_date": "2019-07-17T9:7:16+0000",
+    "registration_number": "96/059/19-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78149a619",
+    "spc_modified_date": "2026-05-18T9:7:35+0000"
+  },
+  "schema_version": 1
+}

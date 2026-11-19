@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9911296",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911296",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c2cd01"
+    }
+  ],
+  "preparation": {
+    "holder_id": "305",
+    "holder_name": "Alfamed",
+    "name": "Milbemycin oxime Praziquantel Alfamed I",
+    "preparation_id": "0910f7c781c2cd01",
+    "registration_date": "2024-12-13T7:47:17+0000",
+    "registration_number": "96/067/24-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c781c2ccee",
+    "spc_modified_date": "2024-12-20T11:33:16+0000"
+  },
+  "schema_version": 1
+}

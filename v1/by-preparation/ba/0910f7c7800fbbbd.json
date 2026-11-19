@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902574",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902574",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800fbbbd"
+    },
+    {
+      "display_package_code": "9902575",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902575",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800fbbbd"
+    },
+    {
+      "display_package_code": "9902576",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902576",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800fbbbd"
+    },
+    {
+      "display_package_code": "9934833",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934833",
+      "package_invalid_date": "2013-06-03T8:55:01+0000",
+      "package_size": "5 x 1 dávka",
+      "preparation_id": "0910f7c7800fbbbd"
+    },
+    {
+      "display_package_code": "9934834",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934834",
+      "package_invalid_date": "2013-06-03T8:55:19+0000",
+      "package_size": "10 x 1 dávka",
+      "preparation_id": "0910f7c7800fbbbd"
+    },
+    {
+      "display_package_code": "9934835",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934835",
+      "package_invalid_date": "2013-06-03T8:55:36+0000",
+      "package_size": "25 x 1 dávka",
+      "preparation_id": "0910f7c7800fbbbd"
+    }
+  ],
+  "preparation": {
+    "holder_id": "226",
+    "holder_name": "Zoetis Česká republika s.r.o.",
+    "name": "Versifel CVR",
+    "preparation_id": "0910f7c7800fbbbd",
+    "registration_date": "2010-11-19T12:39:28+0000",
+    "registration_number": "97/057/10-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800fbbba",
+    "spc_modified_date": "2023-10-03T11:10:25+0000"
+  },
+  "schema_version": 1
+}

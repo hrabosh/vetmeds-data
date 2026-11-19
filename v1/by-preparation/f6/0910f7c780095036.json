@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9999420",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9999420",
+      "package_invalid_date": null,
+      "package_size": "100 ml",
+      "preparation_id": "0910f7c780095036"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "IMULYZIN",
+    "preparation_id": "0910f7c780095036",
+    "registration_date": "1992-01-14T7:20:01+0000",
+    "registration_number": "97/338/92-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780095032",
+    "spc_modified_date": "2026-01-16T7:20:16+0000"
+  },
+  "schema_version": 1
+}

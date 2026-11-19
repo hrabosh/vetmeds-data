@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906026",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906026",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7812ccda5"
+    },
+    {
+      "display_package_code": "9906027",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906027",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7812ccda5"
+    },
+    {
+      "display_package_code": "9907874",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907874",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7812ccda5"
+    }
+  ],
+  "preparation": {
+    "holder_id": "100",
+    "holder_name": "Zoetis Belgium",
+    "name": "Cytopoint",
+    "preparation_id": "0910f7c7812ccda5",
+    "registration_date": "2017-04-25T7:38:59+0000",
+    "registration_number": "EU/2/17/205",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7806dca71",
+    "spc_modified_date": "2021-07-19T8:19:34+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909200",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909200",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7816ed707"
+    }
+  ],
+  "preparation": {
+    "holder_id": "319",
+    "holder_name": "Cenavisa S.L. (2)",
+    "name": "Kadir",
+    "preparation_id": "0910f7c7816ed707",
+    "registration_date": "2021-03-30T10:50:54+0000",
+    "registration_number": "96/018/21-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7816ed657",
+    "spc_modified_date": "2026-04-20T10:53:33+0000"
+  },
+  "schema_version": 1
+}

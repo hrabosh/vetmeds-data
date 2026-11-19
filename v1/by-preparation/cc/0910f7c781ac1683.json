@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700087",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700087",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ac1683"
+    },
+    {
+      "display_package_code": "9700088",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700088",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ac1683"
+    },
+    {
+      "display_package_code": "9700089",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700089",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ac1683"
+    },
+    {
+      "display_package_code": "9910862",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910862",
+      "package_invalid_date": "2025-04-30T6:20:31+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c781ac1683"
+    },
+    {
+      "display_package_code": "9910863",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910863",
+      "package_invalid_date": "2025-04-30T6:20:42+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c781ac1683"
+    },
+    {
+      "display_package_code": "9910864",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910864",
+      "package_invalid_date": "2025-04-30T6:20:55+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c781ac1683"
+    }
+  ],
+  "preparation": {
+    "holder_id": "24",
+    "holder_name": "CP-Pharma Handelsgesellschaft, mbH",
+    "name": "Levoroxin",
+    "preparation_id": "0910f7c781ac1683",
+    "registration_date": "2024-04-23T8:53:45+0000",
+    "registration_number": "96/014/24-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c781ac160f",
+    "spc_modified_date": "2025-05-12T9:17:56+0000"
+  },
+  "schema_version": 1
+}

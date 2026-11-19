@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9910250",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910250",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7819bf293"
+    },
+    {
+      "display_package_code": "9910251",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910251",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7819bf293"
+    },
+    {
+      "display_package_code": "9910252",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910252",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7819bf293"
+    },
+    {
+      "display_package_code": "9910253",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910253",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7819bf293"
+    },
+    {
+      "display_package_code": "9910254",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910254",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7819bf293"
+    }
+  ],
+  "preparation": {
+    "holder_id": "290",
+    "holder_name": "Alfasan Nederland B.V.",
+    "name": "Clavusan",
+    "preparation_id": "0910f7c7819bf293",
+    "registration_date": "2023-04-25T11:56:18+0000",
+    "registration_number": "96/015/23-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7819bf290",
+    "spc_modified_date": "2024-09-13T10:6:56+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700925",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700925",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781eec37e"
+    }
+  ],
+  "preparation": {
+    "holder_id": "263",
+    "holder_name": "Kela N.V.",
+    "name": "Glucokel",
+    "preparation_id": "0910f7c781eec37e",
+    "registration_date": "2026-05-11T15:5:03+0000",
+    "registration_number": "96/033/26-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781eec37d",
+    "spc_modified_date": "2026-05-18T8:18:07+0000"
+  },
+  "schema_version": 1
+}

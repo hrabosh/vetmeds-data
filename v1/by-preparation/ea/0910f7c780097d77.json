@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9907060",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907060",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780097d77"
+    },
+    {
+      "display_package_code": "9907061",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907061",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780097d77"
+    },
+    {
+      "display_package_code": "9907062",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907062",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780097d77"
+    },
+    {
+      "display_package_code": "9936626",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936626",
+      "package_invalid_date": "2019-01-10T10:8:48+0000",
+      "package_size": "250 ml",
+      "preparation_id": "0910f7c780097d77"
+    },
+    {
+      "display_package_code": "9937515",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937515",
+      "package_invalid_date": "2019-01-10T10:7:25+0000",
+      "package_size": "50 ml",
+      "preparation_id": "0910f7c780097d77"
+    },
+    {
+      "display_package_code": "9971762",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9971762",
+      "package_invalid_date": "2019-01-10T10:8:04+0000",
+      "package_size": "100 ml",
+      "preparation_id": "0910f7c780097d77"
+    }
+  ],
+  "preparation": {
+    "holder_id": "61",
+    "holder_name": "Norbrook Laboratories (Ireland) Limited",
+    "name": "NOROCILLIN",
+    "preparation_id": "0910f7c780097d77",
+    "registration_date": "1994-04-13T12:4:23+0000",
+    "registration_number": "96/513/94-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780097d74",
+    "spc_modified_date": "2026-10-13T12:4:41+0000"
+  },
+  "schema_version": 1
+}

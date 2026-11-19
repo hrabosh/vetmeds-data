@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905018",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905018",
+      "package_invalid_date": "2018-09-13T6:48:49+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78009bda4"
+    },
+    {
+      "display_package_code": "9905019",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905019",
+      "package_invalid_date": "2018-09-13T6:49:34+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78009bda4"
+    },
+    {
+      "display_package_code": "9906693",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906693",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009bda4"
+    },
+    {
+      "display_package_code": "9906694",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906694",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009bda4"
+    },
+    {
+      "display_package_code": "9934642",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934642",
+      "package_invalid_date": "2016-04-27T8:26:53+0000",
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c78009bda4"
+    },
+    {
+      "display_package_code": "9934643",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934643",
+      "package_invalid_date": "2016-04-27T8:27:06+0000",
+      "package_size": "10 x 100 ml",
+      "preparation_id": "0910f7c78009bda4"
+    }
+  ],
+  "preparation": {
+    "holder_id": "248",
+    "holder_name": "Elanco GmbH",
+    "name": "Denagard",
+    "preparation_id": "0910f7c78009bda4",
+    "registration_date": "1984-03-13T6:6:04+0000",
+    "registration_number": "99/119/84–C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78009bda1",
+    "spc_modified_date": "2025-09-29T5:6:25+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9935009",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935009",
+      "package_invalid_date": null,
+      "package_size": "1 x 5 kg",
+      "preparation_id": "0910f7c78009d348"
+    },
+    {
+      "display_package_code": "9935424",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935424",
+      "package_invalid_date": null,
+      "package_size": "1 x 25 kg",
+      "preparation_id": "0910f7c78009d348"
+    },
+    {
+      "display_package_code": "9936803",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936803",
+      "package_invalid_date": "2011-11-07T11:29:43+0000",
+      "package_size": "1 x 100 g",
+      "preparation_id": "0910f7c78009d348"
+    },
+    {
+      "display_package_code": "9936804",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936804",
+      "package_invalid_date": null,
+      "package_size": "1 x 1 kg",
+      "preparation_id": "0910f7c78009d348"
+    },
+    {
+      "display_package_code": "9936805",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936805",
+      "package_invalid_date": null,
+      "package_size": "1 x 5 kg",
+      "preparation_id": "0910f7c78009d348"
+    },
+    {
+      "display_package_code": "9936806",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936806",
+      "package_invalid_date": null,
+      "package_size": "1 x 10 kg",
+      "preparation_id": "0910f7c78009d348"
+    }
+  ],
+  "preparation": {
+    "holder_id": "112",
+    "holder_name": "VIRBAC",
+    "name": "SURAMOX",
+    "preparation_id": "0910f7c78009d348",
+    "registration_date": "1996-10-24T4:50:54+0000",
+    "registration_number": "98/630/96-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78009d345",
+    "spc_modified_date": "2021-08-30T12:2:29+0000"
+  },
+  "schema_version": 1
+}

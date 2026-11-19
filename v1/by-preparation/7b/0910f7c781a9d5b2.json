@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9910985",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910985",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a9d5b2"
+    }
+  ],
+  "preparation": {
+    "holder_id": "297",
+    "holder_name": "Nextmune Italy S.r.I.",
+    "name": "Alcort",
+    "preparation_id": "0910f7c781a9d5b2",
+    "registration_date": "2024-04-08T11:42:08+0000",
+    "registration_number": "EU/2/24/306",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c781a9d5b1",
+    "spc_modified_date": "2024-04-26T10:19:25+0000"
+  },
+  "schema_version": 1
+}

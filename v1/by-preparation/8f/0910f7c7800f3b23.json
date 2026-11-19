@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9901554",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901554",
+      "package_invalid_date": null,
+      "package_size": "1 x 30 ml_EU/2/97/004/049 (kočky)",
+      "preparation_id": "0910f7c7800f3b23"
+    },
+    {
+      "display_package_code": "9934369",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934369",
+      "package_invalid_date": null,
+      "package_size": "1 x 15 ml_EU/2/97/004/026 (kočky)",
+      "preparation_id": "0910f7c7800f3b23"
+    },
+    {
+      "display_package_code": "9934574",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934574",
+      "package_invalid_date": null,
+      "package_size": "1 x 10 ml_EU/2/97/004/033 (kočky)",
+      "preparation_id": "0910f7c7800f3b23"
+    },
+    {
+      "display_package_code": "9934575",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934575",
+      "package_invalid_date": null,
+      "package_size": "1 x 3 ml_EU/2/97/004/034 (kočky)",
+      "preparation_id": "0910f7c7800f3b23"
+    }
+  ],
+  "preparation": {
+    "holder_id": "16",
+    "holder_name": "Boehringer Ingelheim Vetmedica, GmbH",
+    "name": "Metacam",
+    "preparation_id": "0910f7c7800f3b23",
+    "registration_date": "2005-08-01T9:57:29+0000",
+    "registration_number": "EU/2/97/004",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f3b06",
+    "spc_modified_date": "2024-12-02T10:15:31+0000"
+  },
+  "schema_version": 1
+}

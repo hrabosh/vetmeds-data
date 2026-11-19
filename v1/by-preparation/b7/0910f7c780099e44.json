@@ -1,0 +1,106 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906099",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906099",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780099e44"
+    },
+    {
+      "display_package_code": "9906100",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906100",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780099e44"
+    },
+    {
+      "display_package_code": "9906101",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906101",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780099e44"
+    },
+    {
+      "display_package_code": "9906102",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906102",
+      "package_invalid_date": "2020-04-21T7:6:15+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780099e44"
+    },
+    {
+      "display_package_code": "9908411",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908411",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780099e44"
+    },
+    {
+      "display_package_code": "9908412",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908412",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780099e44"
+    },
+    {
+      "display_package_code": "9939802",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939802",
+      "package_invalid_date": "2017-08-01T6:7:35+0000",
+      "package_size": "1 x 5 dávek (10 ml)",
+      "preparation_id": "0910f7c780099e44"
+    },
+    {
+      "display_package_code": "9939803",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939803",
+      "package_invalid_date": "2017-08-01T6:8:54+0000",
+      "package_size": "10 x 5 dávek (10 x 10 ml)",
+      "preparation_id": "0910f7c780099e44"
+    },
+    {
+      "display_package_code": "9939804",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939804",
+      "package_invalid_date": "2017-08-01T6:9:53+0000",
+      "package_size": "1 x 25 dávek (50 ml)",
+      "preparation_id": "0910f7c780099e44"
+    },
+    {
+      "display_package_code": "9939805",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939805",
+      "package_invalid_date": "2017-08-01T6:10:41+0000",
+      "package_size": "10 x 25 dávek (10 x 50 ml)",
+      "preparation_id": "0910f7c780099e44"
+    }
+  ],
+  "preparation": {
+    "holder_id": "322",
+    "holder_name": "Ceva Sante Animale",
+    "name": "Progressis",
+    "preparation_id": "0910f7c780099e44",
+    "registration_date": "2003-03-03T7:57:06+0000",
+    "registration_number": "97/015/03-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780099e41",
+    "spc_modified_date": "2024-07-04T8:4:39+0000"
+  },
+  "schema_version": 1
+}

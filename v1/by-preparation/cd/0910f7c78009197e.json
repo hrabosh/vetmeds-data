@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902260",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902260",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009197e"
+    },
+    {
+      "display_package_code": "9902261",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902261",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009197e"
+    },
+    {
+      "display_package_code": "9902262",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902262",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009197e"
+    },
+    {
+      "display_package_code": "9936594",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936594",
+      "package_invalid_date": "2013-06-03T10:26:06+0000",
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c78009197e"
+    },
+    {
+      "display_package_code": "9996953",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9996953",
+      "package_invalid_date": "2013-06-03T10:25:51+0000",
+      "package_size": "6 x 100 ml",
+      "preparation_id": "0910f7c78009197e"
+    },
+    {
+      "display_package_code": "9996954",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9996954",
+      "package_invalid_date": "2013-06-03T10:25:38+0000",
+      "package_size": "1 x 250 ml",
+      "preparation_id": "0910f7c78009197e"
+    }
+  ],
+  "preparation": {
+    "holder_id": "226",
+    "holder_name": "Zoetis Česká republika s.r.o.",
+    "name": "CLAMOXYL L.A.",
+    "preparation_id": "0910f7c78009197e",
+    "registration_date": "1991-07-25T12:6:31+0000",
+    "registration_number": "96/253/91-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78009197b",
+    "spc_modified_date": "2025-09-23T12:6:50+0000"
+  },
+  "schema_version": 1
+}

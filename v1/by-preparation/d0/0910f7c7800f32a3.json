@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905260",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905260",
+      "package_invalid_date": "2019-01-31T12:38:07+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7800f32a3"
+    },
+    {
+      "display_package_code": "9907887",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907887",
+      "package_invalid_date": "2021-07-23T8:49:03+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7800f32a3"
+    },
+    {
+      "display_package_code": "9909381",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909381",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f32a3"
+    },
+    {
+      "display_package_code": "9934045",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934045",
+      "package_invalid_date": "2016-08-10T6:7:40+0000",
+      "package_size": "1 x 30 tbl._EU/2/98/007/001",
+      "preparation_id": "0910f7c7800f32a3"
+    }
+  ],
+  "preparation": {
+    "holder_id": "112",
+    "holder_name": "VIRBAC",
+    "name": "Clomicalm",
+    "preparation_id": "0910f7c7800f32a3",
+    "registration_date": "1998-04-01T8:11:59+0000",
+    "registration_number": "EU/2/98/007",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f32a0",
+    "spc_modified_date": "2024-09-25T7:55:11+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9904631",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904631",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78039e01a"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "LINEOMAM LC",
+    "preparation_id": "0910f7c78039e01a",
+    "registration_date": "2015-12-22T7:57:38+0000",
+    "registration_number": "96/098/15-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78039e019",
+    "spc_modified_date": "2023-04-19T5:59:46+0000"
+  },
+  "schema_version": 1
+}

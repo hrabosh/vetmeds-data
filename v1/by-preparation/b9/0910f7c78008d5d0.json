@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905467",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9905467",
+      "package_invalid_date": "2020-05-04T10:22:47+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78008d5d0"
+    },
+    {
+      "display_package_code": "9908515",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9908515",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008d5d0"
+    },
+    {
+      "display_package_code": "9908516",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9908516",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008d5d0"
+    },
+    {
+      "display_package_code": "9908517",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9908517",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008d5d0"
+    },
+    {
+      "display_package_code": "9935365",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9935365",
+      "package_invalid_date": "2020-05-04T10:20:35+0000",
+      "package_size": "2 x 0,8 ml",
+      "preparation_id": "0910f7c78008d5d0"
+    },
+    {
+      "display_package_code": "9936999",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9936999",
+      "package_invalid_date": "2020-05-04T10:21:58+0000",
+      "package_size": "4 x 0,8 ml",
+      "preparation_id": "0910f7c78008d5d0"
+    }
+  ],
+  "preparation": {
+    "holder_id": "306",
+    "holder_name": "Elanco Animal Health GmbH",
+    "name": "Advantage pro velké kočky a králíky",
+    "preparation_id": "0910f7c78008d5d0",
+    "registration_date": "1997-12-08T13:48:10+0000",
+    "registration_number": "96/1205/97-C/08",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78008d5cb",
+    "spc_modified_date": "2024-01-02T8:30:12+0000"
+  },
+  "schema_version": 1
+}

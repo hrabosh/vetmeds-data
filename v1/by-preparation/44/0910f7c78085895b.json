@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9908000",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908000",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78085895b"
+    }
+  ],
+  "preparation": {
+    "holder_id": "272",
+    "holder_name": "EquiCord S.L.",
+    "name": "HorStem",
+    "preparation_id": "0910f7c78085895b",
+    "registration_date": "2019-06-19T12:33:06+0000",
+    "registration_number": "EU/2/18/226",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c780858959",
+    "spc_modified_date": "2026-07-31T7:55:38+0000"
+  },
+  "schema_version": 1
+}

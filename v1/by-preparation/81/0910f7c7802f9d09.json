@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905034",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905034",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802f9d09"
+    },
+    {
+      "display_package_code": "9905035",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905035",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802f9d09"
+    },
+    {
+      "display_package_code": "9905036",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905036",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802f9d09"
+    }
+  ],
+  "preparation": {
+    "holder_id": "117",
+    "holder_name": "Huvepharma NV",
+    "name": "Pigfen",
+    "preparation_id": "0910f7c7802f9d09",
+    "registration_date": "2016-05-25T5:19:54+0000",
+    "registration_number": "96/036/16-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7802f9d07",
+    "spc_modified_date": "2024-05-28T11:25:20+0000"
+  },
+  "schema_version": 1
+}

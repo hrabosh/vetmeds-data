@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9907185",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907185",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009167b"
+    },
+    {
+      "display_package_code": "9939770",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939770",
+      "package_invalid_date": null,
+      "package_size": "20 x 1000 dávek",
+      "preparation_id": "0910f7c78009167b"
+    },
+    {
+      "display_package_code": "9939771",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939771",
+      "package_invalid_date": null,
+      "package_size": "20 x 2500 dávek",
+      "preparation_id": "0910f7c78009167b"
+    }
+  ],
+  "preparation": {
+    "holder_id": "276",
+    "holder_name": "Ceva Animal Health Slovakia s.r.o.",
+    "name": "CEVAC NEW L",
+    "preparation_id": "0910f7c78009167b",
+    "registration_date": "2003-10-06T7:40:11+0000",
+    "registration_number": "97/076/03-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c780091677",
+    "spc_modified_date": "2024-05-03T9:51:14+0000"
+  },
+  "schema_version": 1
+}

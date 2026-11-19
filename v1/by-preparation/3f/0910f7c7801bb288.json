@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9904542",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904542",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801bb288"
+    },
+    {
+      "display_package_code": "9904543",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904543",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801bb288"
+    },
+    {
+      "display_package_code": "9904544",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904544",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801bb288"
+    },
+    {
+      "display_package_code": "9904545",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904545",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801bb288"
+    },
+    {
+      "display_package_code": "9904546",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904546",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801bb288"
+    },
+    {
+      "display_package_code": "9904547",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904547",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801bb288"
+    }
+  ],
+  "preparation": {
+    "holder_id": "112",
+    "holder_name": "VIRBAC",
+    "name": "Curacef Duo",
+    "preparation_id": "0910f7c7801bb288",
+    "registration_date": "2015-09-25T13:55:20+0000",
+    "registration_number": "96/086/15-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7801bb282",
+    "spc_modified_date": "2024-04-26T7:12:13+0000"
+  },
+  "schema_version": 1
+}

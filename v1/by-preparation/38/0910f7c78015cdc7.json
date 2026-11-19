@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9904014",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904014",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78015cdc7"
+    },
+    {
+      "display_package_code": "9904015",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904015",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78015cdc7"
+    },
+    {
+      "display_package_code": "9904016",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904016",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78015cdc7"
+    },
+    {
+      "display_package_code": "9904017",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904017",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78015cdc7"
+    },
+    {
+      "display_package_code": "9904018",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904018",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78015cdc7"
+    }
+  ],
+  "preparation": {
+    "holder_id": "112",
+    "holder_name": "VIRBAC",
+    "name": "Deltanil Pour-on 1 % w/v",
+    "preparation_id": "0910f7c78015cdc7",
+    "registration_date": "2015-01-12T9:26:35+0000",
+    "registration_number": "96/005/15-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78015cdc2",
+    "spc_modified_date": "2025-09-19T8:26:54+0000"
+  },
+  "schema_version": 1
+}

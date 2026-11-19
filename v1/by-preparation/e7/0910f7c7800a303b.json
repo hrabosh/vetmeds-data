@@ -1,0 +1,115 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902542",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902542",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800a303b"
+    },
+    {
+      "display_package_code": "9902543",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902543",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800a303b"
+    },
+    {
+      "display_package_code": "9902544",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902544",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800a303b"
+    },
+    {
+      "display_package_code": "9902545",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902545",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800a303b"
+    },
+    {
+      "display_package_code": "9902546",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902546",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800a303b"
+    },
+    {
+      "display_package_code": "9936573",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936573",
+      "package_invalid_date": "2013-06-03T7:28:07+0000",
+      "package_size": "1 x 40 ml",
+      "preparation_id": "0910f7c7800a303b"
+    },
+    {
+      "display_package_code": "9936574",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936574",
+      "package_invalid_date": "2013-06-03T7:28:44+0000",
+      "package_size": "6 x 40 ml",
+      "preparation_id": "0910f7c7800a303b"
+    },
+    {
+      "display_package_code": "9936575",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936575",
+      "package_invalid_date": "2013-06-03T7:28:27+0000",
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c7800a303b"
+    },
+    {
+      "display_package_code": "9938592",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938592",
+      "package_invalid_date": "2013-06-03T7:29:05+0000",
+      "package_size": "12 x 40 ml",
+      "preparation_id": "0910f7c7800a303b"
+    },
+    {
+      "display_package_code": "9968732",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9968732",
+      "package_invalid_date": "2013-06-03T7:29:23+0000",
+      "package_size": "6 x 100 ml",
+      "preparation_id": "0910f7c7800a303b"
+    },
+    {
+      "display_package_code": "9968733",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9968733",
+      "package_invalid_date": "2011-12-06T8:29:46+0000",
+      "package_size": "zrušené balení 250 ml",
+      "preparation_id": "0910f7c7800a303b"
+    }
+  ],
+  "preparation": {
+    "holder_id": "226",
+    "holder_name": "Zoetis Česká republika s.r.o.",
+    "name": "SYNULOX RTU",
+    "preparation_id": "0910f7c7800a303b",
+    "registration_date": "1994-01-17T6:37:33+0000",
+    "registration_number": "96/036/94-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7800a3038",
+    "spc_modified_date": "2023-11-29T9:59:27+0000"
+  },
+  "schema_version": 1
+}

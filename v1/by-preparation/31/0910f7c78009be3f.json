@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902007",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902007",
+      "package_invalid_date": "2019-07-15T10:34:51+0000",
+      "package_size": "1 x 100 ml (převod registrace)",
+      "preparation_id": "0910f7c78009be3f"
+    },
+    {
+      "display_package_code": "9907618",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907618",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009be3f"
+    },
+    {
+      "display_package_code": "9998543",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9998543",
+      "package_invalid_date": "2012-11-09T11:0:14+0000",
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c78009be3f"
+    }
+  ],
+  "preparation": {
+    "holder_id": "248",
+    "holder_name": "Elanco GmbH",
+    "name": "Stresnil",
+    "preparation_id": "0910f7c78009be3f",
+    "registration_date": "1991-12-18T6:54:40+0000",
+    "registration_number": "70/073/71-S/C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78009be3c",
+    "spc_modified_date": "2024-11-14T10:15:19+0000"
+  },
+  "schema_version": 1
+}

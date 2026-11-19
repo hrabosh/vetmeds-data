@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909131",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9909131",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800936c6"
+    },
+    {
+      "display_package_code": "9909132",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9909132",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800936c6"
+    },
+    {
+      "display_package_code": "9937007",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9937007",
+      "package_invalid_date": "2021-01-26T11:7:22+0000",
+      "package_size": "1 x 1 pipeta  obsahu 0,5 ml",
+      "preparation_id": "0910f7c7800936c6"
+    },
+    {
+      "display_package_code": "9937500",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9937500",
+      "package_invalid_date": "2021-01-26T11:10:12+0000",
+      "package_size": "1 x 3 pipety  obsahu 0,5 ml",
+      "preparation_id": "0910f7c7800936c6"
+    }
+  ],
+  "preparation": {
+    "holder_id": "280",
+    "holder_name": "Boehringer Ingelheim Animal Health France SCS",
+    "name": "FRONTLINE SPOT ON pro kočky",
+    "preparation_id": "0910f7c7800936c6",
+    "registration_date": "1997-03-04T12:51:56+0000",
+    "registration_number": "96/186/97-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800936c2",
+    "spc_modified_date": "2025-09-09T17:27:44+0000"
+  },
+  "schema_version": 1
+}

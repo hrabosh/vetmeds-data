@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906201",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906201",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78042dda6"
+    },
+    {
+      "display_package_code": "9906202",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906202",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78042dda6"
+    },
+    {
+      "display_package_code": "9906203",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906203",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78042dda6"
+    },
+    {
+      "display_package_code": "9906204",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906204",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78042dda6"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "BioBos BTV 1,8",
+    "preparation_id": "0910f7c78042dda6",
+    "registration_date": "2017-09-26T6:14:48+0000",
+    "registration_number": "97/042/17-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78042dda5",
+    "spc_modified_date": "2026-07-28T9:1:22+0000"
+  },
+  "schema_version": 1
+}

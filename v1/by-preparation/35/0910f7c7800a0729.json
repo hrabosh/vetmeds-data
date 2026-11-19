@@ -1,0 +1,142 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902579",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902579",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800a0729"
+    },
+    {
+      "display_package_code": "9902580",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902580",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800a0729"
+    },
+    {
+      "display_package_code": "9902581",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902581",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800a0729"
+    },
+    {
+      "display_package_code": "9902582",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902582",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800a0729"
+    },
+    {
+      "display_package_code": "9902583",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902583",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800a0729"
+    },
+    {
+      "display_package_code": "9902584",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902584",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800a0729"
+    },
+    {
+      "display_package_code": "9902585",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902585",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800a0729"
+    },
+    {
+      "display_package_code": "9935774",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935774",
+      "package_invalid_date": "2013-06-03T11:0:21+0000",
+      "package_size": "5 x 1 dávka lyofilizátu a 5 x 2 ml solvens",
+      "preparation_id": "0910f7c7800a0729"
+    },
+    {
+      "display_package_code": "9935868",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935868",
+      "package_invalid_date": "2013-06-03T11:0:03+0000",
+      "package_size": "10 x 1 dávka lyofilizátu a 10 x 1 ml solvens",
+      "preparation_id": "0910f7c7800a0729"
+    },
+    {
+      "display_package_code": "9935901",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935901",
+      "package_invalid_date": "2013-06-03T11:0:38+0000",
+      "package_size": "5 x 2 dávky lyofilizátu a 5 x 2 ml solvens",
+      "preparation_id": "0910f7c7800a0729"
+    },
+    {
+      "display_package_code": "9935909",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935909",
+      "package_invalid_date": "2013-06-03T11:1:17+0000",
+      "package_size": "1 x 5 dávek lyofilizátu a 1 x 10 ml solvens",
+      "preparation_id": "0910f7c7800a0729"
+    },
+    {
+      "display_package_code": "9936202",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936202",
+      "package_invalid_date": "2013-06-03T11:1:00+0000",
+      "package_size": "1 x 10 dávek lyofilizátua 1 x 10 ml solvens",
+      "preparation_id": "0910f7c7800a0729"
+    },
+    {
+      "display_package_code": "9936293",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936293",
+      "package_invalid_date": "2013-06-03T11:1:36+0000",
+      "package_size": "1 x 10 dávek lyofilizátu a 1 x 20 ml solvens",
+      "preparation_id": "0910f7c7800a0729"
+    },
+    {
+      "display_package_code": "9936402",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936402",
+      "package_invalid_date": "2013-06-03T11:1:52+0000",
+      "package_size": "1 x 25 dávek lyofilizátu a 1 x 50 ml solvens",
+      "preparation_id": "0910f7c7800a0729"
+    }
+  ],
+  "preparation": {
+    "holder_id": "226",
+    "holder_name": "Zoetis Česká republika s.r.o.",
+    "name": "ZYLEXIS",
+    "preparation_id": "0910f7c7800a0729",
+    "registration_date": "2003-10-30T13:55:54+0000",
+    "registration_number": "97/079/03-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800a0726",
+    "spc_modified_date": "2025-08-12T4:29:09+0000"
+  },
+  "schema_version": 1
+}

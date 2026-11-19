@@ -1,0 +1,124 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9938191",
+      "issue_class_id": "4",
+      "issue_class_name": "Pouze pro použití veterinárním lékařem",
+      "package_code": "9938191",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c7800cecc4"
+    },
+    {
+      "display_package_code": "9938250",
+      "issue_class_id": "4",
+      "issue_class_name": "Pouze pro použití veterinárním lékařem",
+      "package_code": "9938250",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c7800cecc4"
+    },
+    {
+      "display_package_code": "9938251",
+      "issue_class_id": "4",
+      "issue_class_name": "Pouze pro použití veterinárním lékařem",
+      "package_code": "9938251",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 ml",
+      "preparation_id": "0910f7c7800cecc4"
+    },
+    {
+      "display_package_code": "9938254",
+      "issue_class_id": "4",
+      "issue_class_name": "Pouze pro použití veterinárním lékařem",
+      "package_code": "9938254",
+      "package_invalid_date": null,
+      "package_size": "6 x 50 ml",
+      "preparation_id": "0910f7c7800cecc4"
+    },
+    {
+      "display_package_code": "9938278",
+      "issue_class_id": "4",
+      "issue_class_name": "Pouze pro použití veterinárním lékařem",
+      "package_code": "9938278",
+      "package_invalid_date": null,
+      "package_size": "6 x 100 ml",
+      "preparation_id": "0910f7c7800cecc4"
+    },
+    {
+      "display_package_code": "9938296",
+      "issue_class_id": "4",
+      "issue_class_name": "Pouze pro použití veterinárním lékařem",
+      "package_code": "9938296",
+      "package_invalid_date": null,
+      "package_size": "6 x 250 ml",
+      "preparation_id": "0910f7c7800cecc4"
+    },
+    {
+      "display_package_code": "9938320",
+      "issue_class_id": "4",
+      "issue_class_name": "Pouze pro použití veterinárním lékařem",
+      "package_code": "9938320",
+      "package_invalid_date": null,
+      "package_size": "10 x 50 ml",
+      "preparation_id": "0910f7c7800cecc4"
+    },
+    {
+      "display_package_code": "9938355",
+      "issue_class_id": "4",
+      "issue_class_name": "Pouze pro použití veterinárním lékařem",
+      "package_code": "9938355",
+      "package_invalid_date": null,
+      "package_size": "10 x 100 ml",
+      "preparation_id": "0910f7c7800cecc4"
+    },
+    {
+      "display_package_code": "9938356",
+      "issue_class_id": "4",
+      "issue_class_name": "Pouze pro použití veterinárním lékařem",
+      "package_code": "9938356",
+      "package_invalid_date": null,
+      "package_size": "10 x 250 ml",
+      "preparation_id": "0910f7c7800cecc4"
+    },
+    {
+      "display_package_code": "9938710",
+      "issue_class_id": "4",
+      "issue_class_name": "Pouze pro použití veterinárním lékařem",
+      "package_code": "9938710",
+      "package_invalid_date": null,
+      "package_size": "12 x 50 ml",
+      "preparation_id": "0910f7c7800cecc4"
+    },
+    {
+      "display_package_code": "9938711",
+      "issue_class_id": "4",
+      "issue_class_name": "Pouze pro použití veterinárním lékařem",
+      "package_code": "9938711",
+      "package_invalid_date": null,
+      "package_size": "12 x 100 ml",
+      "preparation_id": "0910f7c7800cecc4"
+    },
+    {
+      "display_package_code": "9938712",
+      "issue_class_id": "4",
+      "issue_class_name": "Pouze pro použití veterinárním lékařem",
+      "package_code": "9938712",
+      "package_invalid_date": null,
+      "package_size": "12 x 250 ml",
+      "preparation_id": "0910f7c7800cecc4"
+    }
+  ],
+  "preparation": {
+    "holder_id": "119",
+    "holder_name": "Industrial Veterinaria S.A.",
+    "name": "HYMATIL",
+    "preparation_id": "0910f7c7800cecc4",
+    "registration_date": "2010-03-24T11:28:47+0000",
+    "registration_number": "96/016/10-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800cecc1",
+    "spc_modified_date": "2025-01-24T11:29:05+0000"
+  },
+  "schema_version": 1
+}

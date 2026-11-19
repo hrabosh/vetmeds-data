@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9907327",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907327",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78147f8ac"
+    },
+    {
+      "display_package_code": "9907328",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907328",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78147f8ac"
+    },
+    {
+      "display_package_code": "9907329",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907329",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78147f8ac"
+    },
+    {
+      "display_package_code": "9907330",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907330",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78147f8ac"
+    },
+    {
+      "display_package_code": "9907331",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907331",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78147f8ac"
+    },
+    {
+      "display_package_code": "9907332",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907332",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78147f8ac"
+    },
+    {
+      "display_package_code": "9907333",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907333",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78147f8ac"
+    },
+    {
+      "display_package_code": "9907334",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907334",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78147f8ac"
+    }
+  ],
+  "preparation": {
+    "holder_id": "319",
+    "holder_name": "Cenavisa S.L. (2)",
+    "name": "Cenflox",
+    "preparation_id": "0910f7c78147f8ac",
+    "registration_date": "2019-05-03T10:31:32+0000",
+    "registration_number": "96/029/19-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78147f532",
+    "spc_modified_date": "2025-08-11T10:31:58+0000"
+  },
+  "schema_version": 1
+}

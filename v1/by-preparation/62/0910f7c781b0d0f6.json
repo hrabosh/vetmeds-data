@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9911046",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911046",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781b0d0f6"
+    },
+    {
+      "display_package_code": "9911047",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911047",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781b0d0f6"
+    },
+    {
+      "display_package_code": "9911048",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911048",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781b0d0f6"
+    }
+  ],
+  "preparation": {
+    "holder_id": "49",
+    "holder_name": "Laboratorios Hipra S.A.",
+    "name": "DIVENCE Tetra",
+    "preparation_id": "0910f7c781b0d0f6",
+    "registration_date": "2024-05-10T8:58:41+0000",
+    "registration_number": "EU/2/24/310",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c781b0d0f5",
+    "spc_modified_date": "2026-05-22T8:21:46+0000"
+  },
+  "schema_version": 1
+}

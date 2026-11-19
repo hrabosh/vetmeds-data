@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909156",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909156",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815baff5"
+    },
+    {
+      "display_package_code": "9909157",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909157",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815baff5"
+    },
+    {
+      "display_package_code": "9909158",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909158",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815baff5"
+    },
+    {
+      "display_package_code": "9909159",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909159",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815baff5"
+    }
+  ],
+  "preparation": {
+    "holder_id": "16",
+    "holder_name": "Boehringer Ingelheim Vetmedica, GmbH",
+    "name": "Nexgard Combo",
+    "preparation_id": "0910f7c7815baff5",
+    "registration_date": "2021-01-06T8:22:02+0000",
+    "registration_number": "EU/2/20/267",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7815baff4",
+    "spc_modified_date": "2025-07-11T8:47:54+0000"
+  },
+  "schema_version": 1
+}

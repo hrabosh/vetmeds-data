@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900567",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900567",
+      "package_invalid_date": null,
+      "package_size": "1 x 20 ml_EU/2/11/124/005",
+      "preparation_id": "0910f7c78013e843"
+    },
+    {
+      "display_package_code": "9900568",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900568",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 ml_EU/2/11/124/006",
+      "preparation_id": "0910f7c78013e843"
+    },
+    {
+      "display_package_code": "9900569",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900569",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml_EU/2/11/124/007",
+      "preparation_id": "0910f7c78013e843"
+    },
+    {
+      "display_package_code": "9900570",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900570",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 ml_EU/2/11/124/008",
+      "preparation_id": "0910f7c78013e843"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "Zuprevo",
+    "preparation_id": "0910f7c78013e843",
+    "registration_date": "2011-05-06T10:25:31+0000",
+    "registration_number": "EU/2/11/124",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c78013e836",
+    "spc_modified_date": "2023-09-06T10:0:29+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9935429",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935429",
+      "package_invalid_date": null,
+      "package_size": "1 x 5 ml",
+      "preparation_id": "0910f7c78009bcd4"
+    }
+  ],
+  "preparation": {
+    "holder_id": "112",
+    "holder_name": "VIRBAC",
+    "name": "TIACIL",
+    "preparation_id": "0910f7c78009bcd4",
+    "registration_date": "1996-03-12T10:6:20+0000",
+    "registration_number": "96/175/96-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78009bcd1",
+    "spc_modified_date": "2022-10-26T9:12:56+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,97 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906239",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906239",
+      "package_invalid_date": "2022-11-28T10:29:52+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78087800a"
+    },
+    {
+      "display_package_code": "9906240",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906240",
+      "package_invalid_date": "2022-11-28T10:32:14+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78087800a"
+    },
+    {
+      "display_package_code": "9906241",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906241",
+      "package_invalid_date": "2022-11-28T10:33:49+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78087800a"
+    },
+    {
+      "display_package_code": "9906242",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906242",
+      "package_invalid_date": "2022-11-28T10:35:17+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78087800a"
+    },
+    {
+      "display_package_code": "9910010",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910010",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78087800a"
+    },
+    {
+      "display_package_code": "9910011",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910011",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78087800a"
+    },
+    {
+      "display_package_code": "9910012",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910012",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78087800a"
+    },
+    {
+      "display_package_code": "9910013",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910013",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78087800a"
+    },
+    {
+      "display_package_code": "9910095",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910095",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78087800a"
+    }
+  ],
+  "preparation": {
+    "holder_id": "251",
+    "holder_name": "Dechra Regulatory B.V.",
+    "name": "Doxybactin",
+    "preparation_id": "0910f7c78087800a",
+    "registration_date": "2017-11-13T9:43:33+0000",
+    "registration_number": "96/048/17-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780878006",
+    "spc_modified_date": "2026-02-20T9:43:50+0000"
+  },
+  "schema_version": 1
+}

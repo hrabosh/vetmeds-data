@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9904009",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904009",
+      "package_invalid_date": "2023-02-08T6:14:24+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78026b605"
+    },
+    {
+      "display_package_code": "9904010",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904010",
+      "package_invalid_date": "2023-02-08T6:17:36+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78026b605"
+    },
+    {
+      "display_package_code": "9910118",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910118",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78026b605"
+    },
+    {
+      "display_package_code": "9910119",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910119",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78026b605"
+    }
+  ],
+  "preparation": {
+    "holder_id": "299",
+    "holder_name": "VetViva Richter GmbH",
+    "name": "Ancesol",
+    "preparation_id": "0910f7c78026b605",
+    "registration_date": "2015-01-08T14:19:44+0000",
+    "registration_number": "96/001/15-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78026b604",
+    "spc_modified_date": "2025-11-03T14:20:01+0000"
+  },
+  "schema_version": 1
+}

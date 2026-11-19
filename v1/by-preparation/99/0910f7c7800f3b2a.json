@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900555",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900555",
+      "package_invalid_date": null,
+      "package_size": "1 x 7 tablet_EU/2/97/004/046",
+      "preparation_id": "0910f7c7800f3b2a"
+    },
+    {
+      "display_package_code": "9900556",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900556",
+      "package_invalid_date": null,
+      "package_size": "1 x 84 tablet_EU/2/97/004/047",
+      "preparation_id": "0910f7c7800f3b2a"
+    },
+    {
+      "display_package_code": "9900557",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900557",
+      "package_invalid_date": null,
+      "package_size": "1 x 252 tablet_EU/2/97/004/048",
+      "preparation_id": "0910f7c7800f3b2a"
+    },
+    {
+      "display_package_code": "9934297",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934297",
+      "package_invalid_date": "2013-06-14T8:20:50+0000",
+      "package_size": "1 x 100 tbl._EU/2/97/004/020",
+      "preparation_id": "0910f7c7800f3b2a"
+    },
+    {
+      "display_package_code": "9934298",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934298",
+      "package_invalid_date": "2013-06-14T8:19:50+0000",
+      "package_size": "1 x 20 tbl._EU/2/97/004/021",
+      "preparation_id": "0910f7c7800f3b2a"
+    },
+    {
+      "display_package_code": "9934299",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934299",
+      "package_invalid_date": "2013-06-14T8:20:04+0000",
+      "package_size": "1 x 100 tbl._EU/2/97/004/022",
+      "preparation_id": "0910f7c7800f3b2a"
+    },
+    {
+      "display_package_code": "9934300",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934300",
+      "package_invalid_date": "2013-06-14T8:20:33+0000",
+      "package_size": "1 x 500 tbl._EU/2/97/004/023",
+      "preparation_id": "0910f7c7800f3b2a"
+    },
+    {
+      "display_package_code": "9934368",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934368",
+      "package_invalid_date": "2013-06-14T8:19:35+0000",
+      "package_size": "1 x 10 tbl._EU/2/97/004/025",
+      "preparation_id": "0910f7c7800f3b2a"
+    }
+  ],
+  "preparation": {
+    "holder_id": "16",
+    "holder_name": "Boehringer Ingelheim Vetmedica, GmbH",
+    "name": "Metacam",
+    "preparation_id": "0910f7c7800f3b2a",
+    "registration_date": "1998-01-07T6:8:30+0000",
+    "registration_number": "EU/2/97/004",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f3b06",
+    "spc_modified_date": "2024-12-02T10:15:31+0000"
+  },
+  "schema_version": 1
+}

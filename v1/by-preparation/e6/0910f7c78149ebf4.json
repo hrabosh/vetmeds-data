@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9908815",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908815",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78149ebf4"
+    },
+    {
+      "display_package_code": "9908816",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908816",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78149ebf4"
+    },
+    {
+      "display_package_code": "9908817",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908817",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78149ebf4"
+    },
+    {
+      "display_package_code": "9908818",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908818",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78149ebf4"
+    }
+  ],
+  "preparation": {
+    "holder_id": "117",
+    "holder_name": "Huvepharma NV",
+    "name": "Parofor crypto",
+    "preparation_id": "0910f7c78149ebf4",
+    "registration_date": "2020-10-07T11:35:20+0000",
+    "registration_number": "96/059/20-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78149ebef",
+    "spc_modified_date": "2024-04-19T8:11:08+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900356",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900356",
+      "package_invalid_date": "2016-02-18T12:24:56+0000",
+      "package_size": "3 x 10 tbl.",
+      "preparation_id": "0910f7c7800d6efa"
+    },
+    {
+      "display_package_code": "9904837",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904837",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800d6efa"
+    },
+    {
+      "display_package_code": "9904838",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904838",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800d6efa"
+    },
+    {
+      "display_package_code": "9904839",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904839",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800d6efa"
+    },
+    {
+      "display_package_code": "9938865",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938865",
+      "package_invalid_date": "2016-02-18T12:24:28+0000",
+      "package_size": "1 x 10 tbl.",
+      "preparation_id": "0910f7c7800d6efa"
+    },
+    {
+      "display_package_code": "9938868",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938868",
+      "package_invalid_date": "2016-02-18T12:24:42+0000",
+      "package_size": "20 x 10 tbl.",
+      "preparation_id": "0910f7c7800d6efa"
+    }
+  ],
+  "preparation": {
+    "holder_id": "322",
+    "holder_name": "Ceva Sante Animale",
+    "name": "Therios",
+    "preparation_id": "0910f7c7800d6efa",
+    "registration_date": "2010-04-29T5:24:10+0000",
+    "registration_number": "96/022/10-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800d6eef",
+    "spc_modified_date": "2025-01-06T12:5:42+0000"
+  },
+  "schema_version": 1
+}

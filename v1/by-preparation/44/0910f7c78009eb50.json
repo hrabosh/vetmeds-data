@@ -1,0 +1,160 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9901347",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901347",
+      "package_invalid_date": "2019-07-25T7:55:31+0000",
+      "package_size": "1 x 200 ml (převod registrace)",
+      "preparation_id": "0910f7c78009eb50"
+    },
+    {
+      "display_package_code": "9901348",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901348",
+      "package_invalid_date": "2019-07-25T7:56:29+0000",
+      "package_size": "1 x 1 l (převod registrace)",
+      "preparation_id": "0910f7c78009eb50"
+    },
+    {
+      "display_package_code": "9901349",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901349",
+      "package_invalid_date": "2019-07-25T7:57:23+0000",
+      "package_size": "1 x 2,5 l (převod registrace)",
+      "preparation_id": "0910f7c78009eb50"
+    },
+    {
+      "display_package_code": "9901350",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901350",
+      "package_invalid_date": "2019-07-25T7:58:12+0000",
+      "package_size": "1 x 5 l (převod registrace)",
+      "preparation_id": "0910f7c78009eb50"
+    },
+    {
+      "display_package_code": "9907649",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907649",
+      "package_invalid_date": "2020-08-27T5:36:16+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78009eb50"
+    },
+    {
+      "display_package_code": "9907650",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907650",
+      "package_invalid_date": "2020-08-28T5:41:51+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78009eb50"
+    },
+    {
+      "display_package_code": "9907651",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907651",
+      "package_invalid_date": "2020-08-28T5:49:57+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78009eb50"
+    },
+    {
+      "display_package_code": "9907652",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907652",
+      "package_invalid_date": "2020-08-28T5:47:48+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78009eb50"
+    },
+    {
+      "display_package_code": "9908749",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908749",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009eb50"
+    },
+    {
+      "display_package_code": "9908750",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908750",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009eb50"
+    },
+    {
+      "display_package_code": "9908751",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908751",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009eb50"
+    },
+    {
+      "display_package_code": "9908752",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908752",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009eb50"
+    },
+    {
+      "display_package_code": "9937456",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937456",
+      "package_invalid_date": "2012-04-23T8:50:41+0000",
+      "package_size": "1x200 ml",
+      "preparation_id": "0910f7c78009eb50"
+    },
+    {
+      "display_package_code": "9937485",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937485",
+      "package_invalid_date": "2012-04-23T8:51:22+0000",
+      "package_size": "1x1 l",
+      "preparation_id": "0910f7c78009eb50"
+    },
+    {
+      "display_package_code": "9937533",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937533",
+      "package_invalid_date": "2012-04-23T8:51:00+0000",
+      "package_size": "1x2,5 l",
+      "preparation_id": "0910f7c78009eb50"
+    },
+    {
+      "display_package_code": "9937594",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937594",
+      "package_invalid_date": "2012-04-23T8:51:46+0000",
+      "package_size": "1x5 l",
+      "preparation_id": "0910f7c78009eb50"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "VECOXAN",
+    "preparation_id": "0910f7c78009eb50",
+    "registration_date": "2007-04-17T7:48:24+0000",
+    "registration_number": "96/015/07-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78009eb4d",
+    "spc_modified_date": "2024-06-14T8:21:00+0000"
+  },
+  "schema_version": 1
+}

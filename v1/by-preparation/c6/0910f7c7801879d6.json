@@ -1,0 +1,124 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902893",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9902893",
+      "package_invalid_date": "2020-12-01T9:54:11+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7801879d6"
+    },
+    {
+      "display_package_code": "9902894",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9902894",
+      "package_invalid_date": "2020-12-01T9:55:37+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7801879d6"
+    },
+    {
+      "display_package_code": "9902895",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9902895",
+      "package_invalid_date": "2020-12-01T9:57:09+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7801879d6"
+    },
+    {
+      "display_package_code": "9902896",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9902896",
+      "package_invalid_date": "2020-12-01T9:58:40+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7801879d6"
+    },
+    {
+      "display_package_code": "9902897",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9902897",
+      "package_invalid_date": "2020-12-01T10:0:21+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7801879d6"
+    },
+    {
+      "display_package_code": "9902898",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9902898",
+      "package_invalid_date": "2020-12-01T10:1:53+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7801879d6"
+    },
+    {
+      "display_package_code": "9909016",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9909016",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801879d6"
+    },
+    {
+      "display_package_code": "9909017",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9909017",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801879d6"
+    },
+    {
+      "display_package_code": "9909018",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9909018",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801879d6"
+    },
+    {
+      "display_package_code": "9909019",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9909019",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801879d6"
+    },
+    {
+      "display_package_code": "9909020",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9909020",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801879d6"
+    },
+    {
+      "display_package_code": "9909021",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9909021",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801879d6"
+    }
+  ],
+  "preparation": {
+    "holder_id": "284",
+    "holder_name": "Pets Choice Healthcare Ltd.",
+    "name": "Bob Martin Clear Spot on pro velké psy",
+    "preparation_id": "0910f7c7801879d6",
+    "registration_date": "2013-12-13T7:23:57+0000",
+    "registration_number": "96/058/13-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7801879d1",
+    "spc_modified_date": "2022-10-25T8:19:49+0000"
+  },
+  "schema_version": 1
+}

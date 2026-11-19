@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9934809",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934809",
+      "package_invalid_date": null,
+      "package_size": "1 x 5 dávek (10 ml)",
+      "preparation_id": "0910f7c7800d7632"
+    },
+    {
+      "display_package_code": "9934810",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934810",
+      "package_invalid_date": null,
+      "package_size": "1 x 25 dávek (50 ml)",
+      "preparation_id": "0910f7c7800d7632"
+    },
+    {
+      "display_package_code": "9934811",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934811",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 dávek (100 ml)",
+      "preparation_id": "0910f7c7800d7632"
+    },
+    {
+      "display_package_code": "9934812",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934812",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 dávek (500 ml)",
+      "preparation_id": "0910f7c7800d7632"
+    },
+    {
+      "display_package_code": "9934813",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934813",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 dávek (500 ml)",
+      "preparation_id": "0910f7c7800d7632"
+    },
+    {
+      "display_package_code": "9939222",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939222",
+      "package_invalid_date": null,
+      "package_size": "1 x 5 dávek (10 ml)",
+      "preparation_id": "0910f7c7800d7632"
+    },
+    {
+      "display_package_code": "9939223",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939223",
+      "package_invalid_date": null,
+      "package_size": "1 x 25 dávek (50 ml)",
+      "preparation_id": "0910f7c7800d7632"
+    },
+    {
+      "display_package_code": "9939224",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939224",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 dávek (100 ml)",
+      "preparation_id": "0910f7c7800d7632"
+    }
+  ],
+  "preparation": {
+    "holder_id": "29",
+    "holder_name": "Dyntec, spol. s r.o.",
+    "name": "SUIVAC DNT",
+    "preparation_id": "0910f7c7800d7632",
+    "registration_date": "2010-05-25T10:20:12+0000",
+    "registration_number": "97/029/10-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7800d762e",
+    "spc_modified_date": "2022-10-26T9:2:35+0000"
+  },
+  "schema_version": 1
+}

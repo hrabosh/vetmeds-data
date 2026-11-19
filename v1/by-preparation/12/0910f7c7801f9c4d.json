@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9904349",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904349",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801f9c4d"
+    },
+    {
+      "display_package_code": "9904350",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904350",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801f9c4d"
+    },
+    {
+      "display_package_code": "9904351",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904351",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801f9c4d"
+    },
+    {
+      "display_package_code": "9904352",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904352",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801f9c4d"
+    },
+    {
+      "display_package_code": "9904353",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904353",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801f9c4d"
+    },
+    {
+      "display_package_code": "9904354",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904354",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801f9c4d"
+    }
+  ],
+  "preparation": {
+    "holder_id": "180",
+    "holder_name": "Le Vet. Beheer, B.V.",
+    "name": "Synthadon pro psy a kočky",
+    "preparation_id": "0910f7c7801f9c4d",
+    "registration_date": "2015-05-27T9:27:55+0000",
+    "registration_number": "96/055/15-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7801f9c4b",
+    "spc_modified_date": "2024-04-26T12:2:58+0000"
+  },
+  "schema_version": 1
+}

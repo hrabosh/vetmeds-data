@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9904032",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904032",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800985f2"
+    },
+    {
+      "display_package_code": "9904033",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904033",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800985f2"
+    },
+    {
+      "display_package_code": "9909384",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909384",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800985f2"
+    },
+    {
+      "display_package_code": "9909385",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909385",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800985f2"
+    },
+    {
+      "display_package_code": "9938523",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938523",
+      "package_invalid_date": "2021-07-27T7:39:40+0000",
+      "package_size": "100 ml (1 000 dávek)",
+      "preparation_id": "0910f7c7800985f2"
+    },
+    {
+      "display_package_code": "9938546",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938546",
+      "package_invalid_date": "2021-07-27T7:42:25+0000",
+      "package_size": "500 ml (5 000 dávek)",
+      "preparation_id": "0910f7c7800985f2"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "PARACOX-8",
+    "preparation_id": "0910f7c7800985f2",
+    "registration_date": "1997-12-05T10:15:42+0000",
+    "registration_number": "97/1186/97-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800985ef",
+    "spc_modified_date": "2024-01-25T8:55:59+0000"
+  },
+  "schema_version": 1
+}

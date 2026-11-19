@@ -1,0 +1,79 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9904670",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904670",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780383f43"
+    },
+    {
+      "display_package_code": "9904671",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904671",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780383f43"
+    },
+    {
+      "display_package_code": "9904672",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904672",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780383f43"
+    },
+    {
+      "display_package_code": "9904673",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904673",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780383f43"
+    },
+    {
+      "display_package_code": "9906604",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906604",
+      "package_invalid_date": "2023-08-10T7:32:49+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780383f43"
+    },
+    {
+      "display_package_code": "9910438",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910438",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780383f43"
+    },
+    {
+      "display_package_code": "9910439",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910439",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780383f43"
+    }
+  ],
+  "preparation": {
+    "holder_id": "280",
+    "holder_name": "Boehringer Ingelheim Animal Health France SCS",
+    "name": "Gallivac IB88 Neo šumivá tableta pro suspenzi",
+    "preparation_id": "0910f7c780383f43",
+    "registration_date": "2016-01-19T13:4:35+0000",
+    "registration_number": "97/006/16-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780383f42",
+    "spc_modified_date": "2024-08-02T5:7:25+0000"
+  },
+  "schema_version": 1
+}

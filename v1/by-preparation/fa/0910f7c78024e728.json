@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902773",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902773",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78024e728"
+    },
+    {
+      "display_package_code": "9902774",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902774",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78024e728"
+    },
+    {
+      "display_package_code": "9902775",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902775",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78024e728"
+    },
+    {
+      "display_package_code": "9905283",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905283",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78024e728"
+    },
+    {
+      "display_package_code": "9905284",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905284",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78024e728"
+    }
+  ],
+  "preparation": {
+    "holder_id": "180",
+    "holder_name": "Le Vet. Beheer, B.V.",
+    "name": "Meloxidolor",
+    "preparation_id": "0910f7c78024e728",
+    "registration_date": "2013-04-22T5:20:18+0000",
+    "registration_number": "EU/2/13/148",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c78024e727",
+    "spc_modified_date": "2025-10-31T9:49:28+0000"
+  },
+  "schema_version": 1
+}

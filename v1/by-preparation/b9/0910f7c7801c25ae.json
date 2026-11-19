@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902173",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902173",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 tablet_EU/2/12/147/001",
+      "preparation_id": "0910f7c7801c25ae"
+    },
+    {
+      "display_package_code": "9902174",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902174",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 tablet_EU/2/12/147/002",
+      "preparation_id": "0910f7c7801c25ae"
+    },
+    {
+      "display_package_code": "9907666",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907666",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801c25ae"
+    }
+  ],
+  "preparation": {
+    "holder_id": "16",
+    "holder_name": "Boehringer Ingelheim Vetmedica, GmbH",
+    "name": "Pexion",
+    "preparation_id": "0910f7c7801c25ae",
+    "registration_date": "2013-02-25T10:29:01+0000",
+    "registration_number": "EU/2/12/147",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7801c25ab",
+    "spc_modified_date": "2025-03-13T10:17:34+0000"
+  },
+  "schema_version": 1
+}

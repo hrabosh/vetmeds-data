@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905099",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905099",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802cd59c"
+    },
+    {
+      "display_package_code": "9905100",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905100",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802cd59c"
+    },
+    {
+      "display_package_code": "9905101",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905101",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802cd59c"
+    },
+    {
+      "display_package_code": "9905102",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905102",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802cd59c"
+    },
+    {
+      "display_package_code": "9905103",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905103",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802cd59c"
+    },
+    {
+      "display_package_code": "9905104",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905104",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802cd59c"
+    },
+    {
+      "display_package_code": "9905105",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905105",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802cd59c"
+    },
+    {
+      "display_package_code": "9905106",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905106",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802cd59c"
+    }
+  ],
+  "preparation": {
+    "holder_id": "33",
+    "holder_name": "Eurovet Animal Health, B.V.",
+    "name": "Solamocta",
+    "preparation_id": "0910f7c7802cd59c",
+    "registration_date": "2016-06-10T12:15:56+0000",
+    "registration_number": "96/048/16-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7802cd59b",
+    "spc_modified_date": "2025-09-16T12:16:13+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700476",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700476",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801f2a33"
+    },
+    {
+      "display_package_code": "9700477",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700477",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801f2a33"
+    },
+    {
+      "display_package_code": "9902516",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902516",
+      "package_invalid_date": "2020-03-11T12:3:19+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7801f2a33"
+    },
+    {
+      "display_package_code": "9902517",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902517",
+      "package_invalid_date": "2020-03-11T12:6:24+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7801f2a33"
+    },
+    {
+      "display_package_code": "9908387",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908387",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801f2a33"
+    },
+    {
+      "display_package_code": "9908388",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908388",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801f2a33"
+    }
+  ],
+  "preparation": {
+    "holder_id": "20",
+    "holder_name": "Ceva Santé Animale",
+    "name": "Ecoporc Shiga",
+    "preparation_id": "0910f7c7801f2a33",
+    "registration_date": "2013-04-10T5:36:06+0000",
+    "registration_number": "EU/2/13/149",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7801f2a32",
+    "spc_modified_date": "2025-09-30T7:48:08+0000"
+  },
+  "schema_version": 1
+}

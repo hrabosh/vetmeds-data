@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906779",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906779",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804bca4c"
+    },
+    {
+      "display_package_code": "9906780",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906780",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804bca4c"
+    },
+    {
+      "display_package_code": "9906781",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906781",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804bca4c"
+    },
+    {
+      "display_package_code": "9906782",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906782",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804bca4c"
+    }
+  ],
+  "preparation": {
+    "holder_id": "117",
+    "holder_name": "Huvepharma NV",
+    "name": "Apravet prášek",
+    "preparation_id": "0910f7c7804bca4c",
+    "registration_date": "2018-11-07T6:58:35+0000",
+    "registration_number": "96/060/18-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7804bca4b",
+    "spc_modified_date": "2026-05-26T13:17:57+0000"
+  },
+  "schema_version": 1
+}

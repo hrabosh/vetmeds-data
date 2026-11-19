@@ -1,0 +1,34 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9935419",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935419",
+      "package_invalid_date": null,
+      "package_size": "1 x 30 ml",
+      "preparation_id": "0910f7c780099e52"
+    },
+    {
+      "display_package_code": "9935489",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935489",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c780099e52"
+    }
+  ],
+  "preparation": {
+    "holder_id": "279",
+    "holder_name": "Vetoquinol s.r.o.",
+    "name": "PROPALIN",
+    "preparation_id": "0910f7c780099e52",
+    "registration_date": "2003-10-09T6:41:34+0000",
+    "registration_number": "96/068/03-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780099e4e",
+    "spc_modified_date": "2026-06-30T7:40:11+0000"
+  },
+  "schema_version": 1
+}

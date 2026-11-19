@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906152",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906152",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780858a70"
+    },
+    {
+      "display_package_code": "9906153",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906153",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780858a70"
+    },
+    {
+      "display_package_code": "9906154",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906154",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780858a70"
+    },
+    {
+      "display_package_code": "9906155",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906155",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780858a70"
+    },
+    {
+      "display_package_code": "9906156",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906156",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780858a70"
+    }
+  ],
+  "preparation": {
+    "holder_id": "49",
+    "holder_name": "Laboratorios Hipra S.A.",
+    "name": "Vepured",
+    "preparation_id": "0910f7c780858a70",
+    "registration_date": "2017-08-17T9:28:29+0000",
+    "registration_number": "EU/2/17/214",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c780858a6f",
+    "spc_modified_date": "2024-09-27T6:35:36+0000"
+  },
+  "schema_version": 1
+}

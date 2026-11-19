@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9935986",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935986",
+      "package_invalid_date": null,
+      "package_size": "1 x 500 ml",
+      "preparation_id": "0910f7c78009bdd0"
+    },
+    {
+      "display_package_code": "9936119",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936119",
+      "package_invalid_date": null,
+      "package_size": "1 x 1 l",
+      "preparation_id": "0910f7c78009bdd0"
+    },
+    {
+      "display_package_code": "9936260",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936260",
+      "package_invalid_date": "2026-06-02T11:34:48+0000",
+      "package_size": "1 x 2 l",
+      "preparation_id": "0910f7c78009bdd0"
+    },
+    {
+      "display_package_code": "9936325",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936325",
+      "package_invalid_date": null,
+      "package_size": "1 x 5 l",
+      "preparation_id": "0910f7c78009bdd0"
+    }
+  ],
+  "preparation": {
+    "holder_id": "322",
+    "holder_name": "Ceva Sante Animale",
+    "name": "TIAMVET",
+    "preparation_id": "0910f7c78009bdd0",
+    "registration_date": "2007-03-15T10:3:27+0000",
+    "registration_number": "96/013/07-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78009bdcc",
+    "spc_modified_date": "2026-08-10T9:3:45+0000"
+  },
+  "schema_version": 1
+}

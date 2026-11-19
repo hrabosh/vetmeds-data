@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909355",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909355",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781702e5a"
+    },
+    {
+      "display_package_code": "9909356",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909356",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781702e5a"
+    },
+    {
+      "display_package_code": "9909646",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909646",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781702e5a"
+    }
+  ],
+  "preparation": {
+    "holder_id": "225",
+    "holder_name": "Vet-Agro Multi-Trade Company Sp. z o.o.",
+    "name": "Thyroxavet",
+    "preparation_id": "0910f7c781702e5a",
+    "registration_date": "2021-07-21T10:8:07+0000",
+    "registration_number": "96/032/21-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c781702e58",
+    "spc_modified_date": "2023-07-25T6:43:19+0000"
+  },
+  "schema_version": 1
+}

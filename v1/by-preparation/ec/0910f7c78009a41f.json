@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9938901",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938901",
+      "package_invalid_date": null,
+      "package_size": "10 x 1 dávka",
+      "preparation_id": "0910f7c78009a41f"
+    },
+    {
+      "display_package_code": "9938902",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938902",
+      "package_invalid_date": null,
+      "package_size": "25 x 1 dávka",
+      "preparation_id": "0910f7c78009a41f"
+    },
+    {
+      "display_package_code": "9938903",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938903",
+      "package_invalid_date": null,
+      "package_size": "50 x 1 dávka",
+      "preparation_id": "0910f7c78009a41f"
+    }
+  ],
+  "preparation": {
+    "holder_id": "112",
+    "holder_name": "VIRBAC",
+    "name": "FELIGEN CRP",
+    "preparation_id": "0910f7c78009a41f",
+    "registration_date": "1994-09-09T9:3:36+0000",
+    "registration_number": "97/964/94-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78009a41c",
+    "spc_modified_date": "2024-09-03T9:3:56+0000"
+  },
+  "schema_version": 1
+}

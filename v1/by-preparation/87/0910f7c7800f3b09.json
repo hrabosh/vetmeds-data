@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9934120",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934120",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml_EU/2/97/004/001(skot a prasata)",
+      "preparation_id": "0910f7c7800f3b09"
+    },
+    {
+      "display_package_code": "9934121",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934121",
+      "package_invalid_date": null,
+      "package_size": "12 x 100 ml_EU/2/97/004/010 (skot a prasata)",
+      "preparation_id": "0910f7c7800f3b09"
+    },
+    {
+      "display_package_code": "9934576",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934576",
+      "package_invalid_date": null,
+      "package_size": "1 x 20 ml_EU/2/97/004/035 (skot a prasata)",
+      "preparation_id": "0910f7c7800f3b09"
+    },
+    {
+      "display_package_code": "9934577",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934577",
+      "package_invalid_date": null,
+      "package_size": "12 x 20 ml_EU/2/97/004/036 (skot a prasata)",
+      "preparation_id": "0910f7c7800f3b09"
+    },
+    {
+      "display_package_code": "9934578",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934578",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 ml_EU/2/97/004/037 (skot a prasata)",
+      "preparation_id": "0910f7c7800f3b09"
+    },
+    {
+      "display_package_code": "9934579",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934579",
+      "package_invalid_date": null,
+      "package_size": "12 x 50 ml_EU/2/97/004/038 (skot a prasata)",
+      "preparation_id": "0910f7c7800f3b09"
+    }
+  ],
+  "preparation": {
+    "holder_id": "16",
+    "holder_name": "Boehringer Ingelheim Vetmedica, GmbH",
+    "name": "Metacam",
+    "preparation_id": "0910f7c7800f3b09",
+    "registration_date": "1998-01-17T11:46:01+0000",
+    "registration_number": "EU/2/97/004",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f3b06",
+    "spc_modified_date": "2024-12-02T10:15:31+0000"
+  },
+  "schema_version": 1
+}

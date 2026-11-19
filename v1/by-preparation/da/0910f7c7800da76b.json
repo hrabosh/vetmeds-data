@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902623",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9902623",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800da76b"
+    },
+    {
+      "display_package_code": "9938259",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9938259",
+      "package_invalid_date": "2013-09-03T8:28:01+0000",
+      "package_size": "60 ml (47 g)",
+      "preparation_id": "0910f7c7800da76b"
+    },
+    {
+      "display_package_code": "9938289",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9938289",
+      "package_invalid_date": "2013-09-03T8:28:28+0000",
+      "package_size": "150 ml (115 g)",
+      "preparation_id": "0910f7c7800da76b"
+    },
+    {
+      "display_package_code": "9938324",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9938324",
+      "package_invalid_date": "2013-09-03T8:28:57+0000",
+      "package_size": "300 ml (230 g)",
+      "preparation_id": "0910f7c7800da76b"
+    }
+  ],
+  "preparation": {
+    "holder_id": "137",
+    "holder_name": "Aveflor a.s.",
+    "name": "Avejodin Vet",
+    "preparation_id": "0910f7c7800da76b",
+    "registration_date": "2009-05-29T6:46:38+0000",
+    "registration_number": "99/030/09-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7800da768",
+    "spc_modified_date": "2022-10-26T6:9:03+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9908753",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908753",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815d849b"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "Nobivac Respira Bb-Inj",
+    "preparation_id": "0910f7c7815d849b",
+    "registration_date": "2020-10-02T9:21:33+0000",
+    "registration_number": "97/052/20-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7815d849a",
+    "spc_modified_date": "2024-09-24T9:45:29+0000"
+  },
+  "schema_version": 1
+}

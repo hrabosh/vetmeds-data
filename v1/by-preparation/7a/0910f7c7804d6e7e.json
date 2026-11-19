@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905838",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905838",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804d6e7e"
+    },
+    {
+      "display_package_code": "9905839",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905839",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804d6e7e"
+    },
+    {
+      "display_package_code": "9905840",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905840",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804d6e7e"
+    },
+    {
+      "display_package_code": "9905841",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905841",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804d6e7e"
+    }
+  ],
+  "preparation": {
+    "holder_id": "24",
+    "holder_name": "CP-Pharma Handelsgesellschaft, mbH",
+    "name": "Cepedex",
+    "preparation_id": "0910f7c7804d6e7e",
+    "registration_date": "2016-12-13T12:40:21+0000",
+    "registration_number": "EU/2/16/200",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7804d6e7c",
+    "spc_modified_date": "2026-10-30T9:45:23+0000"
+  },
+  "schema_version": 1
+}

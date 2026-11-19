@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9908959",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908959",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78160d7a7"
+    },
+    {
+      "display_package_code": "9908960",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908960",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78160d7a7"
+    },
+    {
+      "display_package_code": "9908961",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908961",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78160d7a7"
+    }
+  ],
+  "preparation": {
+    "holder_id": "100",
+    "holder_name": "Zoetis Belgium",
+    "name": "Librela",
+    "preparation_id": "0910f7c78160d7a7",
+    "registration_date": "2020-11-10T14:0:25+0000",
+    "registration_number": "EU/2/20/261",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c78160d7a6",
+    "spc_modified_date": "2026-07-23T7:42:36+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9910500",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910500",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a14523"
+    },
+    {
+      "display_package_code": "9910501",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910501",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a14523"
+    },
+    {
+      "display_package_code": "9910502",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910502",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a14523"
+    }
+  ],
+  "preparation": {
+    "holder_id": "117",
+    "holder_name": "Huvepharma NV",
+    "name": "Pyrocam",
+    "preparation_id": "0910f7c781a14523",
+    "registration_date": "2023-11-09T8:46:13+0000",
+    "registration_number": "96/059/23-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781a14522",
+    "spc_modified_date": "2023-12-13T14:5:13+0000"
+  },
+  "schema_version": 1
+}

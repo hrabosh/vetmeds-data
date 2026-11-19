@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900075",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900075",
+      "package_invalid_date": "2011-12-08T10:56:51+0000",
+      "package_size": "1 x 1 l (převod registrace)",
+      "preparation_id": "0910f7c780095b83"
+    },
+    {
+      "display_package_code": "9900785",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900785",
+      "package_invalid_date": null,
+      "package_size": "1 x 1 l (převod registrace_2)",
+      "preparation_id": "0910f7c780095b83"
+    },
+    {
+      "display_package_code": "9937911",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937911",
+      "package_invalid_date": "2011-01-14T10:56:33+0000",
+      "package_size": "1 x 1 l",
+      "preparation_id": "0910f7c780095b83"
+    }
+  ],
+  "preparation": {
+    "holder_id": "190",
+    "holder_name": "Labiana Life Science, S.A.U.",
+    "name": "KetoProPig",
+    "preparation_id": "0910f7c780095b83",
+    "registration_date": "2008-06-16T6:32:38+0000",
+    "registration_number": "96/033/08-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c780095b7f",
+    "spc_modified_date": "2022-10-25T10:54:12+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906681",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906681",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780093bae"
+    },
+    {
+      "display_package_code": "9906682",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906682",
+      "package_invalid_date": "2024-04-16T12:30:28+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780093bae"
+    },
+    {
+      "display_package_code": "9906683",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906683",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780093bae"
+    },
+    {
+      "display_package_code": "9939157",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939157",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c780093bae"
+    }
+  ],
+  "preparation": {
+    "holder_id": "276",
+    "holder_name": "Ceva Animal Health Slovakia s.r.o.",
+    "name": "GLEPTOSIL",
+    "preparation_id": "0910f7c780093bae",
+    "registration_date": "2003-02-03T12:1:07+0000",
+    "registration_number": "96/005/03-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780093baa",
+    "spc_modified_date": "2026-01-15T12:1:29+0000"
+  },
+  "schema_version": 1
+}

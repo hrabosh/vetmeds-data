@@ -1,0 +1,178 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905637",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905637",
+      "package_invalid_date": "2018-08-30T8:58:23+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780096fc9"
+    },
+    {
+      "display_package_code": "9905638",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905638",
+      "package_invalid_date": "2018-08-30T8:59:10+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780096fc9"
+    },
+    {
+      "display_package_code": "9905639",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905639",
+      "package_invalid_date": "2018-08-30T9:0:05+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780096fc9"
+    },
+    {
+      "display_package_code": "9905640",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905640",
+      "package_invalid_date": "2018-08-30T9:0:51+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780096fc9"
+    },
+    {
+      "display_package_code": "9905641",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905641",
+      "package_invalid_date": "2018-08-30T9:1:56+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780096fc9"
+    },
+    {
+      "display_package_code": "9905642",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905642",
+      "package_invalid_date": "2018-08-30T9:2:45+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780096fc9"
+    },
+    {
+      "display_package_code": "9906647",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906647",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780096fc9"
+    },
+    {
+      "display_package_code": "9906648",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906648",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780096fc9"
+    },
+    {
+      "display_package_code": "9906649",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906649",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780096fc9"
+    },
+    {
+      "display_package_code": "9906650",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906650",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780096fc9"
+    },
+    {
+      "display_package_code": "9906651",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906651",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780096fc9"
+    },
+    {
+      "display_package_code": "9906652",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906652",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780096fc9"
+    },
+    {
+      "display_package_code": "9937443",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937443",
+      "package_invalid_date": "2016-09-22T8:59:40+0000",
+      "package_size": "1 blistr po 2 tabletách",
+      "preparation_id": "0910f7c780096fc9"
+    },
+    {
+      "display_package_code": "9937452",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937452",
+      "package_invalid_date": "2016-09-22T8:59:56+0000",
+      "package_size": "2 blistry po 2 tabletách",
+      "preparation_id": "0910f7c780096fc9"
+    },
+    {
+      "display_package_code": "9937480",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937480",
+      "package_invalid_date": "2016-09-22T9:0:12+0000",
+      "package_size": "1 blistr po 10 tabletách",
+      "preparation_id": "0910f7c780096fc9"
+    },
+    {
+      "display_package_code": "9937491",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937491",
+      "package_invalid_date": "2016-09-22T9:0:27+0000",
+      "package_size": "2 blistry po 10 tabletách",
+      "preparation_id": "0910f7c780096fc9"
+    },
+    {
+      "display_package_code": "9937507",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937507",
+      "package_invalid_date": "2016-09-22T9:0:43+0000",
+      "package_size": "5 blistrů po 10 tabletách",
+      "preparation_id": "0910f7c780096fc9"
+    },
+    {
+      "display_package_code": "9937558",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937558",
+      "package_invalid_date": "2016-09-22T9:1:00+0000",
+      "package_size": "10 blistrů po 10 tabletách",
+      "preparation_id": "0910f7c780096fc9"
+    }
+  ],
+  "preparation": {
+    "holder_id": "248",
+    "holder_name": "Elanco GmbH",
+    "name": "MILBEMAX",
+    "preparation_id": "0910f7c780096fc9",
+    "registration_date": "2005-09-09T8:1:42+0000",
+    "registration_number": "96/036/05-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c780096fc4",
+    "spc_modified_date": "2024-03-01T12:28:20+0000"
+  },
+  "schema_version": 1
+}

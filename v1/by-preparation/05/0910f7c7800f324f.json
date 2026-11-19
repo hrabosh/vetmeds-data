@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9934314",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934314",
+      "package_invalid_date": null,
+      "package_size": "1 x 4 tablety_EU/2/06/062/001",
+      "preparation_id": "0910f7c7800f324f"
+    }
+  ],
+  "preparation": {
+    "holder_id": "100",
+    "holder_name": "Zoetis Belgium",
+    "name": "Cerenia",
+    "preparation_id": "0910f7c7800f324f",
+    "registration_date": "2006-09-29T11:58:07+0000",
+    "registration_number": "EU/2/06/062",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f324c",
+    "spc_modified_date": "2023-07-14T7:18:33+0000"
+  },
+  "schema_version": 1
+}

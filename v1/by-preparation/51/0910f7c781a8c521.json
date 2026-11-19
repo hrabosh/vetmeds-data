@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9910545",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910545",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a8c521"
+    },
+    {
+      "display_package_code": "9910546",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910546",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a8c521"
+    },
+    {
+      "display_package_code": "9910547",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910547",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a8c521"
+    }
+  ],
+  "preparation": {
+    "holder_id": "290",
+    "holder_name": "Alfasan Nederland B.V.",
+    "name": "Dormostart",
+    "preparation_id": "0910f7c781a8c521",
+    "registration_date": "2023-11-13T14:47:54+0000",
+    "registration_number": "96/060/23-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c781a8c3db",
+    "spc_modified_date": "2026-02-06T12:55:25+0000"
+  },
+  "schema_version": 1
+}

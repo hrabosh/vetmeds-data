@@ -1,0 +1,79 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905272",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905272",
+      "package_invalid_date": "2016-12-07T5:22:46+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7803f1fcc"
+    },
+    {
+      "display_package_code": "9905273",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905273",
+      "package_invalid_date": "2016-12-07T5:23:02+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7803f1fcc"
+    },
+    {
+      "display_package_code": "9905274",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905274",
+      "package_invalid_date": "2016-12-07T5:23:19+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7803f1fcc"
+    },
+    {
+      "display_package_code": "9905756",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905756",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7803f1fcc"
+    },
+    {
+      "display_package_code": "9905757",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905757",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7803f1fcc"
+    },
+    {
+      "display_package_code": "9905758",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905758",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7803f1fcc"
+    },
+    {
+      "display_package_code": "9908165",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908165",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7803f1fcc"
+    }
+  ],
+  "preparation": {
+    "holder_id": "34",
+    "holder_name": "Fatro, S.p.A.",
+    "name": "Pronestesic",
+    "preparation_id": "0910f7c7803f1fcc",
+    "registration_date": "2016-08-10T10:1:31+0000",
+    "registration_number": "96/072/16-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7803f1fcb",
+    "spc_modified_date": "2025-04-15T7:45:08+0000"
+  },
+  "schema_version": 1
+}

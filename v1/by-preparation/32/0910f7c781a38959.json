@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9910420",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910420",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a38959"
+    },
+    {
+      "display_package_code": "9910421",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910421",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a38959"
+    },
+    {
+      "display_package_code": "9910422",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910422",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a38959"
+    },
+    {
+      "display_package_code": "9910423",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910423",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a38959"
+    }
+  ],
+  "preparation": {
+    "holder_id": "290",
+    "holder_name": "Alfasan Nederland B.V.",
+    "name": "Lamoxsan",
+    "preparation_id": "0910f7c781a38959",
+    "registration_date": "2023-08-02T12:1:19+0000",
+    "registration_number": "96/039/23-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781a38958",
+    "spc_modified_date": "2025-08-01T5:47:20+0000"
+  },
+  "schema_version": 1
+}

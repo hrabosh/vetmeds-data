@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9910874",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910874",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ac16bf"
+    },
+    {
+      "display_package_code": "9910875",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910875",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ac16bf"
+    },
+    {
+      "display_package_code": "9910876",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910876",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ac16bf"
+    }
+  ],
+  "preparation": {
+    "holder_id": "24",
+    "holder_name": "CP-Pharma Handelsgesellschaft, mbH",
+    "name": "Thyrotab",
+    "preparation_id": "0910f7c781ac16bf",
+    "registration_date": "2024-04-22T9:15:46+0000",
+    "registration_number": "96/010/24-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c781ac1680",
+    "spc_modified_date": "2024-04-29T13:2:46+0000"
+  },
+  "schema_version": 1
+}

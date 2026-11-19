@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9939908",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939908",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c780095e9f"
+    }
+  ],
+  "preparation": {
+    "holder_id": "34",
+    "holder_name": "Fatro, S.p.A.",
+    "name": "LIDOCAINE",
+    "preparation_id": "0910f7c780095e9f",
+    "registration_date": "2003-09-09T12:27:17+0000",
+    "registration_number": "96/071/03-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c780095e9b",
+    "spc_modified_date": "2022-10-26T7:47:31+0000"
+  },
+  "schema_version": 1
+}

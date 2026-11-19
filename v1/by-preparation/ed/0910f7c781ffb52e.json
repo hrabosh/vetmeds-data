@@ -1,0 +1,97 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9701074",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9701074",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ffb52e"
+    },
+    {
+      "display_package_code": "9701075",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9701075",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ffb52e"
+    },
+    {
+      "display_package_code": "9701076",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9701076",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ffb52e"
+    },
+    {
+      "display_package_code": "9701077",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9701077",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ffb52e"
+    },
+    {
+      "display_package_code": "9701078",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9701078",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ffb52e"
+    },
+    {
+      "display_package_code": "9701079",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9701079",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ffb52e"
+    },
+    {
+      "display_package_code": "9701080",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9701080",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ffb52e"
+    },
+    {
+      "display_package_code": "9701081",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9701081",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ffb52e"
+    },
+    {
+      "display_package_code": "9701082",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9701082",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ffb52e"
+    }
+  ],
+  "preparation": {
+    "holder_id": "209",
+    "holder_name": "Ceva-Phylaxia Veterinary Biologicals Co.Ltd.",
+    "name": "Cirbloc",
+    "preparation_id": "0910f7c781ffb52e",
+    "registration_date": "2026-10-23T6:37:13+0000",
+    "registration_number": "EU/2/26/373",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c781ffb52c",
+    "spc_modified_date": "2026-10-29T9:12:16+0000"
+  },
+  "schema_version": 1
+}

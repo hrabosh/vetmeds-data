@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909448",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909448",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781740d01"
+    },
+    {
+      "display_package_code": "9909449",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909449",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781740d01"
+    },
+    {
+      "display_package_code": "9909450",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909450",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781740d01"
+    }
+  ],
+  "preparation": {
+    "holder_id": "46",
+    "holder_name": "Krka d.d. Novo mesto",
+    "name": "Milprazon chewable pro malé psy a štěňata",
+    "preparation_id": "0910f7c781740d01",
+    "registration_date": "2021-08-30T11:13:39+0000",
+    "registration_number": "96/039/21-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c781740b89",
+    "spc_modified_date": "2024-09-09T10:3:33+0000"
+  },
+  "schema_version": 1
+}

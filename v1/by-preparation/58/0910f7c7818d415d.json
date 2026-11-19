@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909533",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909533",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818d415d"
+    },
+    {
+      "display_package_code": "9909534",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909534",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818d415d"
+    },
+    {
+      "display_package_code": "9909535",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909535",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818d415d"
+    },
+    {
+      "display_package_code": "9909536",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909536",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818d415d"
+    },
+    {
+      "display_package_code": "9909537",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909537",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818d415d"
+    }
+  ],
+  "preparation": {
+    "holder_id": "119",
+    "holder_name": "Industrial Veterinaria S.A.",
+    "name": "Cylanic",
+    "preparation_id": "0910f7c7818d415d",
+    "registration_date": "2021-11-26T9:17:53+0000",
+    "registration_number": "96/052/21-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7818d415a",
+    "spc_modified_date": "2025-12-18T9:19:32+0000"
+  },
+  "schema_version": 1
+}

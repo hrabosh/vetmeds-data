@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9939162",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939162",
+      "package_invalid_date": null,
+      "package_size": "1 x 20 ml",
+      "preparation_id": "0910f7c780092385"
+    },
+    {
+      "display_package_code": "9999648",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9999648",
+      "package_invalid_date": null,
+      "package_size": "5 x 20 ml",
+      "preparation_id": "0910f7c780092385"
+    },
+    {
+      "display_package_code": "9999649",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9999649",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c780092385"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "ERYSEN",
+    "preparation_id": "0910f7c780092385",
+    "registration_date": "1992-06-03T11:7:24+0000",
+    "registration_number": "97/371/92-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780092382",
+    "spc_modified_date": "2025-03-07T12:42:54+0000"
+  },
+  "schema_version": 1
+}

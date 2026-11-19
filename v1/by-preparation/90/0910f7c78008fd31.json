@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9935408",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935408",
+      "package_invalid_date": null,
+      "package_size": "1 x 5 ml",
+      "preparation_id": "0910f7c78008fd31"
+    },
+    {
+      "display_package_code": "9935467",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935467",
+      "package_invalid_date": null,
+      "package_size": "1 x 10 ml",
+      "preparation_id": "0910f7c78008fd31"
+    },
+    {
+      "display_package_code": "9935541",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935541",
+      "package_invalid_date": null,
+      "package_size": "1 x 20 ml",
+      "preparation_id": "0910f7c78008fd31"
+    }
+  ],
+  "preparation": {
+    "holder_id": "33",
+    "holder_name": "Eurovet Animal Health, B.V.",
+    "name": "Domidine",
+    "preparation_id": "0910f7c78008fd31",
+    "registration_date": "2006-12-21T7:49:25+0000",
+    "registration_number": "96/033/06-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78008fd2d",
+    "spc_modified_date": "2025-08-20T6:49:40+0000"
+  },
+  "schema_version": 1
+}

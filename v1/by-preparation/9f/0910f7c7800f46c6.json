@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9901382",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901382",
+      "package_invalid_date": "2023-02-08T17:12:24+0000",
+      "package_size": "1 x 10 ml",
+      "preparation_id": "0910f7c7800f46c6"
+    },
+    {
+      "display_package_code": "9901383",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901383",
+      "package_invalid_date": "2023-02-08T17:10:40+0000",
+      "package_size": "5 x 10 ml",
+      "preparation_id": "0910f7c7800f46c6"
+    },
+    {
+      "display_package_code": "9901384",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901384",
+      "package_invalid_date": "2023-02-08T17:9:02+0000",
+      "package_size": "10 x 10 ml",
+      "preparation_id": "0910f7c7800f46c6"
+    },
+    {
+      "display_package_code": "9910124",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910124",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f46c6"
+    },
+    {
+      "display_package_code": "9910125",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910125",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f46c6"
+    },
+    {
+      "display_package_code": "9910126",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910126",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f46c6"
+    }
+  ],
+  "preparation": {
+    "holder_id": "299",
+    "holder_name": "VetViva Richter GmbH",
+    "name": "Bupaq Multidose",
+    "preparation_id": "0910f7c7800f46c6",
+    "registration_date": "2012-06-12T12:13:37+0000",
+    "registration_number": "96/062/12-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7800f46c3",
+    "spc_modified_date": "2026-06-24T12:14:08+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900411",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900411",
+      "package_invalid_date": null,
+      "package_size": "1 x 7 tbl._EU/2/10/107/001",
+      "preparation_id": "0910f7c78012899e"
+    },
+    {
+      "display_package_code": "9900412",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900412",
+      "package_invalid_date": null,
+      "package_size": "3 x 7 tbl._EU/2/10/107/002",
+      "preparation_id": "0910f7c78012899e"
+    },
+    {
+      "display_package_code": "9900413",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900413",
+      "package_invalid_date": null,
+      "package_size": "10 x 7 tbl._EU/2/10/107/003",
+      "preparation_id": "0910f7c78012899e"
+    },
+    {
+      "display_package_code": "9900414",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900414",
+      "package_invalid_date": null,
+      "package_size": "20 x 7 tbl._EU/2/10/107/004",
+      "preparation_id": "0910f7c78012899e"
+    }
+  ],
+  "preparation": {
+    "holder_id": "306",
+    "holder_name": "Elanco Animal Health GmbH",
+    "name": "Veraflox",
+    "preparation_id": "0910f7c78012899e",
+    "registration_date": "2011-04-12T11:53:09+0000",
+    "registration_number": "EU/2/10/107",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c78012899b",
+    "spc_modified_date": "2025-05-05T12:20:43+0000"
+  },
+  "schema_version": 1
+}

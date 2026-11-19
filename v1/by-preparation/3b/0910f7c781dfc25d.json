@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700880",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700880",
+      "package_invalid_date": "2026-08-19T8:38:11+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c781dfc25d"
+    },
+    {
+      "display_package_code": "9700881",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700881",
+      "package_invalid_date": "2026-08-19T8:38:20+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c781dfc25d"
+    },
+    {
+      "display_package_code": "9700882",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700882",
+      "package_invalid_date": "2026-08-19T8:38:28+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c781dfc25d"
+    },
+    {
+      "display_package_code": "9700883",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700883",
+      "package_invalid_date": "2026-08-19T8:38:37+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c781dfc25d"
+    },
+    {
+      "display_package_code": "9701043",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9701043",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781dfc25d"
+    },
+    {
+      "display_package_code": "9701044",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9701044",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781dfc25d"
+    },
+    {
+      "display_package_code": "9701045",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9701045",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781dfc25d"
+    },
+    {
+      "display_package_code": "9701046",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9701046",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781dfc25d"
+    }
+  ],
+  "preparation": {
+    "holder_id": "61",
+    "holder_name": "Norbrook Laboratories (Ireland) Limited",
+    "name": "Norocarp",
+    "preparation_id": "0910f7c781dfc25d",
+    "registration_date": "2026-03-17T10:45:58+0000",
+    "registration_number": "96/027/26-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c781dfbe12",
+    "spc_modified_date": "2026-08-31T9:47:47+0000"
+  },
+  "schema_version": 1
+}

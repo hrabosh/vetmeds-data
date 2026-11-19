@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9937755",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937755",
+      "package_invalid_date": null,
+      "package_size": "1 x 10 ml",
+      "preparation_id": "0910f7c78008e323"
+    }
+  ],
+  "preparation": {
+    "holder_id": "65",
+    "holder_name": "Orion Corporation",
+    "name": "Antisedan",
+    "preparation_id": "0910f7c78008e323",
+    "registration_date": "1998-11-12T12:41:53+0000",
+    "registration_number": "96/126/98-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78008e320",
+    "spc_modified_date": "2023-12-20T12:42:34+0000"
+  },
+  "schema_version": 1
+}

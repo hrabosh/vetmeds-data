@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9938314",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938314",
+      "package_invalid_date": null,
+      "package_size": "1 x 50ml",
+      "preparation_id": "0910f7c78009b6f2"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "ROMETAR",
+    "preparation_id": "0910f7c78009b6f2",
+    "registration_date": "1985-09-17T10:51:08+0000",
+    "registration_number": "99/192/85-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78009b6ef",
+    "spc_modified_date": "2026-08-17T10:52:06+0000"
+  },
+  "schema_version": 1
+}

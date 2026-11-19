@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700977",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9700977",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c782024cee"
+    },
+    {
+      "display_package_code": "9700978",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9700978",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c782024cee"
+    },
+    {
+      "display_package_code": "9700979",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700979",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c782024cee"
+    }
+  ],
+  "preparation": {
+    "holder_id": "248",
+    "holder_name": "Elanco GmbH",
+    "name": "Vettie",
+    "preparation_id": "0910f7c782024cee",
+    "registration_date": "2026-06-30T10:26:54+0000",
+    "registration_number": "96/037/26-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c782024cec",
+    "spc_modified_date": "2026-07-07T10:27:40+0000"
+  },
+  "schema_version": 1
+}

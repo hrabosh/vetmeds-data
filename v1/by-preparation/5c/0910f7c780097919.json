@@ -1,0 +1,178 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900299",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900299",
+      "package_invalid_date": null,
+      "package_size": "4 000 dávek",
+      "preparation_id": "0910f7c780097919"
+    },
+    {
+      "display_package_code": "9900300",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900300",
+      "package_invalid_date": null,
+      "package_size": "5 000 dávek",
+      "preparation_id": "0910f7c780097919"
+    },
+    {
+      "display_package_code": "9900675",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900675",
+      "package_invalid_date": "2023-11-02T7:35:45+0000",
+      "package_size": "1 x 200 ml sterilní rozpouštědlo CA",
+      "preparation_id": "0910f7c780097919"
+    },
+    {
+      "display_package_code": "9900676",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900676",
+      "package_invalid_date": "2023-11-02T7:35:57+0000",
+      "package_size": "1 x 400 ml sterilní rozpouštědlo CA",
+      "preparation_id": "0910f7c780097919"
+    },
+    {
+      "display_package_code": "9900677",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900677",
+      "package_invalid_date": "2023-11-02T7:36:05+0000",
+      "package_size": "1 x 200 ml sterilní rozpouštědlo CA",
+      "preparation_id": "0910f7c780097919"
+    },
+    {
+      "display_package_code": "9900678",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900678",
+      "package_invalid_date": "2023-11-02T7:36:12+0000",
+      "package_size": "1 x 400 ml sterilní rozpouštědlo CA",
+      "preparation_id": "0910f7c780097919"
+    },
+    {
+      "display_package_code": "9900679",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900679",
+      "package_invalid_date": "2023-11-02T7:36:20+0000",
+      "package_size": "1 x 800 ml sterilní rozpouštědlo CA",
+      "preparation_id": "0910f7c780097919"
+    },
+    {
+      "display_package_code": "9900680",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900680",
+      "package_invalid_date": "2023-11-02T7:36:29+0000",
+      "package_size": "1 x 1000 ml sterilní rozpouštědlo CA",
+      "preparation_id": "0910f7c780097919"
+    },
+    {
+      "display_package_code": "9900681",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900681",
+      "package_invalid_date": null,
+      "package_size": "1 x 200 ml sterilní rozpouštědlo CA",
+      "preparation_id": "0910f7c780097919"
+    },
+    {
+      "display_package_code": "9900682",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900682",
+      "package_invalid_date": null,
+      "package_size": "1 x 400 ml sterilní rozpouštědlo CA",
+      "preparation_id": "0910f7c780097919"
+    },
+    {
+      "display_package_code": "9900683",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900683",
+      "package_invalid_date": null,
+      "package_size": "1 x 500 ml sterilní rozpouštědlo CA",
+      "preparation_id": "0910f7c780097919"
+    },
+    {
+      "display_package_code": "9900684",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900684",
+      "package_invalid_date": null,
+      "package_size": "1 x 600 ml sterilní rozpouštědlo CA",
+      "preparation_id": "0910f7c780097919"
+    },
+    {
+      "display_package_code": "9900685",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900685",
+      "package_invalid_date": null,
+      "package_size": "1 x 800 ml sterilní rozpouštědlo CA",
+      "preparation_id": "0910f7c780097919"
+    },
+    {
+      "display_package_code": "9900686",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900686",
+      "package_invalid_date": null,
+      "package_size": "1 x 1000 ml sterilní rozpouštědlo CA",
+      "preparation_id": "0910f7c780097919"
+    },
+    {
+      "display_package_code": "9910543",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910543",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780097919"
+    },
+    {
+      "display_package_code": "9910544",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910544",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780097919"
+    },
+    {
+      "display_package_code": "9938744",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938744",
+      "package_invalid_date": null,
+      "package_size": "1 000 dávek",
+      "preparation_id": "0910f7c780097919"
+    },
+    {
+      "display_package_code": "9938745",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938745",
+      "package_invalid_date": null,
+      "package_size": "2 000 dávek",
+      "preparation_id": "0910f7c780097919"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "Nobilis Rismavac + CA 126",
+    "preparation_id": "0910f7c780097919",
+    "registration_date": "2000-02-22T7:36:10+0000",
+    "registration_number": "97/020/00-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780097916",
+    "spc_modified_date": "2024-02-06T8:23:15+0000"
+  },
+  "schema_version": 1
+}

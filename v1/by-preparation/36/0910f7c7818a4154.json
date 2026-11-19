@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9910368",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910368",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818a4154"
+    },
+    {
+      "display_package_code": "9910369",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910369",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818a4154"
+    },
+    {
+      "display_package_code": "9910370",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910370",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818a4154"
+    },
+    {
+      "display_package_code": "9910371",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910371",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818a4154"
+    }
+  ],
+  "preparation": {
+    "holder_id": "248",
+    "holder_name": "Elanco GmbH",
+    "name": "AviPro IB-ND C131",
+    "preparation_id": "0910f7c7818a4154",
+    "registration_date": "2023-06-16T6:10:25+0000",
+    "registration_number": "97/026/23-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7818a40f8",
+    "spc_modified_date": "2024-01-04T12:17:20+0000"
+  },
+  "schema_version": 1
+}

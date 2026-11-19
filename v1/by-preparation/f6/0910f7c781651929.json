@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909201",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909201",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781651929"
+    }
+  ],
+  "preparation": {
+    "holder_id": "251",
+    "holder_name": "Dechra Regulatory B.V.",
+    "name": "Vetoryl",
+    "preparation_id": "0910f7c781651929",
+    "registration_date": "2021-03-31T9:32:13+0000",
+    "registration_number": "96/019/21-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c781651544",
+    "spc_modified_date": "2024-09-27T9:5:26+0000"
+  },
+  "schema_version": 1
+}

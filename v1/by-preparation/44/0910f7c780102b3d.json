@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9934959",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934959",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c780102b3d"
+    },
+    {
+      "display_package_code": "9934960",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934960",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c780102b3d"
+    },
+    {
+      "display_package_code": "9934961",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934961",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 ml",
+      "preparation_id": "0910f7c780102b3d"
+    },
+    {
+      "display_package_code": "9934962",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934962",
+      "package_invalid_date": null,
+      "package_size": "1 x 500 ml",
+      "preparation_id": "0910f7c780102b3d"
+    }
+  ],
+  "preparation": {
+    "holder_id": "322",
+    "holder_name": "Ceva Sante Animale",
+    "name": "Marbox 100 mg/ml injekční roztok pro skot a prasata",
+    "preparation_id": "0910f7c780102b3d",
+    "registration_date": "2011-04-27T7:21:16+0000",
+    "registration_number": "96/038/11-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780102b3a",
+    "spc_modified_date": "2025-08-20T6:33:11+0000"
+  },
+  "schema_version": 1
+}

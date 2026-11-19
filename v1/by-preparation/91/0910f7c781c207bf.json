@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9911322",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911322",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c207bf"
+    },
+    {
+      "display_package_code": "9911323",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911323",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c207bf"
+    },
+    {
+      "display_package_code": "9911324",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911324",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c207bf"
+    }
+  ],
+  "preparation": {
+    "holder_id": "304",
+    "holder_name": "Vaxxinova International B.V.",
+    "name": "VAXXON ND CLONE",
+    "preparation_id": "0910f7c781c207bf",
+    "registration_date": "2024-11-22T11:20:54+0000",
+    "registration_number": "EU/2/24/326",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c781c207bc",
+    "spc_modified_date": "2025-12-09T12:23:55+0000"
+  },
+  "schema_version": 1
+}

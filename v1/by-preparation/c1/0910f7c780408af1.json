@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905233",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905233",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780408af1"
+    }
+  ],
+  "preparation": {
+    "holder_id": "311",
+    "holder_name": "Vetpharma Animal Health S.L.",
+    "name": "Dexmopet",
+    "preparation_id": "0910f7c780408af1",
+    "registration_date": "2016-08-09T10:57:33+0000",
+    "registration_number": "96/071/16-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c780408af0",
+    "spc_modified_date": "2026-06-03T10:57:48+0000"
+  },
+  "schema_version": 1
+}

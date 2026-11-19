@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9969489",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9969489",
+      "package_invalid_date": null,
+      "package_size": "2 x 30 tbl.",
+      "preparation_id": "0910f7c7800951ce"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "Karsivan",
+    "preparation_id": "0910f7c7800951ce",
+    "registration_date": "1994-07-14T10:17:37+0000",
+    "registration_number": "96/879/94-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800951ca",
+    "spc_modified_date": "2025-06-09T11:11:31+0000"
+  },
+  "schema_version": 1
+}

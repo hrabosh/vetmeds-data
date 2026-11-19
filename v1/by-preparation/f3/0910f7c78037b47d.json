@@ -1,0 +1,106 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9903859",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903859",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78037b47d"
+    },
+    {
+      "display_package_code": "9903860",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903860",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78037b47d"
+    },
+    {
+      "display_package_code": "9903861",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903861",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78037b47d"
+    },
+    {
+      "display_package_code": "9903862",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903862",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78037b47d"
+    },
+    {
+      "display_package_code": "9903863",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903863",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78037b47d"
+    },
+    {
+      "display_package_code": "9903864",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903864",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78037b47d"
+    },
+    {
+      "display_package_code": "9903865",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903865",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78037b47d"
+    },
+    {
+      "display_package_code": "9903866",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903866",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78037b47d"
+    },
+    {
+      "display_package_code": "9903867",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903867",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78037b47d"
+    },
+    {
+      "display_package_code": "9903868",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903868",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78037b47d"
+    }
+  ],
+  "preparation": {
+    "holder_id": "280",
+    "holder_name": "Boehringer Ingelheim Animal Health France SCS",
+    "name": "Bovalto Respi 4",
+    "preparation_id": "0910f7c78037b47d",
+    "registration_date": "2015-05-29T9:3:35+0000",
+    "registration_number": "97/057/15-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78037b47c",
+    "spc_modified_date": "2023-10-13T11:51:43+0000"
+  },
+  "schema_version": 1
+}

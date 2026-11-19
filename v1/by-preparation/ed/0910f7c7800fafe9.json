@@ -1,0 +1,97 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9934840",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934840",
+      "package_invalid_date": null,
+      "package_size": "1 x 20 ml (1 x 10 dávek)_EU/2/10/109/001",
+      "preparation_id": "0910f7c7800fafe9"
+    },
+    {
+      "display_package_code": "9934841",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934841",
+      "package_invalid_date": null,
+      "package_size": "10 x 20 ml (10 x 10 dávek)_EU/2/10/109/002",
+      "preparation_id": "0910f7c7800fafe9"
+    },
+    {
+      "display_package_code": "9934842",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934842",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 ml (1 x 25 dávek)_EU/2/10/109/003",
+      "preparation_id": "0910f7c7800fafe9"
+    },
+    {
+      "display_package_code": "9934843",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934843",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml (1 x 50 dávek)_EU/2/10/109/004",
+      "preparation_id": "0910f7c7800fafe9"
+    },
+    {
+      "display_package_code": "9934844",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934844",
+      "package_invalid_date": null,
+      "package_size": "1 x 20 ml (1 x 10 dávek)_EU/2/10/109/005",
+      "preparation_id": "0910f7c7800fafe9"
+    },
+    {
+      "display_package_code": "9934845",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934845",
+      "package_invalid_date": null,
+      "package_size": "10 x 20 ml (10 x 10 dávek)_EU/2/10/109/006",
+      "preparation_id": "0910f7c7800fafe9"
+    },
+    {
+      "display_package_code": "9934846",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934846",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 ml (1 x 25 dávek(_EU/2/10/109/007",
+      "preparation_id": "0910f7c7800fafe9"
+    },
+    {
+      "display_package_code": "9934847",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934847",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml (1 x 50 dávek)_EU/2/10/109/008",
+      "preparation_id": "0910f7c7800fafe9"
+    },
+    {
+      "display_package_code": "9934848",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934848",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 ml (1 x 125 dávek)_EU/2/10/109/009",
+      "preparation_id": "0910f7c7800fafe9"
+    }
+  ],
+  "preparation": {
+    "holder_id": "49",
+    "holder_name": "Laboratorios Hipra S.A.",
+    "name": "Rhiniseng",
+    "preparation_id": "0910f7c7800fafe9",
+    "registration_date": "2010-09-16T6:40:08+0000",
+    "registration_number": "EU/2/10/109",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800fafe6",
+    "spc_modified_date": "2024-01-05T13:22:55+0000"
+  },
+  "schema_version": 1
+}

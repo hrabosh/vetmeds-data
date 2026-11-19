@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9908413",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908413",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808ca01b"
+    },
+    {
+      "display_package_code": "9908414",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908414",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808ca01b"
+    },
+    {
+      "display_package_code": "9908415",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908415",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808ca01b"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "Biosuis PRRS live",
+    "preparation_id": "0910f7c7808ca01b",
+    "registration_date": "2020-04-28T6:53:48+0000",
+    "registration_number": "97/033/20-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7808ca01a",
+    "spc_modified_date": "2025-02-14T7:54:07+0000"
+  },
+  "schema_version": 1
+}

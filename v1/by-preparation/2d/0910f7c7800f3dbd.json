@@ -1,0 +1,151 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9907495",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907495",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3dbd"
+    },
+    {
+      "display_package_code": "9907496",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907496",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3dbd"
+    },
+    {
+      "display_package_code": "9907497",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907497",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3dbd"
+    },
+    {
+      "display_package_code": "9907498",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907498",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3dbd"
+    },
+    {
+      "display_package_code": "9907499",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907499",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3dbd"
+    },
+    {
+      "display_package_code": "9934549",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934549",
+      "package_invalid_date": "2016-12-20T6:11:06+0000",
+      "package_size": "1 x 250 ml_EU/2/09/101/001",
+      "preparation_id": "0910f7c7800f3dbd"
+    },
+    {
+      "display_package_code": "9934550",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934550",
+      "package_invalid_date": "2019-06-28T9:54:42+0000",
+      "package_size": "1 x 250 ml_EU/2/09/101/002",
+      "preparation_id": "0910f7c7800f3dbd"
+    },
+    {
+      "display_package_code": "9934551",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934551",
+      "package_invalid_date": "2016-12-20T6:11:27+0000",
+      "package_size": "1 x 500 ml EU/2/09/101/003",
+      "preparation_id": "0910f7c7800f3dbd"
+    },
+    {
+      "display_package_code": "9934552",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934552",
+      "package_invalid_date": "2019-06-28T9:55:37+0000",
+      "package_size": "1 x 500 ml_EU/2/09/101/004",
+      "preparation_id": "0910f7c7800f3dbd"
+    },
+    {
+      "display_package_code": "9934553",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934553",
+      "package_invalid_date": "2016-12-20T6:11:50+0000",
+      "package_size": "1 x 1 l_EU/2/09/101/005",
+      "preparation_id": "0910f7c7800f3dbd"
+    },
+    {
+      "display_package_code": "9934554",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934554",
+      "package_invalid_date": "2019-06-28T9:56:40+0000",
+      "package_size": "1 x 1 l_EU/2/09/101/006",
+      "preparation_id": "0910f7c7800f3dbd"
+    },
+    {
+      "display_package_code": "9934555",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934555",
+      "package_invalid_date": "2016-12-20T6:12:12+0000",
+      "package_size": "1 x 2,5 l_EU/2/09/101/007",
+      "preparation_id": "0910f7c7800f3dbd"
+    },
+    {
+      "display_package_code": "9934556",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934556",
+      "package_invalid_date": "2019-06-28T9:57:38+0000",
+      "package_size": "1 x 2,5 l_EU/2/09/101/008",
+      "preparation_id": "0910f7c7800f3dbd"
+    },
+    {
+      "display_package_code": "9934557",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934557",
+      "package_invalid_date": "2016-12-20T6:12:34+0000",
+      "package_size": "1 x 5 l_EU/2/09/101/009",
+      "preparation_id": "0910f7c7800f3dbd"
+    },
+    {
+      "display_package_code": "9934558",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934558",
+      "package_invalid_date": "2019-06-28T9:58:50+0000",
+      "package_size": "1 x 5 l_EU/2/09/101/010",
+      "preparation_id": "0910f7c7800f3dbd"
+    }
+  ],
+  "preparation": {
+    "holder_id": "248",
+    "holder_name": "Elanco GmbH",
+    "name": "ZOLVIX",
+    "preparation_id": "0910f7c7800f3dbd",
+    "registration_date": "2009-11-04T10:19:44+0000",
+    "registration_number": "EU/2/09/101",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f3dba",
+    "spc_modified_date": "2023-05-03T11:39:50+0000"
+  },
+  "schema_version": 1
+}

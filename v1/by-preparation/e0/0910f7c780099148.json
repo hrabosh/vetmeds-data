@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700014",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700014",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780099148"
+    },
+    {
+      "display_package_code": "9935105",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935105",
+      "package_invalid_date": null,
+      "package_size": "2 x 1 dávka",
+      "preparation_id": "0910f7c780099148"
+    },
+    {
+      "display_package_code": "9935106",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935106",
+      "package_invalid_date": null,
+      "package_size": "10 x 1 dávka",
+      "preparation_id": "0910f7c780099148"
+    },
+    {
+      "display_package_code": "9935111",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935111",
+      "package_invalid_date": null,
+      "package_size": "1 x 10 ml",
+      "preparation_id": "0910f7c780099148"
+    },
+    {
+      "display_package_code": "9997217",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9997217",
+      "package_invalid_date": null,
+      "package_size": "1 x 20 ml",
+      "preparation_id": "0910f7c780099148"
+    },
+    {
+      "display_package_code": "9997218",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9997218",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c780099148"
+    },
+    {
+      "display_package_code": "9997219",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9997219",
+      "package_invalid_date": null,
+      "package_size": "5 x 20 ml",
+      "preparation_id": "0910f7c780099148"
+    },
+    {
+      "display_package_code": "9997220",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9997220",
+      "package_invalid_date": null,
+      "package_size": "5 x 1 dávka",
+      "preparation_id": "0910f7c780099148"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "PESTORIN",
+    "preparation_id": "0910f7c780099148",
+    "registration_date": "1991-11-12T7:33:12+0000",
+    "registration_number": "97/341/91-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780099141",
+    "spc_modified_date": "2025-01-31T7:44:27+0000"
+  },
+  "schema_version": 1
+}

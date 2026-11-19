@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905659",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905659",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78042f9f2"
+    },
+    {
+      "display_package_code": "9905660",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905660",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78042f9f2"
+    },
+    {
+      "display_package_code": "9905661",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905661",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78042f9f2"
+    },
+    {
+      "display_package_code": "9905662",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905662",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78042f9f2"
+    }
+  ],
+  "preparation": {
+    "holder_id": "50",
+    "holder_name": "Laboratorios Karizoo, S.A.",
+    "name": "Citramox",
+    "preparation_id": "0910f7c78042f9f2",
+    "registration_date": "2016-10-04T11:4:19+0000",
+    "registration_number": "96/093/16-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78042f9f1",
+    "spc_modified_date": "2025-12-02T12:4:36+0000"
+  },
+  "schema_version": 1
+}

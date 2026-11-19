@@ -1,0 +1,34 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9934567",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934567",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 dávek (1 x 100 ml)_EU/2/09/104/001",
+      "preparation_id": "0910f7c7800f3ddc"
+    },
+    {
+      "display_package_code": "9934568",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934568",
+      "package_invalid_date": null,
+      "package_size": "1 x 120 dávek (1 x 240 ml)_EU/2/09/104/002",
+      "preparation_id": "0910f7c7800f3ddc"
+    }
+  ],
+  "preparation": {
+    "holder_id": "100",
+    "holder_name": "Zoetis Belgium",
+    "name": "ZULVAC 8 Ovis",
+    "preparation_id": "0910f7c7800f3ddc",
+    "registration_date": "2010-01-15T10:40:56+0000",
+    "registration_number": "EU/2/09/104",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f3dd7",
+    "spc_modified_date": "2025-09-30T8:34:53+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9934625",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934625",
+      "package_invalid_date": null,
+      "package_size": "1 x 1 kg",
+      "preparation_id": "0910f7c78008e82f"
+    }
+  ],
+  "preparation": {
+    "holder_id": "25",
+    "holder_name": "Cymedica, spol. s r. o.",
+    "name": "Amix vet A",
+    "preparation_id": "0910f7c78008e82f",
+    "registration_date": "2006-12-21T14:39:22+0000",
+    "registration_number": "96/032/06-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78008e82c",
+    "spc_modified_date": "2025-09-23T11:41:18+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9935796",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935796",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 ml",
+      "preparation_id": "0910f7c78009d72c"
+    },
+    {
+      "display_package_code": "9935979",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935979",
+      "package_invalid_date": null,
+      "package_size": "1 x 1 l",
+      "preparation_id": "0910f7c78009d72c"
+    },
+    {
+      "display_package_code": "9935980",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935980",
+      "package_invalid_date": null,
+      "package_size": "1 x 5 l",
+      "preparation_id": "0910f7c78009d72c"
+    }
+  ],
+  "preparation": {
+    "holder_id": "311",
+    "holder_name": "Vetpharma Animal Health S.L.",
+    "name": "UNISOL",
+    "preparation_id": "0910f7c78009d72c",
+    "registration_date": "2009-09-13T7:3:49+0000",
+    "registration_number": "96/092/09-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78009d729",
+    "spc_modified_date": "2024-08-16T7:4:37+0000"
+  },
+  "schema_version": 1
+}

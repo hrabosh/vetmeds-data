@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900736",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9900736",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml (převod registrace)",
+      "preparation_id": "0910f7c7800c0437"
+    },
+    {
+      "display_package_code": "9900737",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9900737",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 ml (převod registrace)",
+      "preparation_id": "0910f7c7800c0437"
+    },
+    {
+      "display_package_code": "9934821",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9934821",
+      "package_invalid_date": "2011-11-07T10:29:21+0000",
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c7800c0437"
+    },
+    {
+      "display_package_code": "9934822",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9934822",
+      "package_invalid_date": "2011-11-07T10:29:36+0000",
+      "package_size": "1 x 250 ml",
+      "preparation_id": "0910f7c7800c0437"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "Fipron",
+    "preparation_id": "0910f7c7800c0437",
+    "registration_date": "2009-05-29T11:57:20+0000",
+    "registration_number": "99/011/09-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800c0432",
+    "spc_modified_date": "2026-05-05T11:57:41+0000"
+  },
+  "schema_version": 1
+}

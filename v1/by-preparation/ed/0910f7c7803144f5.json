@@ -1,0 +1,124 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9904858",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904858",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7803144f5"
+    },
+    {
+      "display_package_code": "9904859",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904859",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7803144f5"
+    },
+    {
+      "display_package_code": "9904860",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904860",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7803144f5"
+    },
+    {
+      "display_package_code": "9904861",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904861",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7803144f5"
+    },
+    {
+      "display_package_code": "9904862",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904862",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7803144f5"
+    },
+    {
+      "display_package_code": "9904863",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904863",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7803144f5"
+    },
+    {
+      "display_package_code": "9904864",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904864",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7803144f5"
+    },
+    {
+      "display_package_code": "9904865",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904865",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7803144f5"
+    },
+    {
+      "display_package_code": "9904866",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904866",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7803144f5"
+    },
+    {
+      "display_package_code": "9904867",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904867",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7803144f5"
+    },
+    {
+      "display_package_code": "9904868",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904868",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7803144f5"
+    },
+    {
+      "display_package_code": "9904869",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904869",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7803144f5"
+    }
+  ],
+  "preparation": {
+    "holder_id": "180",
+    "holder_name": "Le Vet. Beheer, B.V.",
+    "name": "Carporal",
+    "preparation_id": "0910f7c7803144f5",
+    "registration_date": "2016-03-08T9:40:47+0000",
+    "registration_number": "96/017/16-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7806e6a25",
+    "spc_modified_date": "2024-06-14T8:26:26+0000"
+  },
+  "schema_version": 1
+}

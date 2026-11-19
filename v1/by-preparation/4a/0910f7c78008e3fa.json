@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909854",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909854",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008e3fa"
+    },
+    {
+      "display_package_code": "9938105",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938105",
+      "package_invalid_date": null,
+      "package_size": "3 x 6 ml",
+      "preparation_id": "0910f7c78008e3fa"
+    },
+    {
+      "display_package_code": "9938281",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938281",
+      "package_invalid_date": null,
+      "package_size": "6 x 2 ml",
+      "preparation_id": "0910f7c78008e3fa"
+    },
+    {
+      "display_package_code": "9938472",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938472",
+      "package_invalid_date": null,
+      "package_size": "3 x 2 ml",
+      "preparation_id": "0910f7c78008e3fa"
+    },
+    {
+      "display_package_code": "9938894",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938894",
+      "package_invalid_date": null,
+      "package_size": "6 x 6 ml",
+      "preparation_id": "0910f7c78008e3fa"
+    }
+  ],
+  "preparation": {
+    "holder_id": "22",
+    "holder_name": "Contipro a.s.",
+    "name": "BONHAREN Intravenous",
+    "preparation_id": "0910f7c78008e3fa",
+    "registration_date": "2000-08-08T12:25:46+0000",
+    "registration_number": "96/045/00-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78008e3f7",
+    "spc_modified_date": "2025-10-13T10:48:34+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,79 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9935070",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935070",
+      "package_invalid_date": null,
+      "package_size": "5 x 1 dávka",
+      "preparation_id": "0910f7c7800932a9"
+    },
+    {
+      "display_package_code": "9935152",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935152",
+      "package_invalid_date": null,
+      "package_size": "10 x 1 dávka",
+      "preparation_id": "0910f7c7800932a9"
+    },
+    {
+      "display_package_code": "9935336",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935336",
+      "package_invalid_date": null,
+      "package_size": "1 x 5 dávek",
+      "preparation_id": "0910f7c7800932a9"
+    },
+    {
+      "display_package_code": "9935421",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935421",
+      "package_invalid_date": null,
+      "package_size": "10 x 5 dávek",
+      "preparation_id": "0910f7c7800932a9"
+    },
+    {
+      "display_package_code": "9935576",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935576",
+      "package_invalid_date": null,
+      "package_size": "10 x 1 dávka",
+      "preparation_id": "0910f7c7800932a9"
+    },
+    {
+      "display_package_code": "9935647",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935647",
+      "package_invalid_date": null,
+      "package_size": "2 x 1 dávka",
+      "preparation_id": "0910f7c7800932a9"
+    },
+    {
+      "display_package_code": "9935700",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935700",
+      "package_invalid_date": null,
+      "package_size": "2 x 1 dávka",
+      "preparation_id": "0910f7c7800932a9"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "FLUEQUIN",
+    "preparation_id": "0910f7c7800932a9",
+    "registration_date": "2003-04-07T6:33:39+0000",
+    "registration_number": "97/031/03-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7800932a6",
+    "spc_modified_date": "2022-10-26T7:20:43+0000"
+  },
+  "schema_version": 1
+}

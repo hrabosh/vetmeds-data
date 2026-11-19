@@ -1,0 +1,403 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9935990",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9935990",
+      "package_invalid_date": null,
+      "package_size": "1 x 2 tbl.",
+      "preparation_id": "0910f7c7800d7f09"
+    },
+    {
+      "display_package_code": "9935997",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9935997",
+      "package_invalid_date": null,
+      "package_size": "1 x 4 tbl.",
+      "preparation_id": "0910f7c7800d7f09"
+    },
+    {
+      "display_package_code": "9935998",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9935998",
+      "package_invalid_date": null,
+      "package_size": "1 x 6 tbl.",
+      "preparation_id": "0910f7c7800d7f09"
+    },
+    {
+      "display_package_code": "9935999",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9935999",
+      "package_invalid_date": null,
+      "package_size": "1 x 8 tbl.",
+      "preparation_id": "0910f7c7800d7f09"
+    },
+    {
+      "display_package_code": "9936000",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9936000",
+      "package_invalid_date": null,
+      "package_size": "1 x 10 tbl.",
+      "preparation_id": "0910f7c7800d7f09"
+    },
+    {
+      "display_package_code": "9936055",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9936055",
+      "package_invalid_date": null,
+      "package_size": "1 x 12 tbl.",
+      "preparation_id": "0910f7c7800d7f09"
+    },
+    {
+      "display_package_code": "9936128",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9936128",
+      "package_invalid_date": null,
+      "package_size": "1 x 14 tbl.",
+      "preparation_id": "0910f7c7800d7f09"
+    },
+    {
+      "display_package_code": "9936209",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9936209",
+      "package_invalid_date": null,
+      "package_size": "1 x 16 tbl.",
+      "preparation_id": "0910f7c7800d7f09"
+    },
+    {
+      "display_package_code": "9936210",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9936210",
+      "package_invalid_date": null,
+      "package_size": "1 x 18 tbl.",
+      "preparation_id": "0910f7c7800d7f09"
+    },
+    {
+      "display_package_code": "9936516",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9936516",
+      "package_invalid_date": null,
+      "package_size": "1 x 20 tbl.",
+      "preparation_id": "0910f7c7800d7f09"
+    },
+    {
+      "display_package_code": "9936522",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9936522",
+      "package_invalid_date": null,
+      "package_size": "1 x 24 tbl.",
+      "preparation_id": "0910f7c7800d7f09"
+    },
+    {
+      "display_package_code": "9936523",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9936523",
+      "package_invalid_date": null,
+      "package_size": "1 x 28 tbl.",
+      "preparation_id": "0910f7c7800d7f09"
+    },
+    {
+      "display_package_code": "9936524",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9936524",
+      "package_invalid_date": null,
+      "package_size": "1 x 30 tbl.",
+      "preparation_id": "0910f7c7800d7f09"
+    },
+    {
+      "display_package_code": "9936590",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9936590",
+      "package_invalid_date": null,
+      "package_size": "1 x 32 tbl.",
+      "preparation_id": "0910f7c7800d7f09"
+    },
+    {
+      "display_package_code": "9936628",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9936628",
+      "package_invalid_date": null,
+      "package_size": "1 x 36 tbl.",
+      "preparation_id": "0910f7c7800d7f09"
+    },
+    {
+      "display_package_code": "9937693",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9937693",
+      "package_invalid_date": null,
+      "package_size": "1 x 40 tbl.",
+      "preparation_id": "0910f7c7800d7f09"
+    },
+    {
+      "display_package_code": "9937721",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9937721",
+      "package_invalid_date": null,
+      "package_size": "1 x 42 tbl.",
+      "preparation_id": "0910f7c7800d7f09"
+    },
+    {
+      "display_package_code": "9937749",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9937749",
+      "package_invalid_date": null,
+      "package_size": "1 x 44 tbl.",
+      "preparation_id": "0910f7c7800d7f09"
+    },
+    {
+      "display_package_code": "9937782",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9937782",
+      "package_invalid_date": null,
+      "package_size": "1 x 48 tbl.",
+      "preparation_id": "0910f7c7800d7f09"
+    },
+    {
+      "display_package_code": "9937870",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9937870",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 tbl.",
+      "preparation_id": "0910f7c7800d7f09"
+    },
+    {
+      "display_package_code": "9938013",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9938013",
+      "package_invalid_date": null,
+      "package_size": "1 x 52 tbl.",
+      "preparation_id": "0910f7c7800d7f09"
+    },
+    {
+      "display_package_code": "9938353",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9938353",
+      "package_invalid_date": null,
+      "package_size": "1 x 56 tbl.",
+      "preparation_id": "0910f7c7800d7f09"
+    },
+    {
+      "display_package_code": "9938354",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9938354",
+      "package_invalid_date": null,
+      "package_size": "1 x 60 tbl.",
+      "preparation_id": "0910f7c7800d7f09"
+    },
+    {
+      "display_package_code": "9938473",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9938473",
+      "package_invalid_date": null,
+      "package_size": "1 x 70 tbl.",
+      "preparation_id": "0910f7c7800d7f09"
+    },
+    {
+      "display_package_code": "9938669",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9938669",
+      "package_invalid_date": null,
+      "package_size": "1 x 80 tbl.",
+      "preparation_id": "0910f7c7800d7f09"
+    },
+    {
+      "display_package_code": "9938670",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9938670",
+      "package_invalid_date": null,
+      "package_size": "1 x 84 tbl.",
+      "preparation_id": "0910f7c7800d7f09"
+    },
+    {
+      "display_package_code": "9938709",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9938709",
+      "package_invalid_date": null,
+      "package_size": "1 x 90 tbl.",
+      "preparation_id": "0910f7c7800d7f09"
+    },
+    {
+      "display_package_code": "9938796",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9938796",
+      "package_invalid_date": null,
+      "package_size": "1 x 98 tbl.",
+      "preparation_id": "0910f7c7800d7f09"
+    },
+    {
+      "display_package_code": "9938797",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9938797",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 tbl.",
+      "preparation_id": "0910f7c7800d7f09"
+    },
+    {
+      "display_package_code": "9938798",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9938798",
+      "package_invalid_date": null,
+      "package_size": "1 x 104 tbl.",
+      "preparation_id": "0910f7c7800d7f09"
+    },
+    {
+      "display_package_code": "9938818",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9938818",
+      "package_invalid_date": null,
+      "package_size": "1 x 106 tbl.",
+      "preparation_id": "0910f7c7800d7f09"
+    },
+    {
+      "display_package_code": "9938819",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9938819",
+      "package_invalid_date": null,
+      "package_size": "1 x 120 tbl.",
+      "preparation_id": "0910f7c7800d7f09"
+    },
+    {
+      "display_package_code": "9938834",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9938834",
+      "package_invalid_date": null,
+      "package_size": "1 x 140 tbl.",
+      "preparation_id": "0910f7c7800d7f09"
+    },
+    {
+      "display_package_code": "9938835",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9938835",
+      "package_invalid_date": null,
+      "package_size": "1 x 150 tbl.",
+      "preparation_id": "0910f7c7800d7f09"
+    },
+    {
+      "display_package_code": "9938840",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9938840",
+      "package_invalid_date": null,
+      "package_size": "1 x 180 tbl.",
+      "preparation_id": "0910f7c7800d7f09"
+    },
+    {
+      "display_package_code": "9938841",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9938841",
+      "package_invalid_date": null,
+      "package_size": "1 x 200 tbl.",
+      "preparation_id": "0910f7c7800d7f09"
+    },
+    {
+      "display_package_code": "9938842",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9938842",
+      "package_invalid_date": null,
+      "package_size": "1 x 204 tbl.",
+      "preparation_id": "0910f7c7800d7f09"
+    },
+    {
+      "display_package_code": "9938845",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9938845",
+      "package_invalid_date": null,
+      "package_size": "1 x 206 tbl.",
+      "preparation_id": "0910f7c7800d7f09"
+    },
+    {
+      "display_package_code": "9938848",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9938848",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 tbl.",
+      "preparation_id": "0910f7c7800d7f09"
+    },
+    {
+      "display_package_code": "9938849",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9938849",
+      "package_invalid_date": null,
+      "package_size": "1 x 280 tbl.",
+      "preparation_id": "0910f7c7800d7f09"
+    },
+    {
+      "display_package_code": "9938850",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9938850",
+      "package_invalid_date": null,
+      "package_size": "1 x 300 tbl.",
+      "preparation_id": "0910f7c7800d7f09"
+    },
+    {
+      "display_package_code": "9938851",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9938851",
+      "package_invalid_date": null,
+      "package_size": "1 x 500 tbl.",
+      "preparation_id": "0910f7c7800d7f09"
+    },
+    {
+      "display_package_code": "9938853",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9938853",
+      "package_invalid_date": null,
+      "package_size": "1 x 1000 tbl.",
+      "preparation_id": "0910f7c7800d7f09"
+    }
+  ],
+  "preparation": {
+    "holder_id": "37",
+    "holder_name": "Chanelle Pharmaceuticals Manufacturing, Ltd.",
+    "name": "Prazitel Plus",
+    "preparation_id": "0910f7c7800d7f09",
+    "registration_date": "2010-04-29T6:36:49+0000",
+    "registration_number": "96/018/10-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7800d7f05",
+    "spc_modified_date": "2025-08-14T7:2:26+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909479",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909479",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78160c11d"
+    },
+    {
+      "display_package_code": "9909480",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909480",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78160c11d"
+    },
+    {
+      "display_package_code": "9909481",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909481",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78160c11d"
+    }
+  ],
+  "preparation": {
+    "holder_id": "34",
+    "holder_name": "Fatro, S.p.A.",
+    "name": "Fatrovax RHD",
+    "preparation_id": "0910f7c78160c11d",
+    "registration_date": "2021-08-16T11:23:53+0000",
+    "registration_number": "EU/2/21/275",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c78160c11c",
+    "spc_modified_date": "2025-06-16T12:4:23+0000"
+  },
+  "schema_version": 1
+}

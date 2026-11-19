@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9907464",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907464",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78153b99d"
+    },
+    {
+      "display_package_code": "9907465",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907465",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78153b99d"
+    },
+    {
+      "display_package_code": "9907466",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907466",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78153b99d"
+    }
+  ],
+  "preparation": {
+    "holder_id": "46",
+    "holder_name": "Krka d.d. Novo mesto",
+    "name": "Amcofen pro malé psy a štěňata",
+    "preparation_id": "0910f7c78153b99d",
+    "registration_date": "2019-06-18T11:15:09+0000",
+    "registration_number": "96/045/19-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78153b8bc",
+    "spc_modified_date": "2024-01-31T9:23:31+0000"
+  },
+  "schema_version": 1
+}

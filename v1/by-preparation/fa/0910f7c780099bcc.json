@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902376",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902376",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780099bcc"
+    },
+    {
+      "display_package_code": "9902377",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902377",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780099bcc"
+    },
+    {
+      "display_package_code": "9905965",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905965",
+      "package_invalid_date": "2024-04-16T12:37:49+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780099bcc"
+    },
+    {
+      "display_package_code": "9966651",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9966651",
+      "package_invalid_date": "2013-05-09T5:47:24+0000",
+      "package_size": "120 injektorů x 3,6 g",
+      "preparation_id": "0910f7c780099bcc"
+    },
+    {
+      "display_package_code": "9996952",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9996952",
+      "package_invalid_date": "2013-05-09T5:48:09+0000",
+      "package_size": "24 injektorů x 3,6 g",
+      "preparation_id": "0910f7c780099bcc"
+    }
+  ],
+  "preparation": {
+    "holder_id": "226",
+    "holder_name": "Zoetis Česká republika s.r.o.",
+    "name": "ORBENIN EXTRA DRY COW",
+    "preparation_id": "0910f7c780099bcc",
+    "registration_date": "1991-07-25T9:32:20+0000",
+    "registration_number": "96/257/91-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780099bc7",
+    "spc_modified_date": "2024-11-27T7:26:56+0000"
+  },
+  "schema_version": 1
+}

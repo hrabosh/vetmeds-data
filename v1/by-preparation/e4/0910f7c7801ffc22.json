@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9903984",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9903984",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801ffc22"
+    },
+    {
+      "display_package_code": "9903985",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903985",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801ffc22"
+    },
+    {
+      "display_package_code": "9903988",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903988",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801ffc22"
+    }
+  ],
+  "preparation": {
+    "holder_id": "280",
+    "holder_name": "Boehringer Ingelheim Animal Health France SCS",
+    "name": "Frontline Tri-Act pro psy",
+    "preparation_id": "0910f7c7801ffc22",
+    "registration_date": "2014-12-15T7:17:29+0000",
+    "registration_number": "96/096/14-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7801ffc20",
+    "spc_modified_date": "2026-09-18T7:18:06+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,124 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909660",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909660",
+      "package_invalid_date": "2022-06-15T4:30:13+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c781816a9f"
+    },
+    {
+      "display_package_code": "9909661",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909661",
+      "package_invalid_date": "2022-06-15T5:17:44+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c781816a9f"
+    },
+    {
+      "display_package_code": "9909662",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909662",
+      "package_invalid_date": "2022-06-15T5:20:23+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c781816a9f"
+    },
+    {
+      "display_package_code": "9909663",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909663",
+      "package_invalid_date": "2022-06-15T5:23:02+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c781816a9f"
+    },
+    {
+      "display_package_code": "9909664",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909664",
+      "package_invalid_date": "2022-06-15T5:24:31+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c781816a9f"
+    },
+    {
+      "display_package_code": "9909665",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909665",
+      "package_invalid_date": "2022-06-15T5:25:46+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c781816a9f"
+    },
+    {
+      "display_package_code": "9909848",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909848",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781816a9f"
+    },
+    {
+      "display_package_code": "9909849",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909849",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781816a9f"
+    },
+    {
+      "display_package_code": "9909850",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909850",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781816a9f"
+    },
+    {
+      "display_package_code": "9909851",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909851",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781816a9f"
+    },
+    {
+      "display_package_code": "9909852",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909852",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781816a9f"
+    },
+    {
+      "display_package_code": "9909853",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909853",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781816a9f"
+    }
+  ],
+  "preparation": {
+    "holder_id": "34",
+    "holder_name": "Fatro, S.p.A.",
+    "name": "Fatroseal",
+    "preparation_id": "0910f7c781816a9f",
+    "registration_date": "2022-03-31T11:56:20+0000",
+    "registration_number": "96/009/22-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781816a9e",
+    "spc_modified_date": "2025-10-08T11:56:35+0000"
+  },
+  "schema_version": 1
+}

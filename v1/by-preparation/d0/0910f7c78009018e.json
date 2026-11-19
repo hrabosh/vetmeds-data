@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902036",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902036",
+      "package_invalid_date": null,
+      "package_size": "3 x 1 dávka",
+      "preparation_id": "0910f7c78009018e"
+    },
+    {
+      "display_package_code": "9902037",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902037",
+      "package_invalid_date": null,
+      "package_size": "6 x 1 dávka",
+      "preparation_id": "0910f7c78009018e"
+    },
+    {
+      "display_package_code": "9902038",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902038",
+      "package_invalid_date": null,
+      "package_size": "30 x 1 dávka",
+      "preparation_id": "0910f7c78009018e"
+    },
+    {
+      "display_package_code": "9902039",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902039",
+      "package_invalid_date": null,
+      "package_size": "60 x 1 dávka",
+      "preparation_id": "0910f7c78009018e"
+    },
+    {
+      "display_package_code": "9937989",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937989",
+      "package_invalid_date": null,
+      "package_size": "3 x 1 dávka",
+      "preparation_id": "0910f7c78009018e"
+    },
+    {
+      "display_package_code": "9938039",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938039",
+      "package_invalid_date": null,
+      "package_size": "6 x 1 dávka",
+      "preparation_id": "0910f7c78009018e"
+    },
+    {
+      "display_package_code": "9938084",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938084",
+      "package_invalid_date": null,
+      "package_size": "30 x 1 dávka",
+      "preparation_id": "0910f7c78009018e"
+    },
+    {
+      "display_package_code": "9938274",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938274",
+      "package_invalid_date": null,
+      "package_size": "60 x 1 dávka",
+      "preparation_id": "0910f7c78009018e"
+    }
+  ],
+  "preparation": {
+    "holder_id": "29",
+    "holder_name": "Dyntec, spol. s r.o.",
+    "name": "CANVAC DHPPiL+R",
+    "preparation_id": "0910f7c78009018e",
+    "registration_date": "2003-09-09T7:59:27+0000",
+    "registration_number": "97/045/03-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78009018b",
+    "spc_modified_date": "2026-09-10T7:1:38+0000"
+  },
+  "schema_version": 1
+}

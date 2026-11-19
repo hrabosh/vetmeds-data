@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906386",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906386",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78134f003"
+    },
+    {
+      "display_package_code": "9906387",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906387",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78134f003"
+    },
+    {
+      "display_package_code": "9906388",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906388",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78134f003"
+    }
+  ],
+  "preparation": {
+    "holder_id": "37",
+    "holder_name": "Chanelle Pharmaceuticals Manufacturing, Ltd.",
+    "name": "Animec Super",
+    "preparation_id": "0910f7c78134f003",
+    "registration_date": "2018-03-23T9:33:55+0000",
+    "registration_number": "96/017/18-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78134f002",
+    "spc_modified_date": "2022-10-25T8:3:52+0000"
+  },
+  "schema_version": 1
+}

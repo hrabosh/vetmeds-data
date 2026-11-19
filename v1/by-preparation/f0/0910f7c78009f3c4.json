@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9938826",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938826",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c78009f3c4"
+    },
+    {
+      "display_package_code": "9938827",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938827",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 m",
+      "preparation_id": "0910f7c78009f3c4"
+    },
+    {
+      "display_package_code": "9938828",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938828",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 ml",
+      "preparation_id": "0910f7c78009f3c4"
+    },
+    {
+      "display_package_code": "9938829",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938829",
+      "package_invalid_date": null,
+      "package_size": "12 x 50 ml",
+      "preparation_id": "0910f7c78009f3c4"
+    },
+    {
+      "display_package_code": "9938830",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938830",
+      "package_invalid_date": null,
+      "package_size": "12 x 100 ml",
+      "preparation_id": "0910f7c78009f3c4"
+    },
+    {
+      "display_package_code": "9938831",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938831",
+      "package_invalid_date": null,
+      "package_size": "6 x 250 ml",
+      "preparation_id": "0910f7c78009f3c4"
+    }
+  ],
+  "preparation": {
+    "holder_id": "2",
+    "holder_name": "Alfasan International B.V.",
+    "name": "VITAMIN AD3E Alfasan",
+    "preparation_id": "0910f7c78009f3c4",
+    "registration_date": "2000-04-11T5:55:02+0000",
+    "registration_number": "96/008/00-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78009f3c1",
+    "spc_modified_date": "2022-10-26T9:31:43+0000"
+  },
+  "schema_version": 1
+}

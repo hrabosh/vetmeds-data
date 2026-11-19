@@ -1,0 +1,106 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9904329",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904329",
+      "package_invalid_date": "2016-02-17T11:40:17+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7801a23a6"
+    },
+    {
+      "display_package_code": "9904330",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904330",
+      "package_invalid_date": "2016-02-17T11:40:30+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7801a23a6"
+    },
+    {
+      "display_package_code": "9904331",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904331",
+      "package_invalid_date": "2016-02-17T11:40:44+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7801a23a6"
+    },
+    {
+      "display_package_code": "9904332",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904332",
+      "package_invalid_date": "2016-02-17T11:40:59+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7801a23a6"
+    },
+    {
+      "display_package_code": "9904333",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904333",
+      "package_invalid_date": "2016-02-17T11:41:12+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7801a23a6"
+    },
+    {
+      "display_package_code": "9904736",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904736",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801a23a6"
+    },
+    {
+      "display_package_code": "9904737",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904737",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801a23a6"
+    },
+    {
+      "display_package_code": "9904738",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904738",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801a23a6"
+    },
+    {
+      "display_package_code": "9904739",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904739",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801a23a6"
+    },
+    {
+      "display_package_code": "9904740",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904740",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801a23a6"
+    }
+  ],
+  "preparation": {
+    "holder_id": "322",
+    "holder_name": "Ceva Sante Animale",
+    "name": "Libeo pro psy",
+    "preparation_id": "0910f7c7801a23a6",
+    "registration_date": "2015-04-21T7:25:27+0000",
+    "registration_number": "96/048/15-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7801a23a1",
+    "spc_modified_date": "2025-05-20T12:23:18+0000"
+  },
+  "schema_version": 1
+}

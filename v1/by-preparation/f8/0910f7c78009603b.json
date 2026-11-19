@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9936520",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936520",
+      "package_invalid_date": null,
+      "package_size": "1 x 10 ml",
+      "preparation_id": "0910f7c78009603b"
+    },
+    {
+      "display_package_code": "9936770",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936770",
+      "package_invalid_date": null,
+      "package_size": "6 x 10 ml",
+      "preparation_id": "0910f7c78009603b"
+    },
+    {
+      "display_package_code": "9936986",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936986",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c78009603b"
+    },
+    {
+      "display_package_code": "9937415",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937415",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c78009603b"
+    }
+  ],
+  "preparation": {
+    "holder_id": "110",
+    "holder_name": "Veyx-Pharma GmbH",
+    "name": "Maprelin",
+    "preparation_id": "0910f7c78009603b",
+    "registration_date": "2009-07-24T10:18:34+0000",
+    "registration_number": "96/080/09-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780096038",
+    "spc_modified_date": "2026-09-15T10:18:50+0000"
+  },
+  "schema_version": 1
+}

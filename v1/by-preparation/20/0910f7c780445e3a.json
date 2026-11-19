@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905821",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905821",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780445e3a"
+    },
+    {
+      "display_package_code": "9905822",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905822",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780445e3a"
+    },
+    {
+      "display_package_code": "9905823",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905823",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780445e3a"
+    },
+    {
+      "display_package_code": "9905824",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905824",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780445e3a"
+    }
+  ],
+  "preparation": {
+    "holder_id": "37",
+    "holder_name": "Chanelle Pharmaceuticals Manufacturing, Ltd.",
+    "name": "Unomec",
+    "preparation_id": "0910f7c780445e3a",
+    "registration_date": "2017-01-23T11:35:44+0000",
+    "registration_number": "96/006/17-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780445e39",
+    "spc_modified_date": "2026-10-09T10:36:02+0000"
+  },
+  "schema_version": 1
+}

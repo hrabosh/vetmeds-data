@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700639",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700639",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815b06c9"
+    },
+    {
+      "display_package_code": "9700640",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700640",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815b06c9"
+    },
+    {
+      "display_package_code": "9700641",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700641",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815b06c9"
+    },
+    {
+      "display_package_code": "9908607",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908607",
+      "package_invalid_date": "2026-01-05T9:5:23+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7815b06c9"
+    },
+    {
+      "display_package_code": "9908608",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908608",
+      "package_invalid_date": "2026-01-05T9:5:31+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7815b06c9"
+    },
+    {
+      "display_package_code": "9908609",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908609",
+      "package_invalid_date": "2026-01-05T9:5:40+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7815b06c9"
+    }
+  ],
+  "preparation": {
+    "holder_id": "329",
+    "holder_name": "IZO S.r.l. a socio unico",
+    "name": "Avishield IBD Plus",
+    "preparation_id": "0910f7c7815b06c9",
+    "registration_date": "2020-05-29T6:14:00+0000",
+    "registration_number": "97/046/20-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7815b06c8",
+    "spc_modified_date": "2026-02-26T8:42:14+0000"
+  },
+  "schema_version": 1
+}

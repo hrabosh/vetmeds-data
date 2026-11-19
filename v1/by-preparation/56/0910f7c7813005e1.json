@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9907374",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907374",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7813005e1"
+    },
+    {
+      "display_package_code": "9907375",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907375",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7813005e1"
+    },
+    {
+      "display_package_code": "9907376",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907376",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7813005e1"
+    }
+  ],
+  "preparation": {
+    "holder_id": "20",
+    "holder_name": "Ceva Santé Animale",
+    "name": "Forceris",
+    "preparation_id": "0910f7c7813005e1",
+    "registration_date": "2019-04-23T11:47:19+0000",
+    "registration_number": "EU/2/19/235",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7813005e0",
+    "spc_modified_date": "2024-07-23T12:6:44+0000"
+  },
+  "schema_version": 1
+}

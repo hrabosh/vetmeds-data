@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902804",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902804",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800933cb"
+    },
+    {
+      "display_package_code": "9902805",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902805",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800933cb"
+    },
+    {
+      "display_package_code": "9966758",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9966758",
+      "package_invalid_date": "2013-11-01T10:32:58+0000",
+      "package_size": "50 x 100 ml",
+      "preparation_id": "0910f7c7800933cb"
+    },
+    {
+      "display_package_code": "9990423",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9990423",
+      "package_invalid_date": "2013-11-01T10:32:40+0000",
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c7800933cb"
+    }
+  ],
+  "preparation": {
+    "holder_id": "68",
+    "holder_name": "Pharmagal s.r.o.",
+    "name": "FOSFOVET forte",
+    "preparation_id": "0910f7c7800933cb",
+    "registration_date": "1997-07-30T12:50:19+0000",
+    "registration_number": "99/054/77-S/C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7800933c8",
+    "spc_modified_date": "2025-09-23T12:0:54+0000"
+  },
+  "schema_version": 1
+}

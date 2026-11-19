@@ -1,0 +1,79 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700406",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700406",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808c016f"
+    },
+    {
+      "display_package_code": "9700645",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700645",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808c016f"
+    },
+    {
+      "display_package_code": "9700646",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700646",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808c016f"
+    },
+    {
+      "display_package_code": "9700647",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700647",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808c016f"
+    },
+    {
+      "display_package_code": "9906319",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906319",
+      "package_invalid_date": "2026-01-05T9:12:46+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7808c016f"
+    },
+    {
+      "display_package_code": "9906320",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906320",
+      "package_invalid_date": "2026-01-05T9:12:54+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7808c016f"
+    },
+    {
+      "display_package_code": "9906321",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906321",
+      "package_invalid_date": "2026-01-05T9:13:03+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7808c016f"
+    }
+  ],
+  "preparation": {
+    "holder_id": "329",
+    "holder_name": "IZO S.r.l. a socio unico",
+    "name": "Avishield IB H120",
+    "preparation_id": "0910f7c7808c016f",
+    "registration_date": "2018-01-23T9:18:40+0000",
+    "registration_number": "97/005/18-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7808c016e",
+    "spc_modified_date": "2026-07-29T7:55:40+0000"
+  },
+  "schema_version": 1
+}

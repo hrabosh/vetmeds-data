@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9935549",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935549",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c780090804"
+    },
+    {
+      "display_package_code": "9935550",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935550",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c780090804"
+    },
+    {
+      "display_package_code": "9935551",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935551",
+      "package_invalid_date": null,
+      "package_size": "1 x 200 ml",
+      "preparation_id": "0910f7c780090804"
+    },
+    {
+      "display_package_code": "9935571",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935571",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 ml",
+      "preparation_id": "0910f7c780090804"
+    }
+  ],
+  "preparation": {
+    "holder_id": "68",
+    "holder_name": "Pharmagal s.r.o.",
+    "name": "ENROGAL",
+    "preparation_id": "0910f7c780090804",
+    "registration_date": "2003-04-04T7:59:20+0000",
+    "registration_number": "96/030/03-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c780090801",
+    "spc_modified_date": "2026-03-17T8:59:35+0000"
+  },
+  "schema_version": 1
+}

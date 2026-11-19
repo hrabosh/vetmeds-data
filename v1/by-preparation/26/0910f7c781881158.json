@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909904",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909904",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781881158"
+    },
+    {
+      "display_package_code": "9909905",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909905",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781881158"
+    },
+    {
+      "display_package_code": "9909906",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909906",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781881158"
+    },
+    {
+      "display_package_code": "9909907",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909907",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781881158"
+    },
+    {
+      "display_package_code": "9909908",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909908",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781881158"
+    },
+    {
+      "display_package_code": "9909909",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909909",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781881158"
+    }
+  ],
+  "preparation": {
+    "holder_id": "49",
+    "holder_name": "Laboratorios Hipra S.A.",
+    "name": "Evanovo",
+    "preparation_id": "0910f7c781881158",
+    "registration_date": "2022-07-27T8:58:14+0000",
+    "registration_number": "EU/2/22/284",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c781881157",
+    "spc_modified_date": "2026-01-08T13:2:58+0000"
+  },
+  "schema_version": 1
+}

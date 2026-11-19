@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906956",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906956",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800a0b74"
+    },
+    {
+      "display_package_code": "9906957",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906957",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800a0b74"
+    },
+    {
+      "display_package_code": "9906958",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906958",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800a0b74"
+    },
+    {
+      "display_package_code": "9939781",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939781",
+      "package_invalid_date": "2019-01-10T10:49:36+0000",
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c7800a0b74"
+    },
+    {
+      "display_package_code": "9939782",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939782",
+      "package_invalid_date": "2019-01-10T10:50:14+0000",
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c7800a0b74"
+    },
+    {
+      "display_package_code": "9939783",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939783",
+      "package_invalid_date": "2019-01-10T10:54:21+0000",
+      "package_size": "1 x 250 ml",
+      "preparation_id": "0910f7c7800a0b74"
+    }
+  ],
+  "preparation": {
+    "holder_id": "61",
+    "holder_name": "Norbrook Laboratories (Ireland) Limited",
+    "name": "Hexasol LA",
+    "preparation_id": "0910f7c7800a0b74",
+    "registration_date": "2004-02-09T9:42:06+0000",
+    "registration_number": "96/012/04-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780093fd7",
+    "spc_modified_date": "2026-07-28T8:46:58+0000"
+  },
+  "schema_version": 1
+}

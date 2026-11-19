@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9910452",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910452",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c148dd"
+    },
+    {
+      "display_package_code": "9910453",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910453",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c148dd"
+    },
+    {
+      "display_package_code": "9910456",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910456",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c148dd"
+    }
+  ],
+  "preparation": {
+    "holder_id": "27",
+    "holder_name": "Dopharma Research, B.V.",
+    "name": "Melovem",
+    "preparation_id": "0910f7c781c148dd",
+    "registration_date": "2023-06-26T12:55:46+0000",
+    "registration_number": "EU/2/09/098",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f3ae3",
+    "spc_modified_date": "2023-09-07T11:40:04+0000"
+  },
+  "schema_version": 1
+}

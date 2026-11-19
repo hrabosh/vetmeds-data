@@ -1,0 +1,97 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9910205",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910205",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7819e17e4"
+    },
+    {
+      "display_package_code": "9910206",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910206",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7819e17e4"
+    },
+    {
+      "display_package_code": "9910207",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910207",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7819e17e4"
+    },
+    {
+      "display_package_code": "9910208",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910208",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7819e17e4"
+    },
+    {
+      "display_package_code": "9910209",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910209",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7819e17e4"
+    },
+    {
+      "display_package_code": "9910224",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910224",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7819e17e4"
+    },
+    {
+      "display_package_code": "9910225",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910225",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7819e17e4"
+    },
+    {
+      "display_package_code": "9910226",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910226",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7819e17e4"
+    },
+    {
+      "display_package_code": "9910227",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910227",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7819e17e4"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "BioRabbit RHDV 1,2",
+    "preparation_id": "0910f7c7819e17e4",
+    "registration_date": "2023-02-23T7:16:52+0000",
+    "registration_number": "97/011/23-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7819e17e3",
+    "spc_modified_date": "2023-04-19T11:52:11+0000"
+  },
+  "schema_version": 1
+}

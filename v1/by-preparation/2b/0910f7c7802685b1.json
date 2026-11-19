@@ -1,0 +1,34 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9903543",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903543",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802685b1"
+    },
+    {
+      "display_package_code": "9903544",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903544",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802685b1"
+    }
+  ],
+  "preparation": {
+    "holder_id": "100",
+    "holder_name": "Zoetis Belgium",
+    "name": "Versican Plus Pi",
+    "preparation_id": "0910f7c7802685b1",
+    "registration_date": "2014-07-04T12:34:00+0000",
+    "registration_number": "EU/2/14/168",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7802685b0",
+    "spc_modified_date": "2023-06-02T11:32:56+0000"
+  },
+  "schema_version": 1
+}

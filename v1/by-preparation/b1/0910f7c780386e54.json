@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905275",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905275",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780386e54"
+    },
+    {
+      "display_package_code": "9905276",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905276",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780386e54"
+    },
+    {
+      "display_package_code": "9905277",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905277",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780386e54"
+    },
+    {
+      "display_package_code": "9905278",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905278",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780386e54"
+    },
+    {
+      "display_package_code": "9905279",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905279",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780386e54"
+    },
+    {
+      "display_package_code": "9905280",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905280",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780386e54"
+    },
+    {
+      "display_package_code": "9905281",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905281",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780386e54"
+    },
+    {
+      "display_package_code": "9905282",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905282",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780386e54"
+    }
+  ],
+  "preparation": {
+    "holder_id": "286",
+    "holder_name": "LETI Pharma, S.L.U.",
+    "name": "Letifend",
+    "preparation_id": "0910f7c780386e54",
+    "registration_date": "2016-04-20T10:45:39+0000",
+    "registration_number": "EU/2/16/195",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c780386e53",
+    "spc_modified_date": "2024-12-02T8:51:31+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9936813",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936813",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 g",
+      "preparation_id": "0910f7c78008e1f7"
+    },
+    {
+      "display_package_code": "9936833",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936833",
+      "package_invalid_date": null,
+      "package_size": "1 x 1 kg",
+      "preparation_id": "0910f7c78008e1f7"
+    },
+    {
+      "display_package_code": "9936855",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936855",
+      "package_invalid_date": null,
+      "package_size": "1 x 10 kg",
+      "preparation_id": "0910f7c78008e1f7"
+    }
+  ],
+  "preparation": {
+    "holder_id": "152",
+    "holder_name": "Lavet Pharmaceuticals Ltd.",
+    "name": "Amoxyn",
+    "preparation_id": "0910f7c78008e1f7",
+    "registration_date": "2005-02-22T7:32:38+0000",
+    "registration_number": "96/008/05-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78008e1f4",
+    "spc_modified_date": "2026-10-29T7:33:31+0000"
+  },
+  "schema_version": 1
+}

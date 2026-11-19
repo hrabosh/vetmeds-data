@@ -1,0 +1,34 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9907356",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907356",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7812febd2"
+    },
+    {
+      "display_package_code": "9907357",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907357",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7812febd2"
+    }
+  ],
+  "preparation": {
+    "holder_id": "20",
+    "holder_name": "Ceva Santé Animale",
+    "name": "Isemid",
+    "preparation_id": "0910f7c7812febd2",
+    "registration_date": "2019-01-09T11:5:42+0000",
+    "registration_number": "EU/2/18/232",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7812febd1",
+    "spc_modified_date": "2024-07-23T12:39:11+0000"
+  },
+  "schema_version": 1
+}

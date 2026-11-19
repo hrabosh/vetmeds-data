@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905183",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905183",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780441a21"
+    },
+    {
+      "display_package_code": "9905184",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905184",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780441a21"
+    },
+    {
+      "display_package_code": "9905185",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905185",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780441a21"
+    },
+    {
+      "display_package_code": "9905186",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905186",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780441a21"
+    },
+    {
+      "display_package_code": "9905187",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905187",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780441a21"
+    },
+    {
+      "display_package_code": "9905188",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905188",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780441a21"
+    }
+  ],
+  "preparation": {
+    "holder_id": "112",
+    "holder_name": "VIRBAC",
+    "name": "Canigen DHPPi",
+    "preparation_id": "0910f7c780441a21",
+    "registration_date": "2016-07-15T12:29:25+0000",
+    "registration_number": "97/057/16-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780441a20",
+    "spc_modified_date": "2025-11-14T13:29:42+0000"
+  },
+  "schema_version": 1
+}

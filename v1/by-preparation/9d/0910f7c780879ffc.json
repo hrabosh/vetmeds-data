@@ -1,0 +1,151 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906264",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9906264",
+      "package_invalid_date": "2020-05-04T11:13:18+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780879ffc"
+    },
+    {
+      "display_package_code": "9906265",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9906265",
+      "package_invalid_date": "2020-05-04T11:14:41+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780879ffc"
+    },
+    {
+      "display_package_code": "9906266",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9906266",
+      "package_invalid_date": "2020-05-04T11:19:29+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780879ffc"
+    },
+    {
+      "display_package_code": "9906267",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906267",
+      "package_invalid_date": "2020-05-04T11:20:32+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780879ffc"
+    },
+    {
+      "display_package_code": "9906268",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906268",
+      "package_invalid_date": "2020-05-04T11:21:36+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780879ffc"
+    },
+    {
+      "display_package_code": "9908529",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9908529",
+      "package_invalid_date": "2020-11-09T12:16:05+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780879ffc"
+    },
+    {
+      "display_package_code": "9908530",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9908530",
+      "package_invalid_date": "2020-11-09T12:17:08+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780879ffc"
+    },
+    {
+      "display_package_code": "9908531",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9908531",
+      "package_invalid_date": "2020-11-09T12:18:36+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780879ffc"
+    },
+    {
+      "display_package_code": "9908532",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908532",
+      "package_invalid_date": "2020-11-09T12:19:46+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780879ffc"
+    },
+    {
+      "display_package_code": "9908533",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908533",
+      "package_invalid_date": "2020-11-09T12:20:59+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780879ffc"
+    },
+    {
+      "display_package_code": "9908915",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9908915",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780879ffc"
+    },
+    {
+      "display_package_code": "9908916",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9908916",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780879ffc"
+    },
+    {
+      "display_package_code": "9908917",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9908917",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780879ffc"
+    },
+    {
+      "display_package_code": "9908918",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908918",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780879ffc"
+    },
+    {
+      "display_package_code": "9908919",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908919",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780879ffc"
+    }
+  ],
+  "preparation": {
+    "holder_id": "134",
+    "holder_name": "Vétoquinol S.A.",
+    "name": "Drontal Dog Flavour XL",
+    "preparation_id": "0910f7c780879ffc",
+    "registration_date": "2017-12-14T5:28:07+0000",
+    "registration_number": "96/053/17-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c780879acf",
+    "spc_modified_date": "2024-07-19T7:23:16+0000"
+  },
+  "schema_version": 1
+}

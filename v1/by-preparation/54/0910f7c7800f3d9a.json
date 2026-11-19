@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9934207",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934207",
+      "package_invalid_date": null,
+      "package_size": "5 x 10 MU lyof.+ 5 x ředidlo_EU/2/01/030/002",
+      "preparation_id": "0910f7c7800f3d9a"
+    },
+    {
+      "display_package_code": "9934408",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934408",
+      "package_invalid_date": null,
+      "package_size": "2 x 10 MU lyof. + 2 x ředidlo_EU/2/01/030/003",
+      "preparation_id": "0910f7c7800f3d9a"
+    },
+    {
+      "display_package_code": "9934409",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934409",
+      "package_invalid_date": null,
+      "package_size": "1 x 10 MU lyof. + 1 x ředidlo_EU/2/01/030/004",
+      "preparation_id": "0910f7c7800f3d9a"
+    }
+  ],
+  "preparation": {
+    "holder_id": "112",
+    "holder_name": "VIRBAC",
+    "name": "Virbagen Omega",
+    "preparation_id": "0910f7c7800f3d9a",
+    "registration_date": "2001-11-06T13:49:40+0000",
+    "registration_number": "EU/2/01/030",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f3d88",
+    "spc_modified_date": "2024-07-23T12:2:30+0000"
+  },
+  "schema_version": 1
+}

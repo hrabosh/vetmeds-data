@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9901556",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901556",
+      "package_invalid_date": null,
+      "package_size": "1 x 1000 dávek (převod registrace)",
+      "preparation_id": "0910f7c780091643"
+    },
+    {
+      "display_package_code": "9901557",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901557",
+      "package_invalid_date": null,
+      "package_size": "1 x 2000 dávek (převod registrace)",
+      "preparation_id": "0910f7c780091643"
+    },
+    {
+      "display_package_code": "9939621",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939621",
+      "package_invalid_date": "2012-07-13T10:49:23+0000",
+      "package_size": "1 000 dávek",
+      "preparation_id": "0910f7c780091643"
+    },
+    {
+      "display_package_code": "9939622",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939622",
+      "package_invalid_date": "2012-07-13T10:48:55+0000",
+      "package_size": "2 000 dávek",
+      "preparation_id": "0910f7c780091643"
+    }
+  ],
+  "preparation": {
+    "holder_id": "34",
+    "holder_name": "Fatro, S.p.A.",
+    "name": "MAREK-VAC BIVALENT FROZEN",
+    "preparation_id": "0910f7c780091643",
+    "registration_date": "2004-04-15T8:24:14+0000",
+    "registration_number": "97/062/04-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c780091640",
+    "spc_modified_date": "2022-10-26T7:51:31+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9999346",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9999346",
+      "package_invalid_date": null,
+      "package_size": "1 x 20 ml",
+      "preparation_id": "0910f7c7800919b0"
+    },
+    {
+      "display_package_code": "9999348",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9999348",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c7800919b0"
+    },
+    {
+      "display_package_code": "9999349",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9999349",
+      "package_invalid_date": null,
+      "package_size": "5 x 20 ml",
+      "preparation_id": "0910f7c7800919b0"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "CLOTEAN",
+    "preparation_id": "0910f7c7800919b0",
+    "registration_date": "1992-04-24T5:35:30+0000",
+    "registration_number": "97/295/92-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800919ad",
+    "spc_modified_date": "2025-11-03T6:35:50+0000"
+  },
+  "schema_version": 1
+}

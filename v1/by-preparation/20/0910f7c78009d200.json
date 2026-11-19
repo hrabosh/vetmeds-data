@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9939120",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939120",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c78009d200"
+    },
+    {
+      "display_package_code": "9939121",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939121",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c78009d200"
+    },
+    {
+      "display_package_code": "9939122",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939122",
+      "package_invalid_date": null,
+      "package_size": "1 x 200 ml",
+      "preparation_id": "0910f7c78009d200"
+    },
+    {
+      "display_package_code": "9939123",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939123",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 ml",
+      "preparation_id": "0910f7c78009d200"
+    }
+  ],
+  "preparation": {
+    "holder_id": "68",
+    "holder_name": "Pharmagal s.r.o.",
+    "name": "TRIAVIT",
+    "preparation_id": "0910f7c78009d200",
+    "registration_date": "2002-05-16T11:57:17+0000",
+    "registration_number": "96/043/02-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78009d1fd",
+    "spc_modified_date": "2025-09-23T11:57:34+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9911244",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911244",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781bc3649"
+    },
+    {
+      "display_package_code": "9911245",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911245",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781bc3649"
+    },
+    {
+      "display_package_code": "9911246",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911246",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781bc3649"
+    }
+  ],
+  "preparation": {
+    "holder_id": "112",
+    "holder_name": "VIRBAC",
+    "name": "Milpro Chewy",
+    "preparation_id": "0910f7c781bc3649",
+    "registration_date": "2024-10-22T5:59:12+0000",
+    "registration_number": "96/056/24-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c781bc3648",
+    "spc_modified_date": "2024-11-04T7:1:04+0000"
+  },
+  "schema_version": 1
+}

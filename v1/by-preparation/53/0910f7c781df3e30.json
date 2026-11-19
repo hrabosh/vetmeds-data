@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700796",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9700796",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781df3e30"
+    },
+    {
+      "display_package_code": "9700797",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9700797",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781df3e30"
+    },
+    {
+      "display_package_code": "9700798",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700798",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781df3e30"
+    }
+  ],
+  "preparation": {
+    "holder_id": "130",
+    "holder_name": "Beaphar B.V.",
+    "name": "Simbia",
+    "preparation_id": "0910f7c781df3e30",
+    "registration_date": "2026-03-06T9:33:51+0000",
+    "registration_number": "96/023/26-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781df3de3",
+    "spc_modified_date": "2026-05-13T8:32:16+0000"
+  },
+  "schema_version": 1
+}

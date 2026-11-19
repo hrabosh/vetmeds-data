@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900966",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900966",
+      "package_invalid_date": null,
+      "package_size": "1 x 500 ml",
+      "preparation_id": "0910f7c780092844"
+    },
+    {
+      "display_package_code": "9935127",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935127",
+      "package_invalid_date": "2012-01-12T10:41:24+0000",
+      "package_size": "1 x 100 ml (zrušeno)",
+      "preparation_id": "0910f7c780092844"
+    },
+    {
+      "display_package_code": "9935179",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935179",
+      "package_invalid_date": "2012-01-12T10:42:19+0000",
+      "package_size": "1 x 250 ml (zrušeno)",
+      "preparation_id": "0910f7c780092844"
+    },
+    {
+      "display_package_code": "9935293",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935293",
+      "package_invalid_date": "2012-01-12T10:42:34+0000",
+      "package_size": "1 x 300 ml (zrušeno)",
+      "preparation_id": "0910f7c780092844"
+    },
+    {
+      "display_package_code": "9935326",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935326",
+      "package_invalid_date": "2012-01-12T10:42:48+0000",
+      "package_size": "1 x 500 ml (zrušeno)",
+      "preparation_id": "0910f7c780092844"
+    },
+    {
+      "display_package_code": "9935350",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935350",
+      "package_invalid_date": "2012-01-12T10:43:06+0000",
+      "package_size": "1 x 1000 ml (zrušeno)",
+      "preparation_id": "0910f7c780092844"
+    },
+    {
+      "display_package_code": "9938631",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938631",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c780092844"
+    },
+    {
+      "display_package_code": "9938632",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938632",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c780092844"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "Ferribion",
+    "preparation_id": "0910f7c780092844",
+    "registration_date": "1999-09-22T7:27:23+0000",
+    "registration_number": "96/048/99–C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780092840",
+    "spc_modified_date": "2026-03-17T8:28:23+0000"
+  },
+  "schema_version": 1
+}

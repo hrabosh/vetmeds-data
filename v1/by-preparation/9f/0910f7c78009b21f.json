@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9910160",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910160",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009b21f"
+    },
+    {
+      "display_package_code": "9910161",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910161",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009b21f"
+    },
+    {
+      "display_package_code": "9910162",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910162",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009b21f"
+    },
+    {
+      "display_package_code": "9910163",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910163",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009b21f"
+    },
+    {
+      "display_package_code": "9935456",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935456",
+      "package_invalid_date": "2023-02-10T10:59:07+0000",
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c78009b21f"
+    },
+    {
+      "display_package_code": "9935580",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935580",
+      "package_invalid_date": "2023-02-10T10:57:25+0000",
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c78009b21f"
+    },
+    {
+      "display_package_code": "9935688",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935688",
+      "package_invalid_date": "2023-02-10T11:1:00+0000",
+      "package_size": "10 x 50 ml",
+      "preparation_id": "0910f7c78009b21f"
+    },
+    {
+      "display_package_code": "9935875",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935875",
+      "package_invalid_date": "2023-02-10T11:8:16+0000",
+      "package_size": "10 x 100 ml",
+      "preparation_id": "0910f7c78009b21f"
+    }
+  ],
+  "preparation": {
+    "holder_id": "299",
+    "holder_name": "VetViva Richter GmbH",
+    "name": "RIFEN",
+    "preparation_id": "0910f7c78009b21f",
+    "registration_date": "2008-03-18T12:28:32+0000",
+    "registration_number": "96/018/08-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78009b219",
+    "spc_modified_date": "2025-05-30T8:51:25+0000"
+  },
+  "schema_version": 1
+}

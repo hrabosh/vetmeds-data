@@ -1,0 +1,106 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906390",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906390",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808fcfb8"
+    },
+    {
+      "display_package_code": "9906391",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906391",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808fcfb8"
+    },
+    {
+      "display_package_code": "9906392",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906392",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808fcfb8"
+    },
+    {
+      "display_package_code": "9906393",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906393",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808fcfb8"
+    },
+    {
+      "display_package_code": "9906394",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906394",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808fcfb8"
+    },
+    {
+      "display_package_code": "9906395",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906395",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808fcfb8"
+    },
+    {
+      "display_package_code": "9906396",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906396",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808fcfb8"
+    },
+    {
+      "display_package_code": "9906397",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906397",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808fcfb8"
+    },
+    {
+      "display_package_code": "9906398",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906398",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808fcfb8"
+    },
+    {
+      "display_package_code": "9906399",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906399",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808fcfb8"
+    }
+  ],
+  "preparation": {
+    "holder_id": "180",
+    "holder_name": "Le Vet. Beheer, B.V.",
+    "name": "Dexacortone 0,5 mg",
+    "preparation_id": "0910f7c7808fcfb8",
+    "registration_date": "2018-04-10T6:52:51+0000",
+    "registration_number": "96/019/18-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7808fcfb5",
+    "spc_modified_date": "2024-07-16T11:39:39+0000"
+  },
+  "schema_version": 1
+}

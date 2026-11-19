@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9936417",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936417",
+      "package_invalid_date": null,
+      "package_size": " 5 x 1 dávka - 5 x 2 ml ředícího roztoku",
+      "preparation_id": "0910f7c7800a0c5e"
+    },
+    {
+      "display_package_code": "9936436",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936436",
+      "package_invalid_date": null,
+      "package_size": "10 x 1 dávka + 10 x 2 ml ředícího roztoku",
+      "preparation_id": "0910f7c7800a0c5e"
+    },
+    {
+      "display_package_code": "9936464",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936464",
+      "package_invalid_date": null,
+      "package_size": "5 x 5 dávek + 5 x 10 ml ředícího rotzoku",
+      "preparation_id": "0910f7c7800a0c5e"
+    },
+    {
+      "display_package_code": "9936512",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936512",
+      "package_invalid_date": "2024-07-24T11:42:11+0000",
+      "package_size": "5 x 10 dávek + 5 x 20 ml ředícío roztoku",
+      "preparation_id": "0910f7c7800a0c5e"
+    },
+    {
+      "display_package_code": "9936553",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936553",
+      "package_invalid_date": "2024-07-24T11:42:24+0000",
+      "package_size": "6 x 20 dávek + 6 x 40 ml ředícího roztoku",
+      "preparation_id": "0910f7c7800a0c5e"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "SERGON PG",
+    "preparation_id": "0910f7c7800a0c5e",
+    "registration_date": "2004-06-08T12:6:31+0000",
+    "registration_number": "96/126/04-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800a0c57",
+    "spc_modified_date": "2026-01-27T8:38:09+0000"
+  },
+  "schema_version": 1
+}

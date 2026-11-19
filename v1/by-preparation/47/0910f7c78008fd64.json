@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700312",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700312",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008fd64"
+    },
+    {
+      "display_package_code": "9700313",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700313",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008fd64"
+    },
+    {
+      "display_package_code": "9700314",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700314",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008fd64"
+    },
+    {
+      "display_package_code": "9700315",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700315",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008fd64"
+    },
+    {
+      "display_package_code": "9902832",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902832",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008fd64"
+    },
+    {
+      "display_package_code": "9937752",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937752",
+      "package_invalid_date": null,
+      "package_size": "1 x 5 ml",
+      "preparation_id": "0910f7c78008fd64"
+    }
+  ],
+  "preparation": {
+    "holder_id": "65",
+    "holder_name": "Orion Corporation",
+    "name": "Domosedan",
+    "preparation_id": "0910f7c78008fd64",
+    "registration_date": "1999-03-03T11:46:45+0000",
+    "registration_number": "96/730/96-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78008fd5f",
+    "spc_modified_date": "2024-07-29T8:41:24+0000"
+  },
+  "schema_version": 1
+}

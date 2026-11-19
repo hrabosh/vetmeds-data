@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909243",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909243",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78187a075"
+    },
+    {
+      "display_package_code": "9909244",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909244",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78187a075"
+    },
+    {
+      "display_package_code": "9909245",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909245",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78187a075"
+    },
+    {
+      "display_package_code": "9909246",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909246",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78187a075"
+    }
+  ],
+  "preparation": {
+    "holder_id": "248",
+    "holder_name": "Elanco GmbH",
+    "name": "Credelio Plus (> 2,8–5,5 kg)",
+    "preparation_id": "0910f7c78187a075",
+    "registration_date": "2021-04-14T12:38:19+0000",
+    "registration_number": "EU/2/21/271",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c781635048",
+    "spc_modified_date": "2026-01-29T11:1:45+0000"
+  },
+  "schema_version": 1
+}

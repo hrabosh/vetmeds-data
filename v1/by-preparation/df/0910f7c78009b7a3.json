@@ -1,0 +1,106 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9908888",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908888",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009b7a3"
+    },
+    {
+      "display_package_code": "9908889",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908889",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009b7a3"
+    },
+    {
+      "display_package_code": "9908890",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908890",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009b7a3"
+    },
+    {
+      "display_package_code": "9908891",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908891",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009b7a3"
+    },
+    {
+      "display_package_code": "9908892",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908892",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009b7a3"
+    },
+    {
+      "display_package_code": "9908893",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908893",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009b7a3"
+    },
+    {
+      "display_package_code": "9908894",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908894",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009b7a3"
+    },
+    {
+      "display_package_code": "9938283",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938283",
+      "package_invalid_date": "2020-11-05T13:44:14+0000",
+      "package_size": "1 x 10 ml (5 dávek)",
+      "preparation_id": "0910f7c78009b7a3"
+    },
+    {
+      "display_package_code": "9938315",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938315",
+      "package_invalid_date": "2020-11-05T13:48:19+0000",
+      "package_size": "10 x 2 ml (10 x 1 dávka)",
+      "preparation_id": "0910f7c78009b7a3"
+    },
+    {
+      "display_package_code": "9938332",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938332",
+      "package_invalid_date": "2020-11-05T13:46:08+0000",
+      "package_size": "1 x 40 ml (20 dávek)",
+      "preparation_id": "0910f7c78009b7a3"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "Bovilis Rotavec Corona",
+    "preparation_id": "0910f7c78009b7a3",
+    "registration_date": "2008-07-02T4:55:09+0000",
+    "registration_number": "97/048/02-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78009b7a0",
+    "spc_modified_date": "2024-10-21T11:42:55+0000"
+  },
+  "schema_version": 1
+}

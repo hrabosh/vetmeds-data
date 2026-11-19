@@ -1,0 +1,106 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909133",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9909133",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800936d4"
+    },
+    {
+      "display_package_code": "9909134",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9909134",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800936d4"
+    },
+    {
+      "display_package_code": "9909135",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9909135",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800936d4"
+    },
+    {
+      "display_package_code": "9909136",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9909136",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800936d4"
+    },
+    {
+      "display_package_code": "9909137",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9909137",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800936d4"
+    },
+    {
+      "display_package_code": "9935639",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9935639",
+      "package_invalid_date": "2021-01-26T11:12:16+0000",
+      "package_size": "1 x 1 pipeta á 0,67 ml",
+      "preparation_id": "0910f7c7800936d4"
+    },
+    {
+      "display_package_code": "9937005",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9937005",
+      "package_invalid_date": "2021-01-26T11:13:43+0000",
+      "package_size": "1 x 2 pipety á 0,67 ml",
+      "preparation_id": "0910f7c7800936d4"
+    },
+    {
+      "display_package_code": "9937288",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9937288",
+      "package_invalid_date": "2021-01-26T11:16:33+0000",
+      "package_size": "1 x 4 pipety á 0,67 ml",
+      "preparation_id": "0910f7c7800936d4"
+    },
+    {
+      "display_package_code": "9937289",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9937289",
+      "package_invalid_date": "2021-01-26T11:17:55+0000",
+      "package_size": "1 x 6 pipet á 0,67 ml",
+      "preparation_id": "0910f7c7800936d4"
+    },
+    {
+      "display_package_code": "9937488",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9937488",
+      "package_invalid_date": "2021-01-26T11:15:10+0000",
+      "package_size": "1 x 3 pipety á 0,67 ml",
+      "preparation_id": "0910f7c7800936d4"
+    }
+  ],
+  "preparation": {
+    "holder_id": "280",
+    "holder_name": "Boehringer Ingelheim Animal Health France SCS",
+    "name": "FRONTLINE SPOT PRO PSY",
+    "preparation_id": "0910f7c7800936d4",
+    "registration_date": "1997-03-04T12:49:44+0000",
+    "registration_number": "96/185/97-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800936d0",
+    "spc_modified_date": "2025-09-09T17:2:48+0000"
+  },
+  "schema_version": 1
+}

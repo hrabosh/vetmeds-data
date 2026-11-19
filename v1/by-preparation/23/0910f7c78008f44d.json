@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9908408",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908408",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008f44d"
+    },
+    {
+      "display_package_code": "9935804",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935804",
+      "package_invalid_date": null,
+      "package_size": "1 x 6 ml",
+      "preparation_id": "0910f7c78008f44d"
+    },
+    {
+      "display_package_code": "9936108",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936108",
+      "package_invalid_date": null,
+      "package_size": "1 x 5 ml",
+      "preparation_id": "0910f7c78008f44d"
+    },
+    {
+      "display_package_code": "9936302",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936302",
+      "package_invalid_date": null,
+      "package_size": "6 x 5 ml",
+      "preparation_id": "0910f7c78008f44d"
+    }
+  ],
+  "preparation": {
+    "holder_id": "29",
+    "holder_name": "Dyntec, spol. s r.o.",
+    "name": "CANGLOB D FORTE",
+    "preparation_id": "0910f7c78008f44d",
+    "registration_date": "1995-04-26T13:16:26+0000",
+    "registration_number": "97/273/95-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78008f44a",
+    "spc_modified_date": "2026-08-03T13:16:41+0000"
+  },
+  "schema_version": 1
+}

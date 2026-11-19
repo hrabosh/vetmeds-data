@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700934",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700934",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c782072555"
+    },
+    {
+      "display_package_code": "9700935",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700935",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c782072555"
+    },
+    {
+      "display_package_code": "9700936",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700936",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c782072555"
+    },
+    {
+      "display_package_code": "9700937",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700937",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c782072555"
+    },
+    {
+      "display_package_code": "9700938",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700938",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c782072555"
+    },
+    {
+      "display_package_code": "9700939",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700939",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c782072555"
+    }
+  ],
+  "preparation": {
+    "holder_id": "27",
+    "holder_name": "Dopharma Research, B.V.",
+    "name": "Dophacyl AVI",
+    "preparation_id": "0910f7c782072555",
+    "registration_date": "2026-05-27T6:36:05+0000",
+    "registration_number": "96/034/26-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c782072554",
+    "spc_modified_date": "2026-06-03T10:21:55+0000"
+  },
+  "schema_version": 1
+}

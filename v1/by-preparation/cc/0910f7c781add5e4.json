@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9910848",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910848",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781add5e4"
+    },
+    {
+      "display_package_code": "9910849",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910849",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781add5e4"
+    },
+    {
+      "display_package_code": "9910850",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910850",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781add5e4"
+    }
+  ],
+  "preparation": {
+    "holder_id": "290",
+    "holder_name": "Alfasan Nederland B.V.",
+    "name": "Profexx",
+    "preparation_id": "0910f7c781add5e4",
+    "registration_date": "2024-04-03T10:55:18+0000",
+    "registration_number": "96/008/24-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c781add5e2",
+    "spc_modified_date": "2024-04-19T7:29:54+0000"
+  },
+  "schema_version": 1
+}

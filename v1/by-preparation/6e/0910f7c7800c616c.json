@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9934825",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9934825",
+      "package_invalid_date": null,
+      "package_size": "1 obojek",
+      "preparation_id": "0910f7c7800c616c"
+    }
+  ],
+  "preparation": {
+    "holder_id": "137",
+    "holder_name": "Aveflor a.s.",
+    "name": "Arpalit Neo",
+    "preparation_id": "0910f7c7800c616c",
+    "registration_date": "2010-06-17T6:35:15+0000",
+    "registration_number": "99/034/10-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7800c6169",
+    "spc_modified_date": "2022-10-26T6:5:15+0000"
+  },
+  "schema_version": 1
+}

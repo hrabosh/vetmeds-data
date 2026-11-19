@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9935085",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9935085",
+      "package_invalid_date": null,
+      "package_size": "1 ks",
+      "preparation_id": "0910f7c7800dac45"
+    }
+  ],
+  "preparation": {
+    "holder_id": "99",
+    "holder_name": "Panda Plus s.r.o.",
+    "name": "Sergeant´s Dual Action Flea and Tick obojek pro psy",
+    "preparation_id": "0910f7c7800dac45",
+    "registration_date": "2009-05-29T5:44:34+0000",
+    "registration_number": "99/037/09-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7800dac3e",
+    "spc_modified_date": "2022-10-26T8:55:52+0000"
+  },
+  "schema_version": 1
+}

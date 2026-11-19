@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906166",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906166",
+      "package_invalid_date": "2020-11-10T12:25:54+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3349"
+    },
+    {
+      "display_package_code": "9906167",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906167",
+      "package_invalid_date": "2020-11-10T12:29:32+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3349"
+    },
+    {
+      "display_package_code": "9908936",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908936",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3349"
+    },
+    {
+      "display_package_code": "9908937",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908937",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3349"
+    },
+    {
+      "display_package_code": "9934572",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934572",
+      "package_invalid_date": "2017-08-31T9:53:40+0000",
+      "package_size": "1 x 25 ml_EU/2/08/083/002",
+      "preparation_id": "0910f7c7800f3349"
+    },
+    {
+      "display_package_code": "9934573",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934573",
+      "package_invalid_date": "2017-08-31T9:54:13+0000",
+      "package_size": "6 x 25 ml_EU/2/08/083/003",
+      "preparation_id": "0910f7c7800f3349"
+    }
+  ],
+  "preparation": {
+    "holder_id": "292",
+    "holder_name": "Audevard",
+    "name": "Equioxx",
+    "preparation_id": "0910f7c7800f3349",
+    "registration_date": "2008-06-25T11:59:50+0000",
+    "registration_number": "EU/2/08/083",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f3341",
+    "spc_modified_date": "2026-04-16T10:39:00+0000"
+  },
+  "schema_version": 1
+}

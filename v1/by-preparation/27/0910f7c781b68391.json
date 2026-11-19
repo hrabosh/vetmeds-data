@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700458",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700458",
+      "package_invalid_date": "2026-09-01T7:18:51+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c781b68391"
+    },
+    {
+      "display_package_code": "9700459",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700459",
+      "package_invalid_date": "2026-09-01T7:19:03+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c781b68391"
+    },
+    {
+      "display_package_code": "9700460",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700460",
+      "package_invalid_date": "2026-09-01T7:19:17+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c781b68391"
+    },
+    {
+      "display_package_code": "9700461",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700461",
+      "package_invalid_date": "2026-09-01T7:19:30+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c781b68391"
+    },
+    {
+      "display_package_code": "9701060",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9701060",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781b68391"
+    },
+    {
+      "display_package_code": "9701061",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9701061",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781b68391"
+    },
+    {
+      "display_package_code": "9701062",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9701062",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781b68391"
+    },
+    {
+      "display_package_code": "9701064",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9701064",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781b68391"
+    }
+  ],
+  "preparation": {
+    "holder_id": "80",
+    "holder_name": "Vetcare OY",
+    "name": "Lystralin",
+    "preparation_id": "0910f7c781b68391",
+    "registration_date": "2025-04-23T7:23:09+0000",
+    "registration_number": "EU/2/25/338",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c781b68288",
+    "spc_modified_date": "2026-09-01T7:57:48+0000"
+  },
+  "schema_version": 1
+}

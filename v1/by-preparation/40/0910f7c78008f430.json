@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9935213",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935213",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c78008f430"
+    },
+    {
+      "display_package_code": "9935214",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935214",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c78008f430"
+    },
+    {
+      "display_package_code": "9936400",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936400",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 ml",
+      "preparation_id": "0910f7c78008f430"
+    }
+  ],
+  "preparation": {
+    "holder_id": "46",
+    "holder_name": "Krka d.d. Novo mesto",
+    "name": "Calfoset",
+    "preparation_id": "0910f7c78008f430",
+    "registration_date": "1995-03-01T12:3:41+0000",
+    "registration_number": "96/164/95-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78008f42d",
+    "spc_modified_date": "2026-03-20T12:4:41+0000"
+  },
+  "schema_version": 1
+}

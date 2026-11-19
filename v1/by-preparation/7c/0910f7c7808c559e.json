@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906613",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906613",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808c559e"
+    },
+    {
+      "display_package_code": "9906614",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906614",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808c559e"
+    },
+    {
+      "display_package_code": "9906615",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906615",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808c559e"
+    }
+  ],
+  "preparation": {
+    "holder_id": "180",
+    "holder_name": "Le Vet. Beheer, B.V.",
+    "name": "Tranquinervin",
+    "preparation_id": "0910f7c7808c559e",
+    "registration_date": "2018-08-28T10:19:53+0000",
+    "registration_number": "96/048/18-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7808c559c",
+    "spc_modified_date": "2025-06-27T10:19:23+0000"
+  },
+  "schema_version": 1
+}

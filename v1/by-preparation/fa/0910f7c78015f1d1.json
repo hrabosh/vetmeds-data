@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900816",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900816",
+      "package_invalid_date": "2023-02-15T9:31:46+0000",
+      "package_size": "5 x 10 tbl.",
+      "preparation_id": "0910f7c78015f1d1"
+    },
+    {
+      "display_package_code": "9900817",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900817",
+      "package_invalid_date": "2023-02-15T9:33:45+0000",
+      "package_size": "10 x 10 tbl.",
+      "preparation_id": "0910f7c78015f1d1"
+    },
+    {
+      "display_package_code": "9910055",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910055",
+      "package_invalid_date": "2023-02-15T9:35:29+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78015f1d1"
+    },
+    {
+      "display_package_code": "9910056",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910056",
+      "package_invalid_date": "2023-02-15T9:37:01+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78015f1d1"
+    },
+    {
+      "display_package_code": "9910181",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910181",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78015f1d1"
+    },
+    {
+      "display_package_code": "9910182",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910182",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78015f1d1"
+    },
+    {
+      "display_package_code": "9910183",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910183",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78015f1d1"
+    },
+    {
+      "display_package_code": "9910184",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910184",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78015f1d1"
+    }
+  ],
+  "preparation": {
+    "holder_id": "251",
+    "holder_name": "Dechra Regulatory B.V.",
+    "name": "Phenoleptil",
+    "preparation_id": "0910f7c78015f1d1",
+    "registration_date": "2014-03-19T14:57:24+0000",
+    "registration_number": "96/019/14-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78015f1c7",
+    "spc_modified_date": "2025-01-06T11:46:18+0000"
+  },
+  "schema_version": 1
+}

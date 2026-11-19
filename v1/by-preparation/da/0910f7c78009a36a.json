@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9998342",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9998342",
+      "package_invalid_date": null,
+      "package_size": "10 x 1 ml",
+      "preparation_id": "0910f7c78009a36a"
+    },
+    {
+      "display_package_code": "9998343",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9998343",
+      "package_invalid_date": null,
+      "package_size": "1 x 10 ml",
+      "preparation_id": "0910f7c78009a36a"
+    },
+    {
+      "display_package_code": "9998344",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9998344",
+      "package_invalid_date": null,
+      "package_size": "100 x 1 ml",
+      "preparation_id": "0910f7c78009a36a"
+    }
+  ],
+  "preparation": {
+    "holder_id": "280",
+    "holder_name": "Boehringer Ingelheim Animal Health France SCS",
+    "name": "RABISIN",
+    "preparation_id": "0910f7c78009a36a",
+    "registration_date": "1992-03-26T10:28:27+0000",
+    "registration_number": "97/242/92-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78009a365",
+    "spc_modified_date": "2024-07-11T8:57:21+0000"
+  },
+  "schema_version": 1
+}

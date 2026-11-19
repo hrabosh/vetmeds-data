@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900173",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900173",
+      "package_invalid_date": null,
+      "package_size": "1 x  25 dávek (1 x 50 ml)",
+      "preparation_id": "0910f7c78009d2dd"
+    },
+    {
+      "display_package_code": "9900174",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900174",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 dávek (1 x 100 ml)",
+      "preparation_id": "0910f7c78009d2dd"
+    },
+    {
+      "display_package_code": "9900175",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900175",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 dávek (1 x 500 ml)",
+      "preparation_id": "0910f7c78009d2dd"
+    },
+    {
+      "display_package_code": "9936444",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936444",
+      "package_invalid_date": null,
+      "package_size": "1 x 25 dávek (1 x 50 ml)",
+      "preparation_id": "0910f7c78009d2dd"
+    },
+    {
+      "display_package_code": "9936474",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936474",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 dávek (1 x 100 ml)",
+      "preparation_id": "0910f7c78009d2dd"
+    },
+    {
+      "display_package_code": "9936537",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936537",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 dávek (1 x 500 ml)",
+      "preparation_id": "0910f7c78009d2dd"
+    }
+  ],
+  "preparation": {
+    "holder_id": "29",
+    "holder_name": "Dyntec, spol. s r.o.",
+    "name": "SUIVAC PRRS-IN",
+    "preparation_id": "0910f7c78009d2dd",
+    "registration_date": "2004-02-26T10:47:24+0000",
+    "registration_number": "97/001/04-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78009d2da",
+    "spc_modified_date": "2022-10-26T9:4:04+0000"
+  },
+  "schema_version": 1
+}

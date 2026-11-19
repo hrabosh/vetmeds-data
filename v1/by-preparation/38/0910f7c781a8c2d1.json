@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9910983",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910983",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a8c2d1"
+    }
+  ],
+  "preparation": {
+    "holder_id": "117",
+    "holder_name": "Huvepharma NV",
+    "name": "Amphen",
+    "preparation_id": "0910f7c781a8c2d1",
+    "registration_date": "2024-04-22T7:38:19+0000",
+    "registration_number": "96/013/24-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781a8c2d0",
+    "spc_modified_date": "2025-08-11T10:35:03+0000"
+  },
+  "schema_version": 1
+}

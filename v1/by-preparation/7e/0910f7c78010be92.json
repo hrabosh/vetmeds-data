@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900430",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900430",
+      "package_invalid_date": "2017-08-14T8:41:31+0000",
+      "package_size": "2 x 3 tbl.",
+      "preparation_id": "0910f7c78010be92"
+    },
+    {
+      "display_package_code": "9900431",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900431",
+      "package_invalid_date": "2017-08-14T8:42:03+0000",
+      "package_size": "20 x 3 tbl.",
+      "preparation_id": "0910f7c78010be92"
+    },
+    {
+      "display_package_code": "9906122",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906122",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78010be92"
+    },
+    {
+      "display_package_code": "9906123",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906123",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78010be92"
+    }
+  ],
+  "preparation": {
+    "holder_id": "222",
+    "holder_name": "Loxavet pharma GmbH",
+    "name": "Caniquantel Plus XL",
+    "preparation_id": "0910f7c78010be92",
+    "registration_date": "2011-06-22T6:37:09+0000",
+    "registration_number": "96/046/11-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78010be8c",
+    "spc_modified_date": "2026-10-29T7:37:30+0000"
+  },
+  "schema_version": 1
+}

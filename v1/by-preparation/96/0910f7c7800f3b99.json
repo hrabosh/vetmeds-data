@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902023",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902023",
+      "package_invalid_date": null,
+      "package_size": "1 x 60 ml_EU/2/99/015/003",
+      "preparation_id": "0910f7c7800f3b99"
+    },
+    {
+      "display_package_code": "9902024",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902024",
+      "package_invalid_date": null,
+      "package_size": "1 x 125 ml_EU/2/99/015/004",
+      "preparation_id": "0910f7c7800f3b99"
+    },
+    {
+      "display_package_code": "9934146",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934146",
+      "package_invalid_date": "2012-10-16T10:36:35+0000",
+      "package_size": "2 x 125 ml_EU/2/99/015/002 (zrušeno)",
+      "preparation_id": "0910f7c7800f3b99"
+    },
+    {
+      "display_package_code": "9934418",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934418",
+      "package_invalid_date": "2012-10-16T10:35:50+0000",
+      "package_size": "2 x 60 ml_EU/2/99/015/001 (zrušeno)",
+      "preparation_id": "0910f7c7800f3b99"
+    }
+  ],
+  "preparation": {
+    "holder_id": "95",
+    "holder_name": "OPK Biotech Netherlands BV",
+    "name": "Oxyglobin",
+    "preparation_id": "0910f7c7800f3b99",
+    "registration_date": "1999-11-29T8:31:55+0000",
+    "registration_number": "EU/2/99/015",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f3b96",
+    "spc_modified_date": "2021-11-09T5:48:23+0000"
+  },
+  "schema_version": 1
+}

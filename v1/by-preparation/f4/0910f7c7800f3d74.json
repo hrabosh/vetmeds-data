@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9934437",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934437",
+      "package_invalid_date": null,
+      "package_size": "1 x 2 tbl._EU/2/08/084/003",
+      "preparation_id": "0910f7c7800f3d74"
+    }
+  ],
+  "preparation": {
+    "holder_id": "100",
+    "holder_name": "Zoetis Belgium",
+    "name": "Trocoxil",
+    "preparation_id": "0910f7c7800f3d74",
+    "registration_date": "2008-09-09T5:46:16+0000",
+    "registration_number": "EU/2/08/084",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f3d69",
+    "spc_modified_date": "2023-05-19T8:4:14+0000"
+  },
+  "schema_version": 1
+}

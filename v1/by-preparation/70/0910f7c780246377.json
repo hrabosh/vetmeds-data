@@ -1,0 +1,1222 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9903350",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903350",
+      "package_invalid_date": "2024-01-12T12:11:22+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903351",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903351",
+      "package_invalid_date": "2024-01-12T12:12:23+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903352",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903352",
+      "package_invalid_date": "2024-01-12T12:13:21+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903353",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903353",
+      "package_invalid_date": "2024-01-12T12:15:04+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903354",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903354",
+      "package_invalid_date": "2024-01-12T12:15:56+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903355",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903355",
+      "package_invalid_date": "2024-01-12T12:17:52+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903356",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903356",
+      "package_invalid_date": "2024-01-12T12:18:39+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903357",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903357",
+      "package_invalid_date": "2024-01-12T12:19:23+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903358",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903358",
+      "package_invalid_date": "2024-01-12T12:20:05+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903359",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903359",
+      "package_invalid_date": "2024-01-12T12:20:52+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903360",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903360",
+      "package_invalid_date": "2024-01-12T12:26:35+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903361",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903361",
+      "package_invalid_date": "2024-01-12T12:27:33+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903362",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903362",
+      "package_invalid_date": "2024-01-12T12:28:23+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903363",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903363",
+      "package_invalid_date": "2024-01-12T12:29:25+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903364",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903364",
+      "package_invalid_date": "2024-01-12T12:30:19+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903365",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903365",
+      "package_invalid_date": "2024-01-12T12:31:12+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903366",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903366",
+      "package_invalid_date": "2024-01-12T12:33:14+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903367",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903367",
+      "package_invalid_date": "2024-01-12T12:34:11+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903368",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903368",
+      "package_invalid_date": "2024-01-12T12:35:08+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903369",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903369",
+      "package_invalid_date": "2024-01-12T12:36:07+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903370",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903370",
+      "package_invalid_date": "2024-01-12T12:37:10+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903371",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903371",
+      "package_invalid_date": "2024-01-12T12:38:19+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903372",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903372",
+      "package_invalid_date": "2024-01-12T12:39:16+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903373",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903373",
+      "package_invalid_date": "2024-01-12T12:40:47+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903374",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903374",
+      "package_invalid_date": "2024-01-12T12:41:48+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903375",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903375",
+      "package_invalid_date": "2024-01-12T12:42:34+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903376",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903376",
+      "package_invalid_date": "2024-01-12T12:43:37+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903377",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903377",
+      "package_invalid_date": "2024-01-12T12:44:34+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903378",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903378",
+      "package_invalid_date": "2024-01-12T12:45:39+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903379",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903379",
+      "package_invalid_date": "2024-01-12T12:46:26+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903380",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903380",
+      "package_invalid_date": "2024-01-12T13:13:11+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903381",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903381",
+      "package_invalid_date": "2024-01-12T13:13:59+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903382",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903382",
+      "package_invalid_date": "2024-01-12T13:14:56+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903383",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903383",
+      "package_invalid_date": "2024-01-12T13:16:00+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903384",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903384",
+      "package_invalid_date": "2024-01-12T13:17:02+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903385",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903385",
+      "package_invalid_date": "2024-01-12T13:18:19+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903386",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903386",
+      "package_invalid_date": "2024-01-12T13:19:06+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903387",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903387",
+      "package_invalid_date": "2024-01-12T13:20:14+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903388",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903388",
+      "package_invalid_date": "2024-01-12T13:21:01+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903389",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903389",
+      "package_invalid_date": "2024-01-12T13:21:56+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903390",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903390",
+      "package_invalid_date": "2024-01-12T13:22:44+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903391",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903391",
+      "package_invalid_date": "2024-01-12T13:24:02+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903392",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903392",
+      "package_invalid_date": "2024-01-12T13:24:44+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903393",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903393",
+      "package_invalid_date": "2024-01-12T13:25:39+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903394",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903394",
+      "package_invalid_date": "2024-01-12T13:26:54+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903395",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903395",
+      "package_invalid_date": "2024-01-12T13:27:38+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903396",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903396",
+      "package_invalid_date": "2024-01-12T13:28:24+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903397",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903397",
+      "package_invalid_date": "2024-01-12T13:29:14+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903398",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903398",
+      "package_invalid_date": "2024-01-12T13:31:05+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903399",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903399",
+      "package_invalid_date": "2024-01-12T13:31:59+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903400",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903400",
+      "package_invalid_date": "2024-01-12T13:33:22+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903401",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903401",
+      "package_invalid_date": "2024-01-12T13:34:15+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903402",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903402",
+      "package_invalid_date": "2024-01-12T13:35:50+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903403",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903403",
+      "package_invalid_date": "2024-01-12T13:36:16+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903404",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903404",
+      "package_invalid_date": "2024-01-12T13:37:31+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903405",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903405",
+      "package_invalid_date": "2024-01-12T13:38:22+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903406",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903406",
+      "package_invalid_date": "2024-01-12T13:39:27+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903407",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903407",
+      "package_invalid_date": "2024-01-12T13:40:43+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903408",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903408",
+      "package_invalid_date": "2024-01-12T13:41:46+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903409",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903409",
+      "package_invalid_date": "2024-01-12T13:45:41+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903410",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903410",
+      "package_invalid_date": "2024-01-12T13:46:05+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903411",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903411",
+      "package_invalid_date": "2024-01-12T9:38:12+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903412",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903412",
+      "package_invalid_date": "2024-01-12T13:48:03+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903413",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903413",
+      "package_invalid_date": "2024-01-12T13:49:32+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903414",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903414",
+      "package_invalid_date": "2024-01-12T9:36:07+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903415",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903415",
+      "package_invalid_date": "2024-01-12T9:36:52+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9903416",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9903416",
+      "package_invalid_date": "2024-01-12T10:44:22+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910621",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910621",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910622",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910622",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910623",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910623",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910624",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910624",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910625",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910625",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910626",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910626",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910627",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910627",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910628",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910628",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910629",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910629",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910630",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910630",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910631",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910631",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910632",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910632",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910633",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910633",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910634",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910634",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910635",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910635",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910636",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910636",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910637",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910637",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910638",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910638",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910639",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910639",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910640",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910640",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910641",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910641",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910642",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910642",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910643",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910643",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910644",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910644",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910645",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910645",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910646",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910646",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910647",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910647",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910648",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910648",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910649",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910649",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910650",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910650",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910651",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910651",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910652",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910652",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910653",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910653",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910654",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910654",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910655",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910655",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910656",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910656",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910657",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910657",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910658",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910658",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910659",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910659",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910660",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910660",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910661",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910661",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910662",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910662",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910663",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910663",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910664",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910664",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910665",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910665",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910666",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910666",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910667",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910667",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910668",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910668",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910669",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910669",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910670",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910670",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910671",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910671",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910672",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910672",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910673",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910673",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910674",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910674",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910675",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910675",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910676",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910676",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910677",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910677",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910678",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910678",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910679",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910679",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910680",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910680",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910681",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910681",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910682",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910682",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910683",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910683",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910684",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910684",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910685",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910685",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910686",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910686",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    },
+    {
+      "display_package_code": "9910699",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910699",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780246377"
+    }
+  ],
+  "preparation": {
+    "holder_id": "37",
+    "holder_name": "Chanelle Pharmaceuticals Manufacturing, Ltd.",
+    "name": "Frontcontrol wormer",
+    "preparation_id": "0910f7c780246377",
+    "registration_date": "2014-07-23T10:37:58+0000",
+    "registration_number": "96/049/14-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c780246376",
+    "spc_modified_date": "2026-09-08T9:17:05+0000"
+  },
+  "schema_version": 1
+}

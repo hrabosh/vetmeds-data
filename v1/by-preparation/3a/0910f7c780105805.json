@@ -1,0 +1,115 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9901185",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901185",
+      "package_invalid_date": null,
+      "package_size": "1 x 10 ml",
+      "preparation_id": "0910f7c780105805"
+    },
+    {
+      "display_package_code": "9901186",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901186",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c780105805"
+    },
+    {
+      "display_package_code": "9901187",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901187",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c780105805"
+    },
+    {
+      "display_package_code": "9901188",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901188",
+      "package_invalid_date": null,
+      "package_size": "1 x 10 ml",
+      "preparation_id": "0910f7c780105805"
+    },
+    {
+      "display_package_code": "9901189",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901189",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c780105805"
+    },
+    {
+      "display_package_code": "9901190",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901190",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c780105805"
+    },
+    {
+      "display_package_code": "9901191",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901191",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 ml",
+      "preparation_id": "0910f7c780105805"
+    },
+    {
+      "display_package_code": "9901195",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901195",
+      "package_invalid_date": null,
+      "package_size": "10 x 10 ml (papírová krabička)",
+      "preparation_id": "0910f7c780105805"
+    },
+    {
+      "display_package_code": "9901196",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901196",
+      "package_invalid_date": null,
+      "package_size": "10 x 10 ml (papírová krabička)",
+      "preparation_id": "0910f7c780105805"
+    },
+    {
+      "display_package_code": "9901375",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901375",
+      "package_invalid_date": null,
+      "package_size": "10 x 10 ml (plastová krabička s jamkami)",
+      "preparation_id": "0910f7c780105805"
+    },
+    {
+      "display_package_code": "9901376",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901376",
+      "package_invalid_date": null,
+      "package_size": "10 x 10 ml (plastová krabička s jamkami)",
+      "preparation_id": "0910f7c780105805"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "BioSuis Respi E",
+    "preparation_id": "0910f7c780105805",
+    "registration_date": "2012-04-02T10:22:35+0000",
+    "registration_number": "97/036/12-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780105802",
+    "spc_modified_date": "2025-01-28T11:22:54+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,124 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9907450",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907450",
+      "package_invalid_date": "2019-12-16T9:9:38+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7815bd68f"
+    },
+    {
+      "display_package_code": "9907451",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907451",
+      "package_invalid_date": "2019-12-16T9:11:10+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7815bd68f"
+    },
+    {
+      "display_package_code": "9907452",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907452",
+      "package_invalid_date": "2019-12-16T9:12:48+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7815bd68f"
+    },
+    {
+      "display_package_code": "9907453",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907453",
+      "package_invalid_date": "2019-12-16T9:14:26+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7815bd68f"
+    },
+    {
+      "display_package_code": "9908057",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908057",
+      "package_invalid_date": "2020-11-13T13:14:09+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7815bd68f"
+    },
+    {
+      "display_package_code": "9908058",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908058",
+      "package_invalid_date": "2020-11-13T13:15:21+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7815bd68f"
+    },
+    {
+      "display_package_code": "9908059",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908059",
+      "package_invalid_date": "2020-11-13T13:16:40+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7815bd68f"
+    },
+    {
+      "display_package_code": "9908060",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908060",
+      "package_invalid_date": "2020-11-13T13:18:00+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7815bd68f"
+    },
+    {
+      "display_package_code": "9908946",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9908946",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815bd68f"
+    },
+    {
+      "display_package_code": "9908947",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9908947",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815bd68f"
+    },
+    {
+      "display_package_code": "9908948",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9908948",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815bd68f"
+    },
+    {
+      "display_package_code": "9908949",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9908949",
+      "package_invalid_date": "2026-03-20T8:29:07+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7815bd68f"
+    }
+  ],
+  "preparation": {
+    "holder_id": "16",
+    "holder_name": "Boehringer Ingelheim Vetmedica, GmbH",
+    "name": "Frontpro",
+    "preparation_id": "0910f7c7815bd68f",
+    "registration_date": "2019-05-20T7:29:11+0000",
+    "registration_number": "EU/2/19/240",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c78154ac8f",
+    "spc_modified_date": "2026-01-09T12:42:31+0000"
+  },
+  "schema_version": 1
+}

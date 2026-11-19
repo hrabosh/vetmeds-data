@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9935216",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935216",
+      "package_invalid_date": null,
+      "package_size": "1x 100 ml",
+      "preparation_id": "0910f7c780091258"
+    }
+  ],
+  "preparation": {
+    "holder_id": "46",
+    "holder_name": "Krka d.d. Novo mesto",
+    "name": "Enroxil",
+    "preparation_id": "0910f7c780091258",
+    "registration_date": "1995-07-27T8:49:58+0000",
+    "registration_number": "96/676/95-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780091255",
+    "spc_modified_date": "2023-11-29T9:50:20+0000"
+  },
+  "schema_version": 1
+}

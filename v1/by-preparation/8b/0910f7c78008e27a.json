@@ -1,0 +1,79 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9935776",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935776",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 g",
+      "preparation_id": "0910f7c78008e27a"
+    },
+    {
+      "display_package_code": "9935856",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935856",
+      "package_invalid_date": null,
+      "package_size": "1 x 0,5 kg",
+      "preparation_id": "0910f7c78008e27a"
+    },
+    {
+      "display_package_code": "9935925",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935925",
+      "package_invalid_date": null,
+      "package_size": "1 x 3 kg",
+      "preparation_id": "0910f7c78008e27a"
+    },
+    {
+      "display_package_code": "9935973",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935973",
+      "package_invalid_date": null,
+      "package_size": "1 x 5 kg",
+      "preparation_id": "0910f7c78008e27a"
+    },
+    {
+      "display_package_code": "9936073",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936073",
+      "package_invalid_date": null,
+      "package_size": "1 x 10 kg",
+      "preparation_id": "0910f7c78008e27a"
+    },
+    {
+      "display_package_code": "9936191",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936191",
+      "package_invalid_date": null,
+      "package_size": "1 x 15 kg",
+      "preparation_id": "0910f7c78008e27a"
+    },
+    {
+      "display_package_code": "9936245",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936245",
+      "package_invalid_date": null,
+      "package_size": "1 x 25 kg",
+      "preparation_id": "0910f7c78008e27a"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "BIOVETA COLISTIN",
+    "preparation_id": "0910f7c78008e27a",
+    "registration_date": "2002-10-22T9:3:07+0000",
+    "registration_number": "96/077/02-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78008e277",
+    "spc_modified_date": "2026-07-28T9:4:19+0000"
+  },
+  "schema_version": 1
+}

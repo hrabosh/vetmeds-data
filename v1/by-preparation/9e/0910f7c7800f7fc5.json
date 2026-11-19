@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902914",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902914",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f7fc5"
+    },
+    {
+      "display_package_code": "9902915",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902915",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f7fc5"
+    },
+    {
+      "display_package_code": "9902916",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902916",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f7fc5"
+    },
+    {
+      "display_package_code": "9902917",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902917",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f7fc5"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "ORNIVAC ND+IB2+EDS, injekční emulze pro kura domácího",
+    "preparation_id": "0910f7c7800f7fc5",
+    "registration_date": "2014-01-13T7:38:05+0000",
+    "registration_number": "97/003/14-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800f7fc0",
+    "spc_modified_date": "2025-02-14T7:39:38+0000"
+  },
+  "schema_version": 1
+}

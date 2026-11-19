@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902009",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902009",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c78013b73c"
+    },
+    {
+      "display_package_code": "9902010",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902010",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c78013b73c"
+    },
+    {
+      "display_package_code": "9902011",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902011",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 ml",
+      "preparation_id": "0910f7c78013b73c"
+    }
+  ],
+  "preparation": {
+    "holder_id": "279",
+    "holder_name": "Vetoquinol s.r.o.",
+    "name": "Forcyl Swine",
+    "preparation_id": "0910f7c78013b73c",
+    "registration_date": "2012-11-21T12:39:37+0000",
+    "registration_number": "96/118/12-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78013b736",
+    "spc_modified_date": "2026-01-13T12:39:56+0000"
+  },
+  "schema_version": 1
+}

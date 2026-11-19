@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9907368",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907368",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781476626"
+    },
+    {
+      "display_package_code": "9907369",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907369",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781476626"
+    },
+    {
+      "display_package_code": "9907370",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907370",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781476626"
+    },
+    {
+      "display_package_code": "9907371",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907371",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781476626"
+    },
+    {
+      "display_package_code": "9907372",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907372",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781476626"
+    },
+    {
+      "display_package_code": "9907373",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907373",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781476626"
+    }
+  ],
+  "preparation": {
+    "holder_id": "112",
+    "holder_name": "VIRBAC",
+    "name": "Kriptazen",
+    "preparation_id": "0910f7c781476626",
+    "registration_date": "2019-02-08T11:36:48+0000",
+    "registration_number": "EU/2/18/234",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c781476625",
+    "spc_modified_date": "2026-01-09T12:38:32+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9937126",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937126",
+      "package_invalid_date": null,
+      "package_size": "1 x 695 mg + 1 x 5 ml",
+      "preparation_id": "0910f7c7800a4c71"
+    }
+  ],
+  "preparation": {
+    "holder_id": "112",
+    "holder_name": "VIRBAC",
+    "name": "Zoletil",
+    "preparation_id": "0910f7c7800a4c71",
+    "registration_date": "1998-08-24T11:31:38+0000",
+    "registration_number": "97/100/98-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7800a4c6c",
+    "spc_modified_date": "2025-09-23T11:31:55+0000"
+  },
+  "schema_version": 1
+}

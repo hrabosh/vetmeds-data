@@ -1,0 +1,79 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902373",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902373",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780099bb8"
+    },
+    {
+      "display_package_code": "9902374",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902374",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780099bb8"
+    },
+    {
+      "display_package_code": "9902375",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902375",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780099bb8"
+    },
+    {
+      "display_package_code": "9907776",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907776",
+      "package_invalid_date": "2024-04-16T12:38:44+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780099bb8"
+    },
+    {
+      "display_package_code": "9935976",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935976",
+      "package_invalid_date": "2013-05-09T5:40:51+0000",
+      "package_size": "72 injektorů x 3 g",
+      "preparation_id": "0910f7c780099bb8"
+    },
+    {
+      "display_package_code": "9966650",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9966650",
+      "package_invalid_date": "2013-05-09T5:41:08+0000",
+      "package_size": "120 injektorů x 3 g",
+      "preparation_id": "0910f7c780099bb8"
+    },
+    {
+      "display_package_code": "9994996",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9994996",
+      "package_invalid_date": "2013-05-09T9:52:29+0000",
+      "package_size": "24 injektorů x 3 g",
+      "preparation_id": "0910f7c780099bb8"
+    }
+  ],
+  "preparation": {
+    "holder_id": "226",
+    "holder_name": "Zoetis Česká republika s.r.o.",
+    "name": "ORBENIN DC",
+    "preparation_id": "0910f7c780099bb8",
+    "registration_date": "1991-07-25T9:28:56+0000",
+    "registration_number": "96/256/91-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780099bb5",
+    "spc_modified_date": "2025-07-18T7:43:59+0000"
+  },
+  "schema_version": 1
+}

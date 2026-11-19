@@ -1,0 +1,34 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9903869",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903869",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801df268"
+    },
+    {
+      "display_package_code": "9903870",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903870",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801df268"
+    }
+  ],
+  "preparation": {
+    "holder_id": "311",
+    "holder_name": "Vetpharma Animal Health S.L.",
+    "name": "Indupart",
+    "preparation_id": "0910f7c7801df268",
+    "registration_date": "2014-12-01T8:20:25+0000",
+    "registration_number": "96/088/14-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7801df267",
+    "spc_modified_date": "2025-05-26T10:19:09+0000"
+  },
+  "schema_version": 1
+}

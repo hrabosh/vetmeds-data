@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909054",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909054",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815b06c0"
+    },
+    {
+      "display_package_code": "9909055",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909055",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815b06c0"
+    },
+    {
+      "display_package_code": "9909653",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909653",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815b06c0"
+    }
+  ],
+  "preparation": {
+    "holder_id": "264",
+    "holder_name": "Pharmanovo Veterinärarzneimittel GmbH",
+    "name": "Novocillin LC",
+    "preparation_id": "0910f7c7815b06c0",
+    "registration_date": "2021-01-05T9:27:52+0000",
+    "registration_number": "96/078/20-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7815b0602",
+    "spc_modified_date": "2026-11-02T9:28:08+0000"
+  },
+  "schema_version": 1
+}

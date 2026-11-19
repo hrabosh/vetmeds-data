@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905468",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905468",
+      "package_invalid_date": "2023-02-08T13:36:20+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7804b7eb5"
+    },
+    {
+      "display_package_code": "9905469",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905469",
+      "package_invalid_date": "2023-02-08T13:40:44+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7804b7eb5"
+    },
+    {
+      "display_package_code": "9905470",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905470",
+      "package_invalid_date": "2023-02-08T13:43:40+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7804b7eb5"
+    },
+    {
+      "display_package_code": "9910138",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910138",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804b7eb5"
+    },
+    {
+      "display_package_code": "9910139",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910139",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804b7eb5"
+    },
+    {
+      "display_package_code": "9910140",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910140",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804b7eb5"
+    }
+  ],
+  "preparation": {
+    "holder_id": "299",
+    "holder_name": "VetViva Richter GmbH",
+    "name": "Ketamidor",
+    "preparation_id": "0910f7c7804b7eb5",
+    "registration_date": "2016-08-31T6:35:04+0000",
+    "registration_number": "96/075/16-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7804b7eb4",
+    "spc_modified_date": "2025-08-20T6:40:02+0000"
+  },
+  "schema_version": 1
+}

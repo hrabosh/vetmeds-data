@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909056",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909056",
+      "package_invalid_date": "2023-02-08T11:41:05+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c781724bb3"
+    },
+    {
+      "display_package_code": "9909057",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909057",
+      "package_invalid_date": "2023-02-08T11:49:31+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c781724bb3"
+    },
+    {
+      "display_package_code": "9909058",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909058",
+      "package_invalid_date": "2023-02-08T11:56:51+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c781724bb3"
+    },
+    {
+      "display_package_code": "9909059",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909059",
+      "package_invalid_date": "2023-02-08T12:1:01+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c781724bb3"
+    },
+    {
+      "display_package_code": "9910134",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910134",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781724bb3"
+    },
+    {
+      "display_package_code": "9910135",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910135",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781724bb3"
+    },
+    {
+      "display_package_code": "9910136",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910136",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781724bb3"
+    },
+    {
+      "display_package_code": "9910137",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910137",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781724bb3"
+    }
+  ],
+  "preparation": {
+    "holder_id": "299",
+    "holder_name": "VetViva Richter GmbH",
+    "name": "Insistor",
+    "preparation_id": "0910f7c781724bb3",
+    "registration_date": "2021-01-05T12:11:55+0000",
+    "registration_number": "96/079/20-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781724bb2",
+    "spc_modified_date": "2025-09-12T10:53:01+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9936450",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936450",
+      "package_invalid_date": null,
+      "package_size": "1 x 0,805 g",
+      "preparation_id": "0910f7c780099b92"
+    }
+  ],
+  "preparation": {
+    "holder_id": "279",
+    "holder_name": "Vetoquinol s.r.o.",
+    "name": "PRILIUM",
+    "preparation_id": "0910f7c780099b92",
+    "registration_date": "2004-03-29T11:21:13+0000",
+    "registration_number": "96/040/04-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780099b8f",
+    "spc_modified_date": "2026-08-10T11:21:33+0000"
+  },
+  "schema_version": 1
+}

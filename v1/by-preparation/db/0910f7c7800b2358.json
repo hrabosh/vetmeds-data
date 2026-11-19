@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900486",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900486",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c7800b2358"
+    },
+    {
+      "display_package_code": "9900487",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900487",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 ml",
+      "preparation_id": "0910f7c7800b2358"
+    },
+    {
+      "display_package_code": "9906146",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906146",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800b2358"
+    }
+  ],
+  "preparation": {
+    "holder_id": "322",
+    "holder_name": "Ceva Sante Animale",
+    "name": "Cevaxel RTU",
+    "preparation_id": "0910f7c7800b2358",
+    "registration_date": "2011-10-03T8:26:47+0000",
+    "registration_number": "96/084/11-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800b2355",
+    "spc_modified_date": "2025-05-21T11:45:22+0000"
+  },
+  "schema_version": 1
+}

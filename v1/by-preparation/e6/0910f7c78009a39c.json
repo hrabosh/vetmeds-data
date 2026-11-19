@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9935118",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935118",
+      "package_invalid_date": null,
+      "package_size": "1 x 25 ml",
+      "preparation_id": "0910f7c78009a39c"
+    },
+    {
+      "display_package_code": "9936215",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936215",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c78009a39c"
+    },
+    {
+      "display_package_code": "9936457",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936457",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c78009a39c"
+    }
+  ],
+  "preparation": {
+    "holder_id": "33",
+    "holder_name": "Eurovet Animal Health, B.V.",
+    "name": "RAPIDEXON",
+    "preparation_id": "0910f7c78009a39c",
+    "registration_date": "2008-07-02T12:27:09+0000",
+    "registration_number": "96/040/08-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78009a399",
+    "spc_modified_date": "2024-10-18T10:55:35+0000"
+  },
+  "schema_version": 1
+}

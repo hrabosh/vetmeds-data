@@ -1,0 +1,124 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700107",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700107",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c6cf1c"
+    },
+    {
+      "display_package_code": "9700109",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700109",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c6cf1c"
+    },
+    {
+      "display_package_code": "9700110",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700110",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c6cf1c"
+    },
+    {
+      "display_package_code": "9700111",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700111",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c6cf1c"
+    },
+    {
+      "display_package_code": "9700112",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700112",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c6cf1c"
+    },
+    {
+      "display_package_code": "9700113",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700113",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c6cf1c"
+    },
+    {
+      "display_package_code": "9700114",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700114",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c6cf1c"
+    },
+    {
+      "display_package_code": "9700115",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700115",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c6cf1c"
+    },
+    {
+      "display_package_code": "9700116",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700116",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c6cf1c"
+    },
+    {
+      "display_package_code": "9700117",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700117",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c6cf1c"
+    },
+    {
+      "display_package_code": "9700118",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700118",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c6cf1c"
+    },
+    {
+      "display_package_code": "9700119",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700119",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c6cf1c"
+    }
+  ],
+  "preparation": {
+    "holder_id": "37",
+    "holder_name": "Chanelle Pharmaceuticals Manufacturing, Ltd.",
+    "name": "Milbetab",
+    "preparation_id": "0910f7c781c6cf1c",
+    "registration_date": "2025-06-04T12:17:38+0000",
+    "registration_number": "96/017/25-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781c6cf1a",
+    "spc_modified_date": "2025-06-13T8:18:43+0000"
+  },
+  "schema_version": 1
+}

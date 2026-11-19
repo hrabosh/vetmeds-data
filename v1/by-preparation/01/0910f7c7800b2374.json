@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9939981",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939981",
+      "package_invalid_date": null,
+      "package_size": "1 x 1 kg",
+      "preparation_id": "0910f7c7800b2374"
+    }
+  ],
+  "preparation": {
+    "holder_id": "76",
+    "holder_name": "Univet, Ltd.",
+    "name": "Chloromed",
+    "preparation_id": "0910f7c7800b2374",
+    "registration_date": "2010-11-02T9:5:49+0000",
+    "registration_number": "96/051/10-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7800b2371",
+    "spc_modified_date": "2023-06-05T8:35:42+0000"
+  },
+  "schema_version": 1
+}

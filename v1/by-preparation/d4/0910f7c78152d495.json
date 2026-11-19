@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9908161",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908161",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78152d495"
+    },
+    {
+      "display_package_code": "9908162",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908162",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78152d495"
+    },
+    {
+      "display_package_code": "9908163",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908163",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78152d495"
+    },
+    {
+      "display_package_code": "9908164",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908164",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78152d495"
+    }
+  ],
+  "preparation": {
+    "holder_id": "322",
+    "holder_name": "Ceva Sante Animale",
+    "name": "Firodyl",
+    "preparation_id": "0910f7c78152d495",
+    "registration_date": "2020-01-13T13:5:49+0000",
+    "registration_number": "96/006/20-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78152d494",
+    "spc_modified_date": "2025-11-26T13:6:05+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,106 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9904741",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904741",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800bac50"
+    },
+    {
+      "display_package_code": "9904742",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904742",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800bac50"
+    },
+    {
+      "display_package_code": "9904743",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904743",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800bac50"
+    },
+    {
+      "display_package_code": "9904744",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904744",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800bac50"
+    },
+    {
+      "display_package_code": "9904745",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904745",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800bac50"
+    },
+    {
+      "display_package_code": "9936227",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936227",
+      "package_invalid_date": "2016-02-17T12:5:21+0000",
+      "package_size": "1 blistr po 12 tabletách",
+      "preparation_id": "0910f7c7800bac50"
+    },
+    {
+      "display_package_code": "9936243",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936243",
+      "package_invalid_date": "2016-02-17T12:5:35+0000",
+      "package_size": "2 blistry po 12 tabletách",
+      "preparation_id": "0910f7c7800bac50"
+    },
+    {
+      "display_package_code": "9936275",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936275",
+      "package_invalid_date": "2016-02-17T12:6:02+0000",
+      "package_size": "5 blistrů po 12 tabletách",
+      "preparation_id": "0910f7c7800bac50"
+    },
+    {
+      "display_package_code": "9936287",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936287",
+      "package_invalid_date": "2016-02-17T12:5:48+0000",
+      "package_size": "8 blistrů po 12 tabletách",
+      "preparation_id": "0910f7c7800bac50"
+    },
+    {
+      "display_package_code": "9936542",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936542",
+      "package_invalid_date": "2016-02-17T12:5:07+0000",
+      "package_size": "10 blistrů po 12 tabletách",
+      "preparation_id": "0910f7c7800bac50"
+    }
+  ],
+  "preparation": {
+    "holder_id": "322",
+    "holder_name": "Ceva Sante Animale",
+    "name": "Xeden",
+    "preparation_id": "0910f7c7800bac50",
+    "registration_date": "2009-12-02T7:14:44+0000",
+    "registration_number": "96/099/09-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800bac48",
+    "spc_modified_date": "2026-04-27T12:10:40+0000"
+  },
+  "schema_version": 1
+}

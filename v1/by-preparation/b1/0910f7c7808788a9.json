@@ -1,0 +1,79 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906575",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906575",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808788a9"
+    },
+    {
+      "display_package_code": "9906576",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906576",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808788a9"
+    },
+    {
+      "display_package_code": "9906577",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906577",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808788a9"
+    },
+    {
+      "display_package_code": "9906578",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906578",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808788a9"
+    },
+    {
+      "display_package_code": "9906579",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906579",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808788a9"
+    },
+    {
+      "display_package_code": "9906580",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906580",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808788a9"
+    },
+    {
+      "display_package_code": "9906581",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906581",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808788a9"
+    }
+  ],
+  "preparation": {
+    "holder_id": "24",
+    "holder_name": "CP-Pharma Handelsgesellschaft, mbH",
+    "name": "Equizol",
+    "preparation_id": "0910f7c7808788a9",
+    "registration_date": "2018-06-19T8:12:09+0000",
+    "registration_number": "96/038/18-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7808788a8",
+    "spc_modified_date": "2026-03-18T9:12:27+0000"
+  },
+  "schema_version": 1
+}

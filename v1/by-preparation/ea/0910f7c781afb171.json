@@ -1,0 +1,97 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9910389",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910389",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781afb171"
+    },
+    {
+      "display_package_code": "9910390",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910390",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781afb171"
+    },
+    {
+      "display_package_code": "9910391",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910391",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781afb171"
+    },
+    {
+      "display_package_code": "9910392",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910392",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781afb171"
+    },
+    {
+      "display_package_code": "9910394",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910394",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781afb171"
+    },
+    {
+      "display_package_code": "9910395",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910395",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781afb171"
+    },
+    {
+      "display_package_code": "9910396",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910396",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781afb171"
+    },
+    {
+      "display_package_code": "9910397",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910397",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781afb171"
+    },
+    {
+      "display_package_code": "9910398",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910398",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781afb171"
+    }
+  ],
+  "preparation": {
+    "holder_id": "119",
+    "holder_name": "Industrial Veterinaria S.A.",
+    "name": "Dexafast",
+    "preparation_id": "0910f7c781afb171",
+    "registration_date": "2023-07-13T8:56:06+0000",
+    "registration_number": "96/028/23-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c781afb170",
+    "spc_modified_date": "2025-12-18T9:26:30+0000"
+  },
+  "schema_version": 1
+}

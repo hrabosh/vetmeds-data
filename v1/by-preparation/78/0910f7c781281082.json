@@ -1,0 +1,79 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9908620",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908620",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781281082"
+    },
+    {
+      "display_package_code": "9908621",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908621",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781281082"
+    },
+    {
+      "display_package_code": "9908622",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908622",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781281082"
+    },
+    {
+      "display_package_code": "9908623",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908623",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781281082"
+    },
+    {
+      "display_package_code": "9908624",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908624",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781281082"
+    },
+    {
+      "display_package_code": "9908625",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908625",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781281082"
+    },
+    {
+      "display_package_code": "9908626",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908626",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781281082"
+    }
+  ],
+  "preparation": {
+    "holder_id": "37",
+    "holder_name": "Chanelle Pharmaceuticals Manufacturing, Ltd.",
+    "name": "Topimec",
+    "preparation_id": "0910f7c781281082",
+    "registration_date": "2020-06-22T7:30:38+0000",
+    "registration_number": "96/048/20-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c781281081",
+    "spc_modified_date": "2022-10-25T12:45:49+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905925",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905925",
+      "package_invalid_date": "2020-05-04T10:16:32+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7804d28d6"
+    },
+    {
+      "display_package_code": "9905926",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905926",
+      "package_invalid_date": "2020-05-04T10:17:28+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7804d28d6"
+    },
+    {
+      "display_package_code": "9908453",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908453",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804d28d6"
+    },
+    {
+      "display_package_code": "9908454",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908454",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804d28d6"
+    }
+  ],
+  "preparation": {
+    "holder_id": "306",
+    "holder_name": "Elanco Animal Health GmbH",
+    "name": "PolyVar Yellow",
+    "preparation_id": "0910f7c7804d28d6",
+    "registration_date": "2017-05-23T9:30:24+0000",
+    "registration_number": "96/025/17-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7804d28bd",
+    "spc_modified_date": "2025-03-14T10:30:43+0000"
+  },
+  "schema_version": 1
+}

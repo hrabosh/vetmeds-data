@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9910473",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910473",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7819e4a1a"
+    },
+    {
+      "display_package_code": "9910474",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910474",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7819e4a1a"
+    },
+    {
+      "display_package_code": "9910475",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910475",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7819e4a1a"
+    }
+  ],
+  "preparation": {
+    "holder_id": "290",
+    "holder_name": "Alfasan Nederland B.V.",
+    "name": "Uriphex",
+    "preparation_id": "0910f7c7819e4a1a",
+    "registration_date": "2023-10-06T5:48:15+0000",
+    "registration_number": "96/049/23-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7819e4a19",
+    "spc_modified_date": "2026-04-13T6:58:53+0000"
+  },
+  "schema_version": 1
+}

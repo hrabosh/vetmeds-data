@@ -1,0 +1,214 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900963",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9900963",
+      "package_invalid_date": "2020-12-01T7:44:50+0000",
+      "package_size": "1 x 3 tuby po 1 ml",
+      "preparation_id": "0910f7c78008e355"
+    },
+    {
+      "display_package_code": "9900964",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9900964",
+      "package_invalid_date": "2020-12-01T7:43:34+0000",
+      "package_size": "2 x 3 tuby po 1 ml",
+      "preparation_id": "0910f7c78008e355"
+    },
+    {
+      "display_package_code": "9900965",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900965",
+      "package_invalid_date": "2020-12-01T7:41:43+0000",
+      "package_size": "7 x 3 tuby po 1 ml",
+      "preparation_id": "0910f7c78008e355"
+    },
+    {
+      "display_package_code": "9908978",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9908978",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008e355"
+    },
+    {
+      "display_package_code": "9908979",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908979",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008e355"
+    },
+    {
+      "display_package_code": "9908980",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9908980",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008e355"
+    },
+    {
+      "display_package_code": "9908981",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9908981",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008e355"
+    },
+    {
+      "display_package_code": "9908982",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9908982",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008e355"
+    },
+    {
+      "display_package_code": "9908983",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9908983",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008e355"
+    },
+    {
+      "display_package_code": "9908984",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9908984",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008e355"
+    },
+    {
+      "display_package_code": "9908985",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9908985",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008e355"
+    },
+    {
+      "display_package_code": "9908986",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9908986",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008e355"
+    },
+    {
+      "display_package_code": "9908987",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9908987",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008e355"
+    },
+    {
+      "display_package_code": "9908988",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908988",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008e355"
+    },
+    {
+      "display_package_code": "9936413",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9936413",
+      "package_invalid_date": "2020-12-01T7:25:55+0000",
+      "package_size": "1 x 1 ml, malí psi",
+      "preparation_id": "0910f7c78008e355"
+    },
+    {
+      "display_package_code": "9936424",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9936424",
+      "package_invalid_date": "2020-12-01T7:27:31+0000",
+      "package_size": "2 x 1 ml, malí psi",
+      "preparation_id": "0910f7c78008e355"
+    },
+    {
+      "display_package_code": "9936445",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9936445",
+      "package_invalid_date": "2020-12-01T7:29:55+0000",
+      "package_size": "3 x 1 ml, malí psi",
+      "preparation_id": "0910f7c78008e355"
+    },
+    {
+      "display_package_code": "9936482",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9936482",
+      "package_invalid_date": "2020-12-01T7:33:55+0000",
+      "package_size": "4 x 1 ml, malí psi",
+      "preparation_id": "0910f7c78008e355"
+    },
+    {
+      "display_package_code": "9939727",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9939727",
+      "package_invalid_date": "2020-12-01T7:33:01+0000",
+      "package_size": "2 x 1 ml, velcí psi",
+      "preparation_id": "0910f7c78008e355"
+    },
+    {
+      "display_package_code": "9939728",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9939728",
+      "package_invalid_date": "2020-12-01T7:35:47+0000",
+      "package_size": "4 x 1 ml, velcí psi",
+      "preparation_id": "0910f7c78008e355"
+    },
+    {
+      "display_package_code": "9939729",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9939729",
+      "package_invalid_date": "2020-12-01T7:21:20+0000",
+      "package_size": "6 x 1 ml, velcí psi",
+      "preparation_id": "0910f7c78008e355"
+    },
+    {
+      "display_package_code": "9939730",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939730",
+      "package_invalid_date": "2020-12-01T7:23:38+0000",
+      "package_size": "8 x 1 ml, velcí psi",
+      "preparation_id": "0910f7c78008e355"
+    }
+  ],
+  "preparation": {
+    "holder_id": "284",
+    "holder_name": "Pets Choice Healthcare Ltd.",
+    "name": "Bob Martin PERMETHRIN DOG",
+    "preparation_id": "0910f7c78008e355",
+    "registration_date": "2004-04-15T6:26:34+0000",
+    "registration_number": "96/057/04-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78008e352",
+    "spc_modified_date": "2022-10-26T6:28:15+0000"
+  },
+  "schema_version": 1
+}

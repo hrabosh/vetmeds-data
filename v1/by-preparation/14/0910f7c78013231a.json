@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900440",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900440",
+      "package_invalid_date": null,
+      "package_size": "1 x 8 tbl._EU/2/10/119/009",
+      "preparation_id": "0910f7c78013231a"
+    },
+    {
+      "display_package_code": "9900441",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900441",
+      "package_invalid_date": null,
+      "package_size": "4 x 8 tbl._EU/2/10/119/010",
+      "preparation_id": "0910f7c78013231a"
+    },
+    {
+      "display_package_code": "9900442",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900442",
+      "package_invalid_date": null,
+      "package_size": "18 x 8 tbl._EU/2/10/119/011",
+      "preparation_id": "0910f7c78013231a"
+    },
+    {
+      "display_package_code": "9900443",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900443",
+      "package_invalid_date": null,
+      "package_size": "1 x 45 tbl._EU/2/10/119/012",
+      "preparation_id": "0910f7c78013231a"
+    }
+  ],
+  "preparation": {
+    "holder_id": "134",
+    "holder_name": "Vétoquinol S.A.",
+    "name": "Cimalgex",
+    "preparation_id": "0910f7c78013231a",
+    "registration_date": "2011-02-18T13:25:28+0000",
+    "registration_number": "EU/2/10/119",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7801322fe",
+    "spc_modified_date": "2026-09-11T10:32:58+0000"
+  },
+  "schema_version": 1
+}

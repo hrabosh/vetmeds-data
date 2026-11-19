@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9908168",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908168",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3c89"
+    },
+    {
+      "display_package_code": "9934164",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934164",
+      "package_invalid_date": "2004-11-24T7:40:43+0000",
+      "package_size": "1 x 1 dávka + 1 ml ředidla_EU/2/03/038/001 Neregistrováno",
+      "preparation_id": "0910f7c7800f3c89"
+    },
+    {
+      "display_package_code": "9934165",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934165",
+      "package_invalid_date": "2004-11-24T7:40:57+0000",
+      "package_size": "1 x 1 dávka + 1 ml ředidla ve stříkačce_EU/2/03/038/002 Neregistrováno",
+      "preparation_id": "0910f7c7800f3c89"
+    },
+    {
+      "display_package_code": "9934166",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934166",
+      "package_invalid_date": "2004-11-24T7:41:14+0000",
+      "package_size": "10 x 1 dávka + 10 x 1 ml ředidla_EU/2/03/038/003 Neregistrováno",
+      "preparation_id": "0910f7c7800f3c89"
+    },
+    {
+      "display_package_code": "9934167",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934167",
+      "package_invalid_date": "2004-11-24T7:41:30+0000",
+      "package_size": "10 x 1 dávka + 10 x 1 ml ředidla ve stříkačce_EU/2/03/038/004 Neregistrováno",
+      "preparation_id": "0910f7c7800f3c89"
+    },
+    {
+      "display_package_code": "9934286",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934286",
+      "package_invalid_date": "2020-01-15T9:54:28+0000",
+      "package_size": "10 x 1 dávka_EU/2/03/038/005",
+      "preparation_id": "0910f7c7800f3c89"
+    }
+  ],
+  "preparation": {
+    "holder_id": "16",
+    "holder_name": "Boehringer Ingelheim Vetmedica, GmbH",
+    "name": "ProteqFlu-Te",
+    "preparation_id": "0910f7c7800f3c89",
+    "registration_date": "2003-03-06T10:20:01+0000",
+    "registration_number": "EU/2/03/038",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f3c86",
+    "spc_modified_date": "2023-03-27T11:49:03+0000"
+  },
+  "schema_version": 1
+}

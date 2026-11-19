@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9908849",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908849",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781606729"
+    },
+    {
+      "display_package_code": "9908850",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908850",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781606729"
+    },
+    {
+      "display_package_code": "9908851",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908851",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781606729"
+    },
+    {
+      "display_package_code": "9908852",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908852",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781606729"
+    }
+  ],
+  "preparation": {
+    "holder_id": "251",
+    "holder_name": "Dechra Regulatory B.V.",
+    "name": "Lodisure",
+    "preparation_id": "0910f7c781606729",
+    "registration_date": "2020-10-26T6:45:59+0000",
+    "registration_number": "96/061/20-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781606727",
+    "spc_modified_date": "2026-01-02T12:44:01+0000"
+  },
+  "schema_version": 1
+}

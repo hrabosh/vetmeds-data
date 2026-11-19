@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700090",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700090",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ac1684"
+    },
+    {
+      "display_package_code": "9700091",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700091",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ac1684"
+    },
+    {
+      "display_package_code": "9700092",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700092",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ac1684"
+    },
+    {
+      "display_package_code": "9910865",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910865",
+      "package_invalid_date": "2025-04-30T7:4:05+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c781ac1684"
+    },
+    {
+      "display_package_code": "9910866",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910866",
+      "package_invalid_date": "2025-04-30T7:4:25+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c781ac1684"
+    },
+    {
+      "display_package_code": "9910867",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910867",
+      "package_invalid_date": "2025-04-30T7:4:35+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c781ac1684"
+    }
+  ],
+  "preparation": {
+    "holder_id": "24",
+    "holder_name": "CP-Pharma Handelsgesellschaft, mbH",
+    "name": "Levoroxin",
+    "preparation_id": "0910f7c781ac1684",
+    "registration_date": "2024-04-23T9:2:52+0000",
+    "registration_number": "96/015/24-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c781ac1610",
+    "spc_modified_date": "2025-05-15T11:23:24+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,34 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906609",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906609",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78086f2b8"
+    },
+    {
+      "display_package_code": "9907482",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907482",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78086f2b8"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "Sedan",
+    "preparation_id": "0910f7c78086f2b8",
+    "registration_date": "2018-08-28T8:45:10+0000",
+    "registration_number": "96/044/18-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78086f2b7",
+    "spc_modified_date": "2022-06-07T10:30:15+0000"
+  },
+  "schema_version": 1
+}

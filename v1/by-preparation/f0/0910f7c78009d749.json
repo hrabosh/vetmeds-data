@@ -1,0 +1,124 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9910698",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910698",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009d749"
+    },
+    {
+      "display_package_code": "",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910899",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009d749"
+    },
+    {
+      "display_package_code": "",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910900",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009d749"
+    },
+    {
+      "display_package_code": "",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910901",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009d749"
+    },
+    {
+      "display_package_code": "",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910902",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009d749"
+    },
+    {
+      "display_package_code": "",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910903",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009d749"
+    },
+    {
+      "display_package_code": "9936042",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936042",
+      "package_invalid_date": "2024-01-15T9:15:43+0000",
+      "package_size": "1 x 650 g",
+      "preparation_id": "0910f7c78009d749"
+    },
+    {
+      "display_package_code": "9937975",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937975",
+      "package_invalid_date": "2024-01-15T9:15:56+0000",
+      "package_size": "1 x 1,5 kg",
+      "preparation_id": "0910f7c78009d749"
+    },
+    {
+      "display_package_code": "9937976",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937976",
+      "package_invalid_date": "2024-01-15T9:16:11+0000",
+      "package_size": "1 x 3 kg",
+      "preparation_id": "0910f7c78009d749"
+    },
+    {
+      "display_package_code": "9937977",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937977",
+      "package_invalid_date": "2024-01-15T9:16:23+0000",
+      "package_size": "1 x 5 kg",
+      "preparation_id": "0910f7c78009d749"
+    },
+    {
+      "display_package_code": "9937978",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937978",
+      "package_invalid_date": "2024-01-15T9:16:37+0000",
+      "package_size": "1 x 10 kg",
+      "preparation_id": "0910f7c78009d749"
+    },
+    {
+      "display_package_code": "9937979",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937979",
+      "package_invalid_date": "2024-01-15T9:16:51+0000",
+      "package_size": "1 x 20 kg",
+      "preparation_id": "0910f7c78009d749"
+    }
+  ],
+  "preparation": {
+    "holder_id": "122",
+    "holder_name": "Tekro spol. s r.o.",
+    "name": "UNI-TIAMULIN",
+    "preparation_id": "0910f7c78009d749",
+    "registration_date": "1995-07-26T7:54:55+0000",
+    "registration_number": "98/674/95-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78009d746",
+    "spc_modified_date": "2025-03-03T9:17:15+0000"
+  },
+  "schema_version": 1
+}

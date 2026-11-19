@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900831",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900831",
+      "package_invalid_date": "2012-11-12T6:24:14+0000",
+      "package_size": "20 x 4,5 g (včetně 20 utěrek na struky)",
+      "preparation_id": "0910f7c7800e21d4"
+    },
+    {
+      "display_package_code": "9900832",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900832",
+      "package_invalid_date": "2012-11-12T6:23:56+0000",
+      "package_size": "60 x 4,5 g (včetně 60 utěrek na struky)",
+      "preparation_id": "0910f7c7800e21d4"
+    },
+    {
+      "display_package_code": "9902005",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902005",
+      "package_invalid_date": null,
+      "package_size": "20 x 4,5 g (převod registrace)",
+      "preparation_id": "0910f7c7800e21d4"
+    },
+    {
+      "display_package_code": "9902006",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902006",
+      "package_invalid_date": null,
+      "package_size": "60 x 4,5 g (převod registrace)",
+      "preparation_id": "0910f7c7800e21d4"
+    },
+    {
+      "display_package_code": "9906335",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906335",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800e21d4"
+    }
+  ],
+  "preparation": {
+    "holder_id": "16",
+    "holder_name": "Boehringer Ingelheim Vetmedica, GmbH",
+    "name": "Ubrostar Dry Cow intramamární suspenze pro skot",
+    "preparation_id": "0910f7c7800e21d4",
+    "registration_date": "2011-12-19T8:58:25+0000",
+    "registration_number": "96/101/11-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800e2199",
+    "spc_modified_date": "2025-02-03T8:58:51+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900742",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900742",
+      "package_invalid_date": "2019-02-13T9:50:29+0000",
+      "package_size": "2 x 6 tbl.",
+      "preparation_id": "0910f7c7800df03b"
+    },
+    {
+      "display_package_code": "9900743",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900743",
+      "package_invalid_date": "2019-02-13T9:51:09+0000",
+      "package_size": "4 x 6 tbl.",
+      "preparation_id": "0910f7c7800df03b"
+    },
+    {
+      "display_package_code": "9907222",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907222",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800df03b"
+    },
+    {
+      "display_package_code": "9907223",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907223",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800df03b"
+    },
+    {
+      "display_package_code": "9908745",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908745",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800df03b"
+    }
+  ],
+  "preparation": {
+    "holder_id": "251",
+    "holder_name": "Dechra Regulatory B.V.",
+    "name": "Clavudale",
+    "preparation_id": "0910f7c7800df03b",
+    "registration_date": "2011-11-30T10:16:08+0000",
+    "registration_number": "96/093/11-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7800dea29",
+    "spc_modified_date": "2024-07-16T11:42:19+0000"
+  },
+  "schema_version": 1
+}

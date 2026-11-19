@@ -1,0 +1,34 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9934865",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934865",
+      "package_invalid_date": null,
+      "package_size": "1 x 500 g",
+      "preparation_id": "0910f7c78008e891"
+    },
+    {
+      "display_package_code": "9934866",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934866",
+      "package_invalid_date": null,
+      "package_size": "1 x 5 kg",
+      "preparation_id": "0910f7c78008e891"
+    }
+  ],
+  "preparation": {
+    "holder_id": "122",
+    "holder_name": "Tekro spol. s r.o.",
+    "name": "Aureomulin",
+    "preparation_id": "0910f7c78008e891",
+    "registration_date": "1998-11-20T15:49:30+0000",
+    "registration_number": "98/139/98-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78008e88a",
+    "spc_modified_date": "2022-10-26T6:6:19+0000"
+  },
+  "schema_version": 1
+}

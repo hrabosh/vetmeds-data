@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9934826",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934826",
+      "package_invalid_date": null,
+      "package_size": "10 x 0,5 ml (10 x 1 dávka)",
+      "preparation_id": "0910f7c7800902bb"
+    },
+    {
+      "display_package_code": "9936890",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936890",
+      "package_invalid_date": null,
+      "package_size": "1 x 5 ml  (10 dávek)",
+      "preparation_id": "0910f7c7800902bb"
+    },
+    {
+      "display_package_code": "9938615",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938615",
+      "package_invalid_date": null,
+      "package_size": "1 x 10 ml (20 dávek)",
+      "preparation_id": "0910f7c7800902bb"
+    },
+    {
+      "display_package_code": "9938616",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938616",
+      "package_invalid_date": null,
+      "package_size": "1 x 20 ml (40 dávek)",
+      "preparation_id": "0910f7c7800902bb"
+    }
+  ],
+  "preparation": {
+    "holder_id": "192",
+    "holder_name": "Pharmagal Bio s.r.o.",
+    "name": "CASTOREX",
+    "preparation_id": "0910f7c7800902bb",
+    "registration_date": "2000-04-07T11:41:08+0000",
+    "registration_number": "97/030/00-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800902b8",
+    "spc_modified_date": "2026-09-25T11:41:25+0000"
+  },
+  "schema_version": 1
+}

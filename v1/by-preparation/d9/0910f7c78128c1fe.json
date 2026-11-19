@@ -1,0 +1,106 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700631",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700631",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78128c1fe"
+    },
+    {
+      "display_package_code": "9700632",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700632",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78128c1fe"
+    },
+    {
+      "display_package_code": "9700633",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700633",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78128c1fe"
+    },
+    {
+      "display_package_code": "9700634",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700634",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78128c1fe"
+    },
+    {
+      "display_package_code": "9700635",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700635",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78128c1fe"
+    },
+    {
+      "display_package_code": "9906247",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906247",
+      "package_invalid_date": "2026-01-05T8:21:00+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78128c1fe"
+    },
+    {
+      "display_package_code": "9906248",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906248",
+      "package_invalid_date": "2026-01-05T7:55:03+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78128c1fe"
+    },
+    {
+      "display_package_code": "9906249",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906249",
+      "package_invalid_date": "2026-01-05T7:55:19+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78128c1fe"
+    },
+    {
+      "display_package_code": "9906250",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906250",
+      "package_invalid_date": "2026-01-05T7:55:31+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78128c1fe"
+    },
+    {
+      "display_package_code": "9906251",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906251",
+      "package_invalid_date": "2026-01-05T7:55:40+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78128c1fe"
+    }
+  ],
+  "preparation": {
+    "holder_id": "6",
+    "holder_name": "aniMedica, GmbH",
+    "name": "Busol",
+    "preparation_id": "0910f7c78128c1fe",
+    "registration_date": "2017-11-14T8:1:44+0000",
+    "registration_number": "96/051/17-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78128c1fd",
+    "spc_modified_date": "2026-02-26T8:57:54+0000"
+  },
+  "schema_version": 1
+}

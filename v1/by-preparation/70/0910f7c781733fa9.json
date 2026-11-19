@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909552",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909552",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781733fa9"
+    },
+    {
+      "display_package_code": "9909553",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909553",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781733fa9"
+    },
+    {
+      "display_package_code": "9909554",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909554",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781733fa9"
+    },
+    {
+      "display_package_code": "9909555",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909555",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781733fa9"
+    },
+    {
+      "display_package_code": "9909556",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909556",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781733fa9"
+    },
+    {
+      "display_package_code": "9909557",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909557",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781733fa9"
+    }
+  ],
+  "preparation": {
+    "holder_id": "49",
+    "holder_name": "Laboratorios Hipra S.A.",
+    "name": "Suiseng Diff/A",
+    "preparation_id": "0910f7c781733fa9",
+    "registration_date": "2021-12-07T15:26:35+0000",
+    "registration_number": "EU/2/21/278",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c781733fa8",
+    "spc_modified_date": "2024-05-30T10:16:16+0000"
+  },
+  "schema_version": 1
+}

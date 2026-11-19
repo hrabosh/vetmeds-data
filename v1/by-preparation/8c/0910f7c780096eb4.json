@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9936189",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936189",
+      "package_invalid_date": null,
+      "package_size": "10 x 19 g (+10 aplikátorů, aktetrů, rukavic)",
+      "preparation_id": "0910f7c780096eb4"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "Metricure",
+    "preparation_id": "0910f7c780096eb4",
+    "registration_date": "1996-06-14T18:36:46+0000",
+    "registration_number": "96/329/96-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780096eb1",
+    "spc_modified_date": "2024-03-21T12:2:01+0000"
+  },
+  "schema_version": 1
+}

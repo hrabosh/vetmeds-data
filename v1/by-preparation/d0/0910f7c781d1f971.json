@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700354",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9700354",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781d1f971"
+    },
+    {
+      "display_package_code": "9700355",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9700355",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781d1f971"
+    },
+    {
+      "display_package_code": "9700356",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9700356",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781d1f971"
+    },
+    {
+      "display_package_code": "9700357",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9700357",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781d1f971"
+    }
+  ],
+  "preparation": {
+    "holder_id": "46",
+    "holder_name": "Krka d.d. Novo mesto",
+    "name": "Beaphar Worm",
+    "preparation_id": "0910f7c781d1f971",
+    "registration_date": "2025-08-12T9:15:42+0000",
+    "registration_number": "96/036/25-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c781d1f56f",
+    "spc_modified_date": "2026-07-08T9:23:27+0000"
+  },
+  "schema_version": 1
+}

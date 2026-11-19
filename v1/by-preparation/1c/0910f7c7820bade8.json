@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9934249",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934249",
+      "package_invalid_date": null,
+      "package_size": "10 x 1 dávka_EU/2/05/055/002",
+      "preparation_id": "0910f7c7820bade8"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "Equilis Te_",
+    "preparation_id": "0910f7c7820bade8",
+    "registration_date": "2005-07-05T6:19:38+0000",
+    "registration_number": "EU/2/05/055",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f333a",
+    "spc_modified_date": "2023-09-07T11:15:39+0000"
+  },
+  "schema_version": 1
+}

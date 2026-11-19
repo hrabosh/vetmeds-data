@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9937178",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937178",
+      "package_invalid_date": null,
+      "package_size": "1 x 150 ml",
+      "preparation_id": "0910f7c78009519f"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "JODOUTER",
+    "preparation_id": "0910f7c78009519f",
+    "registration_date": "2002-05-28T12:6:46+0000",
+    "registration_number": "96/044/02-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78009519a",
+    "spc_modified_date": "2026-04-02T12:8:34+0000"
+  },
+  "schema_version": 1
+}

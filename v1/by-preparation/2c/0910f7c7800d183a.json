@@ -1,0 +1,124 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905736",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905736",
+      "package_invalid_date": "2018-10-17T9:43:26+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7800d183a"
+    },
+    {
+      "display_package_code": "9905737",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905737",
+      "package_invalid_date": "2018-10-17T9:44:07+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7800d183a"
+    },
+    {
+      "display_package_code": "9905738",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905738",
+      "package_invalid_date": "2018-10-17T9:45:01+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7800d183a"
+    },
+    {
+      "display_package_code": "9905739",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905739",
+      "package_invalid_date": "2018-10-17T9:45:39+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7800d183a"
+    },
+    {
+      "display_package_code": "9906722",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906722",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800d183a"
+    },
+    {
+      "display_package_code": "9906723",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906723",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800d183a"
+    },
+    {
+      "display_package_code": "9906724",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906724",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800d183a"
+    },
+    {
+      "display_package_code": "9906725",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906725",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800d183a"
+    },
+    {
+      "display_package_code": "9934892",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934892",
+      "package_invalid_date": "2016-11-21T6:30:51+0000",
+      "package_size": "1 x 14 tbl.",
+      "preparation_id": "0910f7c7800d183a"
+    },
+    {
+      "display_package_code": "9934893",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934893",
+      "package_invalid_date": "2016-11-21T6:31:07+0000",
+      "package_size": "2 x 14 tbl.",
+      "preparation_id": "0910f7c7800d183a"
+    },
+    {
+      "display_package_code": "9934894",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934894",
+      "package_invalid_date": "2016-11-21T6:31:23+0000",
+      "package_size": "4 x 14 tbl.",
+      "preparation_id": "0910f7c7800d183a"
+    },
+    {
+      "display_package_code": "9934895",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934895",
+      "package_invalid_date": "2016-11-21T6:31:39+0000",
+      "package_size": "10 x 14 tbl.",
+      "preparation_id": "0910f7c7800d183a"
+    }
+  ],
+  "preparation": {
+    "holder_id": "248",
+    "holder_name": "Elanco GmbH",
+    "name": "FORTEKOR Flavour 20 mg tablety pro psy",
+    "preparation_id": "0910f7c7800d183a",
+    "registration_date": "2010-05-12T10:34:38+0000",
+    "registration_number": "96/031/10-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7800d1831",
+    "spc_modified_date": "2024-06-25T11:41:52+0000"
+  },
+  "schema_version": 1
+}

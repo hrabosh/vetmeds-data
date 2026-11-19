@@ -1,0 +1,160 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9901211",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901211",
+      "package_invalid_date": null,
+      "package_size": "1 x 10 ml (10 dávek) nominální objem 30 ml",
+      "preparation_id": "0910f7c780095095"
+    },
+    {
+      "display_package_code": "9901212",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901212",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 ml (50 dávek)nominální objem 120 ml",
+      "preparation_id": "0910f7c780095095"
+    },
+    {
+      "display_package_code": "9901213",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901213",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml (100 dávek)nominální objem 250 ml",
+      "preparation_id": "0910f7c780095095"
+    },
+    {
+      "display_package_code": "9901214",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901214",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 ml (250 dávek)nominální objem 500 ml",
+      "preparation_id": "0910f7c780095095"
+    },
+    {
+      "display_package_code": "9901215",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901215",
+      "package_invalid_date": null,
+      "package_size": "12 x 10 ml (10 dávek)nominální objem 12 x 30 ml",
+      "preparation_id": "0910f7c780095095"
+    },
+    {
+      "display_package_code": "9901216",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901216",
+      "package_invalid_date": null,
+      "package_size": "12 x 50 ml (50 dávek)nominální objem 12 x 120 ml",
+      "preparation_id": "0910f7c780095095"
+    },
+    {
+      "display_package_code": "9901217",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901217",
+      "package_invalid_date": null,
+      "package_size": "12 x 100 ml (100 dávek)nominální objem  12 x 250 ml",
+      "preparation_id": "0910f7c780095095"
+    },
+    {
+      "display_package_code": "9901218",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901218",
+      "package_invalid_date": null,
+      "package_size": "12 x 250 ml (250 dávek)nominální objem 12 x 500 ml",
+      "preparation_id": "0910f7c780095095"
+    },
+    {
+      "display_package_code": "9937184",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937184",
+      "package_invalid_date": null,
+      "package_size": "1 x 10 ml (10 dávek) nominální objem 15 ml",
+      "preparation_id": "0910f7c780095095"
+    },
+    {
+      "display_package_code": "9937297",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937297",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 ml (50 dávek)nominální objem 60 ml",
+      "preparation_id": "0910f7c780095095"
+    },
+    {
+      "display_package_code": "9937441",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937441",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml (100 dávek)nominální objem 120 ml",
+      "preparation_id": "0910f7c780095095"
+    },
+    {
+      "display_package_code": "9937574",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937574",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 ml (250 dávek)nominální objem 250 ml",
+      "preparation_id": "0910f7c780095095"
+    },
+    {
+      "display_package_code": "9937705",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937705",
+      "package_invalid_date": null,
+      "package_size": "12 x 10 ml (10 dávek)nominální objem 12 x 15 ml",
+      "preparation_id": "0910f7c780095095"
+    },
+    {
+      "display_package_code": "9937817",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937817",
+      "package_invalid_date": null,
+      "package_size": "12 x 50 ml (50 dávek)nominální objem 12 x 60 ml",
+      "preparation_id": "0910f7c780095095"
+    },
+    {
+      "display_package_code": "9937919",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937919",
+      "package_invalid_date": null,
+      "package_size": "12 x 100 ml (100 dávek)nominální objem 12 x 120 ml",
+      "preparation_id": "0910f7c780095095"
+    },
+    {
+      "display_package_code": "9937968",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937968",
+      "package_invalid_date": null,
+      "package_size": "12 x 250 ml (250 dávek)nominální objem 12 x 250 ml",
+      "preparation_id": "0910f7c780095095"
+    }
+  ],
+  "preparation": {
+    "holder_id": "16",
+    "holder_name": "Boehringer Ingelheim Vetmedica, GmbH",
+    "name": "Ingelvac MycoFLEX",
+    "preparation_id": "0910f7c780095095",
+    "registration_date": "2009-03-23T17:29:48+0000",
+    "registration_number": "97/068/09-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780095091",
+    "spc_modified_date": "2025-07-02T9:35:01+0000"
+  },
+  "schema_version": 1
+}

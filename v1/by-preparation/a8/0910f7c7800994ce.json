@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9936991",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936991",
+      "package_invalid_date": null,
+      "package_size": "1 x 160 g",
+      "preparation_id": "0910f7c7800994ce"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "Pix-Fagi Bioveta",
+    "preparation_id": "0910f7c7800994ce",
+    "registration_date": "2001-05-03T7:46:22+0000",
+    "registration_number": "96/021/01-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800994ca",
+    "spc_modified_date": "2026-04-23T7:46:45+0000"
+  },
+  "schema_version": 1
+}

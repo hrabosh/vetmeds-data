@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9936084",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9936084",
+      "package_invalid_date": null,
+      "package_size": "1 x 20 ml",
+      "preparation_id": "0910f7c78008dde8"
+    },
+    {
+      "display_package_code": "9936092",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9936092",
+      "package_invalid_date": null,
+      "package_size": "1 x 200 ml",
+      "preparation_id": "0910f7c78008dde8"
+    },
+    {
+      "display_package_code": "9936103",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9936103",
+      "package_invalid_date": null,
+      "package_size": "1 x 1000 ml",
+      "preparation_id": "0910f7c78008dde8"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "Alfadin",
+    "preparation_id": "0910f7c78008dde8",
+    "registration_date": "2004-02-18T12:50:51+0000",
+    "registration_number": "96/018/04-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78008dde2",
+    "spc_modified_date": "2022-10-26T5:55:28+0000"
+  },
+  "schema_version": 1
+}

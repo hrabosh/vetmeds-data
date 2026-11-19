@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905481",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9905481",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78042a68b"
+    },
+    {
+      "display_package_code": "9905482",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9905482",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78042a68b"
+    },
+    {
+      "display_package_code": "9905483",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9905483",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78042a68b"
+    },
+    {
+      "display_package_code": "9905484",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9905484",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78042a68b"
+    },
+    {
+      "display_package_code": "9905485",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905485",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78042a68b"
+    }
+  ],
+  "preparation": {
+    "holder_id": "46",
+    "holder_name": "Krka d.d. Novo mesto",
+    "name": "Amflee Combo 134 mg - 120,6 mg",
+    "preparation_id": "0910f7c78042a68b",
+    "registration_date": "2016-08-31T7:56:31+0000",
+    "registration_number": "96/079/16-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78042a68a",
+    "spc_modified_date": "2025-04-15T7:41:31+0000"
+  },
+  "schema_version": 1
+}

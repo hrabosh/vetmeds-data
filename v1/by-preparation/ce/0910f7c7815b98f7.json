@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9908374",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908374",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815b98f7"
+    },
+    {
+      "display_package_code": "9908375",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908375",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815b98f7"
+    },
+    {
+      "display_package_code": "9908376",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908376",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815b98f7"
+    },
+    {
+      "display_package_code": "9908377",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908377",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815b98f7"
+    }
+  ],
+  "preparation": {
+    "holder_id": "192",
+    "holder_name": "Pharmagal Bio s.r.o.",
+    "name": "Castorex Neo",
+    "preparation_id": "0910f7c7815b98f7",
+    "registration_date": "2020-03-13T11:1:52+0000",
+    "registration_number": "97/026/20-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7815b98f4",
+    "spc_modified_date": "2026-09-15T10:2:08+0000"
+  },
+  "schema_version": 1
+}

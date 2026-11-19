@@ -1,0 +1,106 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9903950",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903950",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78026852f"
+    },
+    {
+      "display_package_code": "9903951",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903951",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78026852f"
+    },
+    {
+      "display_package_code": "9903952",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903952",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78026852f"
+    },
+    {
+      "display_package_code": "9903953",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903953",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78026852f"
+    },
+    {
+      "display_package_code": "9903954",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903954",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78026852f"
+    },
+    {
+      "display_package_code": "9903955",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903955",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78026852f"
+    },
+    {
+      "display_package_code": "9903956",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903956",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78026852f"
+    },
+    {
+      "display_package_code": "9903957",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903957",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78026852f"
+    },
+    {
+      "display_package_code": "9903958",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903958",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78026852f"
+    },
+    {
+      "display_package_code": "9903959",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903959",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78026852f"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "Porcilis PCV M Hyo",
+    "preparation_id": "0910f7c78026852f",
+    "registration_date": "2014-11-07T12:0:08+0000",
+    "registration_number": "EU/2/14/175",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c78026852e",
+    "spc_modified_date": "2023-06-02T11:50:50+0000"
+  },
+  "schema_version": 1
+}

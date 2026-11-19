@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902244",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9902244",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008d595"
+    },
+    {
+      "display_package_code": "9902245",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9902245",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008d595"
+    },
+    {
+      "display_package_code": "9902246",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9902246",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008d595"
+    },
+    {
+      "display_package_code": "9935451",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9935451",
+      "package_invalid_date": "2013-06-03T10:10:17+0000",
+      "package_size": "1 x 10 g",
+      "preparation_id": "0910f7c78008d595"
+    },
+    {
+      "display_package_code": "9935452",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9935452",
+      "package_invalid_date": "2013-06-03T10:10:42+0000",
+      "package_size": "1 x 16 g",
+      "preparation_id": "0910f7c78008d595"
+    },
+    {
+      "display_package_code": "9935453",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9935453",
+      "package_invalid_date": "2013-06-03T10:10:59+0000",
+      "package_size": "1 x 24 g",
+      "preparation_id": "0910f7c78008d595"
+    }
+  ],
+  "preparation": {
+    "holder_id": "226",
+    "holder_name": "Zoetis Česká republika s.r.o.",
+    "name": "BANMINTH",
+    "preparation_id": "0910f7c78008d595",
+    "registration_date": "1994-11-23T9:28:29+0000",
+    "registration_number": "96/1193/94-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78008d581",
+    "spc_modified_date": "2023-05-26T7:31:37+0000"
+  },
+  "schema_version": 1
+}

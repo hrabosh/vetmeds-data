@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9907852",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907852",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78162f300"
+    },
+    {
+      "display_package_code": "9907853",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907853",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78162f300"
+    },
+    {
+      "display_package_code": "9907854",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907854",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78162f300"
+    }
+  ],
+  "preparation": {
+    "holder_id": "112",
+    "holder_name": "VIRBAC",
+    "name": "Evicto",
+    "preparation_id": "0910f7c78162f300",
+    "registration_date": "2019-07-19T9:11:39+0000",
+    "registration_number": "EU/2/19/242",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7814e1c26",
+    "spc_modified_date": "2026-01-09T12:33:49+0000"
+  },
+  "schema_version": 1
+}

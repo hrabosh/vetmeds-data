@@ -1,0 +1,97 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9907633",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907633",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808fcfbb"
+    },
+    {
+      "display_package_code": "9907634",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907634",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808fcfbb"
+    },
+    {
+      "display_package_code": "9907635",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907635",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808fcfbb"
+    },
+    {
+      "display_package_code": "9907636",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907636",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808fcfbb"
+    },
+    {
+      "display_package_code": "9907637",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907637",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808fcfbb"
+    },
+    {
+      "display_package_code": "9907638",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907638",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808fcfbb"
+    },
+    {
+      "display_package_code": "9907639",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907639",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808fcfbb"
+    },
+    {
+      "display_package_code": "9907640",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907640",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808fcfbb"
+    },
+    {
+      "display_package_code": "9907641",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907641",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808fcfbb"
+    }
+  ],
+  "preparation": {
+    "holder_id": "180",
+    "holder_name": "Le Vet. Beheer, B.V.",
+    "name": "Tralieve",
+    "preparation_id": "0910f7c7808fcfbb",
+    "registration_date": "2019-07-17T6:30:51+0000",
+    "registration_number": "96/056/19-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7808fcfba",
+    "spc_modified_date": "2025-01-06T12:1:46+0000"
+  },
+  "schema_version": 1
+}

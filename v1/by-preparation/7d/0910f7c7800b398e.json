@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9939943",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9939943",
+      "package_invalid_date": null,
+      "package_size": "2 x 5 proužků v sáčku",
+      "preparation_id": "0910f7c7800b398e"
+    }
+  ],
+  "preparation": {
+    "holder_id": "135",
+    "holder_name": "Andermatt Bio Vet GmbH",
+    "name": "Thymovar, 15 g proužky do úlu pro včely",
+    "preparation_id": "0910f7c7800b398e",
+    "registration_date": "2010-12-22T10:5:29+0000",
+    "registration_number": "96/060/10-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800b398b",
+    "spc_modified_date": "2025-10-08T11:49:24+0000"
+  },
+  "schema_version": 1
+}

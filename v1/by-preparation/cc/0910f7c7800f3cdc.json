@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905774",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905774",
+      "package_invalid_date": "2019-06-28T10:11:12+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3cdc"
+    },
+    {
+      "display_package_code": "9907501",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907501",
+      "package_invalid_date": "2021-06-07T9:12:22+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3cdc"
+    },
+    {
+      "display_package_code": "9909338",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909338",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3cdc"
+    },
+    {
+      "display_package_code": "9934424",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934424",
+      "package_invalid_date": "2016-12-15T8:31:09+0000",
+      "package_size": "1 x 30 žvýkacích tbl._EU/2/08/080/002",
+      "preparation_id": "0910f7c7800f3cdc"
+    }
+  ],
+  "preparation": {
+    "holder_id": "206",
+    "holder_name": "Forte Healthcare Limited",
+    "name": "Reconcile",
+    "preparation_id": "0910f7c7800f3cdc",
+    "registration_date": "2008-07-08T11:16:45+0000",
+    "registration_number": "EU/2/08/080",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f3cd3",
+    "spc_modified_date": "2026-09-11T11:0:30+0000"
+  },
+  "schema_version": 1
+}

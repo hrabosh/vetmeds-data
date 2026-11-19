@@ -1,0 +1,187 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909262",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909262",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780096478"
+    },
+    {
+      "display_package_code": "9935087",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935087",
+      "package_invalid_date": null,
+      "package_size": "1 x 20 kg",
+      "preparation_id": "0910f7c780096478"
+    },
+    {
+      "display_package_code": "9935156",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935156",
+      "package_invalid_date": null,
+      "package_size": "1 x 25 kg",
+      "preparation_id": "0910f7c780096478"
+    },
+    {
+      "display_package_code": "9935332",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935332",
+      "package_invalid_date": "2021-04-30T5:14:02+0000",
+      "package_size": "1 x 50 kg",
+      "preparation_id": "0910f7c780096478"
+    },
+    {
+      "display_package_code": "9935417",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935417",
+      "package_invalid_date": null,
+      "package_size": "1 x 1 kg",
+      "preparation_id": "0910f7c780096478"
+    },
+    {
+      "display_package_code": "9935532",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935532",
+      "package_invalid_date": null,
+      "package_size": "1x5 kg",
+      "preparation_id": "0910f7c780096478"
+    },
+    {
+      "display_package_code": "9935649",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935649",
+      "package_invalid_date": null,
+      "package_size": "1x10 kg",
+      "preparation_id": "0910f7c780096478"
+    },
+    {
+      "display_package_code": "9935753",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935753",
+      "package_invalid_date": "2021-04-30T5:19:15+0000",
+      "package_size": "1 x 15 kg",
+      "preparation_id": "0910f7c780096478"
+    },
+    {
+      "display_package_code": "9935812",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935812",
+      "package_invalid_date": "2021-04-30T5:15:17+0000",
+      "package_size": "1 x 100 g",
+      "preparation_id": "0910f7c780096478"
+    },
+    {
+      "display_package_code": "9935866",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935866",
+      "package_invalid_date": "2021-04-30T5:16:48+0000",
+      "package_size": "1 x 150 g",
+      "preparation_id": "0910f7c780096478"
+    },
+    {
+      "display_package_code": "9935962",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935962",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 g",
+      "preparation_id": "0910f7c780096478"
+    },
+    {
+      "display_package_code": "9936036",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936036",
+      "package_invalid_date": null,
+      "package_size": "1 x 500 g",
+      "preparation_id": "0910f7c780096478"
+    },
+    {
+      "display_package_code": "9937910",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937910",
+      "package_invalid_date": null,
+      "package_size": "1 x 0,5 kg",
+      "preparation_id": "0910f7c780096478"
+    },
+    {
+      "display_package_code": "9937928",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937928",
+      "package_invalid_date": null,
+      "package_size": "1 x 1 kg",
+      "preparation_id": "0910f7c780096478"
+    },
+    {
+      "display_package_code": "9937950",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937950",
+      "package_invalid_date": null,
+      "package_size": "1 x 5 kg",
+      "preparation_id": "0910f7c780096478"
+    },
+    {
+      "display_package_code": "9938002",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938002",
+      "package_invalid_date": null,
+      "package_size": "1 x 10 kg",
+      "preparation_id": "0910f7c780096478"
+    },
+    {
+      "display_package_code": "9939216",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939216",
+      "package_invalid_date": null,
+      "package_size": "1 x 5 kg",
+      "preparation_id": "0910f7c780096478"
+    },
+    {
+      "display_package_code": "9939228",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939228",
+      "package_invalid_date": "2021-04-30T5:17:57+0000",
+      "package_size": "1 x 10 kg",
+      "preparation_id": "0910f7c780096478"
+    },
+    {
+      "display_package_code": "9939238",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939238",
+      "package_invalid_date": null,
+      "package_size": "1x15 kg",
+      "preparation_id": "0910f7c780096478"
+    }
+  ],
+  "preparation": {
+    "holder_id": "122",
+    "holder_name": "Tekro spol. s r.o.",
+    "name": "MEDITEK COLIS",
+    "preparation_id": "0910f7c780096478",
+    "registration_date": "2003-07-25T11:0:07+0000",
+    "registration_number": "96/055/03-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780096475",
+    "spc_modified_date": "2026-05-12T11:1:12+0000"
+  },
+  "schema_version": 1
+}

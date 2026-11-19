@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906857",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906857",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7813c0129"
+    },
+    {
+      "display_package_code": "9906858",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906858",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7813c0129"
+    },
+    {
+      "display_package_code": "9906859",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906859",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7813c0129"
+    },
+    {
+      "display_package_code": "9906860",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906860",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7813c0129"
+    }
+  ],
+  "preparation": {
+    "holder_id": "46",
+    "holder_name": "Krka d.d. Novo mesto",
+    "name": "Selehold pro psy 5,1-10kg",
+    "preparation_id": "0910f7c7813c0129",
+    "registration_date": "2018-12-18T6:52:21+0000",
+    "registration_number": "96/072/18-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7813c0125",
+    "spc_modified_date": "2023-12-19T7:54:47+0000"
+  },
+  "schema_version": 1
+}

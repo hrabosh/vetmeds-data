@@ -1,0 +1,34 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900136",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900136",
+      "package_invalid_date": null,
+      "package_size": "2 x 9,4 mg_EU/2/07/072/003",
+      "preparation_id": "0910f7c7800f3d50"
+    },
+    {
+      "display_package_code": "9900137",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900137",
+      "package_invalid_date": null,
+      "package_size": "5 x 9,4 mg_EU/2/07/072/004",
+      "preparation_id": "0910f7c7800f3d50"
+    }
+  ],
+  "preparation": {
+    "holder_id": "112",
+    "holder_name": "VIRBAC",
+    "name": "Suprelorin",
+    "preparation_id": "0910f7c7800f3d50",
+    "registration_date": "2007-07-10T14:32:51+0000",
+    "registration_number": "EU/2/07/072",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f3d49",
+    "spc_modified_date": "2026-04-16T10:19:14+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900254",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900254",
+      "package_invalid_date": null,
+      "package_size": "12 x 50 ml",
+      "preparation_id": "0910f7c7800ff64f"
+    },
+    {
+      "display_package_code": "9900255",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900255",
+      "package_invalid_date": null,
+      "package_size": "12 x 100 ml",
+      "preparation_id": "0910f7c7800ff64f"
+    },
+    {
+      "display_package_code": "9900256",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900256",
+      "package_invalid_date": null,
+      "package_size": "12 x 250 ml",
+      "preparation_id": "0910f7c7800ff64f"
+    },
+    {
+      "display_package_code": "9900257",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900257",
+      "package_invalid_date": null,
+      "package_size": "12 x 500 ml",
+      "preparation_id": "0910f7c7800ff64f"
+    },
+    {
+      "display_package_code": "9934743",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934743",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c7800ff64f"
+    },
+    {
+      "display_package_code": "9934744",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934744",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c7800ff64f"
+    },
+    {
+      "display_package_code": "9934745",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934745",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 ml",
+      "preparation_id": "0910f7c7800ff64f"
+    },
+    {
+      "display_package_code": "9934746",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934746",
+      "package_invalid_date": null,
+      "package_size": "1 x 500 ml",
+      "preparation_id": "0910f7c7800ff64f"
+    }
+  ],
+  "preparation": {
+    "holder_id": "178",
+    "holder_name": "Emdoka",
+    "name": "Florgane",
+    "preparation_id": "0910f7c7800ff64f",
+    "registration_date": "2011-03-24T13:21:29+0000",
+    "registration_number": "96/014/11-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7800ff64c",
+    "spc_modified_date": "2025-12-16T13:22:55+0000"
+  },
+  "schema_version": 1
+}

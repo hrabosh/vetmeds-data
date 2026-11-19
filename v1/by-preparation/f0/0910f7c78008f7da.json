@@ -1,0 +1,124 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900514",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900514",
+      "package_invalid_date": "2021-07-13T8:29:31+0000",
+      "package_size": "1 x 1000 dávek (souběžný dovoz)",
+      "preparation_id": "0910f7c78008f7da"
+    },
+    {
+      "display_package_code": "9900515",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900515",
+      "package_invalid_date": "2021-07-13T8:31:36+0000",
+      "package_size": "10 x 1000 dávek (souběžný dovoz)",
+      "preparation_id": "0910f7c78008f7da"
+    },
+    {
+      "display_package_code": "9900516",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900516",
+      "package_invalid_date": "2021-07-13T8:33:47+0000",
+      "package_size": "1 x 2000 dávek (souběžný dovoz)",
+      "preparation_id": "0910f7c78008f7da"
+    },
+    {
+      "display_package_code": "9900517",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900517",
+      "package_invalid_date": null,
+      "package_size": "10 x 2000 dávek (souběžný dovoz)",
+      "preparation_id": "0910f7c78008f7da"
+    },
+    {
+      "display_package_code": "9900518",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900518",
+      "package_invalid_date": "2021-07-13T8:35:20+0000",
+      "package_size": "1 x 5000 dávek (souběžný dovoz)",
+      "preparation_id": "0910f7c78008f7da"
+    },
+    {
+      "display_package_code": "9900519",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900519",
+      "package_invalid_date": null,
+      "package_size": "10 x 5000 dávek (souběžný dovoz)",
+      "preparation_id": "0910f7c78008f7da"
+    },
+    {
+      "display_package_code": "9936909",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936909",
+      "package_invalid_date": null,
+      "package_size": "1 x 1000 dávek",
+      "preparation_id": "0910f7c78008f7da"
+    },
+    {
+      "display_package_code": "9936996",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936996",
+      "package_invalid_date": null,
+      "package_size": "10 x 1000 dávek",
+      "preparation_id": "0910f7c78008f7da"
+    },
+    {
+      "display_package_code": "9937104",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937104",
+      "package_invalid_date": null,
+      "package_size": "1 x 2000 dávek",
+      "preparation_id": "0910f7c78008f7da"
+    },
+    {
+      "display_package_code": "9937242",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937242",
+      "package_invalid_date": null,
+      "package_size": "10 x 2000 dávek",
+      "preparation_id": "0910f7c78008f7da"
+    },
+    {
+      "display_package_code": "9938008",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938008",
+      "package_invalid_date": null,
+      "package_size": "1 x 5000 dávek",
+      "preparation_id": "0910f7c78008f7da"
+    },
+    {
+      "display_package_code": "9938030",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938030",
+      "package_invalid_date": null,
+      "package_size": "10 x 5000 dávek",
+      "preparation_id": "0910f7c78008f7da"
+    }
+  ],
+  "preparation": {
+    "holder_id": "53",
+    "holder_name": "Lohmann Animal Health GmbH",
+    "name": "AviPro Salmonella vac E",
+    "preparation_id": "0910f7c78008f7da",
+    "registration_date": "2000-12-01T8:56:10+0000",
+    "registration_number": "97/082/00-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78008f7d7",
+    "spc_modified_date": "2025-10-10T7:56:32+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,97 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9908518",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9908518",
+      "package_invalid_date": "2020-11-09T11:42:34+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78008fe74"
+    },
+    {
+      "display_package_code": "9908519",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9908519",
+      "package_invalid_date": "2020-11-09T11:44:01+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78008fe74"
+    },
+    {
+      "display_package_code": "9908520",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9908520",
+      "package_invalid_date": "2020-11-09T11:45:11+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78008fe74"
+    },
+    {
+      "display_package_code": "9908904",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9908904",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008fe74"
+    },
+    {
+      "display_package_code": "9908905",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9908905",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008fe74"
+    },
+    {
+      "display_package_code": "9908906",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9908906",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008fe74"
+    },
+    {
+      "display_package_code": "9935443",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9935443",
+      "package_invalid_date": "2020-05-04T10:29:13+0000",
+      "package_size": "1 x 25 ml",
+      "preparation_id": "0910f7c78008fe74"
+    },
+    {
+      "display_package_code": "9937176",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9937176",
+      "package_invalid_date": "2020-05-04T10:28:20+0000",
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c78008fe74"
+    },
+    {
+      "display_package_code": "9938350",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9938350",
+      "package_invalid_date": "2020-05-04T10:27:32+0000",
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c78008fe74"
+    }
+  ],
+  "preparation": {
+    "holder_id": "134",
+    "holder_name": "Vétoquinol S.A.",
+    "name": "DRONTAL JUNIOR",
+    "preparation_id": "0910f7c78008fe74",
+    "registration_date": "1997-12-01T10:18:55+0000",
+    "registration_number": "96/1158/97-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78008fe71",
+    "spc_modified_date": "2026-07-28T8:55:34+0000"
+  },
+  "schema_version": 1
+}

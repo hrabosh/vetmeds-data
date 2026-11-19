@@ -1,0 +1,232 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900151",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900151",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 dávek pro s.c. aplikaci",
+      "preparation_id": "0910f7c78009d2a1"
+    },
+    {
+      "display_package_code": "9900152",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900152",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 dávek pro i.d. aplikaci",
+      "preparation_id": "0910f7c78009d2a1"
+    },
+    {
+      "display_package_code": "9900153",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900153",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 dávek pro s.c.aplikaci",
+      "preparation_id": "0910f7c78009d2a1"
+    },
+    {
+      "display_package_code": "9900154",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900154",
+      "package_invalid_date": null,
+      "package_size": "1 x 500 dávek pro i.d.aplikaci",
+      "preparation_id": "0910f7c78009d2a1"
+    },
+    {
+      "display_package_code": "9900155",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900155",
+      "package_invalid_date": null,
+      "package_size": "6 x 1 dávka pro s.c. aplikaci",
+      "preparation_id": "0910f7c78009d2a1"
+    },
+    {
+      "display_package_code": "9900156",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900156",
+      "package_invalid_date": null,
+      "package_size": "6 x 5 dávek pro i.d. aplikaci",
+      "preparation_id": "0910f7c78009d2a1"
+    },
+    {
+      "display_package_code": "9900157",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900157",
+      "package_invalid_date": null,
+      "package_size": "6 x 25 dávek pro s.c. aplikaci",
+      "preparation_id": "0910f7c78009d2a1"
+    },
+    {
+      "display_package_code": "9900158",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900158",
+      "package_invalid_date": null,
+      "package_size": "6 x 50 dávek pro i.d. aplikaci",
+      "preparation_id": "0910f7c78009d2a1"
+    },
+    {
+      "display_package_code": "9900159",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900159",
+      "package_invalid_date": null,
+      "package_size": "6 x 50 dávek pro s.c. aplikaci",
+      "preparation_id": "0910f7c78009d2a1"
+    },
+    {
+      "display_package_code": "9900160",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900160",
+      "package_invalid_date": null,
+      "package_size": "6 x 100 dávek pro i.d. aplikaci",
+      "preparation_id": "0910f7c78009d2a1"
+    },
+    {
+      "display_package_code": "9900161",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900161",
+      "package_invalid_date": null,
+      "package_size": "12 x 25 dávek pro s.c. aplikaci",
+      "preparation_id": "0910f7c78009d2a1"
+    },
+    {
+      "display_package_code": "9900162",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900162",
+      "package_invalid_date": null,
+      "package_size": "12 x 50 dávek pro i.d. aplikaci",
+      "preparation_id": "0910f7c78009d2a1"
+    },
+    {
+      "display_package_code": "9937506",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937506",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 dávek pro s. c. aplikaci",
+      "preparation_id": "0910f7c78009d2a1"
+    },
+    {
+      "display_package_code": "9937592",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937592",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 dávek pro i. d. aplikaci",
+      "preparation_id": "0910f7c78009d2a1"
+    },
+    {
+      "display_package_code": "9938055",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938055",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 dávek pro s. c. aplikaci",
+      "preparation_id": "0910f7c78009d2a1"
+    },
+    {
+      "display_package_code": "9938088",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938088",
+      "package_invalid_date": null,
+      "package_size": "1 x 500 dváak pro i. d. aplikaci",
+      "preparation_id": "0910f7c78009d2a1"
+    },
+    {
+      "display_package_code": "9939177",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939177",
+      "package_invalid_date": null,
+      "package_size": "6 x 1 dávka pro s. c. aplikaci",
+      "preparation_id": "0910f7c78009d2a1"
+    },
+    {
+      "display_package_code": "9939178",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939178",
+      "package_invalid_date": null,
+      "package_size": "6 x 25 dávak pro s. c. aplikaci",
+      "preparation_id": "0910f7c78009d2a1"
+    },
+    {
+      "display_package_code": "9939179",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939179",
+      "package_invalid_date": null,
+      "package_size": "6 x 50 dávak pro s. c. aplikaci",
+      "preparation_id": "0910f7c78009d2a1"
+    },
+    {
+      "display_package_code": "9939180",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939180",
+      "package_invalid_date": null,
+      "package_size": "12 x 25 dávek pro s. c. aplikaci",
+      "preparation_id": "0910f7c78009d2a1"
+    },
+    {
+      "display_package_code": "9939181",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939181",
+      "package_invalid_date": null,
+      "package_size": "6 x 5 dávek pro i. d. aplikaci",
+      "preparation_id": "0910f7c78009d2a1"
+    },
+    {
+      "display_package_code": "9939182",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939182",
+      "package_invalid_date": null,
+      "package_size": "6 x 50 dávak pro i. d. aplikaci",
+      "preparation_id": "0910f7c78009d2a1"
+    },
+    {
+      "display_package_code": "9939183",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939183",
+      "package_invalid_date": null,
+      "package_size": "6 x 100 dávek pro i. d. aplikaci",
+      "preparation_id": "0910f7c78009d2a1"
+    },
+    {
+      "display_package_code": "9939184",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939184",
+      "package_invalid_date": null,
+      "package_size": "12 x 50 dávek pro i. d. aplikaci",
+      "preparation_id": "0910f7c78009d2a1"
+    }
+  ],
+  "preparation": {
+    "holder_id": "29",
+    "holder_name": "Dyntec, spol. s r.o.",
+    "name": "SUIVAC ERY",
+    "preparation_id": "0910f7c78009d2a1",
+    "registration_date": "2001-03-20T12:14:35+0000",
+    "registration_number": "97/007/01-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78009d29e",
+    "spc_modified_date": "2022-10-26T9:3:11+0000"
+  },
+  "schema_version": 1
+}

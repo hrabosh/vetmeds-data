@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902357",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902357",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780095ed6"
+    },
+    {
+      "display_package_code": "9902358",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902358",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780095ed6"
+    },
+    {
+      "display_package_code": "9902359",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902359",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780095ed6"
+    },
+    {
+      "display_package_code": "9902360",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902360",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780095ed6"
+    },
+    {
+      "display_package_code": "9936562",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936562",
+      "package_invalid_date": "2013-06-03T10:18:50+0000",
+      "package_size": "1 x 250 ml",
+      "preparation_id": "0910f7c780095ed6"
+    },
+    {
+      "display_package_code": "9936563",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936563",
+      "package_invalid_date": "2013-06-03T10:19:08+0000",
+      "package_size": "1 x 500 ml",
+      "preparation_id": "0910f7c780095ed6"
+    },
+    {
+      "display_package_code": "9991236",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9991236",
+      "package_invalid_date": "2013-06-03T10:19:43+0000",
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c780095ed6"
+    },
+    {
+      "display_package_code": "9993195",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9993195",
+      "package_invalid_date": "2013-06-03T10:19:26+0000",
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c780095ed6"
+    }
+  ],
+  "preparation": {
+    "holder_id": "226",
+    "holder_name": "Zoetis Česká republika s.r.o.",
+    "name": "LINCO – SPECTIN",
+    "preparation_id": "0910f7c780095ed6",
+    "registration_date": "1987-06-03T14:56:15+0000",
+    "registration_number": "99/148/87-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c780095ed0",
+    "spc_modified_date": "2025-06-18T10:12:52+0000"
+  },
+  "schema_version": 1
+}

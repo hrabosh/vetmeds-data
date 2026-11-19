@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9907935",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907935",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780097454"
+    },
+    {
+      "display_package_code": "9936566",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936566",
+      "package_invalid_date": null,
+      "package_size": "1 x 1000 ml",
+      "preparation_id": "0910f7c780097454"
+    },
+    {
+      "display_package_code": "9936568",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936568",
+      "package_invalid_date": null,
+      "package_size": "100 x 5 ml",
+      "preparation_id": "0910f7c780097454"
+    }
+  ],
+  "preparation": {
+    "holder_id": "276",
+    "holder_name": "Ceva Animal Health Slovakia s.r.o.",
+    "name": "NEOSTOMOSAN",
+    "preparation_id": "0910f7c780097454",
+    "registration_date": "1992-07-08T7:7:44+0000",
+    "registration_number": "96/444/92–C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780097451",
+    "spc_modified_date": "2025-09-18T12:8:27+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906280",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906280",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780444179"
+    },
+    {
+      "display_package_code": "9906281",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906281",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780444179"
+    },
+    {
+      "display_package_code": "9906282",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906282",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780444179"
+    }
+  ],
+  "preparation": {
+    "holder_id": "217",
+    "holder_name": "Genera Inc.",
+    "name": "Genoxytab F",
+    "preparation_id": "0910f7c780444179",
+    "registration_date": "2017-12-19T8:19:43+0000",
+    "registration_number": "96/055/17-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c780444178",
+    "spc_modified_date": "2024-01-26T12:47:59+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,160 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9904584",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904584",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78025f38e"
+    },
+    {
+      "display_package_code": "9904585",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904585",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78025f38e"
+    },
+    {
+      "display_package_code": "9904586",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904586",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78025f38e"
+    },
+    {
+      "display_package_code": "9904587",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904587",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78025f38e"
+    },
+    {
+      "display_package_code": "9904588",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904588",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78025f38e"
+    },
+    {
+      "display_package_code": "9904589",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904589",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78025f38e"
+    },
+    {
+      "display_package_code": "9904590",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904590",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78025f38e"
+    },
+    {
+      "display_package_code": "9904591",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904591",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78025f38e"
+    },
+    {
+      "display_package_code": "9904592",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904592",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78025f38e"
+    },
+    {
+      "display_package_code": "9904593",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904593",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78025f38e"
+    },
+    {
+      "display_package_code": "9904594",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904594",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78025f38e"
+    },
+    {
+      "display_package_code": "9904595",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904595",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78025f38e"
+    },
+    {
+      "display_package_code": "9904596",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904596",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78025f38e"
+    },
+    {
+      "display_package_code": "9904597",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904597",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78025f38e"
+    },
+    {
+      "display_package_code": "9904598",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904598",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78025f38e"
+    },
+    {
+      "display_package_code": "9904599",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904599",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78025f38e"
+    }
+  ],
+  "preparation": {
+    "holder_id": "16",
+    "holder_name": "Boehringer Ingelheim Vetmedica, GmbH",
+    "name": "Bovela",
+    "preparation_id": "0910f7c78025f38e",
+    "registration_date": "2014-12-22T11:7:55+0000",
+    "registration_number": "EU/2/14/176",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c78025f38d",
+    "spc_modified_date": "2023-01-17T8:59:03+0000"
+  },
+  "schema_version": 1
+}

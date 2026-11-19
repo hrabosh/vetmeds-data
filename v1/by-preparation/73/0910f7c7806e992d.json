@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905868",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905868",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7806e992d"
+    },
+    {
+      "display_package_code": "9905869",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905869",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7806e992d"
+    },
+    {
+      "display_package_code": "9905870",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905870",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7806e992d"
+    },
+    {
+      "display_package_code": "9905871",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905871",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7806e992d"
+    },
+    {
+      "display_package_code": "9905872",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905872",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7806e992d"
+    }
+  ],
+  "preparation": {
+    "holder_id": "112",
+    "holder_name": "VIRBAC",
+    "name": "Canigen Pi L",
+    "preparation_id": "0910f7c7806e992d",
+    "registration_date": "2017-02-23T7:23:38+0000",
+    "registration_number": "97/013/17-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7806e992b",
+    "spc_modified_date": "2026-01-07T7:44:50+0000"
+  },
+  "schema_version": 1
+}

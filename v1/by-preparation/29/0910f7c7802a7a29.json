@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9904908",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904908",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802a7a29"
+    },
+    {
+      "display_package_code": "9904909",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904909",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802a7a29"
+    },
+    {
+      "display_package_code": "9904910",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904910",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802a7a29"
+    },
+    {
+      "display_package_code": "9904911",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904911",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802a7a29"
+    },
+    {
+      "display_package_code": "9904912",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904912",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802a7a29"
+    }
+  ],
+  "preparation": {
+    "holder_id": "180",
+    "holder_name": "Le Vet. Beheer, B.V.",
+    "name": "Finilac",
+    "preparation_id": "0910f7c7802a7a29",
+    "registration_date": "2016-03-16T13:31:39+0000",
+    "registration_number": "96/021/16-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7802a7a28",
+    "spc_modified_date": "2024-10-16T11:28:09+0000"
+  },
+  "schema_version": 1
+}

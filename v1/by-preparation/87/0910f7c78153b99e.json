@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9907458",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907458",
+      "package_invalid_date": "2019-09-19T9:4:23+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78153b99e"
+    },
+    {
+      "display_package_code": "9907459",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907459",
+      "package_invalid_date": "2019-09-19T9:5:41+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78153b99e"
+    },
+    {
+      "display_package_code": "9907460",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907460",
+      "package_invalid_date": "2019-09-19T9:6:57+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78153b99e"
+    },
+    {
+      "display_package_code": "9907763",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907763",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78153b99e"
+    },
+    {
+      "display_package_code": "9907764",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907764",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78153b99e"
+    },
+    {
+      "display_package_code": "9907765",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907765",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78153b99e"
+    }
+  ],
+  "preparation": {
+    "holder_id": "46",
+    "holder_name": "Krka d.d. Novo mesto",
+    "name": "Milprazon CHEWABLE pro malé kočky a koťata",
+    "preparation_id": "0910f7c78153b99e",
+    "registration_date": "2019-06-18T11:11:24+0000",
+    "registration_number": "96/043/19-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78153b99a",
+    "spc_modified_date": "2024-09-09T10:6:06+0000"
+  },
+  "schema_version": 1
+}

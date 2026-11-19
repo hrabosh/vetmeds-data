@@ -1,0 +1,34 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905847",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905847",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804b7eb3"
+    },
+    {
+      "display_package_code": "9905848",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905848",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804b7eb3"
+    }
+  ],
+  "preparation": {
+    "holder_id": "180",
+    "holder_name": "Le Vet. Beheer, B.V.",
+    "name": "Dermanolon",
+    "preparation_id": "0910f7c7804b7eb3",
+    "registration_date": "2017-02-13T7:31:34+0000",
+    "registration_number": "96/009/17-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7804b7eb2",
+    "spc_modified_date": "2024-12-10T13:4:18+0000"
+  },
+  "schema_version": 1
+}

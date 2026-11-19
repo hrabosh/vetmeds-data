@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909185",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909185",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78167e98d"
+    },
+    {
+      "display_package_code": "9909186",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909186",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78167e98d"
+    },
+    {
+      "display_package_code": "9909187",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909187",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78167e98d"
+    }
+  ],
+  "preparation": {
+    "holder_id": "78",
+    "holder_name": "V.M.D. n.v.",
+    "name": "Surricoxx",
+    "preparation_id": "0910f7c78167e98d",
+    "registration_date": "2021-03-19T6:34:45+0000",
+    "registration_number": "96/015/21-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78167e6c9",
+    "spc_modified_date": "2026-04-20T10:56:43+0000"
+  },
+  "schema_version": 1
+}

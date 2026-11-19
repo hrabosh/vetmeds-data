@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9938258",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938258",
+      "package_invalid_date": null,
+      "package_size": "10 x 1 ml",
+      "preparation_id": "0910f7c78008e432"
+    },
+    {
+      "display_package_code": "9938282",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938282",
+      "package_invalid_date": null,
+      "package_size": "2 x 1 ml",
+      "preparation_id": "0910f7c78008e432"
+    },
+    {
+      "display_package_code": "9938323",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938323",
+      "package_invalid_date": null,
+      "package_size": "20 x 1 ml",
+      "preparation_id": "0910f7c78008e432"
+    },
+    {
+      "display_package_code": "9938336",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938336",
+      "package_invalid_date": null,
+      "package_size": "100 x 1 ml",
+      "preparation_id": "0910f7c78008e432"
+    },
+    {
+      "display_package_code": "9938372",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938372",
+      "package_invalid_date": null,
+      "package_size": "50 x 1 ml",
+      "preparation_id": "0910f7c78008e432"
+    },
+    {
+      "display_package_code": "9938397",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938397",
+      "package_invalid_date": "2013-03-05T10:20:02+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78008e432"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "Borrelym 3",
+    "preparation_id": "0910f7c78008e432",
+    "registration_date": "2009-04-16T8:54:04+0000",
+    "registration_number": "97/052/09-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78008e42f",
+    "spc_modified_date": "2025-11-04T11:9:25+0000"
+  },
+  "schema_version": 1
+}

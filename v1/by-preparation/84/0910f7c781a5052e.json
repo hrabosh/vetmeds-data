@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9910528",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910528",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a5052e"
+    },
+    {
+      "display_package_code": "9910529",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910529",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a5052e"
+    },
+    {
+      "display_package_code": "9910530",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910530",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a5052e"
+    },
+    {
+      "display_package_code": "9910531",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910531",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a5052e"
+    },
+    {
+      "display_package_code": "9910532",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910532",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a5052e"
+    },
+    {
+      "display_package_code": "9910533",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910533",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a5052e"
+    }
+  ],
+  "preparation": {
+    "holder_id": "322",
+    "holder_name": "Ceva Sante Animale",
+    "name": "Milbeguard Duo",
+    "preparation_id": "0910f7c781a5052e",
+    "registration_date": "2023-11-03T11:59:04+0000",
+    "registration_number": "96/056/23-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781a504b4",
+    "spc_modified_date": "2026-04-10T7:36:56+0000"
+  },
+  "schema_version": 1
+}

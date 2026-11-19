@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902133",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902133",
+      "package_invalid_date": null,
+      "package_size": "5 x 1 dávka_EU/2/12/143/001",
+      "preparation_id": "0910f7c78018fa60"
+    },
+    {
+      "display_package_code": "9902134",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902134",
+      "package_invalid_date": null,
+      "package_size": "10 x 1 dávka_EU/2/12/143/002",
+      "preparation_id": "0910f7c78018fa60"
+    },
+    {
+      "display_package_code": "9902135",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902135",
+      "package_invalid_date": null,
+      "package_size": "25 x 1 dávka_EU/2/12/143/003",
+      "preparation_id": "0910f7c78018fa60"
+    },
+    {
+      "display_package_code": "9902136",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902136",
+      "package_invalid_date": null,
+      "package_size": "50 x 1 dávka_EU/2/12/143/004",
+      "preparation_id": "0910f7c78018fa60"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "Nobivac L4",
+    "preparation_id": "0910f7c78018fa60",
+    "registration_date": "2012-07-16T5:38:03+0000",
+    "registration_number": "EU/2/12/143",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c78018fa58",
+    "spc_modified_date": "2025-09-30T8:9:33+0000"
+  },
+  "schema_version": 1
+}

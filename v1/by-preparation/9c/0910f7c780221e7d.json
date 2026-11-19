@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9903501",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903501",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780221e7d"
+    },
+    {
+      "display_package_code": "9903502",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903502",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780221e7d"
+    },
+    {
+      "display_package_code": "9903503",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903503",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780221e7d"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "Biocan Novel DHPPi/L4R",
+    "preparation_id": "0910f7c780221e7d",
+    "registration_date": "2014-07-23T9:18:42+0000",
+    "registration_number": "97/054/14-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780221e7c",
+    "spc_modified_date": "2026-09-01T9:19:00+0000"
+  },
+  "schema_version": 1
+}

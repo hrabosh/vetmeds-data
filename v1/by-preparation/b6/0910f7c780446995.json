@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905298",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905298",
+      "package_invalid_date": "2016-12-20T12:41:15+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780446995"
+    },
+    {
+      "display_package_code": "9905299",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905299",
+      "package_invalid_date": "2016-12-20T12:41:52+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780446995"
+    },
+    {
+      "display_package_code": "9905777",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905777",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780446995"
+    },
+    {
+      "display_package_code": "9905778",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905778",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780446995"
+    }
+  ],
+  "preparation": {
+    "holder_id": "37",
+    "holder_name": "Chanelle Pharmaceuticals Manufacturing, Ltd.",
+    "name": "Sevohale",
+    "preparation_id": "0910f7c780446995",
+    "registration_date": "2016-06-21T6:58:00+0000",
+    "registration_number": "EU/2/16/196",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c780446994",
+    "spc_modified_date": "2025-09-30T8:4:32+0000"
+  },
+  "schema_version": 1
+}

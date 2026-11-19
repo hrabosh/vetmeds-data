@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9908134",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908134",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814df709"
+    },
+    {
+      "display_package_code": "9908135",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908135",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814df709"
+    },
+    {
+      "display_package_code": "9908136",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908136",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814df709"
+    }
+  ],
+  "preparation": {
+    "holder_id": "100",
+    "holder_name": "Zoetis Belgium",
+    "name": "Simparica Trio",
+    "preparation_id": "0910f7c7814df709",
+    "registration_date": "2019-09-17T13:10:59+0000",
+    "registration_number": "EU/2/19/243",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7814df708",
+    "spc_modified_date": "2025-06-19T10:24:06+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9934906",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934906",
+      "package_invalid_date": null,
+      "package_size": "1 x 20 ml",
+      "preparation_id": "0910f7c780112ddc"
+    }
+  ],
+  "preparation": {
+    "holder_id": "46",
+    "holder_name": "Krka d.d. Novo mesto",
+    "name": "Rycarfa",
+    "preparation_id": "0910f7c780112ddc",
+    "registration_date": "2011-02-24T9:35:04+0000",
+    "registration_number": "96/005/11-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780112dc9",
+    "spc_modified_date": "2025-02-04T12:25:03+0000"
+  },
+  "schema_version": 1
+}

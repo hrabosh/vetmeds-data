@@ -1,0 +1,142 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9910810",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910810",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801152f2"
+    },
+    {
+      "display_package_code": "9910811",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910811",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801152f2"
+    },
+    {
+      "display_package_code": "9910812",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910812",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801152f2"
+    },
+    {
+      "display_package_code": "9910813",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910813",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801152f2"
+    },
+    {
+      "display_package_code": "9910814",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910814",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801152f2"
+    },
+    {
+      "display_package_code": "9910815",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910815",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801152f2"
+    },
+    {
+      "display_package_code": "9910816",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910816",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801152f2"
+    },
+    {
+      "display_package_code": "9934938",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934938",
+      "package_invalid_date": null,
+      "package_size": "1 x 10 tbl.",
+      "preparation_id": "0910f7c7801152f2"
+    },
+    {
+      "display_package_code": "9934939",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934939",
+      "package_invalid_date": null,
+      "package_size": "2 x 10 tbl.",
+      "preparation_id": "0910f7c7801152f2"
+    },
+    {
+      "display_package_code": "9934940",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934940",
+      "package_invalid_date": null,
+      "package_size": "3 x 10 tbl.",
+      "preparation_id": "0910f7c7801152f2"
+    },
+    {
+      "display_package_code": "9934941",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934941",
+      "package_invalid_date": null,
+      "package_size": "5 x 10 tbl.",
+      "preparation_id": "0910f7c7801152f2"
+    },
+    {
+      "display_package_code": "9934942",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934942",
+      "package_invalid_date": null,
+      "package_size": "6 x 10 tbl.",
+      "preparation_id": "0910f7c7801152f2"
+    },
+    {
+      "display_package_code": "9934943",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934943",
+      "package_invalid_date": null,
+      "package_size": "10 x 10 tbl.",
+      "preparation_id": "0910f7c7801152f2"
+    },
+    {
+      "display_package_code": "9934944",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934944",
+      "package_invalid_date": null,
+      "package_size": "15 x 10 tbl.",
+      "preparation_id": "0910f7c7801152f2"
+    }
+  ],
+  "preparation": {
+    "holder_id": "294",
+    "holder_name": "Le Vet. B.V.",
+    "name": "Floxabactin 15 mg tbl. pro kočky a psy",
+    "preparation_id": "0910f7c7801152f2",
+    "registration_date": "2011-01-21T12:56:05+0000",
+    "registration_number": "96/001/11-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7801152ca",
+    "spc_modified_date": "2025-09-16T11:56:22+0000"
+  },
+  "schema_version": 1
+}

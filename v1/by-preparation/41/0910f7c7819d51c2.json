@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9910493",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910493",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7819d51c2"
+    },
+    {
+      "display_package_code": "9910494",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910494",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7819d51c2"
+    },
+    {
+      "display_package_code": "9910495",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910495",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7819d51c2"
+    },
+    {
+      "display_package_code": "9910496",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910496",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7819d51c2"
+    }
+  ],
+  "preparation": {
+    "holder_id": "290",
+    "holder_name": "Alfasan Nederland B.V.",
+    "name": "Telmitraxx",
+    "preparation_id": "0910f7c7819d51c2",
+    "registration_date": "2023-10-31T12:31:40+0000",
+    "registration_number": "96/052/23-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7819d51c1",
+    "spc_modified_date": "2026-10-13T9:20:15+0000"
+  },
+  "schema_version": 1
+}

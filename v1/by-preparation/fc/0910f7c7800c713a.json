@@ -1,0 +1,79 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700407",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700407",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800c713a"
+    },
+    {
+      "display_package_code": "9700408",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700408",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800c713a"
+    },
+    {
+      "display_package_code": "9700409",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700409",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800c713a"
+    },
+    {
+      "display_package_code": "9907300",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907300",
+      "package_invalid_date": "2025-09-11T10:49:20+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7800c713a"
+    },
+    {
+      "display_package_code": "9907339",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907339",
+      "package_invalid_date": "2025-09-11T10:50:56+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7800c713a"
+    },
+    {
+      "display_package_code": "9907340",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907340",
+      "package_invalid_date": "2025-09-11T10:51:05+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7800c713a"
+    },
+    {
+      "display_package_code": "9938672",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938672",
+      "package_invalid_date": "2019-03-21T13:5:29+0000",
+      "package_size": "1 x 6,42 g",
+      "preparation_id": "0910f7c7800c713a"
+    }
+  ],
+  "preparation": {
+    "holder_id": "325",
+    "holder_name": "ACME DRUGS s.r.l.",
+    "name": "Ecomectin",
+    "preparation_id": "0910f7c7800c713a",
+    "registration_date": "2009-03-13T14:24:31+0000",
+    "registration_number": "96/008/09-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800c7135",
+    "spc_modified_date": "2026-05-26T13:24:51+0000"
+  },
+  "schema_version": 1
+}

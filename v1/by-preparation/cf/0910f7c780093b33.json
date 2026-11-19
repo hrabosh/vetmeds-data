@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9937497",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937497",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c780093b33"
+    }
+  ],
+  "preparation": {
+    "holder_id": "49",
+    "holder_name": "Laboratorios Hipra S.A.",
+    "name": "Gentamox",
+    "preparation_id": "0910f7c780093b33",
+    "registration_date": "1997-12-01T7:17:42+0000",
+    "registration_number": "96/1163/97-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780093b2e",
+    "spc_modified_date": "2026-08-14T6:18:38+0000"
+  },
+  "schema_version": 1
+}

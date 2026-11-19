@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902983",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902983",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780440480"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "Nalgosed",
+    "preparation_id": "0910f7c780440480",
+    "registration_date": "2016-07-14T7:5:50+0000",
+    "registration_number": "96/056/16-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78044047f",
+    "spc_modified_date": "2024-08-27T5:46:52+0000"
+  },
+  "schema_version": 1
+}

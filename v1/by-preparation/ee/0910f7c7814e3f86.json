@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9908247",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908247",
+      "package_invalid_date": "2020-12-14T7:9:36+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7814e3f86"
+    },
+    {
+      "display_package_code": "9908248",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908248",
+      "package_invalid_date": "2020-12-14T7:17:46+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7814e3f86"
+    },
+    {
+      "display_package_code": "9909046",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909046",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814e3f86"
+    },
+    {
+      "display_package_code": "9909047",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909047",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7814e3f86"
+    }
+  ],
+  "preparation": {
+    "holder_id": "65",
+    "holder_name": "Orion Corporation",
+    "name": "Oriverm",
+    "preparation_id": "0910f7c7814e3f86",
+    "registration_date": "2020-02-05T12:37:43+0000",
+    "registration_number": "96/015/20-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7814e3f85",
+    "spc_modified_date": "2024-03-27T8:19:28+0000"
+  },
+  "schema_version": 1
+}

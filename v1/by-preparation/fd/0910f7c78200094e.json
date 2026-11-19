@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700823",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700823",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78200094e"
+    },
+    {
+      "display_package_code": "9700824",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700824",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78200094e"
+    },
+    {
+      "display_package_code": "9700825",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700825",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78200094e"
+    },
+    {
+      "display_package_code": "9700826",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700826",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78200094e"
+    }
+  ],
+  "preparation": {
+    "holder_id": "248",
+    "holder_name": "Elanco GmbH",
+    "name": "Lotilaner/Milbemycin Elanco",
+    "preparation_id": "0910f7c78200094e",
+    "registration_date": "2026-02-25T13:44:03+0000",
+    "registration_number": "EU/2/26/361",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c78200094b",
+    "spc_modified_date": "2026-03-06T9:21:56+0000"
+  },
+  "schema_version": 1
+}

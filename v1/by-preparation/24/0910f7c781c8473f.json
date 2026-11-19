@@ -1,0 +1,34 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700047",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700047",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c8473f"
+    },
+    {
+      "display_package_code": "9700048",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700048",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c8473f"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "Tulathromycin Bioveta",
+    "preparation_id": "0910f7c781c8473f",
+    "registration_date": "2025-02-19T13:24:38+0000",
+    "registration_number": "96/001/25-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781c8473e",
+    "spc_modified_date": "2025-04-15T8:32:51+0000"
+  },
+  "schema_version": 1
+}

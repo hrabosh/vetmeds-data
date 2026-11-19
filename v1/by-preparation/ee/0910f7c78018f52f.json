@@ -1,0 +1,34 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902204",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902204",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78018f52f"
+    },
+    {
+      "display_package_code": "9902205",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902205",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78018f52f"
+    }
+  ],
+  "preparation": {
+    "holder_id": "20",
+    "holder_name": "Ceva Santé Animale",
+    "name": "Cardalis",
+    "preparation_id": "0910f7c78018f52f",
+    "registration_date": "2012-07-23T9:3:51+0000",
+    "registration_number": "EU/2/12/142",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c78018f514",
+    "spc_modified_date": "2025-05-05T11:6:42+0000"
+  },
+  "schema_version": 1
+}

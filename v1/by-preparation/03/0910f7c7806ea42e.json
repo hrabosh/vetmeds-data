@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905032",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905032",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7806ea42e"
+    },
+    {
+      "display_package_code": "9905033",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905033",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7806ea42e"
+    },
+    {
+      "display_package_code": "9909369",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909369",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7806ea42e"
+    },
+    {
+      "display_package_code": "9910464",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910464",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7806ea42e"
+    }
+  ],
+  "preparation": {
+    "holder_id": "280",
+    "holder_name": "Boehringer Ingelheim Animal Health France SCS",
+    "name": "Bovalto Respi Intranasal",
+    "preparation_id": "0910f7c7806ea42e",
+    "registration_date": "2016-05-17T9:10:24+0000",
+    "registration_number": "97/035/16-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7806ea3e0",
+    "spc_modified_date": "2025-05-16T12:15:03+0000"
+  },
+  "schema_version": 1
+}

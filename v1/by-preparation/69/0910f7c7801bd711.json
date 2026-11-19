@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9904355",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904355",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801bd711"
+    },
+    {
+      "display_package_code": "9906078",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906078",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801bd711"
+    },
+    {
+      "display_package_code": "9906079",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906079",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801bd711"
+    },
+    {
+      "display_package_code": "9906419",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906419",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801bd711"
+    }
+  ],
+  "preparation": {
+    "holder_id": "117",
+    "holder_name": "Huvepharma NV",
+    "name": "Parofor",
+    "preparation_id": "0910f7c7801bd711",
+    "registration_date": "2015-06-01T12:8:50+0000",
+    "registration_number": "96/058/15-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7801bd70c",
+    "spc_modified_date": "2026-03-27T13:9:09+0000"
+  },
+  "schema_version": 1
+}

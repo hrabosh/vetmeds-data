@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9901198",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901198",
+      "package_invalid_date": null,
+      "package_size": "12 x 8 g",
+      "preparation_id": "0910f7c78009b320"
+    },
+    {
+      "display_package_code": "9901199",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901199",
+      "package_invalid_date": null,
+      "package_size": "120 x 8 g",
+      "preparation_id": "0910f7c78009b320"
+    },
+    {
+      "display_package_code": "9935022",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935022",
+      "package_invalid_date": null,
+      "package_size": "60 x 8 g",
+      "preparation_id": "0910f7c78009b320"
+    },
+    {
+      "display_package_code": "9935220",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935220",
+      "package_invalid_date": null,
+      "package_size": "500 x 8 g",
+      "preparation_id": "0910f7c78009b320"
+    },
+    {
+      "display_package_code": "9966715",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9966715",
+      "package_invalid_date": null,
+      "package_size": "4 x 8 g",
+      "preparation_id": "0910f7c78009b320"
+    }
+  ],
+  "preparation": {
+    "holder_id": "112",
+    "holder_name": "VIRBAC",
+    "name": "Rilexine",
+    "preparation_id": "0910f7c78009b320",
+    "registration_date": "1994-09-09T6:5:56+0000",
+    "registration_number": "96/969/94-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78009b31d",
+    "spc_modified_date": "2022-10-26T8:47:44+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9937494",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937494",
+      "package_invalid_date": null,
+      "package_size": "1 x 10 ml",
+      "preparation_id": "0910f7c78009a4e6"
+    },
+    {
+      "display_package_code": "9937541",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937541",
+      "package_invalid_date": null,
+      "package_size": "5 x 10 ml",
+      "preparation_id": "0910f7c78009a4e6"
+    },
+    {
+      "display_package_code": "9937587",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937587",
+      "package_invalid_date": null,
+      "package_size": "10 x 10 ml",
+      "preparation_id": "0910f7c78009a4e6"
+    }
+  ],
+  "preparation": {
+    "holder_id": "24",
+    "holder_name": "CP-Pharma Handelsgesellschaft, mbH",
+    "name": "Revertor",
+    "preparation_id": "0910f7c78009a4e6",
+    "registration_date": "2007-11-16T12:13:04+0000",
+    "registration_number": "96/051/07-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78009a4e3",
+    "spc_modified_date": "2026-01-14T12:13:20+0000"
+  },
+  "schema_version": 1
+}

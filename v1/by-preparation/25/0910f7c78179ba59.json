@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909903",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909903",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78179ba59"
+    }
+  ],
+  "preparation": {
+    "holder_id": "290",
+    "holder_name": "Alfasan Nederland B.V.",
+    "name": "Cortaderm",
+    "preparation_id": "0910f7c78179ba59",
+    "registration_date": "2022-07-27T8:35:29+0000",
+    "registration_number": "EU/2/22/287",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c78179ba58",
+    "spc_modified_date": "2022-08-03T8:7:14+0000"
+  },
+  "schema_version": 1
+}

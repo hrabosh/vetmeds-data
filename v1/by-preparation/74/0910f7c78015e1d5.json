@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902138",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902138",
+      "package_invalid_date": null,
+      "package_size": "10 x 5 dávek",
+      "preparation_id": "0910f7c78015e1d5"
+    },
+    {
+      "display_package_code": "9902139",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902139",
+      "package_invalid_date": null,
+      "package_size": "1 x 5 dávek",
+      "preparation_id": "0910f7c78015e1d5"
+    },
+    {
+      "display_package_code": "9902140",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902140",
+      "package_invalid_date": null,
+      "package_size": "1 x 25 dávek",
+      "preparation_id": "0910f7c78015e1d5"
+    },
+    {
+      "display_package_code": "9902141",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902141",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 dávek",
+      "preparation_id": "0910f7c78015e1d5"
+    },
+    {
+      "display_package_code": "9902142",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902142",
+      "package_invalid_date": null,
+      "package_size": "1 x 25 dávek",
+      "preparation_id": "0910f7c78015e1d5"
+    },
+    {
+      "display_package_code": "9902143",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902143",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 dávek",
+      "preparation_id": "0910f7c78015e1d5"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "BioBos IBR marker inact.",
+    "preparation_id": "0910f7c78015e1d5",
+    "registration_date": "2013-02-21T8:45:05+0000",
+    "registration_number": "97/008/13-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78015e1ce",
+    "spc_modified_date": "2025-01-31T8:45:24+0000"
+  },
+  "schema_version": 1
+}

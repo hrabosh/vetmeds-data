@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9934019",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934019",
+      "package_invalid_date": null,
+      "package_size": "1 x 30 tbl._EU/2/00/018/001",
+      "preparation_id": "0910f7c7800f33e0"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "Incurin",
+    "preparation_id": "0910f7c7800f33e0",
+    "registration_date": "2000-03-24T12:16:53+0000",
+    "registration_number": "EU/2/00/018",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f33dd",
+    "spc_modified_date": "2024-04-26T11:1:44+0000"
+  },
+  "schema_version": 1
+}

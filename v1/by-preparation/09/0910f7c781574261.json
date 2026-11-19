@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9908401",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908401",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781574261"
+    },
+    {
+      "display_package_code": "9908402",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908402",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781574261"
+    },
+    {
+      "display_package_code": "9908403",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908403",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781574261"
+    },
+    {
+      "display_package_code": "9908404",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908404",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781574261"
+    }
+  ],
+  "preparation": {
+    "holder_id": "65",
+    "holder_name": "Orion Corporation",
+    "name": "Propomitor",
+    "preparation_id": "0910f7c781574261",
+    "registration_date": "2020-04-06T7:19:43+0000",
+    "registration_number": "96/030/20-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781574260",
+    "spc_modified_date": "2024-01-15T11:31:56+0000"
+  },
+  "schema_version": 1
+}

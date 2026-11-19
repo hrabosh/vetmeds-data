@@ -1,0 +1,97 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9908009",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908009",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3c95"
+    },
+    {
+      "display_package_code": "9908010",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908010",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3c95"
+    },
+    {
+      "display_package_code": "9908011",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908011",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3c95"
+    },
+    {
+      "display_package_code": "9908761",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908761",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3c95"
+    },
+    {
+      "display_package_code": "9908762",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908762",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3c95"
+    },
+    {
+      "display_package_code": "9908763",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908763",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3c95"
+    },
+    {
+      "display_package_code": "9934287",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934287",
+      "package_invalid_date": "2019-12-16T10:46:51+0000",
+      "package_size": "10 x 1 dávka_EU/2/00/019/005",
+      "preparation_id": "0910f7c7800f3c95"
+    },
+    {
+      "display_package_code": "9934288",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934288",
+      "package_invalid_date": "2019-12-16T10:48:47+0000",
+      "package_size": "20 x 1 dávka_EU/2/00/019/006",
+      "preparation_id": "0910f7c7800f3c95"
+    },
+    {
+      "display_package_code": "9934289",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934289",
+      "package_invalid_date": "2019-12-16T10:50:53+0000",
+      "package_size": "50 x 1 dávka_EU/2/00/019/007",
+      "preparation_id": "0910f7c7800f3c95"
+    }
+  ],
+  "preparation": {
+    "holder_id": "16",
+    "holder_name": "Boehringer Ingelheim Vetmedica, GmbH",
+    "name": "Purevax FeLV",
+    "preparation_id": "0910f7c7800f3c95",
+    "registration_date": "2000-04-13T9:27:23+0000",
+    "registration_number": "EU/2/00/019",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f3c90",
+    "spc_modified_date": "2024-11-29T13:4:30+0000"
+  },
+  "schema_version": 1
+}

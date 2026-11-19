@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700910",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700910",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ea6593"
+    },
+    {
+      "display_package_code": "9700911",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700911",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ea6593"
+    },
+    {
+      "display_package_code": "9700912",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700912",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ea6593"
+    },
+    {
+      "display_package_code": "9700913",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700913",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ea6593"
+    },
+    {
+      "display_package_code": "9700914",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700914",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ea6593"
+    }
+  ],
+  "preparation": {
+    "holder_id": "270",
+    "holder_name": "Axience",
+    "name": "Emepax",
+    "preparation_id": "0910f7c781ea6593",
+    "registration_date": "2026-03-26T8:36:36+0000",
+    "registration_number": "EU/2/26/363",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c781ea6592",
+    "spc_modified_date": "2026-04-16T9:26:23+0000"
+  },
+  "schema_version": 1
+}

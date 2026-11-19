@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9936617",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936617",
+      "package_invalid_date": null,
+      "package_size": "1 x 40 g",
+      "preparation_id": "0910f7c78008fdd0"
+    },
+    {
+      "display_package_code": "9936618",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936618",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 g",
+      "preparation_id": "0910f7c78008fdd0"
+    },
+    {
+      "display_package_code": "9936619",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936619",
+      "package_invalid_date": null,
+      "package_size": "1 x 1 kg",
+      "preparation_id": "0910f7c78008fdd0"
+    },
+    {
+      "display_package_code": "9939003",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939003",
+      "package_invalid_date": null,
+      "package_size": "1 x 15 g",
+      "preparation_id": "0910f7c78008fdd0"
+    },
+    {
+      "display_package_code": "9939004",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939004",
+      "package_invalid_date": null,
+      "package_size": "1 x 10 kg",
+      "preparation_id": "0910f7c78008fdd0"
+    }
+  ],
+  "preparation": {
+    "holder_id": "68",
+    "holder_name": "Pharmagal s.r.o.",
+    "name": "DOXYGAL",
+    "preparation_id": "0910f7c78008fdd0",
+    "registration_date": "1998-01-29T12:9:03+0000",
+    "registration_number": "96/002/98-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78008fdc6",
+    "spc_modified_date": "2026-05-12T11:10:10+0000"
+  },
+  "schema_version": 1
+}

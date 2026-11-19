@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906900",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906900",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008dd62"
+    },
+    {
+      "display_package_code": "9906901",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906901",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008dd62"
+    },
+    {
+      "display_package_code": "9906902",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906902",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008dd62"
+    },
+    {
+      "display_package_code": "9938437",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938437",
+      "package_invalid_date": "2019-01-10T12:53:49+0000",
+      "package_size": "1 x 250 ml",
+      "preparation_id": "0910f7c78008dd62"
+    },
+    {
+      "display_package_code": "9971758",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9971758",
+      "package_invalid_date": "2019-01-10T12:52:25+0000",
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c78008dd62"
+    },
+    {
+      "display_package_code": "9971759",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9971759",
+      "package_invalid_date": "2019-01-10T12:53:03+0000",
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c78008dd62"
+    }
+  ],
+  "preparation": {
+    "holder_id": "61",
+    "holder_name": "Norbrook Laboratories (Ireland) Limited",
+    "name": "Alamycin LA",
+    "preparation_id": "0910f7c78008dd62",
+    "registration_date": "1994-04-13T6:12:28+0000",
+    "registration_number": "96/519/94-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78008dd5f",
+    "spc_modified_date": "2026-08-14T6:14:34+0000"
+  },
+  "schema_version": 1
+}

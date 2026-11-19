@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9908593",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908593",
+      "package_invalid_date": "2021-09-10T4:55:40+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780096e94"
+    },
+    {
+      "display_package_code": "9909464",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909464",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780096e94"
+    },
+    {
+      "display_package_code": "9939074",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939074",
+      "package_invalid_date": "2020-05-15T9:56:22+0000",
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c780096e94"
+    }
+  ],
+  "preparation": {
+    "holder_id": "78",
+    "holder_name": "V.M.D. n.v.",
+    "name": "Alvebuton",
+    "preparation_id": "0910f7c780096e94",
+    "registration_date": "2000-12-14T12:8:51+0000",
+    "registration_number": "96/088/00-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780096e90",
+    "spc_modified_date": "2025-06-20T11:6:20+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909466",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909466",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781875887"
+    },
+    {
+      "display_package_code": "9909467",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909467",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781875887"
+    },
+    {
+      "display_package_code": "9909468",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909468",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781875887"
+    },
+    {
+      "display_package_code": "9909469",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909469",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781875887"
+    },
+    {
+      "display_package_code": "9909470",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909470",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781875887"
+    }
+  ],
+  "preparation": {
+    "holder_id": "27",
+    "holder_name": "Dopharma Research, B.V.",
+    "name": "Dophexine",
+    "preparation_id": "0910f7c781875887",
+    "registration_date": "2021-09-17T12:16:13+0000",
+    "registration_number": "96/042/21-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781875886",
+    "spc_modified_date": "2026-01-02T12:48:34+0000"
+  },
+  "schema_version": 1
+}

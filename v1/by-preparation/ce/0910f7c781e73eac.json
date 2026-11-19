@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700613",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700613",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781e73eac"
+    },
+    {
+      "display_package_code": "9700614",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700614",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781e73eac"
+    },
+    {
+      "display_package_code": "9700615",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700615",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781e73eac"
+    },
+    {
+      "display_package_code": "9700616",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700616",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781e73eac"
+    },
+    {
+      "display_package_code": "9700617",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700617",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781e73eac"
+    },
+    {
+      "display_package_code": "9700618",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700618",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781e73eac"
+    },
+    {
+      "display_package_code": "9700619",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700619",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781e73eac"
+    },
+    {
+      "display_package_code": "9700620",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700620",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781e73eac"
+    }
+  ],
+  "preparation": {
+    "holder_id": "290",
+    "holder_name": "Alfasan Nederland B.V.",
+    "name": "Pergosafe",
+    "preparation_id": "0910f7c781e73eac",
+    "registration_date": "2026-01-19T12:41:23+0000",
+    "registration_number": "96/062/25-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781e73eab",
+    "spc_modified_date": "2026-01-26T12:13:20+0000"
+  },
+  "schema_version": 1
+}

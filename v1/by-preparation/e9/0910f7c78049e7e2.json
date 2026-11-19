@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905912",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9905912",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78049e7e2"
+    },
+    {
+      "display_package_code": "9905913",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9905913",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78049e7e2"
+    },
+    {
+      "display_package_code": "9905914",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9905914",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78049e7e2"
+    },
+    {
+      "display_package_code": "9905915",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905915",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78049e7e2"
+    },
+    {
+      "display_package_code": "9905916",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905916",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78049e7e2"
+    },
+    {
+      "display_package_code": "9905917",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905917",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78049e7e2"
+    }
+  ],
+  "preparation": {
+    "holder_id": "46",
+    "holder_name": "Krka d.d. Novo mesto",
+    "name": "Dehinel pro kočky",
+    "preparation_id": "0910f7c78049e7e2",
+    "registration_date": "2017-05-04T10:38:43+0000",
+    "registration_number": "96/023/17-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78049e7e1",
+    "spc_modified_date": "2023-10-25T11:28:35+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,97 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700453",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700453",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818759ba"
+    },
+    {
+      "display_package_code": "9700479",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700479",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818759ba"
+    },
+    {
+      "display_package_code": "9700480",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700480",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818759ba"
+    },
+    {
+      "display_package_code": "9700481",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700481",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818759ba"
+    },
+    {
+      "display_package_code": "9909748",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909748",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818759ba"
+    },
+    {
+      "display_package_code": "9909749",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909749",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818759ba"
+    },
+    {
+      "display_package_code": "9909750",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909750",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818759ba"
+    },
+    {
+      "display_package_code": "9909751",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909751",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818759ba"
+    },
+    {
+      "display_package_code": "9909752",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909752",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818759ba"
+    }
+  ],
+  "preparation": {
+    "holder_id": "72",
+    "holder_name": "Serumwerk Bernburg AG",
+    "name": "NaCl Bernburg",
+    "preparation_id": "0910f7c7818759ba",
+    "registration_date": "2022-06-28T9:25:56+0000",
+    "registration_number": "96/024/22-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7818759b8",
+    "spc_modified_date": "2025-10-01T16:12:23+0000"
+  },
+  "schema_version": 1
+}

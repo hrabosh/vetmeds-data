@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902180",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902180",
+      "package_invalid_date": null,
+      "package_size": "1 x 500 dávek",
+      "preparation_id": "0910f7c7800a0a5e"
+    },
+    {
+      "display_package_code": "9902181",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902181",
+      "package_invalid_date": null,
+      "package_size": "10 x 500 dávek",
+      "preparation_id": "0910f7c7800a0a5e"
+    },
+    {
+      "display_package_code": "9902182",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902182",
+      "package_invalid_date": null,
+      "package_size": "1 x 1000 dávek",
+      "preparation_id": "0910f7c7800a0a5e"
+    },
+    {
+      "display_package_code": "9902183",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902183",
+      "package_invalid_date": null,
+      "package_size": "10 x 1000 dávek",
+      "preparation_id": "0910f7c7800a0a5e"
+    },
+    {
+      "display_package_code": "9935671",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935671",
+      "package_invalid_date": "2013-04-17T10:42:44+0000",
+      "package_size": "1 x 500 dávek (zrušeno)",
+      "preparation_id": "0910f7c7800a0a5e"
+    },
+    {
+      "display_package_code": "9935672",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935672",
+      "package_invalid_date": "2013-04-17T10:43:15+0000",
+      "package_size": "10 x 500 dávek (zrušeno)",
+      "preparation_id": "0910f7c7800a0a5e"
+    },
+    {
+      "display_package_code": "9935673",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935673",
+      "package_invalid_date": "2013-04-17T10:43:30+0000",
+      "package_size": "1 x 1 000 dávek (zrušeno)",
+      "preparation_id": "0910f7c7800a0a5e"
+    },
+    {
+      "display_package_code": "9935674",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935674",
+      "package_invalid_date": "2013-04-17T10:43:45+0000",
+      "package_size": "10 x 1 000 dávek (zrušeno)",
+      "preparation_id": "0910f7c7800a0a5e"
+    }
+  ],
+  "preparation": {
+    "holder_id": "280",
+    "holder_name": "Boehringer Ingelheim Animal Health France SCS",
+    "name": "TUR-3 injekční emulze pro krůty",
+    "preparation_id": "0910f7c7800a0a5e",
+    "registration_date": "1995-11-01T14:4:09+0000",
+    "registration_number": "97/870/95-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800a0a5b",
+    "spc_modified_date": "2025-08-12T4:26:14+0000"
+  },
+  "schema_version": 1
+}

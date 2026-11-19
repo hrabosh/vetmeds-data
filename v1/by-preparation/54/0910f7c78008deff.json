@@ -1,0 +1,79 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9935465",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935465",
+      "package_invalid_date": null,
+      "package_size": "2 x 1 dávka",
+      "preparation_id": "0910f7c78008deff"
+    },
+    {
+      "display_package_code": "9935553",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935553",
+      "package_invalid_date": null,
+      "package_size": "10 x 1 dávka",
+      "preparation_id": "0910f7c78008deff"
+    },
+    {
+      "display_package_code": "9935742",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935742",
+      "package_invalid_date": null,
+      "package_size": "20 x 1 dávka",
+      "preparation_id": "0910f7c78008deff"
+    },
+    {
+      "display_package_code": "9935803",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935803",
+      "package_invalid_date": null,
+      "package_size": "100 x 1 dávka",
+      "preparation_id": "0910f7c78008deff"
+    },
+    {
+      "display_package_code": "9935843",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935843",
+      "package_invalid_date": null,
+      "package_size": "1 x 5 dávka",
+      "preparation_id": "0910f7c78008deff"
+    },
+    {
+      "display_package_code": "9935910",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935910",
+      "package_invalid_date": null,
+      "package_size": "5 x 5 dávka",
+      "preparation_id": "0910f7c78008deff"
+    },
+    {
+      "display_package_code": "9936048",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936048",
+      "package_invalid_date": null,
+      "package_size": "10 x 5 dávka",
+      "preparation_id": "0910f7c78008deff"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "Biofel PCH",
+    "preparation_id": "0910f7c78008deff",
+    "registration_date": "2006-06-01T11:46:28+0000",
+    "registration_number": "97/004/06-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78008defc",
+    "spc_modified_date": "2026-06-15T11:46:52+0000"
+  },
+  "schema_version": 1
+}

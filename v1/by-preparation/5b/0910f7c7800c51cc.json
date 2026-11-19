@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900577",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900577",
+      "package_invalid_date": "2019-05-02T11:8:30+0000",
+      "package_size": "2 x 10 tbl.",
+      "preparation_id": "0910f7c7800c51cc"
+    },
+    {
+      "display_package_code": "9900578",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900578",
+      "package_invalid_date": "2019-05-02T11:9:19+0000",
+      "package_size": "8 x 10 tbl.",
+      "preparation_id": "0910f7c7800c51cc"
+    },
+    {
+      "display_package_code": "9907319",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907319",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800c51cc"
+    },
+    {
+      "display_package_code": "9907320",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907320",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800c51cc"
+    }
+  ],
+  "preparation": {
+    "holder_id": "263",
+    "holder_name": "Kela N.V.",
+    "name": "Clindamycin VELE",
+    "preparation_id": "0910f7c7800c51cc",
+    "registration_date": "2011-08-03T6:34:54+0000",
+    "registration_number": "96/058/11-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7800c51c9",
+    "spc_modified_date": "2024-10-15T11:54:52+0000"
+  },
+  "schema_version": 1
+}

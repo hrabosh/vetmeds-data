@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9904891",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904891",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802a224e"
+    },
+    {
+      "display_package_code": "9904892",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904892",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802a224e"
+    },
+    {
+      "display_package_code": "9904893",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904893",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802a224e"
+    },
+    {
+      "display_package_code": "9904894",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904894",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7802a224e"
+    }
+  ],
+  "preparation": {
+    "holder_id": "322",
+    "holder_name": "Ceva Sante Animale",
+    "name": "Eprecis",
+    "preparation_id": "0910f7c7802a224e",
+    "registration_date": "2016-03-11T8:33:08+0000",
+    "registration_number": "96/018/16-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7802a224d",
+    "spc_modified_date": "2023-12-19T7:43:00+0000"
+  },
+  "schema_version": 1
+}

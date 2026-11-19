@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902114",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902114",
+      "package_invalid_date": null,
+      "package_size": "5 x 10 ml",
+      "preparation_id": "0910f7c78009d21f"
+    },
+    {
+      "display_package_code": "9902115",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902115",
+      "package_invalid_date": null,
+      "package_size": "1 x 40 ml",
+      "preparation_id": "0910f7c78009d21f"
+    },
+    {
+      "display_package_code": "9902116",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902116",
+      "package_invalid_date": null,
+      "package_size": "1 x 80 ml",
+      "preparation_id": "0910f7c78009d21f"
+    },
+    {
+      "display_package_code": "9962961",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9962961",
+      "package_invalid_date": "2013-01-22T11:40:05+0000",
+      "package_size": "1 x 50 ml (zrušeno)",
+      "preparation_id": "0910f7c78009d21f"
+    },
+    {
+      "display_package_code": "9962962",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9962962",
+      "package_invalid_date": "2013-01-22T11:39:44+0000",
+      "package_size": "5 x 12,5 ml (zrušeno)",
+      "preparation_id": "0910f7c78009d21f"
+    },
+    {
+      "display_package_code": "9962963",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9962963",
+      "package_invalid_date": "2013-01-22T11:40:23+0000",
+      "package_size": "1 x 100 ml (zrušeno)",
+      "preparation_id": "0910f7c78009d21f"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "TRICHOBEN AV",
+    "preparation_id": "0910f7c78009d21f",
+    "registration_date": "1992-10-28T13:6:32+0000",
+    "registration_number": "97/736/92-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78009d21b",
+    "spc_modified_date": "2025-11-14T13:18:45+0000"
+  },
+  "schema_version": 1
+}

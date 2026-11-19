@@ -1,0 +1,106 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9907692",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907692",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781395f3b"
+    },
+    {
+      "display_package_code": "9907693",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907693",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781395f3b"
+    },
+    {
+      "display_package_code": "9907694",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907694",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781395f3b"
+    },
+    {
+      "display_package_code": "9907695",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907695",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781395f3b"
+    },
+    {
+      "display_package_code": "9907696",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907696",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781395f3b"
+    },
+    {
+      "display_package_code": "9907697",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907697",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781395f3b"
+    },
+    {
+      "display_package_code": "9907698",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907698",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781395f3b"
+    },
+    {
+      "display_package_code": "9907699",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907699",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781395f3b"
+    },
+    {
+      "display_package_code": "9907700",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907700",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781395f3b"
+    },
+    {
+      "display_package_code": "9907701",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907701",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781395f3b"
+    }
+  ],
+  "preparation": {
+    "holder_id": "251",
+    "holder_name": "Dechra Regulatory B.V.",
+    "name": "Solupam",
+    "preparation_id": "0910f7c781395f3b",
+    "registration_date": "2019-08-21T12:21:16+0000",
+    "registration_number": "96/064/19-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781395cc4",
+    "spc_modified_date": "2023-10-13T12:21:33+0000"
+  },
+  "schema_version": 1
+}

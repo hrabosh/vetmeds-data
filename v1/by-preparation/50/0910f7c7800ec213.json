@@ -1,0 +1,79 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900647",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9900647",
+      "package_invalid_date": "2020-05-04T10:1:19+0000",
+      "package_size": "1 x obojek 70 cm",
+      "preparation_id": "0910f7c7800ec213"
+    },
+    {
+      "display_package_code": "9907477",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9907477",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800ec213"
+    },
+    {
+      "display_package_code": "9907783",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9907783",
+      "package_invalid_date": "2020-05-04T10:2:12+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7800ec213"
+    },
+    {
+      "display_package_code": "9907784",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907784",
+      "package_invalid_date": "2020-05-04T10:3:11+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7800ec213"
+    },
+    {
+      "display_package_code": "9908448",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9908448",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800ec213"
+    },
+    {
+      "display_package_code": "9908449",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9908449",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800ec213"
+    },
+    {
+      "display_package_code": "9908450",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908450",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800ec213"
+    }
+  ],
+  "preparation": {
+    "holder_id": "306",
+    "holder_name": "Elanco Animal Health GmbH",
+    "name": "Foresto obojek pro psy nad 8 kg",
+    "preparation_id": "0910f7c7800ec213",
+    "registration_date": "2011-08-18T12:36:32+0000",
+    "registration_number": "99/070/11-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800ec1fd",
+    "spc_modified_date": "2025-11-14T13:36:50+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906278",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906278",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008ddb8"
+    },
+    {
+      "display_package_code": "9936013",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936013",
+      "package_invalid_date": null,
+      "package_size": "5 x 1 dávka",
+      "preparation_id": "0910f7c78008ddb8"
+    },
+    {
+      "display_package_code": "9938294",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938294",
+      "package_invalid_date": null,
+      "package_size": "10 x 1 dávka",
+      "preparation_id": "0910f7c78008ddb8"
+    },
+    {
+      "display_package_code": "9938295",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938295",
+      "package_invalid_date": null,
+      "package_size": "50 x 1 dávka",
+      "preparation_id": "0910f7c78008ddb8"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "Biocan DHPPi",
+    "preparation_id": "0910f7c78008ddb8",
+    "registration_date": "1998-08-24T13:8:33+0000",
+    "registration_number": "97/098/98-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78008ddb5",
+    "spc_modified_date": "2025-12-08T10:7:39+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,97 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900395",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900395",
+      "package_invalid_date": "2013-06-03T10:11:05+0000",
+      "package_size": "1 x 250 ml (změna názvu)",
+      "preparation_id": "0910f7c780091e70"
+    },
+    {
+      "display_package_code": "9900396",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900396",
+      "package_invalid_date": "2013-06-03T10:11:42+0000",
+      "package_size": "1 x 500 ml (změna názvu)",
+      "preparation_id": "0910f7c780091e70"
+    },
+    {
+      "display_package_code": "9900397",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900397",
+      "package_invalid_date": "2013-06-03T10:12:00+0000",
+      "package_size": "1 x 1000 ml (změna názvu)",
+      "preparation_id": "0910f7c780091e70"
+    },
+    {
+      "display_package_code": "9902481",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902481",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780091e70"
+    },
+    {
+      "display_package_code": "9902482",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902482",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780091e70"
+    },
+    {
+      "display_package_code": "9902483",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902483",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780091e70"
+    },
+    {
+      "display_package_code": "9937457",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937457",
+      "package_invalid_date": "2011-04-26T10:4:00+0000",
+      "package_size": "1 x 250 ml",
+      "preparation_id": "0910f7c780091e70"
+    },
+    {
+      "display_package_code": "9937556",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937556",
+      "package_invalid_date": "2011-04-26T10:4:48+0000",
+      "package_size": "1 x 500 ml",
+      "preparation_id": "0910f7c780091e70"
+    },
+    {
+      "display_package_code": "9937687",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937687",
+      "package_invalid_date": "2011-04-26T10:6:03+0000",
+      "package_size": "1 x 1000 ml",
+      "preparation_id": "0910f7c780091e70"
+    }
+  ],
+  "preparation": {
+    "holder_id": "226",
+    "holder_name": "Zoetis Česká republika s.r.o.",
+    "name": "Sputop spot-on",
+    "preparation_id": "0910f7c780091e70",
+    "registration_date": "2002-09-16T9:13:16+0000",
+    "registration_number": "96/069/02-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c780091e3f",
+    "spc_modified_date": "2023-10-19T6:50:28+0000"
+  },
+  "schema_version": 1
+}

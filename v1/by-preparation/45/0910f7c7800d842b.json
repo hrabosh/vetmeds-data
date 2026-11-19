@@ -1,0 +1,142 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9901029",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901029",
+      "package_invalid_date": null,
+      "package_size": "1 x 10 tbl.",
+      "preparation_id": "0910f7c7800d842b"
+    },
+    {
+      "display_package_code": "9901030",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901030",
+      "package_invalid_date": null,
+      "package_size": "2 x 10 tbl.",
+      "preparation_id": "0910f7c7800d842b"
+    },
+    {
+      "display_package_code": "9901031",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901031",
+      "package_invalid_date": null,
+      "package_size": "5 x 10 tbl.",
+      "preparation_id": "0910f7c7800d842b"
+    },
+    {
+      "display_package_code": "9901032",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901032",
+      "package_invalid_date": null,
+      "package_size": "10 x 10 tbl.",
+      "preparation_id": "0910f7c7800d842b"
+    },
+    {
+      "display_package_code": "9901033",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901033",
+      "package_invalid_date": null,
+      "package_size": "12 x 10 tbl.",
+      "preparation_id": "0910f7c7800d842b"
+    },
+    {
+      "display_package_code": "9901034",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901034",
+      "package_invalid_date": null,
+      "package_size": "15 x 10 tbl.",
+      "preparation_id": "0910f7c7800d842b"
+    },
+    {
+      "display_package_code": "9901035",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901035",
+      "package_invalid_date": null,
+      "package_size": "20 x 10 tbl.",
+      "preparation_id": "0910f7c7800d842b"
+    },
+    {
+      "display_package_code": "9901036",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901036",
+      "package_invalid_date": null,
+      "package_size": "25 x 10 tbl.",
+      "preparation_id": "0910f7c7800d842b"
+    },
+    {
+      "display_package_code": "9901037",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901037",
+      "package_invalid_date": null,
+      "package_size": "30 x 10 tbl.",
+      "preparation_id": "0910f7c7800d842b"
+    },
+    {
+      "display_package_code": "9901038",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901038",
+      "package_invalid_date": null,
+      "package_size": "40 x 10 tbl.",
+      "preparation_id": "0910f7c7800d842b"
+    },
+    {
+      "display_package_code": "9901039",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901039",
+      "package_invalid_date": null,
+      "package_size": "50 x 10 tbl.",
+      "preparation_id": "0910f7c7800d842b"
+    },
+    {
+      "display_package_code": "9901040",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901040",
+      "package_invalid_date": null,
+      "package_size": "60 x 10 tbl.",
+      "preparation_id": "0910f7c7800d842b"
+    },
+    {
+      "display_package_code": "9901041",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901041",
+      "package_invalid_date": null,
+      "package_size": "75 x 10 tbl.",
+      "preparation_id": "0910f7c7800d842b"
+    },
+    {
+      "display_package_code": "9901042",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901042",
+      "package_invalid_date": null,
+      "package_size": "100 x 10 tbl.",
+      "preparation_id": "0910f7c7800d842b"
+    }
+  ],
+  "preparation": {
+    "holder_id": "279",
+    "holder_name": "Vetoquinol s.r.o.",
+    "name": "Clavaseptin",
+    "preparation_id": "0910f7c7800d842b",
+    "registration_date": "2011-06-24T4:40:02+0000",
+    "registration_number": "96/047/11-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800d841f",
+    "spc_modified_date": "2025-03-12T13:14:28+0000"
+  },
+  "schema_version": 1
+}

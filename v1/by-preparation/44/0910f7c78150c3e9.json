@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9908540",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9908540",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78150c3e9"
+    },
+    {
+      "display_package_code": "9908541",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9908541",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78150c3e9"
+    },
+    {
+      "display_package_code": "9908542",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9908542",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78150c3e9"
+    },
+    {
+      "display_package_code": "9908543",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9908543",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78150c3e9"
+    },
+    {
+      "display_package_code": "9908544",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9908544",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78150c3e9"
+    }
+  ],
+  "preparation": {
+    "holder_id": "130",
+    "holder_name": "Beaphar B.V.",
+    "name": "Combotec",
+    "preparation_id": "0910f7c78150c3e9",
+    "registration_date": "2020-05-18T13:27:00+0000",
+    "registration_number": "96/038/20-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78150c3e4",
+    "spc_modified_date": "2026-06-26T13:27:15+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,79 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9935306",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935306",
+      "package_invalid_date": null,
+      "package_size": "1 x 5 kg",
+      "preparation_id": "0910f7c78009b913"
+    },
+    {
+      "display_package_code": "9937929",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937929",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 g",
+      "preparation_id": "0910f7c78009b913"
+    },
+    {
+      "display_package_code": "9937963",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937963",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 g",
+      "preparation_id": "0910f7c78009b913"
+    },
+    {
+      "display_package_code": "9938003",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938003",
+      "package_invalid_date": null,
+      "package_size": "1 x 500 g",
+      "preparation_id": "0910f7c78009b913"
+    },
+    {
+      "display_package_code": "9938036",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938036",
+      "package_invalid_date": null,
+      "package_size": "1 x 1 kg",
+      "preparation_id": "0910f7c78009b913"
+    },
+    {
+      "display_package_code": "9938059",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938059",
+      "package_invalid_date": null,
+      "package_size": "1 x 2,5 kg",
+      "preparation_id": "0910f7c78009b913"
+    },
+    {
+      "display_package_code": "9938068",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938068",
+      "package_invalid_date": null,
+      "package_size": "1 x 5 kg",
+      "preparation_id": "0910f7c78009b913"
+    }
+  ],
+  "preparation": {
+    "holder_id": "33",
+    "holder_name": "Eurovet Animal Health, B.V.",
+    "name": "Solacyl",
+    "preparation_id": "0910f7c78009b913",
+    "registration_date": "2008-06-16T6:22:23+0000",
+    "registration_number": "96/036/08-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78009b910",
+    "spc_modified_date": "2024-01-15T11:40:20+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9903498",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903498",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801f2357"
+    },
+    {
+      "display_package_code": "9903499",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903499",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801f2357"
+    },
+    {
+      "display_package_code": "9903500",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903500",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7801f2357"
+    }
+  ],
+  "preparation": {
+    "holder_id": "112",
+    "holder_name": "VIRBAC",
+    "name": "Milpro pro malé kočky a koťata",
+    "preparation_id": "0910f7c7801f2357",
+    "registration_date": "2014-07-23T11:54:56+0000",
+    "registration_number": "96/053/14-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78034885b",
+    "spc_modified_date": "2025-11-26T12:55:15+0000"
+  },
+  "schema_version": 1
+}

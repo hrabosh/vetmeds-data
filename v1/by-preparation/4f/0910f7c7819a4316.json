@@ -1,0 +1,79 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700762",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700762",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7819a4316"
+    },
+    {
+      "display_package_code": "9910383",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910383",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7819a4316"
+    },
+    {
+      "display_package_code": "9910384",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910384",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7819a4316"
+    },
+    {
+      "display_package_code": "9910385",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910385",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7819a4316"
+    },
+    {
+      "display_package_code": "9910386",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910386",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7819a4316"
+    },
+    {
+      "display_package_code": "9910387",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910387",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7819a4316"
+    },
+    {
+      "display_package_code": "9910388",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910388",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7819a4316"
+    }
+  ],
+  "preparation": {
+    "holder_id": "34",
+    "holder_name": "Fatro, S.p.A.",
+    "name": "Dalmarelin",
+    "preparation_id": "0910f7c7819a4316",
+    "registration_date": "2023-06-28T5:12:33+0000",
+    "registration_number": "96/027/23-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7819a42e7",
+    "spc_modified_date": "2026-02-20T9:35:33+0000"
+  },
+  "schema_version": 1
+}

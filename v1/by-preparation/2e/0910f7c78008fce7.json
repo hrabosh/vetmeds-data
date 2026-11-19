@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906124",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906124",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008fce7"
+    },
+    {
+      "display_package_code": "9906125",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906125",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008fce7"
+    },
+    {
+      "display_package_code": "9910799",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910799",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008fce7"
+    },
+    {
+      "display_package_code": "9910800",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910800",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008fce7"
+    },
+    {
+      "display_package_code": "9935777",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935777",
+      "package_invalid_date": "2017-08-14T8:51:37+0000",
+      "package_size": "10 x 12 tbl.",
+      "preparation_id": "0910f7c78008fce7"
+    },
+    {
+      "display_package_code": "9938366",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938366",
+      "package_invalid_date": "2017-08-14T8:51:01+0000",
+      "package_size": "1 x 12 tbl.",
+      "preparation_id": "0910f7c78008fce7"
+    }
+  ],
+  "preparation": {
+    "holder_id": "222",
+    "holder_name": "Loxavet pharma GmbH",
+    "name": "CANIQUANTEL PLUS OCHUCENÉ",
+    "preparation_id": "0910f7c78008fce7",
+    "registration_date": "1998-08-11T10:32:20+0000",
+    "registration_number": "96/091/98-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78008fce3",
+    "spc_modified_date": "2026-09-08T10:32:41+0000"
+  },
+  "schema_version": 1
+}

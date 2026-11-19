@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900961",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900961",
+      "package_invalid_date": null,
+      "package_size": "1 x 25 ml_EU/2/10/116/004",
+      "preparation_id": "0910f7c780120042"
+    },
+    {
+      "display_package_code": "9900962",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900962",
+      "package_invalid_date": null,
+      "package_size": "1 x 10 ml_EU/2/10/116/006",
+      "preparation_id": "0910f7c780120042"
+    },
+    {
+      "display_package_code": "9903003",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903003",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780120042"
+    }
+  ],
+  "preparation": {
+    "holder_id": "24",
+    "holder_name": "CP-Pharma Handelsgesellschaft, mbH",
+    "name": "Melosus",
+    "preparation_id": "0910f7c780120042",
+    "registration_date": "2011-02-21T13:49:22+0000",
+    "registration_number": "EU/2/10/116",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c780120035",
+    "spc_modified_date": "2026-01-09T12:23:07+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,34 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9904071",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904071",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780097c4c"
+    },
+    {
+      "display_package_code": "9938607",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938607",
+      "package_invalid_date": null,
+      "package_size": "5 x 1 dávka",
+      "preparation_id": "0910f7c780097c4c"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "Nobivac KC",
+    "preparation_id": "0910f7c780097c4c",
+    "registration_date": "2000-11-24T9:40:32+0000",
+    "registration_number": "97/074/00-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780097c44",
+    "spc_modified_date": "2026-03-25T9:40:52+0000"
+  },
+  "schema_version": 1
+}

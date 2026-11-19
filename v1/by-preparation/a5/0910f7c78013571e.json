@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9901622",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901622",
+      "package_invalid_date": "2023-04-19T12:58:48+0000",
+      "package_size": "1 x 12 tbl.",
+      "preparation_id": "0910f7c78013571e"
+    },
+    {
+      "display_package_code": "9901623",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901623",
+      "package_invalid_date": "2023-04-19T13:2:52+0000",
+      "package_size": "9 x 12 tbl. (=108 tbl.)",
+      "preparation_id": "0910f7c78013571e"
+    },
+    {
+      "display_package_code": "9910269",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910269",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78013571e"
+    },
+    {
+      "display_package_code": "9910270",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910270",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78013571e"
+    },
+    {
+      "display_package_code": "9910847",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910847",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78013571e"
+    }
+  ],
+  "preparation": {
+    "holder_id": "297",
+    "holder_name": "Nextmune Italy S.r.I.",
+    "name": "Tsefalen",
+    "preparation_id": "0910f7c78013571e",
+    "registration_date": "2012-08-09T9:53:16+0000",
+    "registration_number": "96/092/12-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c780135713",
+    "spc_modified_date": "2025-01-24T10:45:08+0000"
+  },
+  "schema_version": 1
+}

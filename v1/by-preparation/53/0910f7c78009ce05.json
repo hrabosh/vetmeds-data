@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9935039",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935039",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c78009ce05"
+    },
+    {
+      "display_package_code": "9935078",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935078",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c78009ce05"
+    },
+    {
+      "display_package_code": "9937649",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937649",
+      "package_invalid_date": null,
+      "package_size": "12 x 50 ml",
+      "preparation_id": "0910f7c78009ce05"
+    },
+    {
+      "display_package_code": "9937650",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937650",
+      "package_invalid_date": null,
+      "package_size": "12 x 100 ml",
+      "preparation_id": "0910f7c78009ce05"
+    }
+  ],
+  "preparation": {
+    "holder_id": "263",
+    "holder_name": "Kela N.V.",
+    "name": "OXYTO-KEL",
+    "preparation_id": "0910f7c78009ce05",
+    "registration_date": "1997-12-16T13:13:00+0000",
+    "registration_number": "96/1276/97-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78009ce01",
+    "spc_modified_date": "2024-05-20T11:50:53+0000"
+  },
+  "schema_version": 1
+}

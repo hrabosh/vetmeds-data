@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700754",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700754",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781f45d67"
+    }
+  ],
+  "preparation": {
+    "holder_id": "72",
+    "holder_name": "Serumwerk Bernburg AG",
+    "name": "Clenovet",
+    "preparation_id": "0910f7c781f45d67",
+    "registration_date": "2026-01-22T8:53:04+0000",
+    "registration_number": "96/013/26-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781f45d66",
+    "spc_modified_date": "2026-02-04T7:55:20+0000"
+  },
+  "schema_version": 1
+}

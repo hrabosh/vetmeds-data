@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9910228",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910228",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781949009"
+    },
+    {
+      "display_package_code": "9910229",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910229",
+      "package_invalid_date": "2024-01-10T10:28:56+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c781949009"
+    },
+    {
+      "display_package_code": "9910230",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910230",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781949009"
+    },
+    {
+      "display_package_code": "9910231",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910231",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781949009"
+    },
+    {
+      "display_package_code": "9910232",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910232",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781949009"
+    }
+  ],
+  "preparation": {
+    "holder_id": "27",
+    "holder_name": "Dopharma Research, B.V.",
+    "name": "Fludosol",
+    "preparation_id": "0910f7c781949009",
+    "registration_date": "2023-03-21T7:58:07+0000",
+    "registration_number": "96/013/23-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c781949008",
+    "spc_modified_date": "2024-02-19T11:24:10+0000"
+  },
+  "schema_version": 1
+}

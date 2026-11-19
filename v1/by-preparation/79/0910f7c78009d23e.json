@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9935533",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935533",
+      "package_invalid_date": null,
+      "package_size": "5 x 10 ml",
+      "preparation_id": "0910f7c78009d23e"
+    },
+    {
+      "display_package_code": "9935850",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935850",
+      "package_invalid_date": null,
+      "package_size": "1 x 40 ml",
+      "preparation_id": "0910f7c78009d23e"
+    },
+    {
+      "display_package_code": "9936173",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936173",
+      "package_invalid_date": null,
+      "package_size": "1 x 80 ml",
+      "preparation_id": "0910f7c78009d23e"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "TRICHOBEN",
+    "preparation_id": "0910f7c78009d23e",
+    "registration_date": "1992-03-05T13:5:09+0000",
+    "registration_number": "97/200/92-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78009d23a",
+    "spc_modified_date": "2025-05-12T13:22:26+0000"
+  },
+  "schema_version": 1
+}

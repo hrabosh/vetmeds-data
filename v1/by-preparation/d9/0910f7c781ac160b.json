@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9911078",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911078",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ac160b"
+    },
+    {
+      "display_package_code": "9911079",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911079",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ac160b"
+    },
+    {
+      "display_package_code": "9911080",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911080",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ac160b"
+    }
+  ],
+  "preparation": {
+    "holder_id": "290",
+    "holder_name": "Alfasan Nederland B.V.",
+    "name": "Metaxx",
+    "preparation_id": "0910f7c781ac160b",
+    "registration_date": "2024-06-21T8:19:12+0000",
+    "registration_number": "96/036/24-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c781ac1609",
+    "spc_modified_date": "2026-04-13T6:43:27+0000"
+  },
+  "schema_version": 1
+}

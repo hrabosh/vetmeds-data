@@ -1,0 +1,34 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9935046",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935046",
+      "package_invalid_date": null,
+      "package_size": "1 x 10 tbl.",
+      "preparation_id": "0910f7c78009b70d"
+    },
+    {
+      "display_package_code": "9936637",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936637",
+      "package_invalid_date": null,
+      "package_size": "10 x 10 tbl.",
+      "preparation_id": "0910f7c78009b70d"
+    }
+  ],
+  "preparation": {
+    "holder_id": "280",
+    "holder_name": "Boehringer Ingelheim Animal Health France SCS",
+    "name": "RONAXAN",
+    "preparation_id": "0910f7c78009b70d",
+    "registration_date": "1994-04-13T11:16:14+0000",
+    "registration_number": "96/525/94-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78009b70a",
+    "spc_modified_date": "2026-03-20T12:16:30+0000"
+  },
+  "schema_version": 1
+}

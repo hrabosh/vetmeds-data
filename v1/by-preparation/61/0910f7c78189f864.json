@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700863",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700863",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78189f864"
+    },
+    {
+      "display_package_code": "9909298",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909298",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78189f864"
+    },
+    {
+      "display_package_code": "9909299",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909299",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78189f864"
+    },
+    {
+      "display_package_code": "9909300",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909300",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78189f864"
+    },
+    {
+      "display_package_code": "9909301",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909301",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78189f864"
+    },
+    {
+      "display_package_code": "9909302",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909302",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78189f864"
+    },
+    {
+      "display_package_code": "9909303",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909303",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78189f864"
+    },
+    {
+      "display_package_code": "9909304",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909304",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78189f864"
+    }
+  ],
+  "preparation": {
+    "holder_id": "182",
+    "holder_name": "Ecuphar NV",
+    "name": "Daxocox",
+    "preparation_id": "0910f7c78189f864",
+    "registration_date": "2021-04-20T7:22:23+0000",
+    "registration_number": "EU/2/21/270",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c78167e316",
+    "spc_modified_date": "2025-09-16T10:45:13+0000"
+  },
+  "schema_version": 1
+}

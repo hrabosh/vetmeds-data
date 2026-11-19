@@ -1,0 +1,79 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9910573",
+      "issue_class_id": "3",
+      "issue_class_name": "Vyhrazený",
+      "package_code": "9910573",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818df2fd"
+    },
+    {
+      "display_package_code": "9910574",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910574",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818df2fd"
+    },
+    {
+      "display_package_code": "9910575",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910575",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818df2fd"
+    },
+    {
+      "display_package_code": "9910576",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910576",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818df2fd"
+    },
+    {
+      "display_package_code": "9910577",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9910577",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818df2fd"
+    },
+    {
+      "display_package_code": "9910578",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910578",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818df2fd"
+    },
+    {
+      "display_package_code": "9910579",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910579",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818df2fd"
+    }
+  ],
+  "preparation": {
+    "holder_id": "130",
+    "holder_name": "Beaphar B.V.",
+    "name": "Protectix",
+    "preparation_id": "0910f7c7818df2fd",
+    "registration_date": "2023-12-18T6:27:13+0000",
+    "registration_number": "96/066/23-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7818df26b",
+    "spc_modified_date": "2024-01-04T11:32:08+0000"
+  },
+  "schema_version": 1
+}

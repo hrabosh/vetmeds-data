@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9937654",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937654",
+      "package_invalid_date": null,
+      "package_size": "20ks x 9g",
+      "preparation_id": "0910f7c780090181"
+    }
+  ],
+  "preparation": {
+    "holder_id": "263",
+    "holder_name": "Kela N.V.",
+    "name": "DRYCLOXA-KEL",
+    "preparation_id": "0910f7c780090181",
+    "registration_date": "1997-12-05T6:13:34+0000",
+    "registration_number": "96/1197/97-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78009017e",
+    "spc_modified_date": "2026-04-02T12:2:43+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,187 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909563",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909563",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009b966"
+    },
+    {
+      "display_package_code": "9909564",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909564",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009b966"
+    },
+    {
+      "display_package_code": "9910795",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910795",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009b966"
+    },
+    {
+      "display_package_code": "9934685",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934685",
+      "package_invalid_date": null,
+      "package_size": "1 x 200 dávek",
+      "preparation_id": "0910f7c78009b966"
+    },
+    {
+      "display_package_code": "9934686",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934686",
+      "package_invalid_date": null,
+      "package_size": "1 x 500 dávek",
+      "preparation_id": "0910f7c78009b966"
+    },
+    {
+      "display_package_code": "9934687",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934687",
+      "package_invalid_date": null,
+      "package_size": "1 x 1000 dávek",
+      "preparation_id": "0910f7c78009b966"
+    },
+    {
+      "display_package_code": "9934688",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934688",
+      "package_invalid_date": null,
+      "package_size": "1 x 2500 dávek",
+      "preparation_id": "0910f7c78009b966"
+    },
+    {
+      "display_package_code": "9934689",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934689",
+      "package_invalid_date": null,
+      "package_size": "10 x 200 dávek",
+      "preparation_id": "0910f7c78009b966"
+    },
+    {
+      "display_package_code": "9934690",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934690",
+      "package_invalid_date": null,
+      "package_size": "10 x 500 dávek",
+      "preparation_id": "0910f7c78009b966"
+    },
+    {
+      "display_package_code": "9934691",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934691",
+      "package_invalid_date": null,
+      "package_size": "10 x 1000 dávek",
+      "preparation_id": "0910f7c78009b966"
+    },
+    {
+      "display_package_code": "9934692",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934692",
+      "package_invalid_date": null,
+      "package_size": "10 x 2500 dávek",
+      "preparation_id": "0910f7c78009b966"
+    },
+    {
+      "display_package_code": "9936090",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936090",
+      "package_invalid_date": null,
+      "package_size": "1 x 200 dávek",
+      "preparation_id": "0910f7c78009b966"
+    },
+    {
+      "display_package_code": "9936102",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936102",
+      "package_invalid_date": null,
+      "package_size": "10 x 200 dávek",
+      "preparation_id": "0910f7c78009b966"
+    },
+    {
+      "display_package_code": "9936117",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936117",
+      "package_invalid_date": null,
+      "package_size": "10 x 500 dávek",
+      "preparation_id": "0910f7c78009b966"
+    },
+    {
+      "display_package_code": "9936130",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936130",
+      "package_invalid_date": null,
+      "package_size": "10 x 2 500 dávek",
+      "preparation_id": "0910f7c78009b966"
+    },
+    {
+      "display_package_code": "9936242",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936242",
+      "package_invalid_date": null,
+      "package_size": "10 x 1 000 dávek",
+      "preparation_id": "0910f7c78009b966"
+    },
+    {
+      "display_package_code": "9937273",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937273",
+      "package_invalid_date": null,
+      "package_size": "1 x 1 000 dávek",
+      "preparation_id": "0910f7c78009b966"
+    },
+    {
+      "display_package_code": "9937710",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937710",
+      "package_invalid_date": null,
+      "package_size": "1 x 500 dávek",
+      "preparation_id": "0910f7c78009b966"
+    },
+    {
+      "display_package_code": "9937712",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937712",
+      "package_invalid_date": null,
+      "package_size": "1 x 2 500 dávek",
+      "preparation_id": "0910f7c78009b966"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "ORNIPEST",
+    "preparation_id": "0910f7c78009b966",
+    "registration_date": "1997-12-05T13:43:01+0000",
+    "registration_number": "97/1188/97-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78009b963",
+    "spc_modified_date": "2024-12-30T9:17:49+0000"
+  },
+  "schema_version": 1
+}

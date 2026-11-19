@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906894",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906894",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78061652c"
+    },
+    {
+      "display_package_code": "9906895",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906895",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78061652c"
+    },
+    {
+      "display_package_code": "9906896",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906896",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78061652c"
+    }
+  ],
+  "preparation": {
+    "holder_id": "110",
+    "holder_name": "Veyx-Pharma GmbH",
+    "name": "Cortico Veyxin",
+    "preparation_id": "0910f7c78061652c",
+    "registration_date": "2019-01-09T10:31:59+0000",
+    "registration_number": "96/001/19-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78061652b",
+    "spc_modified_date": "2022-10-25T9:0:14+0000"
+  },
+  "schema_version": 1
+}

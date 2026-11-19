@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900700",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900700",
+      "package_invalid_date": null,
+      "package_size": "10 x 100 g",
+      "preparation_id": "0910f7c7800e21c3"
+    },
+    {
+      "display_package_code": "9900701",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900701",
+      "package_invalid_date": null,
+      "package_size": "50 x 100 g",
+      "preparation_id": "0910f7c7800e21c3"
+    },
+    {
+      "display_package_code": "9900702",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900702",
+      "package_invalid_date": null,
+      "package_size": "250 x 100 g",
+      "preparation_id": "0910f7c7800e21c3"
+    },
+    {
+      "display_package_code": "9900703",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900703",
+      "package_invalid_date": null,
+      "package_size": "1 x 1 kg",
+      "preparation_id": "0910f7c7800e21c3"
+    },
+    {
+      "display_package_code": "9900704",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900704",
+      "package_invalid_date": null,
+      "package_size": "1 x 2,5 kg",
+      "preparation_id": "0910f7c7800e21c3"
+    }
+  ],
+  "preparation": {
+    "holder_id": "162",
+    "holder_name": "Divasa-Farmavic S.A.",
+    "name": "DFV DOXYCYCLINE",
+    "preparation_id": "0910f7c7800e21c3",
+    "registration_date": "2011-10-03T9:3:50+0000",
+    "registration_number": "96/082/11-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800e2196",
+    "spc_modified_date": "2026-03-18T9:5:59+0000"
+  },
+  "schema_version": 1
+}

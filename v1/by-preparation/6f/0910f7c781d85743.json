@@ -1,0 +1,34 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700410",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700410",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781d85743"
+    },
+    {
+      "display_package_code": "9700411",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700411",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781d85743"
+    }
+  ],
+  "preparation": {
+    "holder_id": "24",
+    "holder_name": "CP-Pharma Handelsgesellschaft, mbH",
+    "name": "Stresoron",
+    "preparation_id": "0910f7c781d85743",
+    "registration_date": "2025-09-18T11:1:05+0000",
+    "registration_number": "96/043/25-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781d85742",
+    "spc_modified_date": "2025-09-24T8:28:33+0000"
+  },
+  "schema_version": 1
+}

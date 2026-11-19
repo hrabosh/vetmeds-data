@@ -1,0 +1,97 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9934649",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934649",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c7800f2de5"
+    },
+    {
+      "display_package_code": "9934650",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934650",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c7800f2de5"
+    },
+    {
+      "display_package_code": "9934651",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934651",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 ml",
+      "preparation_id": "0910f7c7800f2de5"
+    },
+    {
+      "display_package_code": "9934652",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934652",
+      "package_invalid_date": null,
+      "package_size": "1 x 500 ml",
+      "preparation_id": "0910f7c7800f2de5"
+    },
+    {
+      "display_package_code": "9939290",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939290",
+      "package_invalid_date": null,
+      "package_size": "1 x 20 ml",
+      "preparation_id": "0910f7c7800f2de5"
+    },
+    {
+      "display_package_code": "9939291",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939291",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c7800f2de5"
+    },
+    {
+      "display_package_code": "9939292",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939292",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c7800f2de5"
+    },
+    {
+      "display_package_code": "9939293",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939293",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 ml",
+      "preparation_id": "0910f7c7800f2de5"
+    },
+    {
+      "display_package_code": "9939294",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939294",
+      "package_invalid_date": null,
+      "package_size": "1 x 500 ml",
+      "preparation_id": "0910f7c7800f2de5"
+    }
+  ],
+  "preparation": {
+    "holder_id": "322",
+    "holder_name": "Ceva Sante Animale",
+    "name": "Florkem",
+    "preparation_id": "0910f7c7800f2de5",
+    "registration_date": "2010-09-03T11:39:55+0000",
+    "registration_number": "96/042/10-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800f2ddf",
+    "spc_modified_date": "2025-04-22T12:9:04+0000"
+  },
+  "schema_version": 1
+}

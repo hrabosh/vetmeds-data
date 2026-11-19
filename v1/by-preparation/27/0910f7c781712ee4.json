@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909326",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909326",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781712ee4"
+    },
+    {
+      "display_package_code": "9909327",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909327",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781712ee4"
+    },
+    {
+      "display_package_code": "9909328",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909328",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781712ee4"
+    },
+    {
+      "display_package_code": "9909329",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909329",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781712ee4"
+    },
+    {
+      "display_package_code": "9909330",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909330",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781712ee4"
+    },
+    {
+      "display_package_code": "9909331",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909331",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781712ee4"
+    }
+  ],
+  "preparation": {
+    "holder_id": "100",
+    "holder_name": "Zoetis Belgium",
+    "name": "CircoMax Myco",
+    "preparation_id": "0910f7c781712ee4",
+    "registration_date": "2020-12-09T9:1:18+0000",
+    "registration_number": "EU/2/20/264",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c781712ee3",
+    "spc_modified_date": "2024-01-05T8:57:40+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905873",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905873",
+      "package_invalid_date": "2018-04-13T5:37:57+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7804d5ff0"
+    },
+    {
+      "display_package_code": "9905874",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905874",
+      "package_invalid_date": "2018-04-13T5:38:36+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7804d5ff0"
+    },
+    {
+      "display_package_code": "9906417",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906417",
+      "package_invalid_date": "2019-10-08T10:14:23+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7804d5ff0"
+    },
+    {
+      "display_package_code": "9906418",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906418",
+      "package_invalid_date": "2019-10-08T10:15:48+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7804d5ff0"
+    },
+    {
+      "display_package_code": "9907823",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907823",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804d5ff0"
+    },
+    {
+      "display_package_code": "9907824",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907824",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7804d5ff0"
+    }
+  ],
+  "preparation": {
+    "holder_id": "270",
+    "holder_name": "Axience",
+    "name": "Proposure",
+    "preparation_id": "0910f7c7804d5ff0",
+    "registration_date": "2017-02-28T6:52:33+0000",
+    "registration_number": "96/015/17-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7804d5fef",
+    "spc_modified_date": "2025-12-02T12:9:34+0000"
+  },
+  "schema_version": 1
+}

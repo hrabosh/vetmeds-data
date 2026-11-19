@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9936199",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936199",
+      "package_invalid_date": null,
+      "package_size": "1 x 3 ml",
+      "preparation_id": "0910f7c78009377f"
+    },
+    {
+      "display_package_code": "9936218",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936218",
+      "package_invalid_date": null,
+      "package_size": "1 x 7 ml",
+      "preparation_id": "0910f7c78009377f"
+    },
+    {
+      "display_package_code": "9936263",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936263",
+      "package_invalid_date": null,
+      "package_size": "1 x 24 ml",
+      "preparation_id": "0910f7c78009377f"
+    },
+    {
+      "display_package_code": "9936404",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936404",
+      "package_invalid_date": null,
+      "package_size": "1 x 15 ml",
+      "preparation_id": "0910f7c78009377f"
+    }
+  ],
+  "preparation": {
+    "holder_id": "276",
+    "holder_name": "Ceva Animal Health Slovakia s.r.o.",
+    "name": "GALASTOP",
+    "preparation_id": "0910f7c78009377f",
+    "registration_date": "2004-04-15T6:19:50+0000",
+    "registration_number": "96/099/04-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78009377b",
+    "spc_modified_date": "2024-03-28T7:20:09+0000"
+  },
+  "schema_version": 1
+}

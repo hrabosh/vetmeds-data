@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906311",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906311",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780864f21"
+    },
+    {
+      "display_package_code": "9906312",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906312",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780864f21"
+    },
+    {
+      "display_package_code": "9906313",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906313",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780864f21"
+    },
+    {
+      "display_package_code": "9906314",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906314",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780864f21"
+    },
+    {
+      "display_package_code": "9906315",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906315",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780864f21"
+    },
+    {
+      "display_package_code": "9906316",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906316",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780864f21"
+    },
+    {
+      "display_package_code": "9906317",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906317",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780864f21"
+    },
+    {
+      "display_package_code": "9906318",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906318",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780864f21"
+    }
+  ],
+  "preparation": {
+    "holder_id": "180",
+    "holder_name": "Le Vet. Beheer, B.V.",
+    "name": "Tranquigel",
+    "preparation_id": "0910f7c780864f21",
+    "registration_date": "2018-01-19T11:48:22+0000",
+    "registration_number": "96/003/18-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c780864f1c",
+    "spc_modified_date": "2025-03-21T11:48:39+0000"
+  },
+  "schema_version": 1
+}

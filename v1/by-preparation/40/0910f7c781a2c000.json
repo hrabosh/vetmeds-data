@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9910476",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910476",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a2c000"
+    },
+    {
+      "display_package_code": "9910477",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910477",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a2c000"
+    },
+    {
+      "display_package_code": "9910478",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910478",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a2c000"
+    }
+  ],
+  "preparation": {
+    "holder_id": "290",
+    "holder_name": "Alfasan Nederland B.V.",
+    "name": "Dormostop",
+    "preparation_id": "0910f7c781a2c000",
+    "registration_date": "2023-10-06T6:4:05+0000",
+    "registration_number": "96/048/23-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c781a2bfff",
+    "spc_modified_date": "2023-10-16T14:2:49+0000"
+  },
+  "schema_version": 1
+}

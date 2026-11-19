@@ -1,0 +1,79 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905179",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905179",
+      "package_invalid_date": "2024-03-13T10:32:09+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78009f3ba"
+    },
+    {
+      "display_package_code": "9905180",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905180",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009f3ba"
+    },
+    {
+      "display_package_code": "9905181",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905181",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78009f3ba"
+    },
+    {
+      "display_package_code": "9938639",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938639",
+      "package_invalid_date": "2016-07-12T9:7:19+0000",
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c78009f3ba"
+    },
+    {
+      "display_package_code": "9938640",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938640",
+      "package_invalid_date": "2016-07-12T9:8:12+0000",
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c78009f3ba"
+    },
+    {
+      "display_package_code": "9938641",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938641",
+      "package_invalid_date": "2016-07-12T9:7:37+0000",
+      "package_size": "1 x 200 ml",
+      "preparation_id": "0910f7c78009f3ba"
+    },
+    {
+      "display_package_code": "9938642",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938642",
+      "package_invalid_date": "2016-07-12T9:7:54+0000",
+      "package_size": "1 x 500 ml",
+      "preparation_id": "0910f7c78009f3ba"
+    }
+  ],
+  "preparation": {
+    "holder_id": "112",
+    "holder_name": "VIRBAC",
+    "name": "VIRBAMEC",
+    "preparation_id": "0910f7c78009f3ba",
+    "registration_date": "1999-11-10T6:54:16+0000",
+    "registration_number": "96/063/99-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78009f3b7",
+    "spc_modified_date": "2025-03-03T13:56:51+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9908767",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908767",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78153da0c"
+    },
+    {
+      "display_package_code": "9908768",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908768",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78153da0c"
+    },
+    {
+      "display_package_code": "9908769",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908769",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78153da0c"
+    }
+  ],
+  "preparation": {
+    "holder_id": "16",
+    "holder_name": "Boehringer Ingelheim Vetmedica, GmbH",
+    "name": "Prevexxion RN+HVT+IBD",
+    "preparation_id": "0910f7c78153da0c",
+    "registration_date": "2020-07-20T6:6:15+0000",
+    "registration_number": "EU/2/20/255",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c78153da0b",
+    "spc_modified_date": "2025-09-30T8:39:15+0000"
+  },
+  "schema_version": 1
+}

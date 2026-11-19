@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9935607",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935607",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c78008d4a0"
+    },
+    {
+      "display_package_code": "9935629",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935629",
+      "package_invalid_date": "2011-08-23T8:3:38+0000",
+      "package_size": "(zrušeno)1 x 250 ml",
+      "preparation_id": "0910f7c78008d4a0"
+    },
+    {
+      "display_package_code": "9935724",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935724",
+      "package_invalid_date": null,
+      "package_size": "1 x 500 ml",
+      "preparation_id": "0910f7c78008d4a0"
+    },
+    {
+      "display_package_code": "9935785",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935785",
+      "package_invalid_date": "2011-08-23T8:3:56+0000",
+      "package_size": "(zrušeno)1 x 250 ml",
+      "preparation_id": "0910f7c78008d4a0"
+    },
+    {
+      "display_package_code": "9935823",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935823",
+      "package_invalid_date": null,
+      "package_size": "1 x 500 ml",
+      "preparation_id": "0910f7c78008d4a0"
+    },
+    {
+      "display_package_code": "9937099",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937099",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c78008d4a0"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "ADE-vit",
+    "preparation_id": "0910f7c78008d4a0",
+    "registration_date": "2001-11-29T10:20:19+0000",
+    "registration_number": "96/084/01-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78008d49d",
+    "spc_modified_date": "2026-05-05T9:20:35+0000"
+  },
+  "schema_version": 1
+}

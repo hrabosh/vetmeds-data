@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9935729",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935729",
+      "package_invalid_date": null,
+      "package_size": "1 x 200 ml",
+      "preparation_id": "0910f7c780095119"
+    },
+    {
+      "display_package_code": "9975335",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9975335",
+      "package_invalid_date": null,
+      "package_size": "1 x 500 ml",
+      "preparation_id": "0910f7c780095119"
+    },
+    {
+      "display_package_code": "9993274",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9993274",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c780095119"
+    }
+  ],
+  "preparation": {
+    "holder_id": "280",
+    "holder_name": "Boehringer Ingelheim Animal Health France SCS",
+    "name": "IVOMEC",
+    "preparation_id": "0910f7c780095119",
+    "registration_date": "1987-12-12T11:41:02+0000",
+    "registration_number": "99/210/87-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c780095114",
+    "spc_modified_date": "2022-10-26T7:42:09+0000"
+  },
+  "schema_version": 1
+}

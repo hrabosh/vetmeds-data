@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9901709",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901709",
+      "package_invalid_date": null,
+      "package_size": "12 x 20 ml_EU/2/04/042/011",
+      "preparation_id": "0910f7c7800f3b7a"
+    },
+    {
+      "display_package_code": "9901710",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901710",
+      "package_invalid_date": null,
+      "package_size": "12 x 50 ml_EU/2/04/042/012",
+      "preparation_id": "0910f7c7800f3b7a"
+    },
+    {
+      "display_package_code": "9901711",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901711",
+      "package_invalid_date": null,
+      "package_size": "12 x 100 ml_EU/2/04/042/013",
+      "preparation_id": "0910f7c7800f3b7a"
+    },
+    {
+      "display_package_code": "9901712",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9901712",
+      "package_invalid_date": null,
+      "package_size": "6 x 250 ml_EU/2/04/042/014",
+      "preparation_id": "0910f7c7800f3b7a"
+    },
+    {
+      "display_package_code": "9934258",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934258",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 ml_EU/2/04/042/003",
+      "preparation_id": "0910f7c7800f3b7a"
+    },
+    {
+      "display_package_code": "9934259",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934259",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml_EU/2/04/042/004",
+      "preparation_id": "0910f7c7800f3b7a"
+    },
+    {
+      "display_package_code": "9934517",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934517",
+      "package_invalid_date": null,
+      "package_size": "1 x 20 ml_EU/2/04/042/005",
+      "preparation_id": "0910f7c7800f3b7a"
+    },
+    {
+      "display_package_code": "9934518",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934518",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 ml_EU/2/04/042/006",
+      "preparation_id": "0910f7c7800f3b7a"
+    }
+  ],
+  "preparation": {
+    "holder_id": "16",
+    "holder_name": "Boehringer Ingelheim Vetmedica, GmbH",
+    "name": "Novem",
+    "preparation_id": "0910f7c7800f3b7a",
+    "registration_date": "2004-03-02T10:57:28+0000",
+    "registration_number": "EU/2/04/042",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f3b74",
+    "spc_modified_date": "2022-01-19T12:34:42+0000"
+  },
+  "schema_version": 1
+}

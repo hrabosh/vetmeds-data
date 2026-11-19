@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909833",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909833",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818c5c20"
+    },
+    {
+      "display_package_code": "9909834",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909834",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818c5c20"
+    },
+    {
+      "display_package_code": "9909835",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909835",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818c5c20"
+    },
+    {
+      "display_package_code": "9909836",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909836",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818c5c20"
+    }
+  ],
+  "preparation": {
+    "holder_id": "34",
+    "holder_name": "Fatro, S.p.A.",
+    "name": "Afilaria SR",
+    "preparation_id": "0910f7c7818c5c20",
+    "registration_date": "2022-06-08T10:53:50+0000",
+    "registration_number": "96/020/22-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7818c5c1f",
+    "spc_modified_date": "2024-08-06T11:25:08+0000"
+  },
+  "schema_version": 1
+}

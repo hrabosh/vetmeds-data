@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9936621",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936621",
+      "package_invalid_date": null,
+      "package_size": "10 x 1000 dávek",
+      "preparation_id": "0910f7c7800944d3"
+    },
+    {
+      "display_package_code": "9936645",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936645",
+      "package_invalid_date": null,
+      "package_size": "10 x 2500 dávek",
+      "preparation_id": "0910f7c7800944d3"
+    },
+    {
+      "display_package_code": "9936674",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936674",
+      "package_invalid_date": null,
+      "package_size": "10 x 5000 dávek",
+      "preparation_id": "0910f7c7800944d3"
+    }
+  ],
+  "preparation": {
+    "holder_id": "49",
+    "holder_name": "Laboratorios Hipra S.A.",
+    "name": "HIPRAVIAR-S",
+    "preparation_id": "0910f7c7800944d3",
+    "registration_date": "2002-09-04T6:51:15+0000",
+    "registration_number": "97/065/02-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800944cf",
+    "spc_modified_date": "2026-10-29T7:51:30+0000"
+  },
+  "schema_version": 1
+}

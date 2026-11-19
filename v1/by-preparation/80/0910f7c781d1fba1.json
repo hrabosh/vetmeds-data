@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700334",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9700334",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781d1fba1"
+    },
+    {
+      "display_package_code": "9700335",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9700335",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781d1fba1"
+    },
+    {
+      "display_package_code": "9700336",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9700336",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781d1fba1"
+    },
+    {
+      "display_package_code": "9700337",
+      "issue_class_id": "1",
+      "issue_class_name": "Volně prodejný",
+      "package_code": "9700337",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781d1fba1"
+    }
+  ],
+  "preparation": {
+    "holder_id": "46",
+    "holder_name": "Krka d.d. Novo mesto",
+    "name": "Dehispot",
+    "preparation_id": "0910f7c781d1fba1",
+    "registration_date": "2025-08-12T9:6:27+0000",
+    "registration_number": "96/031/25-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c781d1fa58",
+    "spc_modified_date": "2026-07-08T9:29:13+0000"
+  },
+  "schema_version": 1
+}

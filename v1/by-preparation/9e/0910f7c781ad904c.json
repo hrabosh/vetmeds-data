@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9910989",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910989",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ad904c"
+    },
+    {
+      "display_package_code": "9910990",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910990",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ad904c"
+    },
+    {
+      "display_package_code": "9910991",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910991",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ad904c"
+    }
+  ],
+  "preparation": {
+    "holder_id": "49",
+    "holder_name": "Laboratorios Hipra S.A.",
+    "name": "DIVENCE PENTA",
+    "preparation_id": "0910f7c781ad904c",
+    "registration_date": "2024-04-09T6:36:59+0000",
+    "registration_number": "EU/2/24/307",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c781ad904b",
+    "spc_modified_date": "2026-04-16T10:58:28+0000"
+  },
+  "schema_version": 1
+}

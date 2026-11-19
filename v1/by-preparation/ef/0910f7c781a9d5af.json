@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9910999",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910999",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a9d5af"
+    },
+    {
+      "display_package_code": "9911000",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911000",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a9d5af"
+    },
+    {
+      "display_package_code": "9911001",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911001",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a9d5af"
+    },
+    {
+      "display_package_code": "9911002",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911002",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a9d5af"
+    },
+    {
+      "display_package_code": "9911003",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911003",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a9d5af"
+    },
+    {
+      "display_package_code": "9911004",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911004",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781a9d5af"
+    }
+  ],
+  "preparation": {
+    "holder_id": "270",
+    "holder_name": "Axience",
+    "name": "Trilorale",
+    "preparation_id": "0910f7c781a9d5af",
+    "registration_date": "2024-05-06T5:55:57+0000",
+    "registration_number": "EU/2/24/313",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c781a9d5ad",
+    "spc_modified_date": "2024-05-14T10:19:59+0000"
+  },
+  "schema_version": 1
+}

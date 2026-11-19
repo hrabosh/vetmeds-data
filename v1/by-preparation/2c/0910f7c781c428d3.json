@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700412",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700412",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c428d3"
+    },
+    {
+      "display_package_code": "9700413",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700413",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c428d3"
+    },
+    {
+      "display_package_code": "9700414",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700414",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c428d3"
+    },
+    {
+      "display_package_code": "9700415",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700415",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c428d3"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "Fluralaner Intervet",
+    "preparation_id": "0910f7c781c428d3",
+    "registration_date": "2025-06-27T7:5:48+0000",
+    "registration_number": "EU/2/25/346",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c781c428d2",
+    "spc_modified_date": "2025-09-19T10:47:33+0000"
+  },
+  "schema_version": 1
+}

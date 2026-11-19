@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905112",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905112",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78061652e"
+    },
+    {
+      "display_package_code": "9905113",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905113",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78061652e"
+    },
+    {
+      "display_package_code": "9905114",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905114",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78061652e"
+    },
+    {
+      "display_package_code": "9905115",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905115",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78061652e"
+    },
+    {
+      "display_package_code": "9905116",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905116",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78061652e"
+    },
+    {
+      "display_package_code": "9905117",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905117",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78061652e"
+    }
+  ],
+  "preparation": {
+    "holder_id": "117",
+    "holder_name": "Huvepharma NV",
+    "name": "Huveguard MMAT",
+    "preparation_id": "0910f7c78061652e",
+    "registration_date": "2016-06-24T5:37:23+0000",
+    "registration_number": "97/049/16-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78061652d",
+    "spc_modified_date": "2024-10-08T12:39:39+0000"
+  },
+  "schema_version": 1
+}

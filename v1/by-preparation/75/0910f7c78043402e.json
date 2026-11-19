@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905418",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905418",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78043402e"
+    },
+    {
+      "display_package_code": "9905419",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905419",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78043402e"
+    },
+    {
+      "display_package_code": "9905420",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905420",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78043402e"
+    },
+    {
+      "display_package_code": "9905421",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905421",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78043402e"
+    },
+    {
+      "display_package_code": "9905422",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905422",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78043402e"
+    },
+    {
+      "display_package_code": "9905423",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905423",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78043402e"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "Porcilis Ery+Parvo+Lepto",
+    "preparation_id": "0910f7c78043402e",
+    "registration_date": "2016-08-18T10:12:07+0000",
+    "registration_number": "97/073/16-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78043402d",
+    "spc_modified_date": "2023-10-13T11:35:56+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9938810",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938810",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c78008ddfd"
+    },
+    {
+      "display_package_code": "9938811",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938811",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c78008ddfd"
+    },
+    {
+      "display_package_code": "9938812",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938812",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 ml",
+      "preparation_id": "0910f7c78008ddfd"
+    },
+    {
+      "display_package_code": "9938813",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938813",
+      "package_invalid_date": null,
+      "package_size": "12 x 50 ml",
+      "preparation_id": "0910f7c78008ddfd"
+    },
+    {
+      "display_package_code": "9938814",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938814",
+      "package_invalid_date": null,
+      "package_size": "12 x 100 ml",
+      "preparation_id": "0910f7c78008ddfd"
+    },
+    {
+      "display_package_code": "9938815",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9938815",
+      "package_invalid_date": null,
+      "package_size": "6 x 250 ml",
+      "preparation_id": "0910f7c78008ddfd"
+    }
+  ],
+  "preparation": {
+    "holder_id": "2",
+    "holder_name": "Alfasan International B.V.",
+    "name": "ALFATRIM  Alfasan",
+    "preparation_id": "0910f7c78008ddfd",
+    "registration_date": "2000-04-11T5:13:46+0000",
+    "registration_number": "96/010/00–C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78008ddf9",
+    "spc_modified_date": "2022-10-27T7:14:54+0000"
+  },
+  "schema_version": 1
+}

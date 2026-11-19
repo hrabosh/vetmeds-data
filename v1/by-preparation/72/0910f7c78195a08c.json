@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909965",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909965",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78195a08c"
+    }
+  ],
+  "preparation": {
+    "holder_id": "72",
+    "holder_name": "Serumwerk Bernburg AG",
+    "name": "Azaporc",
+    "preparation_id": "0910f7c78195a08c",
+    "registration_date": "2022-10-04T9:12:58+0000",
+    "registration_number": "96/034/22-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78195a08b",
+    "spc_modified_date": "2023-02-09T14:3:59+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,79 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9700298",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700298",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ce3636"
+    },
+    {
+      "display_package_code": "9700299",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700299",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ce3636"
+    },
+    {
+      "display_package_code": "9700300",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700300",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ce3636"
+    },
+    {
+      "display_package_code": "9700301",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700301",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ce3636"
+    },
+    {
+      "display_package_code": "9700874",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700874",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ce3636"
+    },
+    {
+      "display_package_code": "9700875",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700875",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ce3636"
+    },
+    {
+      "display_package_code": "9700876",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9700876",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781ce3636"
+    }
+  ],
+  "preparation": {
+    "holder_id": "24",
+    "holder_name": "CP-Pharma Handelsgesellschaft, mbH",
+    "name": "Emevet",
+    "preparation_id": "0910f7c781ce3636",
+    "registration_date": "2025-06-02T9:34:22+0000",
+    "registration_number": "EU/2/25/343",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c781ce3632",
+    "spc_modified_date": "2026-03-12T10:14:22+0000"
+  },
+  "schema_version": 1
+}

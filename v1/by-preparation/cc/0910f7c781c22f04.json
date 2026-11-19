@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9911300",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911300",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c22f04"
+    },
+    {
+      "display_package_code": "9911301",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911301",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c22f04"
+    },
+    {
+      "display_package_code": "9911302",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911302",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781c22f04"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "BRAVECTO TriUNO",
+    "preparation_id": "0910f7c781c22f04",
+    "registration_date": "2024-11-22T15:34:54+0000",
+    "registration_number": "EU/2/24/325",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c781c22b08",
+    "spc_modified_date": "2026-01-08T12:45:54+0000"
+  },
+  "schema_version": 1
+}

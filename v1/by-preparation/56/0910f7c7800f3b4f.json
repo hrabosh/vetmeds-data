@@ -1,0 +1,178 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9905829",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905829",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3b4f"
+    },
+    {
+      "display_package_code": "9905830",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905830",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3b4f"
+    },
+    {
+      "display_package_code": "9905831",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905831",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3b4f"
+    },
+    {
+      "display_package_code": "9909371",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909371",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3b4f"
+    },
+    {
+      "display_package_code": "9909372",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909372",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3b4f"
+    },
+    {
+      "display_package_code": "9909373",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909373",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3b4f"
+    },
+    {
+      "display_package_code": "9909374",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909374",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3b4f"
+    },
+    {
+      "display_package_code": "9909375",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909375",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800f3b4f"
+    },
+    {
+      "display_package_code": "9934133",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934133",
+      "package_invalid_date": null,
+      "package_size": "1 x 1000 dávek_EU/2/98/006/001",
+      "preparation_id": "0910f7c7800f3b4f"
+    },
+    {
+      "display_package_code": "9934134",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934134",
+      "package_invalid_date": null,
+      "package_size": "1 x 2500 dávek_EU/2/98/006/002",
+      "preparation_id": "0910f7c7800f3b4f"
+    },
+    {
+      "display_package_code": "9934135",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934135",
+      "package_invalid_date": null,
+      "package_size": "1 x 5000 dávek_EU/2/98/006/003",
+      "preparation_id": "0910f7c7800f3b4f"
+    },
+    {
+      "display_package_code": "9934136",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934136",
+      "package_invalid_date": null,
+      "package_size": "1 x 10000 dávek_EU/2/98/006/004",
+      "preparation_id": "0910f7c7800f3b4f"
+    },
+    {
+      "display_package_code": "9934137",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934137",
+      "package_invalid_date": null,
+      "package_size": "10 x 1000 dávek_EU/2/98/006/005",
+      "preparation_id": "0910f7c7800f3b4f"
+    },
+    {
+      "display_package_code": "9934138",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934138",
+      "package_invalid_date": null,
+      "package_size": "10 x 2500 dávek_EU/2/98/006/006",
+      "preparation_id": "0910f7c7800f3b4f"
+    },
+    {
+      "display_package_code": "9934139",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934139",
+      "package_invalid_date": null,
+      "package_size": "10 x 5000 dávek_EU/2/98/006/007",
+      "preparation_id": "0910f7c7800f3b4f"
+    },
+    {
+      "display_package_code": "9934140",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934140",
+      "package_invalid_date": null,
+      "package_size": "10 x 10000 dávek_EU/2/98/006/008",
+      "preparation_id": "0910f7c7800f3b4f"
+    },
+    {
+      "display_package_code": "9934141",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934141",
+      "package_invalid_date": null,
+      "package_size": "1 x 500 dávek_EU/2/98/006/009",
+      "preparation_id": "0910f7c7800f3b4f"
+    },
+    {
+      "display_package_code": "9934142",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934142",
+      "package_invalid_date": null,
+      "package_size": "10 x 500 dávek_EU/2/98/006/010",
+      "preparation_id": "0910f7c7800f3b4f"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "Nobilis IB 4-91",
+    "preparation_id": "0910f7c7800f3b4f",
+    "registration_date": "1998-06-09T9:16:28+0000",
+    "registration_number": "EU/2/98/006",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f3b4c",
+    "spc_modified_date": "2024-01-08T12:33:26+0000"
+  },
+  "schema_version": 1
+}

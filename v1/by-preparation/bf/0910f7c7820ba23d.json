@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9934251",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934251",
+      "package_invalid_date": null,
+      "package_size": "10 x 1 dávka_EU/2/05/056/002",
+      "preparation_id": "0910f7c7820ba23d"
+    },
+    {
+      "display_package_code": "9934309",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934309",
+      "package_invalid_date": null,
+      "package_size": "1 x 1 dávka_EU/2/05/056/003",
+      "preparation_id": "0910f7c7820ba23d"
+    },
+    {
+      "display_package_code": "9934310",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934310",
+      "package_invalid_date": null,
+      "package_size": "5 x 1 dávka_EU/2/05/056/004",
+      "preparation_id": "0910f7c7820ba23d"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "Equilis Prequenza_",
+    "preparation_id": "0910f7c7820ba23d",
+    "registration_date": "2005-07-08T6:14:59+0000",
+    "registration_number": "EU/2/05/056",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f331f",
+    "spc_modified_date": "2023-09-07T11:20:23+0000"
+  },
+  "schema_version": 1
+}

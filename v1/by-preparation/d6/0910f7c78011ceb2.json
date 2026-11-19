@@ -1,0 +1,205 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900334",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900334",
+      "package_invalid_date": null,
+      "package_size": "10 x 10 ml",
+      "preparation_id": "0910f7c78011ceb2"
+    },
+    {
+      "display_package_code": "9900335",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900335",
+      "package_invalid_date": "2013-07-08T8:48:12+0000",
+      "package_size": "1 x 4 ml",
+      "preparation_id": "0910f7c78011ceb2"
+    },
+    {
+      "display_package_code": "9900336",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900336",
+      "package_invalid_date": "2013-07-08T8:48:29+0000",
+      "package_size": "10 x 4 ml",
+      "preparation_id": "0910f7c78011ceb2"
+    },
+    {
+      "display_package_code": "9900337",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900337",
+      "package_invalid_date": null,
+      "package_size": "1 x 10 ml",
+      "preparation_id": "0910f7c78011ceb2"
+    },
+    {
+      "display_package_code": "9900338",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900338",
+      "package_invalid_date": "2013-07-08T8:48:44+0000",
+      "package_size": "1 x 20 ml",
+      "preparation_id": "0910f7c78011ceb2"
+    },
+    {
+      "display_package_code": "9900339",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900339",
+      "package_invalid_date": null,
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c78011ceb2"
+    },
+    {
+      "display_package_code": "9900340",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900340",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c78011ceb2"
+    },
+    {
+      "display_package_code": "9900341",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900341",
+      "package_invalid_date": "2013-07-08T8:49:00+0000",
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c78011ceb2"
+    },
+    {
+      "display_package_code": "9900342",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900342",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c78011ceb2"
+    },
+    {
+      "display_package_code": "9900343",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900343",
+      "package_invalid_date": "2013-07-08T8:49:16+0000",
+      "package_size": "1 x 250 ml",
+      "preparation_id": "0910f7c78011ceb2"
+    },
+    {
+      "display_package_code": "9900344",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900344",
+      "package_invalid_date": "2013-07-08T8:49:32+0000",
+      "package_size": "10 x 20 ml",
+      "preparation_id": "0910f7c78011ceb2"
+    },
+    {
+      "display_package_code": "9900345",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900345",
+      "package_invalid_date": "2013-07-08T8:49:47+0000",
+      "package_size": "24 x 50 ml",
+      "preparation_id": "0910f7c78011ceb2"
+    },
+    {
+      "display_package_code": "9900346",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900346",
+      "package_invalid_date": "2013-07-08T8:50:03+0000",
+      "package_size": "20 x 100 ml",
+      "preparation_id": "0910f7c78011ceb2"
+    },
+    {
+      "display_package_code": "9900347",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900347",
+      "package_invalid_date": "2013-07-08T8:50:23+0000",
+      "package_size": "12 x 50 ml",
+      "preparation_id": "0910f7c78011ceb2"
+    },
+    {
+      "display_package_code": "9900348",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900348",
+      "package_invalid_date": "2013-07-08T8:50:39+0000",
+      "package_size": "12 x 100 ml",
+      "preparation_id": "0910f7c78011ceb2"
+    },
+    {
+      "display_package_code": "9900349",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900349",
+      "package_invalid_date": "2013-07-08T8:50:57+0000",
+      "package_size": "24 x 50 ml",
+      "preparation_id": "0910f7c78011ceb2"
+    },
+    {
+      "display_package_code": "9900350",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900350",
+      "package_invalid_date": "2013-07-08T8:51:12+0000",
+      "package_size": "20 x 100ml",
+      "preparation_id": "0910f7c78011ceb2"
+    },
+    {
+      "display_package_code": "9900351",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900351",
+      "package_invalid_date": "2013-07-08T8:51:28+0000",
+      "package_size": "12 x 50 ml",
+      "preparation_id": "0910f7c78011ceb2"
+    },
+    {
+      "display_package_code": "9900352",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900352",
+      "package_invalid_date": "2013-07-08T8:51:44+0000",
+      "package_size": "12 x 100 ml",
+      "preparation_id": "0910f7c78011ceb2"
+    },
+    {
+      "display_package_code": "9900353",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900353",
+      "package_invalid_date": "2013-07-08T8:52:01+0000",
+      "package_size": "12 x 250 ml",
+      "preparation_id": "0910f7c78011ceb2"
+    },
+    {
+      "display_package_code": "9900354",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900354",
+      "package_invalid_date": "2013-07-08T8:52:18+0000",
+      "package_size": "20 x 250 ml",
+      "preparation_id": "0910f7c78011ceb2"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "BioBos L",
+    "preparation_id": "0910f7c78011ceb2",
+    "registration_date": "2011-04-04T9:17:38+0000",
+    "registration_number": "96/020/11-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78011cead",
+    "spc_modified_date": "2025-01-16T10:18:00+0000"
+  },
+  "schema_version": 1
+}

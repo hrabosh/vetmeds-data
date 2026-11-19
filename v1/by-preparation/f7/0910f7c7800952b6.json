@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906115",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906115",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800952b6"
+    },
+    {
+      "display_package_code": "9906116",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906116",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800952b6"
+    },
+    {
+      "display_package_code": "9907341",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907341",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800952b6"
+    },
+    {
+      "display_package_code": "9907342",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907342",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800952b6"
+    },
+    {
+      "display_package_code": "9907343",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907343",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800952b6"
+    },
+    {
+      "display_package_code": "9907344",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907344",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800952b6"
+    },
+    {
+      "display_package_code": "9937162",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937162",
+      "package_invalid_date": "2017-08-01T6:37:36+0000",
+      "package_size": "1 x 50 ml",
+      "preparation_id": "0910f7c7800952b6"
+    },
+    {
+      "display_package_code": "9937643",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9937643",
+      "package_invalid_date": "2017-08-01T6:38:49+0000",
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c7800952b6"
+    }
+  ],
+  "preparation": {
+    "holder_id": "322",
+    "holder_name": "Ceva Sante Animale",
+    "name": "KETOFEN",
+    "preparation_id": "0910f7c7800952b6",
+    "registration_date": "1997-12-29T13:43:15+0000",
+    "registration_number": "96/1336/97-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800952b3",
+    "spc_modified_date": "2025-01-31T6:47:52+0000"
+  },
+  "schema_version": 1
+}

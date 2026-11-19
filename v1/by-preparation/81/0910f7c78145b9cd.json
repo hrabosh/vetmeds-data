@@ -1,0 +1,124 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9907488",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907488",
+      "package_invalid_date": "2024-08-30T11:57:12+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78145b9cd"
+    },
+    {
+      "display_package_code": "9907489",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907489",
+      "package_invalid_date": "2024-08-30T7:40:43+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78145b9cd"
+    },
+    {
+      "display_package_code": "9907490",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907490",
+      "package_invalid_date": "2024-08-30T7:40:50+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78145b9cd"
+    },
+    {
+      "display_package_code": "9907491",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907491",
+      "package_invalid_date": "2024-08-30T7:40:58+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78145b9cd"
+    },
+    {
+      "display_package_code": "9907492",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907492",
+      "package_invalid_date": "2024-08-30T7:41:05+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78145b9cd"
+    },
+    {
+      "display_package_code": "9907493",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907493",
+      "package_invalid_date": "2024-08-30T7:41:13+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78145b9cd"
+    },
+    {
+      "display_package_code": "9911178",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911178",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78145b9cd"
+    },
+    {
+      "display_package_code": "9911179",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911179",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78145b9cd"
+    },
+    {
+      "display_package_code": "9911180",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911180",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78145b9cd"
+    },
+    {
+      "display_package_code": "9911181",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911181",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78145b9cd"
+    },
+    {
+      "display_package_code": "9911182",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911182",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78145b9cd"
+    },
+    {
+      "display_package_code": "9911183",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9911183",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78145b9cd"
+    }
+  ],
+  "preparation": {
+    "holder_id": "252",
+    "holder_name": "Bimeda Animal Health Limited",
+    "name": "Helminthex",
+    "preparation_id": "0910f7c78145b9cd",
+    "registration_date": "2019-06-25T8:57:40+0000",
+    "registration_number": "96/048/19-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78145b9cc",
+    "spc_modified_date": "2026-01-07T11:4:22+0000"
+  },
+  "schema_version": 1
+}

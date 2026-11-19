@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9907170",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907170",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808c55a2"
+    },
+    {
+      "display_package_code": "9909390",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909390",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808c55a2"
+    },
+    {
+      "display_package_code": "9909391",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909391",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7808c55a2"
+    }
+  ],
+  "preparation": {
+    "holder_id": "322",
+    "holder_name": "Ceva Sante Animale",
+    "name": "Zelys",
+    "preparation_id": "0910f7c7808c55a2",
+    "registration_date": "2019-01-16T8:16:02+0000",
+    "registration_number": "96/004/19-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7808c55a1",
+    "spc_modified_date": "2023-06-15T7:13:55+0000"
+  },
+  "schema_version": 1
+}

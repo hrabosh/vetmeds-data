@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909927",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909927",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818e690d"
+    },
+    {
+      "display_package_code": "9909928",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909928",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818e690d"
+    },
+    {
+      "display_package_code": "9909929",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909929",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818e690d"
+    },
+    {
+      "display_package_code": "9909930",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909930",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818e690d"
+    },
+    {
+      "display_package_code": "9909931",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909931",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818e690d"
+    },
+    {
+      "display_package_code": "9909932",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909932",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7818e690d"
+    }
+  ],
+  "preparation": {
+    "holder_id": "24",
+    "holder_name": "CP-Pharma Handelsgesellschaft, mbH",
+    "name": "Coxatab",
+    "preparation_id": "0910f7c7818e690d",
+    "registration_date": "2022-08-12T8:41:22+0000",
+    "registration_number": "EU/2/22/286",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7818bd2f8",
+    "spc_modified_date": "2025-07-03T12:34:54+0000"
+  },
+  "schema_version": 1
+}

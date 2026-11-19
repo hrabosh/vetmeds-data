@@ -1,0 +1,97 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9909761",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909761",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781817a84"
+    },
+    {
+      "display_package_code": "9909762",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909762",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781817a84"
+    },
+    {
+      "display_package_code": "9909763",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909763",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781817a84"
+    },
+    {
+      "display_package_code": "9909764",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909764",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781817a84"
+    },
+    {
+      "display_package_code": "9909765",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909765",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781817a84"
+    },
+    {
+      "display_package_code": "9909766",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909766",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781817a84"
+    },
+    {
+      "display_package_code": "9909767",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909767",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781817a84"
+    },
+    {
+      "display_package_code": "9909768",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909768",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781817a84"
+    },
+    {
+      "display_package_code": "9909769",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909769",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781817a84"
+    }
+  ],
+  "preparation": {
+    "holder_id": "290",
+    "holder_name": "Alfasan Nederland B.V.",
+    "name": "Alpramil",
+    "preparation_id": "0910f7c781817a84",
+    "registration_date": "2022-05-24T18:45:11+0000",
+    "registration_number": "96/012/22-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781816fa6",
+    "spc_modified_date": "2026-04-10T7:44:51+0000"
+  },
+  "schema_version": 1
+}

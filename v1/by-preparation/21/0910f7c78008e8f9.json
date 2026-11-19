@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9934869",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934869",
+      "package_invalid_date": null,
+      "package_size": "1 x 10 kg",
+      "preparation_id": "0910f7c78008e8f9"
+    }
+  ],
+  "preparation": {
+    "holder_id": "122",
+    "holder_name": "Tekro spol. s r.o.",
+    "name": "AUREOVIT",
+    "preparation_id": "0910f7c78008e8f9",
+    "registration_date": "1998-11-20T8:26:29+0000",
+    "registration_number": "98/131/98-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78008e8f4",
+    "spc_modified_date": "2022-10-26T6:7:23+0000"
+  },
+  "schema_version": 1
+}

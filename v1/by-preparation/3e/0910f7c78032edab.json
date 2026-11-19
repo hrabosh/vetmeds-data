@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9903835",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903835",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78032edab"
+    },
+    {
+      "display_package_code": "9903836",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903836",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78032edab"
+    },
+    {
+      "display_package_code": "9903837",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9903837",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78032edab"
+    },
+    {
+      "display_package_code": "9909753",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909753",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78032edab"
+    },
+    {
+      "display_package_code": "9909754",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909754",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78032edab"
+    },
+    {
+      "display_package_code": "9909755",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909755",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78032edab"
+    },
+    {
+      "display_package_code": "9909756",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909756",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78032edab"
+    },
+    {
+      "display_package_code": "9909757",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909757",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78032edab"
+    }
+  ],
+  "preparation": {
+    "holder_id": "42",
+    "holder_name": "Intervet International, B.V.",
+    "name": "Nobilis IB Primo QX",
+    "preparation_id": "0910f7c78032edab",
+    "registration_date": "2014-09-04T9:20:46+0000",
+    "registration_number": "EU/2/14/174",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c780268082",
+    "spc_modified_date": "2024-05-14T9:40:28+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902930",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902930",
+      "package_invalid_date": "2019-12-17T10:15:42+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78025f4ce"
+    },
+    {
+      "display_package_code": "9902931",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902931",
+      "package_invalid_date": "2019-12-17T10:18:19+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78025f4ce"
+    },
+    {
+      "display_package_code": "9902932",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902932",
+      "package_invalid_date": "2019-12-17T10:20:28+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78025f4ce"
+    },
+    {
+      "display_package_code": "9905768",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9905768",
+      "package_invalid_date": "2019-12-17T10:22:18+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c78025f4ce"
+    },
+    {
+      "display_package_code": "9908065",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908065",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78025f4ce"
+    },
+    {
+      "display_package_code": "9908066",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908066",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78025f4ce"
+    },
+    {
+      "display_package_code": "9908067",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908067",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78025f4ce"
+    },
+    {
+      "display_package_code": "9908068",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908068",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78025f4ce"
+    }
+  ],
+  "preparation": {
+    "holder_id": "16",
+    "holder_name": "Boehringer Ingelheim Vetmedica, GmbH",
+    "name": "Broadline",
+    "preparation_id": "0910f7c78025f4ce",
+    "registration_date": "2013-12-04T7:38:46+0000",
+    "registration_number": "EU/2/13/157",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c78025f4cd",
+    "spc_modified_date": "2025-10-15T12:33:29+0000"
+  },
+  "schema_version": 1
+}

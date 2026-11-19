@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9935605",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935605",
+      "package_invalid_date": null,
+      "package_size": "1 x 10 ml",
+      "preparation_id": "0910f7c78008fd40"
+    }
+  ],
+  "preparation": {
+    "holder_id": "65",
+    "holder_name": "Orion Corporation",
+    "name": "DOMITOR",
+    "preparation_id": "0910f7c78008fd40",
+    "registration_date": "1996-12-02T11:29:48+0000",
+    "registration_number": "96/731/96-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78008fd3c",
+    "spc_modified_date": "2025-03-21T11:30:08+0000"
+  },
+  "schema_version": 1
+}

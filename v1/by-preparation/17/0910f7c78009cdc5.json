@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9935101",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935101",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 g",
+      "preparation_id": "0910f7c78009cdc5"
+    },
+    {
+      "display_package_code": "9935129",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935129",
+      "package_invalid_date": null,
+      "package_size": "1 x 500 g",
+      "preparation_id": "0910f7c78009cdc5"
+    },
+    {
+      "display_package_code": "9935183",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935183",
+      "package_invalid_date": null,
+      "package_size": "1 x 1000 g",
+      "preparation_id": "0910f7c78009cdc5"
+    }
+  ],
+  "preparation": {
+    "holder_id": "263",
+    "holder_name": "Kela N.V.",
+    "name": "OXY-KEL",
+    "preparation_id": "0910f7c78009cdc5",
+    "registration_date": "2003-12-15T6:0:19+0000",
+    "registration_number": "96/074/03-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78009cdc1",
+    "spc_modified_date": "2022-10-26T8:23:40+0000"
+  },
+  "schema_version": 1
+}

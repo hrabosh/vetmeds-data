@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9908534",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908534",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78145c31e"
+    }
+  ],
+  "preparation": {
+    "holder_id": "119",
+    "holder_name": "Industrial Veterinaria S.A.",
+    "name": "Enrocat flavour",
+    "preparation_id": "0910f7c78145c31e",
+    "registration_date": "2020-05-18T8:13:20+0000",
+    "registration_number": "96/043/20-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78145c31d",
+    "spc_modified_date": "2026-05-26T13:21:44+0000"
+  },
+  "schema_version": 1
+}

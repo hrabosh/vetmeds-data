@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9904118",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904118",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78027d211"
+    },
+    {
+      "display_package_code": "9904119",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904119",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78027d211"
+    },
+    {
+      "display_package_code": "9904120",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9904120",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78027d211"
+    }
+  ],
+  "preparation": {
+    "holder_id": "46",
+    "holder_name": "Krka d.d. Novo mesto",
+    "name": "Milprazon",
+    "preparation_id": "0910f7c78027d211",
+    "registration_date": "2015-02-27T12:39:26+0000",
+    "registration_number": "96/020/15-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c78027d210",
+    "spc_modified_date": "2024-07-03T7:15:38+0000"
+  },
+  "schema_version": 1
+}

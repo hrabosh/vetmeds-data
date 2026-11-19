@@ -1,0 +1,79 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902342",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902342",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800cc8cd"
+    },
+    {
+      "display_package_code": "9902343",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902343",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800cc8cd"
+    },
+    {
+      "display_package_code": "9902840",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902840",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800cc8cd"
+    },
+    {
+      "display_package_code": "9902841",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902841",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800cc8cd"
+    },
+    {
+      "display_package_code": "9902842",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902842",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7800cc8cd"
+    },
+    {
+      "display_package_code": "9935635",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935635",
+      "package_invalid_date": "2013-06-03T9:13:25+0000",
+      "package_size": "1 x 100 ml",
+      "preparation_id": "0910f7c7800cc8cd"
+    },
+    {
+      "display_package_code": "9935748",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935748",
+      "package_invalid_date": "2013-06-03T9:13:39+0000",
+      "package_size": "10 x 100 ml",
+      "preparation_id": "0910f7c7800cc8cd"
+    }
+  ],
+  "preparation": {
+    "holder_id": "226",
+    "holder_name": "Zoetis Česká republika s.r.o.",
+    "name": "Excenel Fluid",
+    "preparation_id": "0910f7c7800cc8cd",
+    "registration_date": "2003-07-25T10:39:23+0000",
+    "registration_number": "96/043/03-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7800cc8c8",
+    "spc_modified_date": "2024-12-05T12:3:31+0000"
+  },
+  "schema_version": 1
+}

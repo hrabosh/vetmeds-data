@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9908924",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908924",
+      "package_invalid_date": "2020-12-11T14:10:58+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7815fad65"
+    },
+    {
+      "display_package_code": "9908925",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908925",
+      "package_invalid_date": "2020-12-11T14:12:43+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7815fad65"
+    },
+    {
+      "display_package_code": "9908926",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908926",
+      "package_invalid_date": "2020-12-11T14:14:42+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7815fad65"
+    },
+    {
+      "display_package_code": "9908927",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908927",
+      "package_invalid_date": "2020-12-11T14:15:54+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c7815fad65"
+    },
+    {
+      "display_package_code": "9909042",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909042",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815fad65"
+    },
+    {
+      "display_package_code": "9909043",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909043",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815fad65"
+    },
+    {
+      "display_package_code": "9909044",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909044",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815fad65"
+    },
+    {
+      "display_package_code": "9909045",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9909045",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815fad65"
+    }
+  ],
+  "preparation": {
+    "holder_id": "280",
+    "holder_name": "Boehringer Ingelheim Animal Health France SCS",
+    "name": "Gallivac IBD S706 NEO",
+    "preparation_id": "0910f7c7815fad65",
+    "registration_date": "2020-11-10T7:34:51+0000",
+    "registration_number": "97/072/20-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7815fad64",
+    "spc_modified_date": "2024-08-02T5:10:17+0000"
+  },
+  "schema_version": 1
+}

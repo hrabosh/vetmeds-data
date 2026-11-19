@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9907287",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907287",
+      "package_invalid_date": "2019-03-21T6:0:16+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c781488fc0"
+    },
+    {
+      "display_package_code": "9907288",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907288",
+      "package_invalid_date": "2019-03-21T6:1:15+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c781488fc0"
+    },
+    {
+      "display_package_code": "9907297",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907297",
+      "package_invalid_date": "2024-03-18T13:4:45+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c781488fc0"
+    },
+    {
+      "display_package_code": "9907298",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907298",
+      "package_invalid_date": "2024-03-18T13:5:20+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c781488fc0"
+    },
+    {
+      "display_package_code": "9910802",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910802",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781488fc0"
+    },
+    {
+      "display_package_code": "9910803",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9910803",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781488fc0"
+    }
+  ],
+  "preparation": {
+    "holder_id": "226",
+    "holder_name": "Zoetis Česká republika s.r.o.",
+    "name": "Alfaxan Multidose",
+    "preparation_id": "0910f7c781488fc0",
+    "registration_date": "2019-03-12T9:54:09+0000",
+    "registration_number": "96/021/19-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781488fbf",
+    "spc_modified_date": "2025-09-08T6:39:08+0000"
+  },
+  "schema_version": 1
+}

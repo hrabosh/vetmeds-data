@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9934336",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934336",
+      "package_invalid_date": null,
+      "package_size": "1 x 10 ml_EU/2/06/070/001",
+      "preparation_id": "0910f7c7800f3aec"
+    },
+    {
+      "display_package_code": "9934337",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934337",
+      "package_invalid_date": null,
+      "package_size": "1 x 32 ml_EU/2/06/070/002",
+      "preparation_id": "0910f7c7800f3aec"
+    },
+    {
+      "display_package_code": "9934338",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934338",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 ml_EU/2/06/070/003",
+      "preparation_id": "0910f7c7800f3aec"
+    }
+  ],
+  "preparation": {
+    "holder_id": "20",
+    "holder_name": "Ceva Santé Animale",
+    "name": "Meloxidyl",
+    "preparation_id": "0910f7c7800f3aec",
+    "registration_date": "2007-01-15T6:27:41+0000",
+    "registration_number": "EU/2/06/070",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7800f3ae9",
+    "spc_modified_date": "2025-09-26T11:14:41+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906840",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906840",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7813c0122"
+    },
+    {
+      "display_package_code": "9906841",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906841",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7813c0122"
+    },
+    {
+      "display_package_code": "9906842",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906842",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7813c0122"
+    },
+    {
+      "display_package_code": "9906843",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906843",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7813c0122"
+    }
+  ],
+  "preparation": {
+    "holder_id": "46",
+    "holder_name": "Krka d.d. Novo mesto",
+    "name": "Selehold pro kočky a psy do 2,5kg",
+    "preparation_id": "0910f7c7813c0122",
+    "registration_date": "2018-12-18T6:9:20+0000",
+    "registration_number": "96/068/18-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c7813c0121",
+    "spc_modified_date": "2023-12-19T7:56:04+0000"
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9934661",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934661",
+      "package_invalid_date": null,
+      "package_size": "30 x 4 aplikátory + 120 čistících ubrousků",
+      "preparation_id": "0910f7c780091a06"
+    },
+    {
+      "display_package_code": "9934662",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934662",
+      "package_invalid_date": null,
+      "package_size": "6 x 4 aplikátory + 24 čistících ubrousků",
+      "preparation_id": "0910f7c780091a06"
+    },
+    {
+      "display_package_code": "9934801",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934801",
+      "package_invalid_date": null,
+      "package_size": "1 x 4 aplikátory + 4 čistící ubrousky",
+      "preparation_id": "0910f7c780091a06"
+    },
+    {
+      "display_package_code": "9934802",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934802",
+      "package_invalid_date": null,
+      "package_size": "5 x 4 aplikátory + 20 čistících ubrousků",
+      "preparation_id": "0910f7c780091a06"
+    },
+    {
+      "display_package_code": "9934803",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934803",
+      "package_invalid_date": null,
+      "package_size": "15 x 4 aplikátory + 60 čistících ubrousků",
+      "preparation_id": "0910f7c780091a06"
+    },
+    {
+      "display_package_code": "9939497",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939497",
+      "package_invalid_date": "2009-11-14T11:22:19+0000",
+      "package_size": "1 x 4 aplikátory + 4 čistící ubrousky (Cobactan)",
+      "preparation_id": "0910f7c780091a06"
+    },
+    {
+      "display_package_code": "9939498",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939498",
+      "package_invalid_date": "2009-11-14T11:24:23+0000",
+      "package_size": "5 x 4 aplikátory + 20 čistících ubrousků (Cobactan)",
+      "preparation_id": "0910f7c780091a06"
+    },
+    {
+      "display_package_code": "9939499",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9939499",
+      "package_invalid_date": "2009-11-14T11:23:32+0000",
+      "package_size": "15 x 4 aplikátory + 60 čistících ubrousků (Cobactan)",
+      "preparation_id": "0910f7c780091a06"
+    }
+  ],
+  "preparation": {
+    "holder_id": "112",
+    "holder_name": "VIRBAC",
+    "name": "Virbactan",
+    "preparation_id": "0910f7c780091a06",
+    "registration_date": "2005-01-17T8:1:19+0000",
+    "registration_number": "96/002/05-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c780091a03",
+    "spc_modified_date": "2024-03-26T12:4:04+0000"
+  },
+  "schema_version": 1
+}

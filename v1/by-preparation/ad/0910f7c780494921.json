@@ -1,0 +1,124 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9906053",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906053",
+      "package_invalid_date": "2019-10-31T11:52:27+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780494921"
+    },
+    {
+      "display_package_code": "9906054",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906054",
+      "package_invalid_date": "2019-10-31T12:10:44+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780494921"
+    },
+    {
+      "display_package_code": "9906055",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906055",
+      "package_invalid_date": "2019-10-31T11:53:17+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780494921"
+    },
+    {
+      "display_package_code": "9906056",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906056",
+      "package_invalid_date": "2019-10-31T11:54:04+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780494921"
+    },
+    {
+      "display_package_code": "9906057",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906057",
+      "package_invalid_date": "2019-10-31T11:55:02+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780494921"
+    },
+    {
+      "display_package_code": "9906058",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906058",
+      "package_invalid_date": "2019-10-31T11:55:50+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780494921"
+    },
+    {
+      "display_package_code": "9906059",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906059",
+      "package_invalid_date": "2019-10-31T11:56:37+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780494921"
+    },
+    {
+      "display_package_code": "9906060",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906060",
+      "package_invalid_date": "2019-10-31T11:57:20+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780494921"
+    },
+    {
+      "display_package_code": "9906061",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9906061",
+      "package_invalid_date": "2019-10-31T11:58:09+0000",
+      "package_size": "",
+      "preparation_id": "0910f7c780494921"
+    },
+    {
+      "display_package_code": "9907878",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907878",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780494921"
+    },
+    {
+      "display_package_code": "9907879",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907879",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780494921"
+    },
+    {
+      "display_package_code": "9907880",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9907880",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c780494921"
+    }
+  ],
+  "preparation": {
+    "holder_id": "100",
+    "holder_name": "Zoetis Belgium",
+    "name": "Zulvac BTV 1",
+    "preparation_id": "0910f7c780494921",
+    "registration_date": "2017-04-25T6:4:54+0000",
+    "registration_number": "EU/2/17/207",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c780494920",
+    "spc_modified_date": "2025-01-29T11:55:12+0000"
+  },
+  "schema_version": 1
+}

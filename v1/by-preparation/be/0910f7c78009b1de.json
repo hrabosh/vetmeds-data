@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9936745",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936745",
+      "package_invalid_date": null,
+      "package_size": "20 ml",
+      "preparation_id": "0910f7c78009b1de"
+    },
+    {
+      "display_package_code": "9936816",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936816",
+      "package_invalid_date": null,
+      "package_size": "50 ml",
+      "preparation_id": "0910f7c78009b1de"
+    },
+    {
+      "display_package_code": "9936956",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9936956",
+      "package_invalid_date": null,
+      "package_size": "100 ml",
+      "preparation_id": "0910f7c78009b1de"
+    }
+  ],
+  "preparation": {
+    "holder_id": "14",
+    "holder_name": "Bioveta, a.s.",
+    "name": "RHINISIN DNT",
+    "preparation_id": "0910f7c78009b1de",
+    "registration_date": "2002-02-14T11:17:44+0000",
+    "registration_number": "97/017/02-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78009b1db",
+    "spc_modified_date": "2025-09-11T12:5:51+0000"
+  },
+  "schema_version": 1
+}

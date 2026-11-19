@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9900705",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9900705",
+      "package_invalid_date": null,
+      "package_size": "10 x 100 g",
+      "preparation_id": "0910f7c780121208"
+    },
+    {
+      "display_package_code": "9934972",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934972",
+      "package_invalid_date": null,
+      "package_size": "1 x 100 g",
+      "preparation_id": "0910f7c780121208"
+    },
+    {
+      "display_package_code": "9934973",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934973",
+      "package_invalid_date": null,
+      "package_size": "1 x 250 g",
+      "preparation_id": "0910f7c780121208"
+    },
+    {
+      "display_package_code": "9934974",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934974",
+      "package_invalid_date": null,
+      "package_size": "1 x 500 g",
+      "preparation_id": "0910f7c780121208"
+    },
+    {
+      "display_package_code": "9934975",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9934975",
+      "package_invalid_date": null,
+      "package_size": "1 x 1000 g",
+      "preparation_id": "0910f7c780121208"
+    }
+  ],
+  "preparation": {
+    "holder_id": "33",
+    "holder_name": "Eurovet Animal Health, B.V.",
+    "name": "Soludox",
+    "preparation_id": "0910f7c780121208",
+    "registration_date": "2011-04-27T9:28:38+0000",
+    "registration_number": "96/037/11-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c7801211e3",
+    "spc_modified_date": "2026-01-14T10:28:54+0000"
+  },
+  "schema_version": 1
+}

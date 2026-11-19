@@ -1,0 +1,88 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9902209",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902209",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008e232"
+    },
+    {
+      "display_package_code": "9902210",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902210",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008e232"
+    },
+    {
+      "display_package_code": "9902211",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902211",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008e232"
+    },
+    {
+      "display_package_code": "9902212",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9902212",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c78008e232"
+    },
+    {
+      "display_package_code": "9935471",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935471",
+      "package_invalid_date": "2013-05-03T6:30:13+0000",
+      "package_size": "24 aplikátorů",
+      "preparation_id": "0910f7c78008e232"
+    },
+    {
+      "display_package_code": "9935472",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935472",
+      "package_invalid_date": "2013-05-03T6:30:42+0000",
+      "package_size": "72 aplikátorů",
+      "preparation_id": "0910f7c78008e232"
+    },
+    {
+      "display_package_code": "9966717",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9966717",
+      "package_invalid_date": "2013-05-03T6:29:58+0000",
+      "package_size": "12 aplikátorů",
+      "preparation_id": "0910f7c78008e232"
+    },
+    {
+      "display_package_code": "9994997",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9994997",
+      "package_invalid_date": "2013-05-03T6:30:29+0000",
+      "package_size": "30 aplikátorů",
+      "preparation_id": "0910f7c78008e232"
+    }
+  ],
+  "preparation": {
+    "holder_id": "226",
+    "holder_name": "Zoetis Česká republika s.r.o.",
+    "name": "Ampiclox lactating cow",
+    "preparation_id": "0910f7c78008e232",
+    "registration_date": "1991-07-25T11:1:18+0000",
+    "registration_number": "96/255/91-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c78008e21f",
+    "spc_modified_date": "2024-07-26T6:14:36+0000"
+  },
+  "schema_version": 1
+}

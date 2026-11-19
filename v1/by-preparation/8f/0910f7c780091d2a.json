@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9935783",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935783",
+      "package_invalid_date": null,
+      "package_size": "1 x 1 l",
+      "preparation_id": "0910f7c780091d2a"
+    },
+    {
+      "display_package_code": "9935873",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935873",
+      "package_invalid_date": null,
+      "package_size": "1 x 5 l",
+      "preparation_id": "0910f7c780091d2a"
+    },
+    {
+      "display_package_code": "9935991",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9935991",
+      "package_invalid_date": null,
+      "package_size": "1 x 15 l",
+      "preparation_id": "0910f7c780091d2a"
+    }
+  ],
+  "preparation": {
+    "holder_id": "38",
+    "holder_name": "Chemifarma S.p.A.",
+    "name": "COLISTINA SOLFATO",
+    "preparation_id": "0910f7c780091d2a",
+    "registration_date": "2004-04-29T9:31:03+0000",
+    "registration_number": "96/086/04-C",
+    "spc_extension": "doc",
+    "spc_id": "0910f7c780091d26",
+    "spc_modified_date": "2022-10-26T6:51:48+0000"
+  },
+  "schema_version": 1
+}

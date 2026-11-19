@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "display_package_code": "9908955",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908955",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815d05cb"
+    },
+    {
+      "display_package_code": "9908956",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908956",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815d05cb"
+    },
+    {
+      "display_package_code": "9908957",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908957",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815d05cb"
+    },
+    {
+      "display_package_code": "9908958",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9908958",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7815d05cb"
+    }
+  ],
+  "preparation": {
+    "holder_id": "78",
+    "holder_name": "V.M.D. n.v.",
+    "name": "Tulinovet",
+    "preparation_id": "0910f7c7815d05cb",
+    "registration_date": "2020-09-16T6:8:09+0000",
+    "registration_number": "EU/2/20/257",
+    "spc_extension": "pdf",
+    "spc_id": "0910f7c7815d05ca",
+    "spc_modified_date": "2024-01-09T11:51:12+0000"
+  },
+  "schema_version": 1
+}
