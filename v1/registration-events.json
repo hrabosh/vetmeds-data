@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "source": {
+    "issue": "2/2026",
+    "url": "https://www.uskvbl.cz/attachments/article/35/v%C4%9Bstn%C3%ADk_2.Q_2026.pdf",
+    "sha256": "b6bc79e6ca5dc818ff49640d5b27a4e8ea7598650803e899b4aef9aaa77c111e"
+  },
+  "events": [
+    {
+      "type": "registration_cancelled",
+      "name": "Carprieve 20 mg ochucené tablety pro psy",
+      "registration_number": "96/052/11-C",
+      "occurred_in": "2026-04",
+      "source_page": 54
+    },
+    {
+      "type": "registration_cancelled",
+      "name": "Carprieve 50 mg ochucené tablety pro psy",
+      "registration_number": "96/053/11-C",
+      "occurred_in": "2026-04",
+      "source_page": 54
+    },
+    {
+      "type": "registration_cancelled",
+      "name": "Carprieve 100 mg ochucené tablety pro psy",
+      "registration_number": "96/054/11-C",
+      "occurred_in": "2026-04",
+      "source_page": 54
+    },
+    {
+      "type": "registration_cancelled",
+      "name": "DIAZ Flea and Tick 3,465 g obojek pro kočky",
+      "registration_number": "99/043/09-C",
+      "occurred_in": "2026-06",
+      "source_page": 54
+    },
+    {
+      "type": "registration_cancelled",
+      "name": "DIAZ Flea and Tick 6,435 g obojek pro psy",
+      "registration_number": "99/044/09-C",
+      "occurred_in": "2026-06",
+      "source_page": 54
+    },
+    {
+      "type": "registration_cancelled",
+      "name": "Eurican DAPPi-Lmulti lyofilizát a suspenze pro injekční suspenzi",
+      "registration_number": "97/072/15-C",
+      "occurred_in": "2026-06",
+      "source_page": 54
+    },
+    {
+      "type": "registration_cancelled",
+      "name": "Oxuvar 5,7 %, 41,0 mg/ml koncentrát pro roztok k léčebnému ošetření včel medonosných",
+      "registration_number": "96/014/17/C",
+      "occurred_in": "2026-06",
+      "source_page": 54
+    },
+    {
+      "type": "registration_cancelled",
+      "name": "Varroxal 0,71 g/g prášek do úlu",
+      "registration_number": "96/061/23-C",
+      "occurred_in": "2026-06",
+      "source_page": 54
+    }
+  ]
+}
