@@ -1,13 +1,19 @@
-# VetMeds Data
+# VetMeds Data · Český registr veterinárních léčiv
 
-Veřejný export českého registru veterinárních léčiv v JSON. Obsahuje přípravky, jejich balení a změny zachycené porovnáním ověřených exportů. Přehled pro prohlížeč nabízí [dashboard VetMeds](https://hrabosh.github.io/vetmeds/).
+Aktuální přípravky, balení a historie změn českého registru veterinárních léčiv ÚSKVBL ve formátu JSON.
 
-| Soubor | Obsah |
-| --- | --- |
-| [`v1/metadata.json`](v1/metadata.json) | Zdroj, ID snímku, čas pozorování, začátek historie a počty. |
-| [`v1/preparations.json`](v1/preparations.json) | Přípravky v aktuálním exportu včetně registračního čísla, držitele a metadat SPC. |
-| [`v1/packages.json`](v1/packages.json) | Balení v aktuálním exportu včetně vazby na přípravek, způsobu výdeje a data zneplatnění kódu, pokud je ve zdroji. |
-| [`v1/changes.json`](v1/changes.json) | Věcné změny od prvního snímku včetně hodnot před a po změně. Nejnovější události jsou první. |
+Czech veterinary medicines registry dataset. It contains current products, package records and observed changes.
+
+[Dashboard VetMeds](https://hrabosh.github.io/vetmeds/) · [Katalog přípravků a balení](https://hrabosh.github.io/vetmeds/registr.html)
+
+## Datové soubory
+
+| Soubor | Obsah | Stažení |
+| --- | --- | --- |
+| [`v1/metadata.json`](v1/metadata.json) | Zdroj, ID snímku, čas pozorování, začátek historie a počty. | [JSON](https://raw.githubusercontent.com/hrabosh/vetmeds-data/main/v1/metadata.json) |
+| [`v1/preparations.json`](v1/preparations.json) | Aktuální přípravky včetně registračního čísla, držitele a metadat SPC. | [JSON](https://raw.githubusercontent.com/hrabosh/vetmeds-data/main/v1/preparations.json) |
+| [`v1/packages.json`](v1/packages.json) | Balení, vazba na přípravek, způsob výdeje a případné datum zneplatnění kódu. | [JSON](https://raw.githubusercontent.com/hrabosh/vetmeds-data/main/v1/packages.json) |
+| [`v1/changes.json`](v1/changes.json) | Změny od prvního snímku včetně hodnot před a po změně. Nejnovější události jsou první. | [JSON](https://raw.githubusercontent.com/hrabosh/vetmeds-data/main/v1/changes.json) |
 
 Všechny čtyři soubory mají `schema_version` a `snapshot_id`. Při stahování více souborů ověř shodné ID nebo použij adresy ze stejného commitu na GitHubu. Pro jednotlivé přípravky používej `preparation_id`. Balení na něj odkazují a mají vlastní `package_code`. Kódy a identifikátory jsou řetězce a mohou začínat nulou. Hodnota `null` znamená, že zdroj údaj neuvádí.
 
