@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QD07CB04",
+        "name": "Dexamethasone and antibiotics"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "295",
+        "name": "Chloramphenicolum"
+      },
+      {
+        "id": "29727",
+        "name": "Benzylis benzoas"
+      },
+      {
+        "id": "458",
+        "name": "Dexamethasonum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9935072",

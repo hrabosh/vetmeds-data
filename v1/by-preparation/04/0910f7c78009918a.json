@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI08AH01",
+        "name": "Live Myxomatosis virus vaccine + inactivated Rabbit haemorrhagic disease virus vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "237",
+        "name": "králíci"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2007",
+        "name": "Myxoma virus, strain CAMP V-219, Live"
+      },
+      {
+        "id": "29664",
+        "name": "Rabbit haemorrhagic disease virus, strain CAMP-V351, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9900558",

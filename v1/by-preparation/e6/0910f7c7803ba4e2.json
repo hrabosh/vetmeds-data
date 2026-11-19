@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QH03AA01",
+        "name": "Levothyroxine sodium"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "823",
+        "name": "Levothyroxinum natricum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9906179",

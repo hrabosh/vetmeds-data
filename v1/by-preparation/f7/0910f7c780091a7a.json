@@ -1,4 +1,40 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI04AB01",
+        "name": "Clostridium vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "4",
+        "name": "ovce"
+      },
+      {
+        "id": "5",
+        "name": "kozy"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1078",
+        "name": "Clostridium perfringens, type D, epsilon toxoid"
+      },
+      {
+        "id": "1209",
+        "name": "Clostridium perfringens, type A, alpha toxoid"
+      },
+      {
+        "id": "29816",
+        "name": "Clostridium perfringens, type C, beta toxoid"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9939602",

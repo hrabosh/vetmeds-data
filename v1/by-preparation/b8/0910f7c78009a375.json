@@ -1,4 +1,44 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP52AC59",
+        "name": "Mebendazole, combinations"
+      }
+    ],
+    "species": [
+      {
+        "id": "33",
+        "name": "jelení zvěř"
+      },
+      {
+        "id": "34",
+        "name": "dančí zvěř"
+      },
+      {
+        "id": "35",
+        "name": "mufloní zvěř"
+      },
+      {
+        "id": "36",
+        "name": "srnčí zvěř"
+      },
+      {
+        "id": "37",
+        "name": "kamzičí zvěř"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1922",
+        "name": "Mebendazolum"
+      },
+      {
+        "id": "5479",
+        "name": "Rafoxanidum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9991147",

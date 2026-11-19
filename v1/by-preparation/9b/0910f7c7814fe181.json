@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QA04AD90",
+        "name": "Maropitant"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1081",
+        "name": "Maropitantum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9907244",

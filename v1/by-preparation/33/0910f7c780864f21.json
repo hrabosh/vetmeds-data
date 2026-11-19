@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QN05AA04",
+        "name": "Acepromazine"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "167",
+        "name": "koně"
+      }
+    ],
+    "substances": [
+      {
+        "id": "6084",
+        "name": "Acepromazinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9906311",

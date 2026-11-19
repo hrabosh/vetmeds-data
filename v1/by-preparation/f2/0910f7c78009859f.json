@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP52AC13",
+        "name": "Fenbendazole"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "5472",
+        "name": "Fenbendazolum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9936072",

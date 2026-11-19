@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01AA03",
+        "name": "Chlortetracycline"
+      }
+    ],
+    "species": [
+      {
+        "id": "127",
+        "name": "brojleři kura domácího"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "332",
+        "name": "Chlortetracyclinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9909837",

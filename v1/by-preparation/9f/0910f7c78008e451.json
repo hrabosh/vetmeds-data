@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ51RC26",
+        "name": "Cloxacillin, combinations with other antibacterials"
+      }
+    ],
+    "species": [
+      {
+        "id": "70",
+        "name": "dojnice v období stání na sucho"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1850",
+        "name": "Ampicillinum"
+      },
+      {
+        "id": "1852",
+        "name": "Cloxacillinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9906908",

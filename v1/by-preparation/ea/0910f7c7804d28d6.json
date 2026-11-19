@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP53AC05",
+        "name": "Flumethrin"
+      }
+    ],
+    "species": [
+      {
+        "id": "373",
+        "name": "včely"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29518",
+        "name": "Flumethrinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9905925",

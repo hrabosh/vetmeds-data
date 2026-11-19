@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QH01CA93",
+        "name": "Deslorelin"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "26",
+        "name": "fretky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1347",
+        "name": "Deslorelinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9900136",

@@ -1,4 +1,60 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI04AB03",
+        "name": "Bacteroides vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "4",
+        "name": "ovce"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29412",
+        "name": "Dichelobacter nodosus, serogroup A, strain 6, Inactivated"
+      },
+      {
+        "id": "29413",
+        "name": "Dichelobacter nodosus, serotype B1, strain 44, Inactivated"
+      },
+      {
+        "id": "29414",
+        "name": "Dichelobacter nodosus, serotype B2, strain 58, Inactivated"
+      },
+      {
+        "id": "29415",
+        "name": "Dichelobacter nodosus, serogroup C, strain 8, Inactivated"
+      },
+      {
+        "id": "29416",
+        "name": "Dichelobacter nodosus, serogroup D, strain 16, Inactivated"
+      },
+      {
+        "id": "29417",
+        "name": "Dichelobacter nodosus, serogroup E, strain 5, Inactivated"
+      },
+      {
+        "id": "29418",
+        "name": "Dichelobacter nodosus, serogroup F, strain 66, Inactivated"
+      },
+      {
+        "id": "29419",
+        "name": "Dichelobacter nodosus, serogroup G, strain 52, Inactivated"
+      },
+      {
+        "id": "29420",
+        "name": "Dichelobacter nodosus, serogroup H, strain 340, Inactivated"
+      },
+      {
+        "id": "29421",
+        "name": "Dichelobacter nodosus, serogroup I, strain 109, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9938143",

@@ -1,4 +1,40 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI07AI08",
+        "name": "Live Canine parainfluenza virus vaccine + inactivated Leptospira vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1573",
+        "name": "Canine parainfluenza virus 2, strain CPiV-2-Bio 15, Live"
+      },
+      {
+        "id": "1574",
+        "name": "Leptospira interrogans, SG Icterohaemorrhagiae, SV Icterohaemorrhagiae, MSLB 1089, Inactivated"
+      },
+      {
+        "id": "1575",
+        "name": "Leptospira interrogans, SG Canicola, SV Canicola, MSLB 1090, Inactivated"
+      },
+      {
+        "id": "1576",
+        "name": "Leptospira kirschneri, SG Grippotyphosa, SV Grippotyphosa, MSLB 1091, Inactivated"
+      },
+      {
+        "id": "1577",
+        "name": "Leptospira interrogans, SG Australis, SV Bratislava, MSLB 1088, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9903553",

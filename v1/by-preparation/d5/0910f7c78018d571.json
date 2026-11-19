@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QG52X",
+        "name": "VARIOUS PRODUCTS FOR TEATS AND UDDER"
+      }
+    ],
+    "species": [
+      {
+        "id": "75",
+        "name": "dojnice"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29717",
+        "name": "Bismuthi subnitras"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9902836",

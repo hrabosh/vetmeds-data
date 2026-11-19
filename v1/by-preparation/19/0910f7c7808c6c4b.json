@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QN04BC04",
+        "name": "Ropinirole"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1742",
+        "name": "Ropinirolum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9906433",

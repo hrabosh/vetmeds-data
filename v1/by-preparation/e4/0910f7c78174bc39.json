@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QN04BC02",
+        "name": "Pergolide"
+      }
+    ],
+    "species": [
+      {
+        "id": "167",
+        "name": "koně"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1779",
+        "name": "Pergolidum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9909430",

@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI01AD11",
+        "name": "Newcastle disease virus _ paramyxovirus + avian infectious bronchitis virus"
+      }
+    ],
+    "species": [
+      {
+        "id": "157",
+        "name": "kur domácí od 1. dne stáří"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29188",
+        "name": "Avian infectious bronchitis virus, type Massachusetts, strain H120, Live"
+      },
+      {
+        "id": "29798",
+        "name": "Newcastle disease virus, strain Bio 52:NDV B1, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9938346",

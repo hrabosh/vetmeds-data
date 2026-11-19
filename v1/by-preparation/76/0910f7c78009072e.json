@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01DD90",
+        "name": "Ceftiofur"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "13094",
+        "name": "Ceftiofurum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9910858",

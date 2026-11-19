@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI05AL01",
+        "name": "Equine influenza virus + clostridium"
+      }
+    ],
+    "species": [
+      {
+        "id": "167",
+        "name": "koně"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1096",
+        "name": "Equine influenza virus H3N8, A/equine-2/South Africa/4/03, Inactivated"
+      },
+      {
+        "id": "1098",
+        "name": "Equine influenza virus H3N8, A/equine-2/Newmarket/2/93, Inactivated"
+      },
+      {
+        "id": "29310",
+        "name": "Clostridium tetani, toxoid"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9934252",

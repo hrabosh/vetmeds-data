@@ -1,4 +1,36 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP52AC13",
+        "name": "Fenbendazole"
+      }
+    ],
+    "species": [
+      {
+        "id": "167",
+        "name": "koně"
+      },
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "38",
+        "name": "divoká prasata"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "5472",
+        "name": "Fenbendazolum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9906634",

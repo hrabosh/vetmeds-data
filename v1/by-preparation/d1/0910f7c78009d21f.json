@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI02AP01",
+        "name": "Trichophyton vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "361",
+        "name": "skot od stáří jednoho dne"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29826",
+        "name": "Trichophyton verrucosum, strain TV-M-310, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9902114",

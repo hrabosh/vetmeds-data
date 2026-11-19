@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ51RV01",
+        "name": "Antibacterials and corticosteroids"
+      }
+    ],
+    "species": [
+      {
+        "id": "268",
+        "name": "krávy v laktaci"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1177",
+        "name": "Prednisolonum"
+      },
+      {
+        "id": "1861",
+        "name": "Cefapirinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9936604",

@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QD07CC01",
+        "name": "Betamethasone and antibiotics"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "154",
+        "name": "Betamethasonum"
+      },
+      {
+        "id": "1554",
+        "name": "Acidum fusidicum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9903871",

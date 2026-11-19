@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01FA96",
+        "name": "Tildipirosin"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1362",
+        "name": "Tildipirosinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9900567",

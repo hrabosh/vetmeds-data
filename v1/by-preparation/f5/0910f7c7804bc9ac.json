@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI01AD03",
+        "name": "Avian herpes virus vaccine (Mareks disease)"
+      }
+    ],
+    "species": [
+      {
+        "id": "264",
+        "name": "kur domácí - jednodenní kuřata a kuřecí embrya v 18. dnu věku"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29244",
+        "name": "Turkey herpesvirus, strain FC126, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9905740",

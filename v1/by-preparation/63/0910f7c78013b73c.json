@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01MA93",
+        "name": "Marbofloxacin"
+      }
+    ],
+    "species": [
+      {
+        "id": "128",
+        "name": "odstávčata (odstavená selata)"
+      },
+      {
+        "id": "89",
+        "name": "prasnice"
+      },
+      {
+        "id": "99",
+        "name": "prasata ve výkrmu"
+      }
+    ],
+    "substances": [
+      {
+        "id": "15530",
+        "name": "Marbofloxacinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9902009",

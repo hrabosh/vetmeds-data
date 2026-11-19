@@ -1,4 +1,36 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01MA90",
+        "name": "Enrofloxacin"
+      }
+    ],
+    "species": [
+      {
+        "id": "10",
+        "name": "plazi"
+      },
+      {
+        "id": "301",
+        "name": "králíci v zájmovém chovu"
+      },
+      {
+        "id": "374",
+        "name": "hlodavci"
+      },
+      {
+        "id": "9",
+        "name": "okrasní ptáci"
+      }
+    ],
+    "substances": [
+      {
+        "id": "14352",
+        "name": "Enrofloxacinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9905617",

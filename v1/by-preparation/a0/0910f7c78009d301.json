@@ -1,4 +1,44 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01CA04",
+        "name": "Amoxicillin"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      },
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "4",
+        "name": "ovce"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      },
+      {
+        "id": "99",
+        "name": "prasata ve výkrmu"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2064",
+        "name": "Amoxicillinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9936547",

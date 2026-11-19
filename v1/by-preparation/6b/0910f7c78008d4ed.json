@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01MA90",
+        "name": "Enrofloxacin"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "14352",
+        "name": "Enrofloxacinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9908463",

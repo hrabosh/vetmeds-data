@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QN05CM96",
+        "name": "Tasipimidine"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1817",
+        "name": "Tasipimidinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9909459",

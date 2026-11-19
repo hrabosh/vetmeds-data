@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI01AD",
+        "name": "Live viral vaccines"
+      }
+    ],
+    "species": [
+      {
+        "id": "141",
+        "name": "jednodenní kuřata kura domácího"
+      },
+      {
+        "id": "293",
+        "name": "embryonovaná vejce"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1937",
+        "name": "Turkey herpesvirus, strain rHVT/ND/H9 (cell-associated), expressing fusion protein gene of Newcastle disease virus and hemagglutinin gene of Avian influenza virus subtype H9, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9911208",

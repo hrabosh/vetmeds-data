@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QH02AB02",
+        "name": "Dexamethasone"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "458",
+        "name": "Dexamethasonum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9906400",

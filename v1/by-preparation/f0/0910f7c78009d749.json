@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01XQ01",
+        "name": "Tiamulin"
+      }
+    ],
+    "species": [
+      {
+        "id": "127",
+        "name": "brojleři kura domácího"
+      },
+      {
+        "id": "164",
+        "name": "krůty"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "26742",
+        "name": "Tiamulini hydrogenofumaras"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9910698",

@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01DD99",
+        "name": "Ceftiofur, combinations"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      }
+    ],
+    "substances": [
+      {
+        "id": "13094",
+        "name": "Ceftiofurum"
+      },
+      {
+        "id": "2850",
+        "name": "Ketoprofenum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9904542",

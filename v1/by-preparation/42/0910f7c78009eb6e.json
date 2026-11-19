@@ -1,4 +1,36 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QN02BB02",
+        "name": "Metamizole sodium"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "167",
+        "name": "koně"
+      },
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "24975",
+        "name": "Metamizolum natricum monohydricum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9935385",

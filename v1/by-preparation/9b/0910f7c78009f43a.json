@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP52AA51",
+        "name": "Praziquantel, combinations"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "10229",
+        "name": "Praziquantelum"
+      },
+      {
+        "id": "5472",
+        "name": "Fenbendazolum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9910534",

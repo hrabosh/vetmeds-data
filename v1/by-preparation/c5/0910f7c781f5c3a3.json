@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI01AD",
+        "name": "Live viral vaccines"
+      }
+    ],
+    "species": [
+      {
+        "id": "141",
+        "name": "jednodenní kuřata kura domácího"
+      },
+      {
+        "id": "165",
+        "name": "krůťata"
+      },
+      {
+        "id": "293",
+        "name": "embryonovaná vejce"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2098",
+        "name": "Turkey herpesvirus, strain rHVT-IBD-H5 (cell-associated), expressing VP2 protein gene of Infectious bursal disease virus and haemagglutinin gene of Avian influenza virus subtype H5, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9700591",

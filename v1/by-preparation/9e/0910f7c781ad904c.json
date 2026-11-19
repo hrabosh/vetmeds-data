@@ -1,4 +1,40 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI02AH",
+        "name": "Live and inactivated viral vaccines"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1262",
+        "name": "Infectious Bovine rhinotracheitis virus, strain CEDDEL, gE- tk- double-gene deleted, Live"
+      },
+      {
+        "id": "1670",
+        "name": "Bovine parainfluenza virus 3, strain SF-4, Inactivated"
+      },
+      {
+        "id": "1799",
+        "name": "Bovine respiratory syncytial virus, strain LYM-56, Live"
+      },
+      {
+        "id": "2030",
+        "name": "Bovine viral diarrhoea virus 2, E2 protein, recombinant"
+      },
+      {
+        "id": "2031",
+        "name": "Bovine viral diarrhoea virus 1, E2 protein, recombinant"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9910989",

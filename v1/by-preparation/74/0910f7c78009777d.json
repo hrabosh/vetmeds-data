@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI01AD07",
+        "name": "Avian infectious bronchitis virus vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "157",
+        "name": "kur domácí od 1. dne stáří"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29597",
+        "name": "Avian infectious bronchitis virus, type Massachusetts, strain Ma5, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9905741",

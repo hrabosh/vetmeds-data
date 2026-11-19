@@ -1,4 +1,19 @@
 {
+  "classification": {
+    "atc": [],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2113",
+        "name": "Epizootic haemorrhagic disease virus, serotype 8, protein VP2"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9700768",

@@ -1,4 +1,44 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI09AB08",
+        "name": "Escherichia vaccine + Clostridium vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1078",
+        "name": "Clostridium perfringens, type D, epsilon toxoid"
+      },
+      {
+        "id": "1272",
+        "name": "Escherichia coli, fimbrial adhesin F4ab"
+      },
+      {
+        "id": "1273",
+        "name": "Escherichia coli, fimbrial adhesin F4ac"
+      },
+      {
+        "id": "1274",
+        "name": "Escherichia coli, fimbrial adhesin F5"
+      },
+      {
+        "id": "1275",
+        "name": "Escherichia coli, fimbrial adhesin F6"
+      },
+      {
+        "id": "29539",
+        "name": "Clostridium perfringens, type B and C, beta toxoid"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9902344",

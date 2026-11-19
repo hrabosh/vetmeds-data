@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI05AA11",
+        "name": "equine rhinopneumonitis virus + equine abortion virus"
+      }
+    ],
+    "species": [
+      {
+        "id": "167",
+        "name": "koně"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29304",
+        "name": "Equine herpesvirus 1, strain 438/77, Inactivated"
+      },
+      {
+        "id": "29305",
+        "name": "Equine herpesvirus 4, strain 405/76, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9900046",

@@ -1,4 +1,36 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01FA91",
+        "name": "Tilmicosin"
+      }
+    ],
+    "species": [
+      {
+        "id": "155",
+        "name": "kur domácí (kromě nosnic, jejichž vejce jsou určena pro lidský konzum)"
+      },
+      {
+        "id": "164",
+        "name": "krůty"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      },
+      {
+        "id": "78",
+        "name": "neruminující telata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "14630",
+        "name": "Tilmicosinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9900286",

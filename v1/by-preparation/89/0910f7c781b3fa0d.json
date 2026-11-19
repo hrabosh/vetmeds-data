@@ -1,4 +1,40 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI09AL09",
+        "name": "Porcine rotavirus + escherichia + clostridium"
+      }
+    ],
+    "species": [
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29777",
+        "name": "Porcine rotavirus, serogroup A, strain OSU 6, Inactivated"
+      },
+      {
+        "id": "29780",
+        "name": "Escherichia coli, serotype O149:K88, fimbrial adhesin F4ac, Inactivated"
+      },
+      {
+        "id": "29781",
+        "name": "Escherichia coli, serotype K85:987P, fimbrial adhesin F6, Inactivated"
+      },
+      {
+        "id": "29783",
+        "name": "Escherichia coli, serotype O101:K99, fimbrial adhesins F5 and F41, Inactivated"
+      },
+      {
+        "id": "29816",
+        "name": "Clostridium perfringens, type C, beta toxoid"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9910804",

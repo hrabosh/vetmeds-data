@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI09AB06",
+        "name": "Actinobacillus_Haemophilus vaccine + Pasteurella vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1897",
+        "name": "Actinobacillus pleuropneumoniae, serotype 2, strain Act 9, Inactivated"
+      },
+      {
+        "id": "1968",
+        "name": "Actinobacillus pleuropneumoniae, serotype 9, strain Act 4, Inactivated"
+      },
+      {
+        "id": "29207",
+        "name": "Pasteurella multocida, serotype D, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9937361",

@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QG03DX90",
+        "name": "Altrenogest"
+      }
+    ],
+    "species": [
+      {
+        "id": "91",
+        "name": "prasničky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "12006",
+        "name": "Altrenogestum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9937877",

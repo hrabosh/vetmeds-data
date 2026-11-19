@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP52AC11",
+        "name": "Albendazole"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "4",
+        "name": "ovce"
+      }
+    ],
+    "substances": [
+      {
+        "id": "4686",
+        "name": "Albendazolum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9906205",

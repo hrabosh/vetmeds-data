@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP51AJ01",
+        "name": "Toltrazuril"
+      }
+    ],
+    "species": [
+      {
+        "id": "156",
+        "name": "jehňata"
+      },
+      {
+        "id": "60",
+        "name": "telata"
+      },
+      {
+        "id": "88",
+        "name": "selata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "12884",
+        "name": "Toltrazurilum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9906305",

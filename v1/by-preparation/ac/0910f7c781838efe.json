@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI01EA",
+        "name": "Inactivated viral vaccines"
+      }
+    ],
+    "species": [
+      {
+        "id": "178",
+        "name": "holubi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1801",
+        "name": "Pigeon rotavirus, strain Ro/D, Inactivated"
+      },
+      {
+        "id": "29369",
+        "name": "Pigeon paramyxovirus 1, strain 988M, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9909509",

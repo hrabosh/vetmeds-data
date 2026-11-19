@@ -1,4 +1,44 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QG02AD90",
+        "name": "Cloprostenol"
+      }
+    ],
+    "species": [
+      {
+        "id": "191",
+        "name": "klisny"
+      },
+      {
+        "id": "5",
+        "name": "kozy"
+      },
+      {
+        "id": "62",
+        "name": "krávy"
+      },
+      {
+        "id": "79",
+        "name": "jalovice"
+      },
+      {
+        "id": "89",
+        "name": "prasnice"
+      },
+      {
+        "id": "91",
+        "name": "prasničky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "3668",
+        "name": "Cloprostenolum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9909845",

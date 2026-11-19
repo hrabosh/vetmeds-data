@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI02AT01",
+        "name": "Escherichia"
+      }
+    ],
+    "species": [
+      {
+        "id": "110",
+        "name": "novorozená telata mladší 12 hodin"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1202",
+        "name": "Immunoglobulins against Escherichia coli F5 antigen, Bovine"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9700785",

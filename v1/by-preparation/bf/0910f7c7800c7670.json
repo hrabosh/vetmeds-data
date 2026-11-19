@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP53AC10",
+        "name": "Fluvalinate"
+      }
+    ],
+    "species": [
+      {
+        "id": "15",
+        "name": "včelstva včely medonosné(Apis mellifica)"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1386",
+        "name": "Fluvalinatum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9938959",

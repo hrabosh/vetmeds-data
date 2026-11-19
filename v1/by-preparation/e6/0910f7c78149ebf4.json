@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QA07AA06",
+        "name": "Paromomycin"
+      }
+    ],
+    "species": [
+      {
+        "id": "117",
+        "name": "kůzlata"
+      },
+      {
+        "id": "156",
+        "name": "jehňata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1591",
+        "name": "Paromomycini sulfas"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9908815",

@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI07AB01",
+        "name": "Leptospira vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1422",
+        "name": "Leptospira kirschneri, SG Grippotyphosa, SV Grippotyphosa, MSLB 1009, Inactivated"
+      },
+      {
+        "id": "29483",
+        "name": "Leptospira interrogans, SG Icterohaemorrhagiae, SV Icterohaemorrhagiae, MSLB 1008, Inactivated"
+      },
+      {
+        "id": "29484",
+        "name": "Leptospira interrogans, SG Canicola, SV Canicola, MSLB 1010, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9935094",

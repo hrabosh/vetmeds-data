@@ -1,4 +1,40 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QL03AX",
+        "name": "Other immunostimulants"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "167",
+        "name": "koně"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      },
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29865",
+        "name": "Orf virus, strain D1701, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9902579",

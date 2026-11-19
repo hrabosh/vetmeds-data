@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP52AC01",
+        "name": "Triclabendazole"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      }
+    ],
+    "substances": [
+      {
+        "id": "11887",
+        "name": "Triclabendazolum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9936337",

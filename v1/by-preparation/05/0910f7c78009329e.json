@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP52AC12",
+        "name": "Flubendazole"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "10242",
+        "name": "Flubendazolum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9901558",

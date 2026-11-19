@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI05AA01",
+        "name": "Equine influenza virus vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "167",
+        "name": "koně"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1497",
+        "name": "Equine influenza virus H3N8, A/Equi 2/Morava/95, Inactivated"
+      },
+      {
+        "id": "29306",
+        "name": "Equine influenza virus H7N7, A/equine/Prague/1/1956, Inactivated"
+      },
+      {
+        "id": "29410",
+        "name": "Equine influenza virus H3N8, A/equine-2/Brno/97, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9935070",

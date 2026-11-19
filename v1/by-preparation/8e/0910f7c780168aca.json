@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QM01AC06",
+        "name": "Meloxicam"
+      }
+    ],
+    "species": [
+      {
+        "id": "167",
+        "name": "koně"
+      }
+    ],
+    "substances": [
+      {
+        "id": "12949",
+        "name": "Meloxicamum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9900926",

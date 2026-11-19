@@ -1,4 +1,40 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI01AB02",
+        "name": "Pasteurella vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "145",
+        "name": "kur domácí"
+      },
+      {
+        "id": "164",
+        "name": "krůty"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29711",
+        "name": "Pasteurella multocida, serotype A3x4, strain CU, Inactivated"
+      },
+      {
+        "id": "29712",
+        "name": "Pasteurella multocida, serotype A1, strain X-73, Inactivated"
+      },
+      {
+        "id": "29713",
+        "name": "Pasteurella multocida, serotype A3, strain P-1059, Inactivated"
+      },
+      {
+        "id": "29715",
+        "name": "Pasteurella multocida, serotype A4, strain P-1662, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9700304",

@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01AA06",
+        "name": "Oxytetracycline"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "4",
+        "name": "ovce"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1858",
+        "name": "Oxytetracyclinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9906900",

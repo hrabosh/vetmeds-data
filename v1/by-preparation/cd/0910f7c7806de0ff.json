@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QH01CA92",
+        "name": "Lecirelin"
+      }
+    ],
+    "species": [
+      {
+        "id": "240",
+        "name": "ramlice"
+      },
+      {
+        "id": "62",
+        "name": "krávy"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1961",
+        "name": "Lecirelini acetas"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9905826",

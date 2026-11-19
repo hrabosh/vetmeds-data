@@ -1,4 +1,36 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QN01AX03",
+        "name": "Ketamine"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "167",
+        "name": "koně"
+      },
+      {
+        "id": "183",
+        "name": "osli"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "4552",
+        "name": "Ketaminum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9901330",

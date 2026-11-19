@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QG52X",
+        "name": "VARIOUS PRODUCTS FOR TEATS AND UDDER"
+      }
+    ],
+    "species": [
+      {
+        "id": "70",
+        "name": "dojnice v období stání na sucho"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29717",
+        "name": "Bismuthi subnitras"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9909660",

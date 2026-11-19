@@ -1,4 +1,48 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI07AJ06",
+        "name": "Live Canine distemper virus vaccine + live Canine adenovirus vaccine + live parainfl.virus vaccine + live Canine parvovirus vaccine + inactivated rabies vaccine + inactivated Leptospira vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1421",
+        "name": "Leptospira interrogans, SG Canicola, SV Canicola, 601903, Inactivated"
+      },
+      {
+        "id": "2024",
+        "name": "Rabies virus, strain VP12, Inactivated"
+      },
+      {
+        "id": "29268",
+        "name": "Canine distemper virus, Live"
+      },
+      {
+        "id": "29271",
+        "name": "Canine parvovirus, Live"
+      },
+      {
+        "id": "29284",
+        "name": "Canine parainfluenza virus, Live"
+      },
+      {
+        "id": "29287",
+        "name": "Canine adenovirus 2, Live"
+      },
+      {
+        "id": "29295",
+        "name": "Leptospira interrogans, SG Icterohaemorrhagiae, SV Icterohaemorrhagiae, 601895, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9936004",

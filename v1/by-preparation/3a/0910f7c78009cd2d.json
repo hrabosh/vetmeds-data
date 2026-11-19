@@ -1,4 +1,44 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QS02CA04",
+        "name": "Triamcinolone and antiinfectives"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "12294",
+        "name": "Rifaximinum"
+      },
+      {
+        "id": "2016",
+        "name": "Miconazolum"
+      },
+      {
+        "id": "24756",
+        "name": "Colistini sulfas"
+      },
+      {
+        "id": "25136",
+        "name": "Triamcinoloni acetonidum"
+      },
+      {
+        "id": "8720",
+        "name": "Carbarilum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9938746",

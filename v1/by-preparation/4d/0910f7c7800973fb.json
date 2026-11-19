@@ -1,4 +1,48 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QD03BA",
+        "name": "Proteolytic enzymes"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "4",
+        "name": "ovce"
+      },
+      {
+        "id": "5",
+        "name": "kozy"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29556",
+        "name": "Trypsinum"
+      },
+      {
+        "id": "29557",
+        "name": "Papainum"
+      },
+      {
+        "id": "351",
+        "name": "Chymotrypsinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9939827",

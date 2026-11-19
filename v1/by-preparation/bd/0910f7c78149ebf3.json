@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01AA02",
+        "name": "Doxycycline"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1628",
+        "name": "Doxycyclinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9907801",

@@ -1,4 +1,52 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI07AA02",
+        "name": "Rabies virus vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "167",
+        "name": "koně"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      },
+      {
+        "id": "26",
+        "name": "fretky"
+      },
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "32",
+        "name": "lišky"
+      },
+      {
+        "id": "4",
+        "name": "ovce"
+      },
+      {
+        "id": "5",
+        "name": "kozy"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29636",
+        "name": "Rabies virus, strain Pasteur RIV, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9904077",

@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI07BD",
+        "name": "Live viral vaccines"
+      }
+    ],
+    "species": [
+      {
+        "id": "24",
+        "name": "psíci mývalovití"
+      },
+      {
+        "id": "32",
+        "name": "lišky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29555",
+        "name": "Rabies virus, strain SAD Bern, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9900744",

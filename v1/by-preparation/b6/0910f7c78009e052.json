@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01CR02",
+        "name": "Amoxicillin and beta-lactamase inhibitor"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2064",
+        "name": "Amoxicillinum"
+      },
+      {
+        "id": "4593",
+        "name": "Acidum clavulanicum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9902530",

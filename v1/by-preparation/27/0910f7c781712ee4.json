@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI09AL08",
+        "name": "Porcine circovirus + Mycoplasma"
+      }
+    ],
+    "species": [
+      {
+        "id": "99",
+        "name": "prasata ve výkrmu"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1883",
+        "name": "Porcine circovirus type 1, strain cPCV1-2, expressing the ORF2 protein gene of Porcine circovirus type 2a, Inactivated"
+      },
+      {
+        "id": "1884",
+        "name": "Porcine circovirus type 1, strain cPCV1-2b, expressing the ORF2 protein gene of Porcine circovirus type 2b, Inactivated"
+      },
+      {
+        "id": "29849",
+        "name": "Mycoplasma hyopneumoniae, strain P-5722-3, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9909326",

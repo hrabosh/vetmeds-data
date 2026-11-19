@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP53AX17",
+        "name": "Imidacloprid"
+      }
+    ],
+    "species": [
+      {
+        "id": "2",
+        "name": "kočky"
+      },
+      {
+        "id": "301",
+        "name": "králíci v zájmovém chovu"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29166",
+        "name": "Imidaclopridum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9905467",

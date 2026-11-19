@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QB05AA90",
+        "name": "QB05AA90"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1218",
+        "name": "Hemoglobin glutamer-200, bovine"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9902023",

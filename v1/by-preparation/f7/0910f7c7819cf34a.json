@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QN02AC52",
+        "name": "Methadone, combinations excl. psycholeptics"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "167",
+        "name": "koně"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1919",
+        "name": "Levomethadoni hydrochloridum"
+      },
+      {
+        "id": "1921",
+        "name": "Fenpipramidi hydrochloridum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9910465",

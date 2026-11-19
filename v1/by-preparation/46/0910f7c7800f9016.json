@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QN03AA02",
+        "name": "Phenobarbital"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1258",
+        "name": "Phenobarbitalum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9900821",

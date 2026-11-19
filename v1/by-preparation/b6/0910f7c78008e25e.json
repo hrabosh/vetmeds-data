@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01CA04",
+        "name": "Amoxicillin"
+      }
+    ],
+    "species": [
+      {
+        "id": "190",
+        "name": "drůbež"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      },
+      {
+        "id": "60",
+        "name": "telata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2064",
+        "name": "Amoxicillinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9935315",

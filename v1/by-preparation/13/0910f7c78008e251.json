@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP51AX09",
+        "name": "Amprolium"
+      }
+    ],
+    "species": [
+      {
+        "id": "145",
+        "name": "kur domácí"
+      },
+      {
+        "id": "164",
+        "name": "krůty"
+      }
+    ],
+    "substances": [
+      {
+        "id": "28562",
+        "name": "Amprolii hydrochloridum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9904624",

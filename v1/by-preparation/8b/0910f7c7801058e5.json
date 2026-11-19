@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QM09AX01",
+        "name": "Hyaluronic acid"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "167",
+        "name": "koně"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29202",
+        "name": "Natrii hyaluronas"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9901168",

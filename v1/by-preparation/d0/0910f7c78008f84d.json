@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QV04CF01",
+        "name": "Tuberculin"
+      }
+    ],
+    "species": [
+      {
+        "id": "190",
+        "name": "drůbež"
+      },
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29260",
+        "name": "Mycobacterium avium, subsp. avium, strain D4ER, avian tuberculin protein derivative"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9935055",

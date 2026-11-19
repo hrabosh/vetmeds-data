@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI02AL",
+        "name": "Inactivated viral and inactivated bacterial vaccines"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1667",
+        "name": "Bovine respiratory syncytial virus, strain BIO-24, Inactivated"
+      },
+      {
+        "id": "1671",
+        "name": "Bovine parainfluenza virus 3, strain BIO-23, Inactivated"
+      },
+      {
+        "id": "1672",
+        "name": "Mannheimia haemolytica, serotype A1, strain DSM 5283, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9903849",

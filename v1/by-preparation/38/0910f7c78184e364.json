@@ -1,4 +1,36 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QA12CX99",
+        "name": "Other mineral products, combinations"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "167",
+        "name": "koně"
+      },
+      {
+        "id": "3",
+        "name": "skot"
+      }
+    ],
+    "substances": [
+      {
+        "id": "10817",
+        "name": "Butafosfanum"
+      },
+      {
+        "id": "428",
+        "name": "Cyanocobalaminum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9910349",

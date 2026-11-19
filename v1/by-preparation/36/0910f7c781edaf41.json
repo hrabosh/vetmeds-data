@@ -1,4 +1,36 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QD02AF",
+        "name": "Salicylic acid preparations"
+      }
+    ],
+    "species": [
+      {
+        "id": "167",
+        "name": "koně"
+      },
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "4",
+        "name": "ovce"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29560",
+        "name": "Methylis salicylas"
+      },
+      {
+        "id": "29802",
+        "name": "Acidum salicylicum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9701040",

@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01FA01",
+        "name": "Erythromycin"
+      }
+    ],
+    "species": [
+      {
+        "id": "145",
+        "name": "kur domácí"
+      },
+      {
+        "id": "164",
+        "name": "krůty"
+      }
+    ],
+    "substances": [
+      {
+        "id": "555",
+        "name": "Erythromycinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9935775",

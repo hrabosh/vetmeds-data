@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI08AA01",
+        "name": "Rabbit haemorrhagic disease virus vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "237",
+        "name": "králíci"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2021",
+        "name": "Rabbit haemorrhagic disease virus 2, strain F/12B, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9908374",

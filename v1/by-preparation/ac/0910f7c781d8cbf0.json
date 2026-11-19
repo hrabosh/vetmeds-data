@@ -1,4 +1,19 @@
 {
+  "classification": {
+    "atc": [],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2100",
+        "name": "Izenivetmab"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9700592",

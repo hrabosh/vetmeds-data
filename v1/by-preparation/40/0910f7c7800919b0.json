@@ -1,4 +1,48 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI05AM01",
+        "name": "Clostridium antiserum"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "167",
+        "name": "koně"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      },
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "4",
+        "name": "ovce"
+      },
+      {
+        "id": "5",
+        "name": "kozy"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29349",
+        "name": "Clostridium tetani, antitoxin"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9999346",

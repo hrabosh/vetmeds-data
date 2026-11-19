@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI09AD03",
+        "name": "Porcine reproductive and respiratory syndrome (PRRS) virus vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "89",
+        "name": "prasnice"
+      },
+      {
+        "id": "91",
+        "name": "prasničky"
+      },
+      {
+        "id": "99",
+        "name": "prasata ve výkrmu"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1731",
+        "name": "Porcine reproductive and respiratory syndrome virus, type 1, strain 96V198, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9700902",

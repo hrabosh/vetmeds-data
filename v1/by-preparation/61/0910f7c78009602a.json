@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI09AB13",
+        "name": "Mycoplasma vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "101",
+        "name": "prasata od 1 týdne věku"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29586",
+        "name": "Mycoplasma hyopneumoniae, strain J, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9903960",

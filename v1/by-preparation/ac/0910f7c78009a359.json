@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI07AA02",
+        "name": "Rabies virus vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2024",
+        "name": "Rabies virus, strain VP12, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9935836",

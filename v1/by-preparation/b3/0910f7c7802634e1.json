@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI10AX",
+        "name": "Other immunologicals"
+      }
+    ],
+    "species": [
+      {
+        "id": "243",
+        "name": "losos atlantský (Salmo salar)"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1728",
+        "name": "Salmon pancreas disease virus, DNA plasmid pUK-SPDV-poly2#1 encoding structural polyprotein"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9906147",

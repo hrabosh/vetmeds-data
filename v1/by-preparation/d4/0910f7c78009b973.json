@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI01AD06",
+        "name": "Newcastle disease virus _ paramyxovirus"
+      }
+    ],
+    "species": [
+      {
+        "id": "157",
+        "name": "kur domácí od 1. dne stáří"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29798",
+        "name": "Newcastle disease virus, strain Bio 52:NDV B1, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9908795",

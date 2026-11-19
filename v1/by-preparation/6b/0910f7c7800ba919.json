@@ -1,4 +1,64 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI02AB01",
+        "name": "Clostridium"
+      },
+      {
+        "id": "QI04AB01",
+        "name": "Clostridium vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "4",
+        "name": "ovce"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1075",
+        "name": "Clostridium chauvoei, Inactivated"
+      },
+      {
+        "id": "1076",
+        "name": "Clostridium haemolyticum, toxoid"
+      },
+      {
+        "id": "1078",
+        "name": "Clostridium perfringens, type D, epsilon toxoid"
+      },
+      {
+        "id": "1209",
+        "name": "Clostridium perfringens, type A, alpha toxoid"
+      },
+      {
+        "id": "29310",
+        "name": "Clostridium tetani, toxoid"
+      },
+      {
+        "id": "29384",
+        "name": "Clostridium novyi, toxoid"
+      },
+      {
+        "id": "29539",
+        "name": "Clostridium perfringens, type B and C, beta toxoid"
+      },
+      {
+        "id": "29570",
+        "name": "Clostridium septicum, toxoid"
+      },
+      {
+        "id": "29651",
+        "name": "Clostridium sordellii, toxoid"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9902263",

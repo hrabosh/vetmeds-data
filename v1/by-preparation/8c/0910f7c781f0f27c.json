@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI01AD21",
+        "name": "Avian herpes virus (marek's disease) + newcastle disease virus or paramyxovirus"
+      }
+    ],
+    "species": [
+      {
+        "id": "141",
+        "name": "jednodenní kuřata kura domácího"
+      },
+      {
+        "id": "293",
+        "name": "embryonovaná vejce"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2127",
+        "name": "Turkey herpesvirus, strain HVT-ND (cell-associated), expressing fusion protein gene of Newcastle disease virus, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9700991",

@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP53AX73",
+        "name": "Pyriproxyfen, combinations"
+      }
+    ],
+    "species": [
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1544",
+        "name": "Dinotefuranum"
+      },
+      {
+        "id": "29272",
+        "name": "Pyriproxyfenum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9903488",

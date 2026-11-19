@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI07AD08",
+        "name": "Canine parainfluenza virus vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1573",
+        "name": "Canine parainfluenza virus 2, strain CPiV-2-Bio 15, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9903543",

@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP53AX15",
+        "name": "Fipronil"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29312",
+        "name": "Fipronilum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9935138",

@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QL04AD01",
+        "name": "Ciclosporin"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "4132",
+        "name": "Ciclosporinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9903164",

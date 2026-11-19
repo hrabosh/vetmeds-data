@@ -1,4 +1,40 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI05AB03",
+        "name": "Clostridium vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "167",
+        "name": "koně"
+      },
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "4",
+        "name": "ovce"
+      },
+      {
+        "id": "5",
+        "name": "kozy"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29310",
+        "name": "Clostridium tetani, toxoid"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9900974",

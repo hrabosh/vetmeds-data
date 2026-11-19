@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QN02AF01",
+        "name": "Butorphanol"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "167",
+        "name": "koně"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "26008",
+        "name": "Butorphanoli tartras"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9908594",

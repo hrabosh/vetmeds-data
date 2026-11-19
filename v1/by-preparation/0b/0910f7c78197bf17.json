@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI09AA07",
+        "name": "Porcine circovirus vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1883",
+        "name": "Porcine circovirus type 1, strain cPCV1-2, expressing the ORF2 protein gene of Porcine circovirus type 2a, Inactivated"
+      },
+      {
+        "id": "1884",
+        "name": "Porcine circovirus type 1, strain cPCV1-2b, expressing the ORF2 protein gene of Porcine circovirus type 2b, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9909625",

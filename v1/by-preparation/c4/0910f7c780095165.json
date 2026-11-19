@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QG51AD30",
+        "name": "Combinations of antiseptics"
+      }
+    ],
+    "species": [
+      {
+        "id": "62",
+        "name": "krávy"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29510",
+        "name": "Kalii iodas"
+      },
+      {
+        "id": "29935",
+        "name": "Iodum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9902053",

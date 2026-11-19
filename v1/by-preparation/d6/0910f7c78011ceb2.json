@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI02AB03",
+        "name": "Leptospira"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1488",
+        "name": "Leptospira interrogans, SG Sejroe, SV Hardjo-bovis, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9900334",

@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI06AX",
+        "name": "Other immunologicals"
+      }
+    ],
+    "species": [
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2128",
+        "name": "Feline leukemia virus (FeLV) self-amplifying RNA (saRNA)-particle"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9701018",

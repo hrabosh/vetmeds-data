@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QA10AC01",
+        "name": "Insulin (human)"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1529",
+        "name": "Insulinum humanum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9908977",

@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QN02AX02",
+        "name": "Tramadol"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1732",
+        "name": "Tramadoli hydrochloridum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9906483",

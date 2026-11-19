@@ -1,4 +1,52 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI09AL07",
+        "name": "Porcine parvovirus + Erysipelothrix + Leptospira"
+      }
+    ],
+    "species": [
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1459",
+        "name": "Leptospira interrogans, SG Canicola, SV Portland-vere, Ca-12-000, Inactivated"
+      },
+      {
+        "id": "1460",
+        "name": "Leptospira interrogans, SG Icterohaemorrhagiae, SV Copenhageni, Ic-02-001, Inactivated"
+      },
+      {
+        "id": "1461",
+        "name": "Leptospira interrogans, SG Australis, SV Bratislava, As-05-073, Inactivated"
+      },
+      {
+        "id": "1463",
+        "name": "Leptospira kirschneri, SG Grippotyphosa, SV Dadas, GR-01-005, Inactivated"
+      },
+      {
+        "id": "1705",
+        "name": "Leptospira interrogans, SG Pomona, SV Pomona, Po-01-000, Inactivated"
+      },
+      {
+        "id": "1706",
+        "name": "Leptospira santarosai, SG Tarassovi, SV Gatuni, S1148/02, Inactivated"
+      },
+      {
+        "id": "29692",
+        "name": "Erysipelothrix rhusiopathiae, serotype 2, strain M2, Inactivated"
+      },
+      {
+        "id": "29693",
+        "name": "Porcine parvovirus, strain 014, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9905418",

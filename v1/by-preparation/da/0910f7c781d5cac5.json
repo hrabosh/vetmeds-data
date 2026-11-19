@@ -1,4 +1,52 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI01AA25",
+        "name": "Avian infectious bronchitis virus + avian infectious bursal (gumboro) disease virus + newcastle disease virus _ paramyxovirus + avian reovirus + avian adenovirus"
+      }
+    ],
+    "species": [
+      {
+        "id": "145",
+        "name": "kur domácí"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1747",
+        "name": "Avian infectious bronchitis virus, type 793/B, strain 4-91, Inactivated"
+      },
+      {
+        "id": "1826",
+        "name": "Newcastle disease virus, strain Ulster, Inactivated"
+      },
+      {
+        "id": "1881",
+        "name": "Infectious bursal disease virus, strain GB02, Inactivated"
+      },
+      {
+        "id": "1990",
+        "name": "Infectious bursal disease virus, strain 89/03, Inactivated"
+      },
+      {
+        "id": "2032",
+        "name": "Avian reovirus, strain ARV-1, Inactivated"
+      },
+      {
+        "id": "2033",
+        "name": "Avian reovirus, strain ARV-4, Inactivated"
+      },
+      {
+        "id": "29594",
+        "name": "Egg drop syndrome '76 virus, strain BC14, Inactivated"
+      },
+      {
+        "id": "29598",
+        "name": "Avian infectious bronchitis virus, type Massachusetts, strain M41, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9700308",

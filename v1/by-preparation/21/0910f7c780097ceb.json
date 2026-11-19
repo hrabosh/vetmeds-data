@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI06AD04",
+        "name": "Feline panleucopenia virus _ parvovirus + Feline rhinotracheitis virus + Feline calicivirus"
+      }
+    ],
+    "species": [
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29405",
+        "name": "Feline calicivirus, strain F9, Live"
+      },
+      {
+        "id": "29627",
+        "name": "Feline rhinotracheitis virus, strain G2620A, Live"
+      },
+      {
+        "id": "29629",
+        "name": "Feline panleucopenia virus, strain MW-1, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9937670",

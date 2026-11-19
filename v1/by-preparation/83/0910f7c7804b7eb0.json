@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QS02BA99",
+        "name": "Corticosteroids, combinations"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "25136",
+        "name": "Triamcinoloni acetonidum"
+      },
+      {
+        "id": "29802",
+        "name": "Acidum salicylicum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9905825",

@@ -1,4 +1,40 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI01AA06",
+        "name": "Avian infectious bronchitis virus vaccine + Avian infectious bursal (Gumboro) disease virus vaccine  + Newcastle disease virus _ paramyxovirus vaccine + Avian rhinotracheitis virus vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "145",
+        "name": "kur domácí"
+      },
+      {
+        "id": "164",
+        "name": "krůty"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29494",
+        "name": "Newcastle disease virus, strain La Sota, Inactivated"
+      },
+      {
+        "id": "29495",
+        "name": "Avian infectious bronchitis virus, strain H52, Inactivated"
+      },
+      {
+        "id": "29496",
+        "name": "Infectious bursal disease virus, strain Winterfield 2512, Inactivated"
+      },
+      {
+        "id": "29497",
+        "name": "Turkey rhinotracheitis virus, strain 1062, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9936712",

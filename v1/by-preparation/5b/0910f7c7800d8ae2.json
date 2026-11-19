@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01AA02",
+        "name": "Doxycycline"
+      }
+    ],
+    "species": [
+      {
+        "id": "145",
+        "name": "kur domácí"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1628",
+        "name": "Doxycyclinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9900656",

@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QN02BF02",
+        "name": "Pregabalin"
+      }
+    ],
+    "species": [
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1885",
+        "name": "Pregabalinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9909370",

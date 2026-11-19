@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI02AD01",
+        "name": "Bovine rhinotracheitis virus vaccine (IBR)"
+      }
+    ],
+    "species": [
+      {
+        "id": "60",
+        "name": "telata"
+      },
+      {
+        "id": "76",
+        "name": "dospělý skot"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1262",
+        "name": "Infectious Bovine rhinotracheitis virus, strain CEDDEL, gE- tk- double-gene deleted, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9900252",

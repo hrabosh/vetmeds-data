@@ -1,4 +1,68 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QD08AG02",
+        "name": "Povidone-iodine"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "145",
+        "name": "kur domácí"
+      },
+      {
+        "id": "164",
+        "name": "krůty"
+      },
+      {
+        "id": "167",
+        "name": "koně"
+      },
+      {
+        "id": "178",
+        "name": "holubi"
+      },
+      {
+        "id": "185",
+        "name": "bažanti"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      },
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "4",
+        "name": "ovce"
+      },
+      {
+        "id": "5",
+        "name": "kozy"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      },
+      {
+        "id": "9",
+        "name": "okrasní ptáci"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29935",
+        "name": "Iodum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9936084",

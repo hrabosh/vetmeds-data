@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI07AX",
+        "name": "Other immunologicals"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1928",
+        "name": "Bacterial DNA plasmid containing LACK gene from Leishmania infantum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9700903",

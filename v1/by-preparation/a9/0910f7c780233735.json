@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP53AC11",
+        "name": "Deltamethrin"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29936",
+        "name": "Deltamethrinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9903948",

@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QG03CA04",
+        "name": "Estriol"
+      }
+    ],
+    "species": [
+      {
+        "id": "21",
+        "name": "feny"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1193",
+        "name": "Estriolum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9934019",

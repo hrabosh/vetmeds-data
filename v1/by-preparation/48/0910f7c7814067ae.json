@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP54AB52",
+        "name": "Moxidectin, combinations"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "15172",
+        "name": "Moxidectinum"
+      },
+      {
+        "id": "29166",
+        "name": "Imidaclopridum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9906559",

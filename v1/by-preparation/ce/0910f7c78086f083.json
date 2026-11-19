@@ -1,4 +1,60 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QA07AA01",
+        "name": "Neomycin"
+      }
+    ],
+    "species": [
+      {
+        "id": "106",
+        "name": "prasata (po odstavu)"
+      },
+      {
+        "id": "129",
+        "name": "nosnice"
+      },
+      {
+        "id": "145",
+        "name": "kur domácí"
+      },
+      {
+        "id": "164",
+        "name": "krůty"
+      },
+      {
+        "id": "170",
+        "name": "kachny"
+      },
+      {
+        "id": "175",
+        "name": "husy"
+      },
+      {
+        "id": "189",
+        "name": "koroptve"
+      },
+      {
+        "id": "295",
+        "name": "křepelky"
+      },
+      {
+        "id": "60",
+        "name": "telata"
+      },
+      {
+        "id": "99",
+        "name": "prasata ve výkrmu"
+      }
+    ],
+    "substances": [
+      {
+        "id": "961",
+        "name": "Neomycinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9905797",

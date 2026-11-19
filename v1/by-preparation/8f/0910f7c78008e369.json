@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP53AE02",
+        "name": "Propoxur"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29198",
+        "name": "Propoxurum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9908451",

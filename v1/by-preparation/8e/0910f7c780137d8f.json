@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP52AX60",
+        "name": "Emodepside and toltrazuril"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1281",
+        "name": "Emodepsidum"
+      },
+      {
+        "id": "12884",
+        "name": "Toltrazurilum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9900511",

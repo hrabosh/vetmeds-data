@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01CE09",
+        "name": "Procaine benzylpenicillin"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "25049",
+        "name": "Procaini benzylpenicillinum monohydricum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9906974",

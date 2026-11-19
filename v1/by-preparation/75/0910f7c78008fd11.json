@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP52AA51",
+        "name": "Praziquantel, combinations"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "10229",
+        "name": "Praziquantelum"
+      },
+      {
+        "id": "7849",
+        "name": "Pyrantelum"
+      },
+      {
+        "id": "9778",
+        "name": "Oxantelum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9934601",

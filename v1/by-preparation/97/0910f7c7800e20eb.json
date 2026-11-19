@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01CA04",
+        "name": "Amoxicillin"
+      }
+    ],
+    "species": [
+      {
+        "id": "106",
+        "name": "prasata (po odstavu)"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2064",
+        "name": "Amoxicillinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9934855",

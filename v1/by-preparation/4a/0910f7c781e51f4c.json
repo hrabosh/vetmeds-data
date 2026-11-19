@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP51BX04",
+        "name": "Decoquinate"
+      }
+    ],
+    "species": [
+      {
+        "id": "156",
+        "name": "jehňata"
+      },
+      {
+        "id": "60",
+        "name": "telata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1874",
+        "name": "Decoquinatum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9700981",

@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI01AD17",
+        "name": "Avian herpes virus (Marek's disease) + Avian infectious laryngotracheitis virus + Newcastle disease virus or paramyxovirus"
+      }
+    ],
+    "species": [
+      {
+        "id": "145",
+        "name": "kur domácí"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1828",
+        "name": "Turkey herpesvirus, strain HVT/NDV/ILT (cell-associated), expressing fusion protein gene of Newcastle disease virus and gD and gI glycoproteins genes of Infectious laryngotracheitis virus, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9908819",

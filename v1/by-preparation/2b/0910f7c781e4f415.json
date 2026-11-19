@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI02AA",
+        "name": "Inactivated viral vaccines"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2112",
+        "name": "Epizootic haemorrhagic disease virus, serotype 8, strain EHDV8 SPA 2022/LCV_03 LCV Cod.:O78, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9700136",

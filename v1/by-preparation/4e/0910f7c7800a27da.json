@@ -1,4 +1,40 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP51AG01",
+        "name": "Sulfadimidine"
+      }
+    ],
+    "species": [
+      {
+        "id": "156",
+        "name": "jehňata"
+      },
+      {
+        "id": "190",
+        "name": "drůbež"
+      },
+      {
+        "id": "237",
+        "name": "králíci"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      },
+      {
+        "id": "60",
+        "name": "telata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "25494",
+        "name": "Sulfadimidinum natricum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9935523",

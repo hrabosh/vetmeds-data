@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP51AA03",
+        "name": "Ornidazole"
+      }
+    ],
+    "species": [
+      {
+        "id": "184",
+        "name": "sportovní holubi"
+      },
+      {
+        "id": "267",
+        "name": "okrasní holubi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2529",
+        "name": "Ornidazolum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9935743",

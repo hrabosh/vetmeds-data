@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI09AB04",
+        "name": "Bordetella vaccine + Pasteurella vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "115",
+        "name": "prasata od stáří 6 měsíců"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2097",
+        "name": "Pasteurella multocida, serotype D, toxoid"
+      },
+      {
+        "id": "29207",
+        "name": "Pasteurella multocida, serotype D, Inactivated"
+      },
+      {
+        "id": "29754",
+        "name": "Bordetella bronchiseptica, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9936745",

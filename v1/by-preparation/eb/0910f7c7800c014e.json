@@ -1,4 +1,40 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QN05CM92",
+        "name": "Xylazine"
+      }
+    ],
+    "species": [
+      {
+        "id": "167",
+        "name": "koně"
+      },
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "39",
+        "name": "daňci"
+      },
+      {
+        "id": "40",
+        "name": "jeleni"
+      },
+      {
+        "id": "42",
+        "name": "srnci"
+      }
+    ],
+    "substances": [
+      {
+        "id": "5465",
+        "name": "Xylazinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9939227",

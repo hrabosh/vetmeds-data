@@ -1,4 +1,40 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QA12AX",
+        "name": "Calcium, combinations with vitamin D and-or other drugs"
+      }
+    ],
+    "species": [
+      {
+        "id": "167",
+        "name": "koně"
+      },
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29157",
+        "name": "Calcii gluconas"
+      },
+      {
+        "id": "29159",
+        "name": "Magnesii chloridum hexahydricum"
+      },
+      {
+        "id": "29457",
+        "name": "Natrii glycerophosphas"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9909643",

@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QD01AC90",
+        "name": "Enilconazole"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "167",
+        "name": "koně"
+      },
+      {
+        "id": "3",
+        "name": "skot"
+      }
+    ],
+    "substances": [
+      {
+        "id": "11754",
+        "name": "Enilconazolum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9901559",

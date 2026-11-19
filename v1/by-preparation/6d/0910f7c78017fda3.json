@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01FA90",
+        "name": "Tylosin"
+      }
+    ],
+    "species": [
+      {
+        "id": "124",
+        "name": "kuřice"
+      },
+      {
+        "id": "127",
+        "name": "brojleři kura domácího"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1848",
+        "name": "Tylosinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9903167",

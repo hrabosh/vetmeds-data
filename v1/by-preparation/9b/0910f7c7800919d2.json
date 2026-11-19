@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ51CR50",
+        "name": "Combinations of penicillins"
+      }
+    ],
+    "species": [
+      {
+        "id": "69",
+        "name": "dojnice v laktaci"
+      }
+    ],
+    "substances": [
+      {
+        "id": "24659",
+        "name": "Ampicillinum natricum"
+      },
+      {
+        "id": "28225",
+        "name": "Dicloxacillinum natricum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9969969",

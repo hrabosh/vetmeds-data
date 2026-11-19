@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QG04CX90",
+        "name": "Osaterone"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1357",
+        "name": "Osateroni acetas"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9934356",

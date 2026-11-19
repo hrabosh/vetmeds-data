@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QG02CB03",
+        "name": "Cabergoline"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "14010",
+        "name": "Cabergolinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9936199",

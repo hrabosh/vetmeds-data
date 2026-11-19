@@ -1,4 +1,36 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01CE09",
+        "name": "Procaine benzylpenicillin"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "167",
+        "name": "koně"
+      },
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "26515",
+        "name": "Procaini benzylpenicillinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9935135",

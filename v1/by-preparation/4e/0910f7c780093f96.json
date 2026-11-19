@@ -1,4 +1,40 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QA05BA",
+        "name": "Liver therapy"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "167",
+        "name": "koně"
+      },
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "5",
+        "name": "kozy"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29464",
+        "name": "Acidum methylphenoxypropionicum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9937838",

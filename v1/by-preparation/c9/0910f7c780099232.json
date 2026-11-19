@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QM01BA01",
+        "name": "Phenylbutazone and corticosteroids"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1122",
+        "name": "Phenylbutazonum"
+      },
+      {
+        "id": "1177",
+        "name": "Prednisolonum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9910498",

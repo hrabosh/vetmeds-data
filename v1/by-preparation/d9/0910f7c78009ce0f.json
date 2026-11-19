@@ -1,4 +1,40 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01RA90",
+        "name": "Tetracyclines, combinations with other antibacterials"
+      }
+    ],
+    "species": [
+      {
+        "id": "127",
+        "name": "brojleři kura domácího"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      },
+      {
+        "id": "60",
+        "name": "telata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1462",
+        "name": "Trimethoprimum"
+      },
+      {
+        "id": "25002",
+        "name": "Oxytetracyclini hydrochloridum"
+      },
+      {
+        "id": "25494",
+        "name": "Sulfadimidinum natricum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9700907",

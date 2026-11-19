@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QH01BB03",
+        "name": "Carbetocin"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "4946",
+        "name": "Carbetocinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9700656",

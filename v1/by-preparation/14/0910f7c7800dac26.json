@@ -1,4 +1,36 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP53AX30",
+        "name": "Combinations of other ectoparasiticides for topical use"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1596",
+        "name": "Phenothrinum"
+      },
+      {
+        "id": "1597",
+        "name": "Pyrodonum"
+      },
+      {
+        "id": "29198",
+        "name": "Propoxurum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9938682",

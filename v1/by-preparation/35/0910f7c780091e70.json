@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP53AC11",
+        "name": "Deltamethrin"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "4",
+        "name": "ovce"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29936",
+        "name": "Deltamethrinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9900395",

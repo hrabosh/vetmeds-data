@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI01EA01",
+        "name": "Pigeon paramyxovirus vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "178",
+        "name": "holubi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2017",
+        "name": "Pigeon paramyxovirus 1, strain 988M-ca, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9937449",

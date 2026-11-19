@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01BA90",
+        "name": "Florfenicol"
+      }
+    ],
+    "species": [
+      {
+        "id": "244",
+        "name": "pstruh duhový (Oncorhynchus mykiss)"
+      }
+    ],
+    "substances": [
+      {
+        "id": "14061",
+        "name": "Florfenicolum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9904438",

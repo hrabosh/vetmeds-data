@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QA12CX99",
+        "name": "Other mineral products, combinations"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29422",
+        "name": "Acidum nucleinicum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9902804",

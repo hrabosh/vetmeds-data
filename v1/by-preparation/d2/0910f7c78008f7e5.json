@@ -1,4 +1,36 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI07AM",
+        "name": "Antisera, immunoglobulin preparations, and antitoxins"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29677",
+        "name": "Immunoglobulins against Canine distemper virus, Canine"
+      },
+      {
+        "id": "29678",
+        "name": "Immunoglobulins against Canine parvovirus, Canine"
+      },
+      {
+        "id": "29679",
+        "name": "Immunoglobulins against Canine adenovirus 1 and Canine adenovirus 2, Canine"
+      },
+      {
+        "id": "29681",
+        "name": "Immunoglobulins against Canine parainfluenza virus, Canine"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9908407",

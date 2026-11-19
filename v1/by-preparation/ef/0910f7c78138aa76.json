@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01XQ01",
+        "name": "Tiamulin"
+      }
+    ],
+    "species": [
+      {
+        "id": "129",
+        "name": "nosnice"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "26742",
+        "name": "Tiamulini hydrogenofumaras"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9907350",

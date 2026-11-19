@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP54AA04",
+        "name": "Eprinomectin"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "4",
+        "name": "ovce"
+      },
+      {
+        "id": "5",
+        "name": "kozy"
+      }
+    ],
+    "substances": [
+      {
+        "id": "19184",
+        "name": "Eprinomectinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9906783",

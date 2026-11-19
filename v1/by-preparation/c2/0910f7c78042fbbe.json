@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP53BE03",
+        "name": "Sarolaner"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1659",
+        "name": "Sarolanerum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9904694",

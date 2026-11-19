@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QH03BB02",
+        "name": "Thiamazole"
+      }
+    ],
+    "species": [
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2702",
+        "name": "Thiamazolum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9908405",

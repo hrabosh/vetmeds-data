@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP53AC30",
+        "name": "Combinations of pyrethrines"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "12761",
+        "name": "Tetramethrinum"
+      },
+      {
+        "id": "29588",
+        "name": "Cypermethrinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9907935",

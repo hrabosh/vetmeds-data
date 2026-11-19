@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI01AD",
+        "name": "Live viral vaccines"
+      }
+    ],
+    "species": [
+      {
+        "id": "366",
+        "name": "kur domácí od stáří 1 týdne"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29188",
+        "name": "Avian infectious bronchitis virus, type Massachusetts, strain H120, Live"
+      },
+      {
+        "id": "29243",
+        "name": "Newcastle disease virus, strain La Sota, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9936324",

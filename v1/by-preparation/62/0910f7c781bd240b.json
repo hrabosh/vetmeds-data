@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QM01AG90",
+        "name": "Flunixin"
+      }
+    ],
+    "species": [
+      {
+        "id": "167",
+        "name": "koně"
+      },
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "5338",
+        "name": "Flunixinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9911254",

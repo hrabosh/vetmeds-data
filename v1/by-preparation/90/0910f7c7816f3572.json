@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QN05CM99",
+        "name": "Combinations"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1899",
+        "name": "Vatinoxani hydrochloridum"
+      },
+      {
+        "id": "26737",
+        "name": "Medetomidini hydrochloridum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9909587",

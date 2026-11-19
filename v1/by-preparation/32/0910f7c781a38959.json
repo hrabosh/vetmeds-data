@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01CA04",
+        "name": "Amoxicillin"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2064",
+        "name": "Amoxicillinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9910420",

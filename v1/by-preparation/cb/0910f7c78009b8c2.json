@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01AA56",
+        "name": "Oxytetracycline, combinations"
+      }
+    ],
+    "species": [
+      {
+        "id": "247",
+        "name": "kaprovité ryby"
+      }
+    ],
+    "substances": [
+      {
+        "id": "25002",
+        "name": "Oxytetracyclini hydrochloridum"
+      },
+      {
+        "id": "25184",
+        "name": "Retinoli acetas"
+      },
+      {
+        "id": "405",
+        "name": "Colecalciferolum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9910687",

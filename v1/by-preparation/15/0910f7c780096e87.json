@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QA12AX",
+        "name": "Calcium, combinations with vitamin D and-or other drugs"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      }
+    ],
+    "substances": [
+      {
+        "id": "25971",
+        "name": "Phosphorus"
+      },
+      {
+        "id": "26356",
+        "name": "Calcium"
+      },
+      {
+        "id": "29227",
+        "name": "Magnesium"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9935716",

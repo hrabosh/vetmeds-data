@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI02AL04",
+        "name": "Bovine parainfluenza virus + bovine respiratory syncytial virus + pasteurella"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1669",
+        "name": "Bovine respiratory syncytial virus, strain EV 908, Inactivated"
+      },
+      {
+        "id": "1670",
+        "name": "Bovine parainfluenza virus 3, strain SF-4, Inactivated"
+      },
+      {
+        "id": "1673",
+        "name": "Mannheimia haemolytica, serotype A1, strain M4/1, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9935915",

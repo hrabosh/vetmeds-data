@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QR03CC13",
+        "name": "Clenbuterol"
+      }
+    ],
+    "species": [
+      {
+        "id": "167",
+        "name": "koně"
+      }
+    ],
+    "substances": [
+      {
+        "id": "25979",
+        "name": "Clenbuteroli hydrochloridum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9902008",

@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP54AB52",
+        "name": "Moxidectin, combinations"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "15172",
+        "name": "Moxidectinum"
+      },
+      {
+        "id": "1546",
+        "name": "Fluralanerum"
+      },
+      {
+        "id": "7849",
+        "name": "Pyrantelum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9911312",

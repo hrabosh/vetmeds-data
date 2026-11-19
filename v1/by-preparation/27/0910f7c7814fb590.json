@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP54AB52",
+        "name": "Moxidectin, combinations"
+      }
+    ],
+    "species": [
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "15172",
+        "name": "Moxidectinum"
+      },
+      {
+        "id": "1546",
+        "name": "Fluralanerum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9906674",

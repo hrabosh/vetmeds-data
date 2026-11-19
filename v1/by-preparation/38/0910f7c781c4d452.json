@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI01AD16",
+        "name": "Avian herpes virus (marek's disease) + avian infectious bursal disease virus (gumboro disease) + newcastle disease virus_paramyxovirus"
+      }
+    ],
+    "species": [
+      {
+        "id": "141",
+        "name": "jednodenní kuřata kura domácího"
+      },
+      {
+        "id": "293",
+        "name": "embryonovaná vejce"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2054",
+        "name": "Turkey herpesvirus, strain HVT-IBD-ND (cell-associated), expressing VP2 protein gene of Infectious bursal disease virus and fusion protein gene of Newcastle disease virus, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9700059",

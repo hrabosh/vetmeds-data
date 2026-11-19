@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QA04AD90",
+        "name": "Maropitant"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1924",
+        "name": "Maropitanti citras monohydricus"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9700053",

@@ -1,4 +1,19 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QN02BG92",
+        "name": "Relfovetmab"
+      }
+    ],
+    "species": [
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": []
+  },
   "packages": [
     {
       "display_package_code": "9700531",

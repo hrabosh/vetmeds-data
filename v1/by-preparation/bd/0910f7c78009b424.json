@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI02AA03",
+        "name": "Bovine rhinotracheitis virus vaccine (IBR)"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2040",
+        "name": "Bovine herpesvirus 1, strain Difivac gE gene-deleted, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9902586",

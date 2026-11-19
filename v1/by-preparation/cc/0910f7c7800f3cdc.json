@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QN06AB03",
+        "name": "Fluoxetine"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1332",
+        "name": "Fluoxetinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9905774",

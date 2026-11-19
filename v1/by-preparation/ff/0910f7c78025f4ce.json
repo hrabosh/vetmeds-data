@@ -1,4 +1,36 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP54AA54",
+        "name": "Eprinomectin, combinations"
+      }
+    ],
+    "species": [
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "10229",
+        "name": "Praziquantelum"
+      },
+      {
+        "id": "1307",
+        "name": "Methoprenum"
+      },
+      {
+        "id": "19184",
+        "name": "Eprinomectinum"
+      },
+      {
+        "id": "29312",
+        "name": "Fipronilum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9902930",

@@ -1,4 +1,68 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QN01AB06",
+        "name": "Isoflurane"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "10",
+        "name": "plazi"
+      },
+      {
+        "id": "167",
+        "name": "koně"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      },
+      {
+        "id": "250",
+        "name": "morčata"
+      },
+      {
+        "id": "251",
+        "name": "myši"
+      },
+      {
+        "id": "252",
+        "name": "potkani"
+      },
+      {
+        "id": "254",
+        "name": "činčily"
+      },
+      {
+        "id": "255",
+        "name": "křečci"
+      },
+      {
+        "id": "26",
+        "name": "fretky"
+      },
+      {
+        "id": "306",
+        "name": "pískomilové"
+      },
+      {
+        "id": "9",
+        "name": "okrasní ptáci"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1656",
+        "name": "Isofluranum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9905121",

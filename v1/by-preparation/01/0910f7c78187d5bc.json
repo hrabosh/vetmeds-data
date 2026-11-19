@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI02AL01",
+        "name": "Bovine rotavirus + bovine coronavirus + escherichia"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29541",
+        "name": "Escherichia coli, serotype O8:K35, fimbrial adhesin F5, Inactivated"
+      },
+      {
+        "id": "29785",
+        "name": "Bovine rotavirus, strain TM-91, Inactivated"
+      },
+      {
+        "id": "29786",
+        "name": "Bovine coronavirus, strain C-197, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9909799",

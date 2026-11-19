@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI09AD04",
+        "name": "Classical Swine fever virus vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1685",
+        "name": "Bovine viral diarrhoea virus expressing classical swine fever virus, strain CP7_E2alf, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9904412",

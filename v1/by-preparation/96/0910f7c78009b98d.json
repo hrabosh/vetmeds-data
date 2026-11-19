@@ -1,4 +1,40 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QS02CA04",
+        "name": "Triamcinolone and antiinfectives"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "24863",
+        "name": "Gentamicini sulfas"
+      },
+      {
+        "id": "25136",
+        "name": "Triamcinoloni acetonidum"
+      },
+      {
+        "id": "29802",
+        "name": "Acidum salicylicum"
+      },
+      {
+        "id": "29804",
+        "name": "Carbethopendecinii bromidum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9936699",

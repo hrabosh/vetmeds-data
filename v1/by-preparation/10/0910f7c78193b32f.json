@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI02AD10",
+        "name": "Bovine coronavirus vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1931",
+        "name": "Bovine coronavirus, strain CA25, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9910357",

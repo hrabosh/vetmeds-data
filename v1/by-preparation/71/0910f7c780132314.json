@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QM01AH93",
+        "name": "Cimicoxib"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1336",
+        "name": "Cimicoxibum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9900436",

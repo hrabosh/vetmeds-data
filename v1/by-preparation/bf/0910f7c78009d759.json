@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01RA91",
+        "name": "Macrolides, combinations with other antibacterials"
+      }
+    ],
+    "species": [
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1365",
+        "name": "Sulfadimidinum"
+      },
+      {
+        "id": "1848",
+        "name": "Tylosinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9910693",

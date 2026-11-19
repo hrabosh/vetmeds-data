@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QH02AB06",
+        "name": "Prednisolone"
+      }
+    ],
+    "species": [
+      {
+        "id": "167",
+        "name": "koně"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1177",
+        "name": "Prednisolonum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9903221",

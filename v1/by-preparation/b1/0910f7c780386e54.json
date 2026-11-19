@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI07AO01",
+        "name": "Leishmania"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1704",
+        "name": "Leishmania infantum, strain MON-1, recombinant protein Q"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9905275",

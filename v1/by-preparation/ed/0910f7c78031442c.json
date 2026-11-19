@@ -1,4 +1,44 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI09AB08",
+        "name": "Escherichia vaccine + Clostridium vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1687",
+        "name": "Escherichia coli, strain P5, fimbrial adhesin F18ab, Inactivated"
+      },
+      {
+        "id": "1688",
+        "name": "Escherichia coli, strain P6, fimbrial adhesin F4ac"
+      },
+      {
+        "id": "1689",
+        "name": "Escherichia coli, strain P9, fimbrial adhesin F18ac, Inactivated"
+      },
+      {
+        "id": "1690",
+        "name": "Escherichia coli, strain P10, fimbrial adhesin F5 and F41, Inactivated"
+      },
+      {
+        "id": "1691",
+        "name": "Clostridium perfringens, type C, strain CZV13, beta toxoid"
+      },
+      {
+        "id": "29525",
+        "name": "Escherichia coli, strain P4, fimbrial adhesin F6, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9904706",

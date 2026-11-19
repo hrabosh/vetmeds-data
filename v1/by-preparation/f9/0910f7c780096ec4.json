@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QG51AA08",
+        "name": "Chlortetracycline"
+      }
+    ],
+    "species": [
+      {
+        "id": "62",
+        "name": "krávy"
+      }
+    ],
+    "substances": [
+      {
+        "id": "24740",
+        "name": "Chlortetracyclini hydrochloridum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9936726",

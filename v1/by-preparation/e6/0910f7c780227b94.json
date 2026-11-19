@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI05AA10",
+        "name": "west nile virus"
+      }
+    ],
+    "species": [
+      {
+        "id": "167",
+        "name": "koně"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1517",
+        "name": "Flavivirus expressing west nile virus antigens, strain YF-WV, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9902633",

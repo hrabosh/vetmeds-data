@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QL03AA90",
+        "name": "Pegbovigrastim"
+      }
+    ],
+    "species": [
+      {
+        "id": "75",
+        "name": "dojnice"
+      },
+      {
+        "id": "79",
+        "name": "jalovice"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1658",
+        "name": "Pegbovigrastimum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9904664",

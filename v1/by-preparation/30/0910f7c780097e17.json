@@ -1,4 +1,44 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01EW10",
+        "name": "Sulfadiazine and trimethoprim"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "167",
+        "name": "koně"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      },
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1364",
+        "name": "Sulfadiazinum"
+      },
+      {
+        "id": "1462",
+        "name": "Trimethoprimum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9907090",

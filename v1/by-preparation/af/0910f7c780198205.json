@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QD07CA03",
+        "name": "Prednisolone and antibiotics"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1177",
+        "name": "Prednisolonum"
+      },
+      {
+        "id": "1538",
+        "name": "Ketoconazolum"
+      },
+      {
+        "id": "15530",
+        "name": "Marbofloxacinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9903234",

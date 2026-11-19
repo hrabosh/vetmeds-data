@@ -1,4 +1,44 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01RA01",
+        "name": "Penicillins, combinations with other antibacterials"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      },
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      },
+      {
+        "id": "60",
+        "name": "telata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "26515",
+        "name": "Procaini benzylpenicillinum"
+      },
+      {
+        "id": "5490",
+        "name": "Dihydrostreptomycinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "",

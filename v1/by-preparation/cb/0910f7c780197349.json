@@ -1,4 +1,48 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI09AB08",
+        "name": "Escherichia vaccine + Clostridium vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "89",
+        "name": "prasnice"
+      },
+      {
+        "id": "91",
+        "name": "prasničky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1272",
+        "name": "Escherichia coli, fimbrial adhesin F4ab"
+      },
+      {
+        "id": "1273",
+        "name": "Escherichia coli, fimbrial adhesin F4ac"
+      },
+      {
+        "id": "1274",
+        "name": "Escherichia coli, fimbrial adhesin F5"
+      },
+      {
+        "id": "1275",
+        "name": "Escherichia coli, fimbrial adhesin F6"
+      },
+      {
+        "id": "2062",
+        "name": "Clostridium perfringens, type C, strain CN 883, beta toxoid"
+      },
+      {
+        "id": "29360",
+        "name": "Escherichia coli, purified LT toxin"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9901724",

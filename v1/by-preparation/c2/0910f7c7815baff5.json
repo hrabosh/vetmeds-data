@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP54AA54",
+        "name": "Eprinomectin, combinations"
+      }
+    ],
+    "species": [
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "10229",
+        "name": "Praziquantelum"
+      },
+      {
+        "id": "1844",
+        "name": "Esafoxolanerum"
+      },
+      {
+        "id": "19184",
+        "name": "Eprinomectinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9909156",

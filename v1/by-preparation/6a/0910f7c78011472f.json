@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ51CE09",
+        "name": "Procaine benzylpenicillin"
+      }
+    ],
+    "species": [
+      {
+        "id": "69",
+        "name": "dojnice v laktaci"
+      }
+    ],
+    "substances": [
+      {
+        "id": "25049",
+        "name": "Procaini benzylpenicillinum monohydricum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9901553",

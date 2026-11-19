@@ -1,4 +1,31 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI01AA22",
+        "name": "Avian infectious bursal (Gumboro) disease virus vaccine + Avian reovirus vaccine"
+      }
+    ],
+    "species": [],
+    "substances": [
+      {
+        "id": "1881",
+        "name": "Infectious bursal disease virus, strain GB02, Inactivated"
+      },
+      {
+        "id": "1990",
+        "name": "Infectious bursal disease virus, strain 89/03, Inactivated"
+      },
+      {
+        "id": "2032",
+        "name": "Avian reovirus, strain ARV-1, Inactivated"
+      },
+      {
+        "id": "2033",
+        "name": "Avian reovirus, strain ARV-4, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9700302",

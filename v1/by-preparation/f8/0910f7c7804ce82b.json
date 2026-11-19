@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QS02CA06",
+        "name": "Dexamethasone and antiinfectives"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "15530",
+        "name": "Marbofloxacinum"
+      },
+      {
+        "id": "1567",
+        "name": "Clotrimazolum"
+      },
+      {
+        "id": "25335",
+        "name": "Dexamethasoni acetas"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9905816",

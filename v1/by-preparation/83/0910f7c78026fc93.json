@@ -1,4 +1,40 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01AA02",
+        "name": "Doxycycline"
+      }
+    ],
+    "species": [
+      {
+        "id": "124",
+        "name": "kuřice"
+      },
+      {
+        "id": "127",
+        "name": "brojleři kura domácího"
+      },
+      {
+        "id": "300",
+        "name": "kur domácí plemenní jedinci"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      },
+      {
+        "id": "78",
+        "name": "neruminující telata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1628",
+        "name": "Doxycyclinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9904487",

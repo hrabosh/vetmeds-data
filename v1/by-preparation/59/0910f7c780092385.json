@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI09AE01",
+        "name": "Erysipelothrix vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29400",
+        "name": "Erysipelothrix rhusiopathiae, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9939162",

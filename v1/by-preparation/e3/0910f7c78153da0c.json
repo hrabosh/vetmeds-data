@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI01AD15",
+        "name": "Avian infectious bursal disease virus vaccine (Gumboro disease) + Avian herpes virus vaccine (Marek’s disease)"
+      }
+    ],
+    "species": [
+      {
+        "id": "145",
+        "name": "kur domácí"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1354",
+        "name": "Turkey herpesvirus, strain vHVT013-69 (cell-associated), expressing VP2 protein gene of Infectious bursal disease virus (strain Faragher 52/70), Live"
+      },
+      {
+        "id": "1825",
+        "name": "Marek's disease virus, strain RN1250, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9908767",

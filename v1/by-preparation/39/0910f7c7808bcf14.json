@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QN02BA04",
+        "name": "Sodium salicylate"
+      }
+    ],
+    "species": [
+      {
+        "id": "164",
+        "name": "krůty"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29797",
+        "name": "Natrii salicylas"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9906252",

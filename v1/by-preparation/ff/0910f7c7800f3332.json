@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI05AE",
+        "name": "Live bacterial vaccines"
+      }
+    ],
+    "species": [
+      {
+        "id": "167",
+        "name": "koně"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1101",
+        "name": "Streptococcus equi, strain TW928, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9934224",

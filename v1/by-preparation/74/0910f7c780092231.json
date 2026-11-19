@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QG02AD90",
+        "name": "Cloprostenol"
+      }
+    ],
+    "species": [
+      {
+        "id": "62",
+        "name": "krávy"
+      }
+    ],
+    "substances": [
+      {
+        "id": "3668",
+        "name": "Cloprostenolum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9935073",

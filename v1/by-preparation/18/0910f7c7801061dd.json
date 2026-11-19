@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01AA53",
+        "name": "Chlortetracycline, combinations"
+      }
+    ],
+    "species": [
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "24740",
+        "name": "Chlortetracyclini hydrochloridum"
+      },
+      {
+        "id": "26742",
+        "name": "Tiamulini hydrogenofumaras"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9900222",

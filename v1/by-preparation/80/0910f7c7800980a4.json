@@ -1,4 +1,40 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01CE30",
+        "name": "Combinations"
+      }
+    ],
+    "species": [
+      {
+        "id": "167",
+        "name": "koně"
+      },
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "4",
+        "name": "ovce"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "24809",
+        "name": "Dihydrostreptomycini sulfas"
+      },
+      {
+        "id": "26515",
+        "name": "Procaini benzylpenicillinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9906978",

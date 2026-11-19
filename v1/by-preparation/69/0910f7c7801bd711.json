@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QA07AA06",
+        "name": "Paromomycin"
+      }
+    ],
+    "species": [
+      {
+        "id": "6",
+        "name": "prasata"
+      },
+      {
+        "id": "78",
+        "name": "neruminující telata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1591",
+        "name": "Paromomycini sulfas"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9904355",

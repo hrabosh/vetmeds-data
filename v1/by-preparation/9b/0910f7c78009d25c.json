@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI09AB07",
+        "name": "Actinobacillus_Haemophilus"
+      }
+    ],
+    "species": [
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1967",
+        "name": "Actinobacillus pleuropneumoniae, serotype 2, strain App2TR98, Inactivated"
+      },
+      {
+        "id": "1969",
+        "name": "Actinobacillus pleuropneumoniae, serotype 9, strain App9KL97, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9900143",

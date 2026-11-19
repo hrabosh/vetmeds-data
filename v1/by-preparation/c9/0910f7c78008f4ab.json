@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI01AD06",
+        "name": "Newcastle disease virus _ paramyxovirus"
+      }
+    ],
+    "species": [
+      {
+        "id": "131",
+        "name": "kur domácí - kuřata"
+      },
+      {
+        "id": "164",
+        "name": "krůty"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2011",
+        "name": "Newcastle disease virus, strain Clone 13-1, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9911053",

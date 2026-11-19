@@ -1,4 +1,40 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QG52X",
+        "name": "VARIOUS PRODUCTS FOR TEATS AND UDDER"
+      }
+    ],
+    "species": [
+      {
+        "id": "62",
+        "name": "krávy"
+      }
+    ],
+    "substances": [
+      {
+        "id": "25075",
+        "name": "Retinoli palmitas"
+      },
+      {
+        "id": "29167",
+        "name": "Tocoferoli alfa acetas"
+      },
+      {
+        "id": "29556",
+        "name": "Trypsinum"
+      },
+      {
+        "id": "29557",
+        "name": "Papainum"
+      },
+      {
+        "id": "351",
+        "name": "Chymotrypsinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9968759",

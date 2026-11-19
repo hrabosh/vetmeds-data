@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ51DB01",
+        "name": "Cefalexin"
+      }
+    ],
+    "species": [
+      {
+        "id": "70",
+        "name": "dojnice v období stání na sucho"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1709",
+        "name": "Cefalexinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9909758",

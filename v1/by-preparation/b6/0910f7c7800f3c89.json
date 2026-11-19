@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI05AI01",
+        "name": "Equine influenza virus vaccine + clostridium vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "167",
+        "name": "koně"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1297",
+        "name": "Canarypox virus expressing Influenza A virus, A/equi-2/Ohio/03 (H3N8), Live (vCP2242)"
+      },
+      {
+        "id": "1584",
+        "name": "Canarypox virus expressing Influenza A virus, A/eq/Richmond/1/07 (H3N8), Live (vCP3011)"
+      },
+      {
+        "id": "29310",
+        "name": "Clostridium tetani, toxoid"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9908168",

@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QN02AE01",
+        "name": "Buprenorphine"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "9486",
+        "name": "Buprenorphinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9901382",

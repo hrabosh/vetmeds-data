@@ -1,4 +1,40 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI05AL01",
+        "name": "Equine influenza virus + clostridium"
+      }
+    ],
+    "species": [
+      {
+        "id": "167",
+        "name": "koně"
+      },
+      {
+        "id": "335",
+        "name": "poníci od stáří 5 měsíců"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29310",
+        "name": "Clostridium tetani, toxoid"
+      },
+      {
+        "id": "29390",
+        "name": "Equine influenza virus H7N7, A/equine/Newmarket/1/77, Inactivated"
+      },
+      {
+        "id": "29391",
+        "name": "Equine influenza virus H3N8, A/equine/Borlange/2/91, Inactivated"
+      },
+      {
+        "id": "29392",
+        "name": "Equine influenza virus H3N8, A/equine/Kentucky/2/98, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9900814",

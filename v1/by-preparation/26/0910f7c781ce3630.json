@@ -1,4 +1,23 @@
 {
+  "classification": {
+    "atc": [],
+    "species": [
+      {
+        "id": "145",
+        "name": "kur domácí"
+      },
+      {
+        "id": "293",
+        "name": "embryonovaná vejce"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2078",
+        "name": "Turkey herpesvirus, strain HVT/ND/IBD/ILT (cell-associated), expressing fusion protein gene of Newcastle disease virus and VP2 protein gene of Infectious bursal disease virus and gD and gI glycoproteins genes of Infectious laryngotracheitis virus, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9700310",

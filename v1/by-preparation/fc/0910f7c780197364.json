@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI01AE04",
+        "name": "Escherichia vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "145",
+        "name": "kur domácí"
+      },
+      {
+        "id": "164",
+        "name": "krůty"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1468",
+        "name": "Escherichia coli, serotype O78, strain EC34195, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9901696",

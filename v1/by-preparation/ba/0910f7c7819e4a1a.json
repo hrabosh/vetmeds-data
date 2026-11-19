@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QG04BX91",
+        "name": "Phenylpropanolamin"
+      }
+    ],
+    "species": [
+      {
+        "id": "21",
+        "name": "feny"
+      }
+    ],
+    "substances": [
+      {
+        "id": "25027",
+        "name": "Phenylpropanolamini hydrochloridum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9910473",

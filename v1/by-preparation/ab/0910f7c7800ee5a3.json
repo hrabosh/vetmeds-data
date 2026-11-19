@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QD01AC52",
+        "name": "Miconazole, combinations"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1044",
+        "name": "Chlorhexidini digluconas"
+      },
+      {
+        "id": "25429",
+        "name": "Miconazoli nitras"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9700814",

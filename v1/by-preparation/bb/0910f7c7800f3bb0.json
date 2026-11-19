@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI09AB04",
+        "name": "Bordetella vaccine + Pasteurella vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "89",
+        "name": "prasnice"
+      },
+      {
+        "id": "91",
+        "name": "prasničky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1268",
+        "name": "Pasteurella multocida, non-toxic derivative of dermonecrotic toxin, recombinant"
+      },
+      {
+        "id": "29754",
+        "name": "Bordetella bronchiseptica, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9900220",

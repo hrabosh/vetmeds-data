@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI01AA04",
+        "name": "Avian reovirus vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "145",
+        "name": "kur domácí"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2092",
+        "name": "Avian reovirus, strain 11-12523, Inactivated"
+      },
+      {
+        "id": "29433",
+        "name": "Avian reovirus, strain S1133, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9700452",

@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ51RV01",
+        "name": "Antibacterials and corticosteroids"
+      }
+    ],
+    "species": [
+      {
+        "id": "69",
+        "name": "dojnice v laktaci"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1177",
+        "name": "Prednisolonum"
+      },
+      {
+        "id": "2064",
+        "name": "Amoxicillinum"
+      },
+      {
+        "id": "4593",
+        "name": "Acidum clavulanicum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9902540",

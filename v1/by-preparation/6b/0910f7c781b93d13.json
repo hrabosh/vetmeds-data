@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QC03DA01",
+        "name": "Spironolactone"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1280",
+        "name": "Spironolactonum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9911265",

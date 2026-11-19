@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI07AD08",
+        "name": "Canine parainfluenza virus vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29626",
+        "name": "Canine parainfluenza virus, strain Cornell, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9904020",

@@ -1,4 +1,44 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI01AE01",
+        "name": "Salmonella vaccine"
+      },
+      {
+        "id": "QI01BE",
+        "name": "Live bacterial vaccines"
+      },
+      {
+        "id": "QI01CE",
+        "name": "Live bacterial vaccines"
+      }
+    ],
+    "species": [
+      {
+        "id": "145",
+        "name": "kur domácí"
+      },
+      {
+        "id": "164",
+        "name": "krůty"
+      },
+      {
+        "id": "170",
+        "name": "kachny"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29155",
+        "name": "Salmonella enterica, subsp. enterica, serovar Enteritidis, strain Sm24/Rif12/Ssq, Live"
+      },
+      {
+        "id": "29258",
+        "name": "Salmonella enterica, subsp. enterica, serovar Typhimurium, strain Nal2/Rif9/Rtt, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9900452",

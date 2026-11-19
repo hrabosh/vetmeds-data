@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QM01AE03",
+        "name": "Ketoprofen"
+      }
+    ],
+    "species": [
+      {
+        "id": "167",
+        "name": "koně"
+      },
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2850",
+        "name": "Ketoprofenum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9901385",

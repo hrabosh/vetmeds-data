@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI09AB02",
+        "name": "Escherichia vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1729",
+        "name": "Escherichia coli, recombinant Shiga toxin 2e"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9906152",

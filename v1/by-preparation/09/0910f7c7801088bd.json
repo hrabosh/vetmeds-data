@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01BA90",
+        "name": "Florfenicol"
+      }
+    ],
+    "species": [
+      {
+        "id": "99",
+        "name": "prasata ve výkrmu"
+      }
+    ],
+    "substances": [
+      {
+        "id": "14061",
+        "name": "Florfenicolum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9934724",

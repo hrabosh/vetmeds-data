@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI02AD07",
+        "name": "Bovine respiratory syncytial virus vaccine + Bovine parainfluenza virus vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29766",
+        "name": "Bovine respiratory syncytial virus, strain 375, Live"
+      },
+      {
+        "id": "29775",
+        "name": "Bovine parainfluenza virus 3, strain RLB103, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9902479",

@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QS02CA03",
+        "name": "Hydrocortisone and antiinfectives"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1087",
+        "name": "Hydrocortisoni aceponas"
+      },
+      {
+        "id": "24863",
+        "name": "Gentamicini sulfas"
+      },
+      {
+        "id": "25429",
+        "name": "Miconazoli nitras"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9901546",

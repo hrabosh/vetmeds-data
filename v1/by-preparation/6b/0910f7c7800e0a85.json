@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01FF02",
+        "name": "Lincomycin"
+      }
+    ],
+    "species": [
+      {
+        "id": "127",
+        "name": "brojleři kura domácího"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "3301",
+        "name": "Lincomycinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9900283",

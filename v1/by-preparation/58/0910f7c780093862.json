@@ -1,4 +1,40 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ51RV01",
+        "name": "Antibacterials and corticosteroids"
+      }
+    ],
+    "species": [
+      {
+        "id": "69",
+        "name": "dojnice v laktaci"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1177",
+        "name": "Prednisolonum"
+      },
+      {
+        "id": "24809",
+        "name": "Dihydrostreptomycini sulfas"
+      },
+      {
+        "id": "24961",
+        "name": "Neomycini sulfas"
+      },
+      {
+        "id": "24987",
+        "name": "Novobiocinum natricum"
+      },
+      {
+        "id": "25049",
+        "name": "Procaini benzylpenicillinum monohydricum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9934807",

@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QH03AA01",
+        "name": "Levothyroxine sodium"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2090",
+        "name": "Levothyroxinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9900895",

@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI01AE01",
+        "name": "Salmonella vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "145",
+        "name": "kur domácí"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1738",
+        "name": "Salmonella enterica, subsp. enterica, serovar Enteritidis, strain CAL10 Sm+/Rif+/Ssq-, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9910273",

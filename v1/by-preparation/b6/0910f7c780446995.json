@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QN01AB08",
+        "name": "Sevoflurane"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1342",
+        "name": "Sevofluranum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9905298",

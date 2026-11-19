@@ -1,4 +1,36 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI07AL01",
+        "name": "Rabies virus + leptospira"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1422",
+        "name": "Leptospira kirschneri, SG Grippotyphosa, SV Grippotyphosa, MSLB 1009, Inactivated"
+      },
+      {
+        "id": "29177",
+        "name": "Rabies virus, strain SAD Vnukovo-32, Inactivated"
+      },
+      {
+        "id": "29483",
+        "name": "Leptospira interrogans, SG Icterohaemorrhagiae, SV Icterohaemorrhagiae, MSLB 1008, Inactivated"
+      },
+      {
+        "id": "29484",
+        "name": "Leptospira interrogans, SG Canicola, SV Canicola, MSLB 1010, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9935302",

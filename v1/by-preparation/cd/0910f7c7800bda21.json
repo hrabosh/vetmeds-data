@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01FA91",
+        "name": "Tilmicosin"
+      }
+    ],
+    "species": [
+      {
+        "id": "128",
+        "name": "odstávčata (odstavená selata)"
+      },
+      {
+        "id": "99",
+        "name": "prasata ve výkrmu"
+      }
+    ],
+    "substances": [
+      {
+        "id": "14630",
+        "name": "Tilmicosinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9934856",

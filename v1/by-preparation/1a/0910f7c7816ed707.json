@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QM01AE03",
+        "name": "Ketoprofen"
+      }
+    ],
+    "species": [
+      {
+        "id": "60",
+        "name": "telata"
+      },
+      {
+        "id": "99",
+        "name": "prasata ve výkrmu"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2850",
+        "name": "Ketoprofenum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9909200",

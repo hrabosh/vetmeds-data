@@ -1,4 +1,40 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QA03DB04",
+        "name": "Butylscopolamine and analgesics"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "167",
+        "name": "koně"
+      },
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "24975",
+        "name": "Metamizolum natricum monohydricum"
+      },
+      {
+        "id": "29221",
+        "name": "Butylscopolaminii bromidum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9904549",

@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI09AL08",
+        "name": "Porcine circovirus + Mycoplasma"
+      }
+    ],
+    "species": [
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1880",
+        "name": "Mycoplasma hyopneumoniae, strain Nexhyon, expressing capsid protein of porcine circovirus 2A, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9909225",

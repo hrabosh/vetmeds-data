@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01AA56",
+        "name": "Oxytetracycline, combinations"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1858",
+        "name": "Oxytetracyclinum"
+      },
+      {
+        "id": "5338",
+        "name": "Flunixinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9906956",

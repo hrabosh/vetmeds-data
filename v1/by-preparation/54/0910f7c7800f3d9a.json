@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QL03AB90",
+        "name": "Interferon omega, feline origin"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1355",
+        "name": "Interferon omega, recombinant, feline"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9934207",

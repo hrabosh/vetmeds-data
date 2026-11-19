@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI06AE02",
+        "name": "Bordetella vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29632",
+        "name": "Bordetella bronchiseptica, strain B-C2, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9700904",

@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI09AB18",
+        "name": "Lawsonia"
+      }
+    ],
+    "species": [
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29317",
+        "name": "Lawsonia intracellularis, strain SPAH-08, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9907738",

@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ51CF04",
+        "name": "Oxacillin"
+      }
+    ],
+    "species": [
+      {
+        "id": "268",
+        "name": "krávy v laktaci"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1802",
+        "name": "Oxacillinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9909054",

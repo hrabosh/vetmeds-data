@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI01AD04",
+        "name": "Chicken anaemia vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "160",
+        "name": "kur domácí od stáří 8 týdnů"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29259",
+        "name": "Chicken anaemia virus, strain CUX-1, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9900520",

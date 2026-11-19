@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI01AB03",
+        "name": "Mycoplasma vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "145",
+        "name": "kur domácí"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2009",
+        "name": "Mycoplasma gallisepticum, strain MG-NEV40, Inactivated"
+      },
+      {
+        "id": "2010",
+        "name": "Mycoplasma gallisepticum, strain MG-NEV45, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9910617",

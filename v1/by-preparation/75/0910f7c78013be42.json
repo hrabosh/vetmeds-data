@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QA07AA93",
+        "name": "Bacitracin"
+      }
+    ],
+    "species": [
+      {
+        "id": "237",
+        "name": "králíci"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1846",
+        "name": "Bacitracinum zincum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9900513",

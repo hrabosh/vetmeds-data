@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QM01AH91",
+        "name": "Robenacoxib"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1217",
+        "name": "Robenacoxibum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9904524",

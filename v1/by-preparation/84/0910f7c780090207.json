@@ -1,4 +1,52 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI07AA02",
+        "name": "Rabies virus vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "167",
+        "name": "koně"
+      },
+      {
+        "id": "17",
+        "name": "kožešinová zvířata"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      },
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "4",
+        "name": "ovce"
+      },
+      {
+        "id": "5",
+        "name": "kozy"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2026",
+        "name": "Rabies virus, strain PV Op VB X/96, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9902047",

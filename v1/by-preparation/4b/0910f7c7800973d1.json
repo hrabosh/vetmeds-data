@@ -1,4 +1,56 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QN01AX03",
+        "name": "Ketamine"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "167",
+        "name": "koně"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      },
+      {
+        "id": "250",
+        "name": "morčata"
+      },
+      {
+        "id": "251",
+        "name": "myši"
+      },
+      {
+        "id": "252",
+        "name": "potkani"
+      },
+      {
+        "id": "4",
+        "name": "ovce"
+      },
+      {
+        "id": "5",
+        "name": "kozy"
+      },
+      {
+        "id": "60",
+        "name": "telata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "4552",
+        "name": "Ketaminum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9938285",

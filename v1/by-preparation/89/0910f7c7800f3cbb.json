@@ -1,4 +1,36 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI06AJ03",
+        "name": "Live feline rhinotracheitis virus + inactivated feline calicivirus antigen + live feline panleucopenia virus _ parvovirus + live chlamydia"
+      }
+    ],
+    "species": [
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1302",
+        "name": "Feline rhinotracheitis virus, strain F2, Live"
+      },
+      {
+        "id": "1303",
+        "name": "Feline calicivirus, strains 431 and G1, Inactivated"
+      },
+      {
+        "id": "1304",
+        "name": "Feline panleucopenia virus, strain PLI IV, Live"
+      },
+      {
+        "id": "1329",
+        "name": "Chlamydia felis, strain 905, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9908026",

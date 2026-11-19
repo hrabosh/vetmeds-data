@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP54AA51",
+        "name": "Ivermectin, combinations"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      }
+    ],
+    "substances": [
+      {
+        "id": "12282",
+        "name": "Clorsulonum"
+      },
+      {
+        "id": "5505",
+        "name": "Ivermectinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9700069",

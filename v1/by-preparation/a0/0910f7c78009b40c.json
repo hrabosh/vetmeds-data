@@ -1,4 +1,44 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI01AE01",
+        "name": "Salmonella vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "145",
+        "name": "kur domácí"
+      },
+      {
+        "id": "164",
+        "name": "krůty"
+      },
+      {
+        "id": "170",
+        "name": "kachny"
+      },
+      {
+        "id": "175",
+        "name": "husy"
+      },
+      {
+        "id": "178",
+        "name": "holubi"
+      },
+      {
+        "id": "185",
+        "name": "bažanti"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2028",
+        "name": "Salmonella enterica, subsp. enterica, serovar Typhimurium, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9935659",

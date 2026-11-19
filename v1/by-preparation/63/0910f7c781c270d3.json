@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI02AB17",
+        "name": "Escherichia + Staphylococcus"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2051",
+        "name": "Staphylococcus aureus, strain DSM 4910, Inactivated"
+      },
+      {
+        "id": "2096",
+        "name": "Escherichia coli, serotype O111, strain J5, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9911186",

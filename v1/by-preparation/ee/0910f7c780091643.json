@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI01AD03",
+        "name": "Avian herpes virus vaccine (Mareks disease)"
+      }
+    ],
+    "species": [
+      {
+        "id": "131",
+        "name": "kur domácí - kuřata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29244",
+        "name": "Turkey herpesvirus, strain FC126, Live"
+      },
+      {
+        "id": "29611",
+        "name": "Marek's disease virus, strain CVI-988 (Rispens), Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9901556",

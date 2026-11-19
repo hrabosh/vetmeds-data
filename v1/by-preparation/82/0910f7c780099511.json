@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI07AL05",
+        "name": "Bordetella + canine parainfluenza virus"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29218",
+        "name": "Canine parainfluenza virus, Inactivated"
+      },
+      {
+        "id": "29754",
+        "name": "Bordetella bronchiseptica, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9960531",

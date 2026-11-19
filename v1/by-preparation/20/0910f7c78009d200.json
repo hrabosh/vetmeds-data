@@ -1,4 +1,56 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QA11JA",
+        "name": "Combinations of vitamins"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "167",
+        "name": "koně"
+      },
+      {
+        "id": "190",
+        "name": "drůbež"
+      },
+      {
+        "id": "237",
+        "name": "králíci"
+      },
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "4",
+        "name": "ovce"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "25075",
+        "name": "Retinoli palmitas"
+      },
+      {
+        "id": "29167",
+        "name": "Tocoferoli alfa acetas"
+      },
+      {
+        "id": "405",
+        "name": "Colecalciferolum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9939120",

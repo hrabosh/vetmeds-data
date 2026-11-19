@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QA11CA02",
+        "name": "Betacarotene"
+      }
+    ],
+    "species": [
+      {
+        "id": "167",
+        "name": "koně"
+      },
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1511",
+        "name": "Betacarotenum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9908595",

@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QM01AH90",
+        "name": "Firocoxib"
+      }
+    ],
+    "species": [
+      {
+        "id": "167",
+        "name": "koně"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1117",
+        "name": "Firocoxibum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9900497",

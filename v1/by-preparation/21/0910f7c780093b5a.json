@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QG03GA99",
+        "name": "Gonadotropins, combinations"
+      }
+    ],
+    "species": [
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1581",
+        "name": "Gonadotrophinum chorionicum"
+      },
+      {
+        "id": "3223",
+        "name": "Gonadotrophinum sericum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9910096",

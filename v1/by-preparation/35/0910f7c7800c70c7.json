@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI07AD01",
+        "name": "Canine parvovirus vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "47",
+        "name": "štěňata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2050",
+        "name": "Canine parvovirus, strain CPV 39, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9939491",

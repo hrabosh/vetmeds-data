@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI01AA22",
+        "name": "Avian infectious bursal (Gumboro) disease virus vaccine + Avian reovirus vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "143",
+        "name": "kur domácí - kuřice před snáškou"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29432",
+        "name": "Infectious bursal disease virus, strain VNJO, Inactivated"
+      },
+      {
+        "id": "29433",
+        "name": "Avian reovirus, strain S1133, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9938689",

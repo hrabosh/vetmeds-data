@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QM01AH91",
+        "name": "Robenacoxib"
+      }
+    ],
+    "species": [
+      {
+        "id": "285",
+        "name": "Psi ve věku 12 měsíců a více"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1353",
+        "name": "Mavacoxibum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9934437",

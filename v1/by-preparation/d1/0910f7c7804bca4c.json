@@ -1,4 +1,36 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QA07AA92",
+        "name": "Apramycin"
+      }
+    ],
+    "species": [
+      {
+        "id": "106",
+        "name": "prasata (po odstavu)"
+      },
+      {
+        "id": "127",
+        "name": "brojleři kura domácího"
+      },
+      {
+        "id": "237",
+        "name": "králíci"
+      },
+      {
+        "id": "78",
+        "name": "neruminující telata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2088",
+        "name": "Apramycinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9906779",

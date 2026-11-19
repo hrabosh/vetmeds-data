@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI08AD",
+        "name": "Live viral vaccines"
+      }
+    ],
+    "species": [
+      {
+        "id": "237",
+        "name": "králíci"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1400",
+        "name": "Myxoma virus, strain 009, expressing capsid protein gene of Rabbit haemorrhagic disease virus, Live"
+      },
+      {
+        "id": "1827",
+        "name": "Myxoma virus, strain MK1899, expressing capsid protein gene of Rabbit haemorrhagic disease virus 2, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9908771",

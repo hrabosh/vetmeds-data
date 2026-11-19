@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI02AD01",
+        "name": "Bovine rhinotracheitis virus vaccine (IBR)"
+      }
+    ],
+    "species": [
+      {
+        "id": "100",
+        "name": "skot cca od 2 týdnů věku"
+      },
+      {
+        "id": "98",
+        "name": "skot od 12 týdnů věku"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1646",
+        "name": "Infectious Bovine rhinotracheitis virus, strain BIO-27, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9907647",

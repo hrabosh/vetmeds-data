@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI01AD06",
+        "name": "Newcastle disease virus _ paramyxovirus"
+      }
+    ],
+    "species": [
+      {
+        "id": "345",
+        "name": "kur domáci-kuřata od 14. dne stáří"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29243",
+        "name": "Newcastle disease virus, strain La Sota, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9909563",

@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI07AL01",
+        "name": "Rabies virus + leptospira"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1459",
+        "name": "Leptospira interrogans, SG Canicola, SV Portland-vere, Ca-12-000, Inactivated"
+      },
+      {
+        "id": "29635",
+        "name": "Leptospira interrogans, SG Icterohaemorrhagiae, SV Copenhageni, 820K, Inactivated"
+      },
+      {
+        "id": "29636",
+        "name": "Rabies virus, strain Pasteur RIV, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9904127",

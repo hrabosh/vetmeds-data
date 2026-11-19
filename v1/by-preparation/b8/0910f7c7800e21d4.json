@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ51RC25",
+        "name": "Penethamate hydroiodide, combinations with other antibacterials"
+      }
+    ],
+    "species": [
+      {
+        "id": "73",
+        "name": "dojnice v období počátku stání na sucho"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1382",
+        "name": "Penethacillini hydroiodidum"
+      },
+      {
+        "id": "1383",
+        "name": "Benethaminum penicillinum"
+      },
+      {
+        "id": "1384",
+        "name": "Framycetini sulfas"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9900831",

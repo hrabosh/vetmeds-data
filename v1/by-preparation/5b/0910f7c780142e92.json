@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI05AX",
+        "name": "Other immunologicals"
+      }
+    ],
+    "species": [
+      {
+        "id": "167",
+        "name": "koně"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1373",
+        "name": "Canarypox virus expressing West Nile virus, Live (vCP2017)"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9900637",

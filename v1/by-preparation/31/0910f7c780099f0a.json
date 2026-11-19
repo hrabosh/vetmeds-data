@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01FA91",
+        "name": "Tilmicosin"
+      }
+    ],
+    "species": [
+      {
+        "id": "237",
+        "name": "králíci"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "14630",
+        "name": "Tilmicosinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9907834",

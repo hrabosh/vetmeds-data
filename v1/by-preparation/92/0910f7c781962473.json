@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QH01AX90",
+        "name": "Capromorelin"
+      }
+    ],
+    "species": [
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1939",
+        "name": "Capromorelini tartras"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9910441",

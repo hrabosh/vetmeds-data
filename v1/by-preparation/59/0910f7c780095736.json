@@ -1,4 +1,48 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QA07CQ01",
+        "name": "Oral electrolytes"
+      }
+    ],
+    "species": [
+      {
+        "id": "60",
+        "name": "telata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29531",
+        "name": "Kalii dihydrogenophosphas"
+      },
+      {
+        "id": "29532",
+        "name": "Natrii hydrogenocitras sesquihydricus"
+      },
+      {
+        "id": "29533",
+        "name": "Kalii citras"
+      },
+      {
+        "id": "29534",
+        "name": "Natrii citras"
+      },
+      {
+        "id": "29535",
+        "name": "Glucosum monohydricum"
+      },
+      {
+        "id": "29869",
+        "name": "Natrii chloridum"
+      },
+      {
+        "id": "52",
+        "name": "Glycinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9900176",

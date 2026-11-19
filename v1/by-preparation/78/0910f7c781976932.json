@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI01AD18",
+        "name": "Avian herpes virus (marek's disease) + avian infectious laryngotracheitis virus + avian infectious bursal disease virus (gumboro) disease"
+      }
+    ],
+    "species": [
+      {
+        "id": "264",
+        "name": "kur domácí - jednodenní kuřata a kuřecí embrya v 18. dnu věku"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1941",
+        "name": "Turkey herpesvirus, strain HVT/IBD/ILT (cell-associated), expressing VP2 protein gene of Infectious bursal disease virus and gD and gI glycoproteins genes of Infectious laryngotracheitis virus, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9910458",

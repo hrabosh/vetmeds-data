@@ -1,4 +1,36 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI06AX",
+        "name": "Other immunologicals"
+      }
+    ],
+    "species": [
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2128",
+        "name": "Feline leukemia virus (FeLV) self-amplifying RNA (saRNA)-particle"
+      },
+      {
+        "id": "29405",
+        "name": "Feline calicivirus, strain F9, Live"
+      },
+      {
+        "id": "29627",
+        "name": "Feline rhinotracheitis virus, strain G2620A, Live"
+      },
+      {
+        "id": "29629",
+        "name": "Feline panleucopenia virus, strain MW-1, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9701022",

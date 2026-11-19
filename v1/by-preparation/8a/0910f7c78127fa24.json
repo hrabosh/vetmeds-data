@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI09AA07",
+        "name": "Porcine circovirus vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "99",
+        "name": "prasata ve výkrmu"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1350",
+        "name": "Porcine circovirus type 1 expressing the Porcine circovirus type 2 ORF2 protein, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9906502",

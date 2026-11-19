@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI10AB04",
+        "name": "Yersinia"
+      }
+    ],
+    "species": [
+      {
+        "id": "243",
+        "name": "losos atlantský (Salmo salar)"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2057",
+        "name": "Yersinia ruckeri, serotype O1, biotype 1, strain 8363, Inactivated"
+      },
+      {
+        "id": "2058",
+        "name": "Yersinia ruckeri, serotype O2, biotype 1, strain 8365, Inactivated"
+      },
+      {
+        "id": "2059",
+        "name": "Yersinia ruckeri, serotype O1, biotype 2, strain 8302, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9700058",

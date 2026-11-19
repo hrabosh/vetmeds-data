@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI09AB02",
+        "name": "Escherichia vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "6",
+        "name": "prasata"
+      },
+      {
+        "id": "88",
+        "name": "selata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2087",
+        "name": "Escherichia coli, Shiga toxin 2e, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9934827",

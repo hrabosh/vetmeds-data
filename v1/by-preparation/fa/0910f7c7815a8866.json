@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP51AX08",
+        "name": "Halofuginone"
+      }
+    ],
+    "species": [
+      {
+        "id": "64",
+        "name": "novorozená telata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1145",
+        "name": "Halofuginonum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9908810",

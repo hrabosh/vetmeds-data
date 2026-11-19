@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI02AB",
+        "name": "Inactivated bacterial vaccines (including Mycoplasma, Toxoid and Chlamydia vaccines)"
+      }
+    ],
+    "species": [
+      {
+        "id": "93",
+        "name": "skot-telata od stáří 2 měsíců"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29468",
+        "name": "Mannheimia haemolytica, serotype A1, leucotoxoid"
+      },
+      {
+        "id": "29469",
+        "name": "Histophilus somni, strain Bailie, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9936527",

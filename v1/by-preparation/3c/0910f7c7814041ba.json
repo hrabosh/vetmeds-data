@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP51BC51",
+        "name": "Toltrazuril, combinations"
+      }
+    ],
+    "species": [
+      {
+        "id": "296",
+        "name": "selata 48 až 72 hodin po narození"
+      }
+    ],
+    "substances": [
+      {
+        "id": "12884",
+        "name": "Toltrazurilum"
+      },
+      {
+        "id": "26223",
+        "name": "Ferrum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9907381",

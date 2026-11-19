@@ -1,4 +1,56 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QB03AE10",
+        "name": "Various combinations"
+      }
+    ],
+    "species": [
+      {
+        "id": "88",
+        "name": "selata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "242",
+        "name": "Calcii pantothenas"
+      },
+      {
+        "id": "25070",
+        "name": "Pyridoxini hydrochloridum"
+      },
+      {
+        "id": "25127",
+        "name": "Thiamini hydrochloridum"
+      },
+      {
+        "id": "2637",
+        "name": "Riboflavinum"
+      },
+      {
+        "id": "29407",
+        "name": "Dextraferranum"
+      },
+      {
+        "id": "29425",
+        "name": "PORCINE NORMAL IMMUNOGLOBULIN"
+      },
+      {
+        "id": "29426",
+        "name": "Cupri chloridum"
+      },
+      {
+        "id": "29427",
+        "name": "Cobaltosi chloridum"
+      },
+      {
+        "id": "969",
+        "name": "Nicotinamidum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9909595",

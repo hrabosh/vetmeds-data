@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QM09AX90",
+        "name": "Equine stem cells"
+      }
+    ],
+    "species": [
+      {
+        "id": "167",
+        "name": "koně"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1925",
+        "name": "Equine allogeneic peripheral blood-derived mesenchymal stem cells, tenogenic primed (tpMSCs)"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9909902",

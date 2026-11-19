@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ51DD12",
+        "name": "Cefoperazone"
+      }
+    ],
+    "species": [
+      {
+        "id": "69",
+        "name": "dojnice v laktaci"
+      }
+    ],
+    "substances": [
+      {
+        "id": "4475",
+        "name": "Cefoperazonum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9902381",

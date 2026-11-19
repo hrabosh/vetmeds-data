@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QN01BB52",
+        "name": "Lidocaine, combinations"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "25636",
+        "name": "Lidocaini hydrochloridum"
+      },
+      {
+        "id": "29550",
+        "name": "Norepinephrini hydrogentartras monohydricus"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9939908",

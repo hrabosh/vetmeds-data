@@ -1,4 +1,44 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI02AL01",
+        "name": "Bovine rotavirus + bovine coronavirus + escherichia"
+      }
+    ],
+    "species": [
+      {
+        "id": "62",
+        "name": "krávy"
+      },
+      {
+        "id": "65",
+        "name": "březí jalovice"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29541",
+        "name": "Escherichia coli, serotype O8:K35, fimbrial adhesin F5, Inactivated"
+      },
+      {
+        "id": "29542",
+        "name": "Escherichia coli, serotype O9:K35, fimbrial adhesin F5, Inactivated"
+      },
+      {
+        "id": "29543",
+        "name": "Escherichia coli, serotype O101:K30, fimbrial adhesin F5, Inactivated"
+      },
+      {
+        "id": "29785",
+        "name": "Bovine rotavirus, strain TM-91, Inactivated"
+      },
+      {
+        "id": "29786",
+        "name": "Bovine coronavirus, strain C-197, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9700001",

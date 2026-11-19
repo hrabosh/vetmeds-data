@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI07AA02",
+        "name": "Rabies virus vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29177",
+        "name": "Rabies virus, strain SAD Vnukovo-32, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9908012",

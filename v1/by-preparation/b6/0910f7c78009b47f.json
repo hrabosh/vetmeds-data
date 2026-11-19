@@ -1,4 +1,48 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QG03GA03",
+        "name": "Serum gonadotrophin"
+      }
+    ],
+    "species": [
+      {
+        "id": "21",
+        "name": "feny"
+      },
+      {
+        "id": "240",
+        "name": "ramlice"
+      },
+      {
+        "id": "4",
+        "name": "ovce"
+      },
+      {
+        "id": "5",
+        "name": "kozy"
+      },
+      {
+        "id": "62",
+        "name": "krávy"
+      },
+      {
+        "id": "79",
+        "name": "jalovice"
+      },
+      {
+        "id": "89",
+        "name": "prasnice"
+      }
+    ],
+    "substances": [
+      {
+        "id": "3223",
+        "name": "Gonadotrophinum sericum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9936372",

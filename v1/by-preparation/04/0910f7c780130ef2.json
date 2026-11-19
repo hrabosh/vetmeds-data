@@ -1,4 +1,40 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP54AA01",
+        "name": "Ivermectin"
+      }
+    ],
+    "species": [
+      {
+        "id": "35",
+        "name": "mufloní zvěř"
+      },
+      {
+        "id": "38",
+        "name": "divoká prasata"
+      },
+      {
+        "id": "39",
+        "name": "daňci"
+      },
+      {
+        "id": "40",
+        "name": "jeleni"
+      },
+      {
+        "id": "42",
+        "name": "srnci"
+      }
+    ],
+    "substances": [
+      {
+        "id": "5505",
+        "name": "Ivermectinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9900760",

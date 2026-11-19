@@ -1,4 +1,40 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QG02AD90",
+        "name": "Cloprostenol"
+      }
+    ],
+    "species": [
+      {
+        "id": "167",
+        "name": "koně"
+      },
+      {
+        "id": "183",
+        "name": "osli"
+      },
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "5",
+        "name": "kozy"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "3668",
+        "name": "Cloprostenolum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9938094",

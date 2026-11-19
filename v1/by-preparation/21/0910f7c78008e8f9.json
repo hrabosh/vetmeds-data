@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01AA03",
+        "name": "Chlortetracycline"
+      }
+    ],
+    "species": [
+      {
+        "id": "190",
+        "name": "drůbež"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      },
+      {
+        "id": "60",
+        "name": "telata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "332",
+        "name": "Chlortetracyclinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9934869",

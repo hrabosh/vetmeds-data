@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QD06AA02",
+        "name": "Chlortetracycline"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "4",
+        "name": "ovce"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "24740",
+        "name": "Chlortetracyclini hydrochloridum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9935534",

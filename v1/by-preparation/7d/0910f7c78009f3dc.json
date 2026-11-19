@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP52AC57",
+        "name": "Oxibendazole, combinations"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29858",
+        "name": "Niclosamidum"
+      },
+      {
+        "id": "9529",
+        "name": "Oxibendazolum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9935431",

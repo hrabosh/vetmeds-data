@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QN05CM91",
+        "name": "Medetomidine"
+      }
+    ],
+    "species": [
+      {
+        "id": "308",
+        "name": "lvi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2053",
+        "name": "Medetomidinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9700175",

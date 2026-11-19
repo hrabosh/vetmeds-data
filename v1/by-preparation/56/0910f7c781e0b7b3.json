@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI04AA02",
+        "name": "Bluetongue virus vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "4",
+        "name": "ovce"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2046",
+        "name": "Bluetongue virus, serotype 3, strain BTV-3/NET2023, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9700064",

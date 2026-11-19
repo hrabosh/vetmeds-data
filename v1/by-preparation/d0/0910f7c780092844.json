@@ -1,4 +1,52 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QB03AC",
+        "name": "Iron, parenteral preparations"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "16",
+        "name": "norci"
+      },
+      {
+        "id": "167",
+        "name": "koně"
+      },
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "32",
+        "name": "lišky"
+      },
+      {
+        "id": "4",
+        "name": "ovce"
+      },
+      {
+        "id": "5",
+        "name": "kozy"
+      },
+      {
+        "id": "88",
+        "name": "selata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29407",
+        "name": "Dextraferranum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9900966",

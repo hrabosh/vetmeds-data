@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI02AO02",
+        "name": "Cryptosporidium"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2002",
+        "name": "Cryptosporidium parvum, glycoprotein gp40"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9910556",

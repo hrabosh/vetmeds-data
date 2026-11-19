@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QS01XA18",
+        "name": "Ciclosporin"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "4132",
+        "name": "Ciclosporinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9938457",

@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ51RF03",
+        "name": "Lincomycin, combinations with other antibacterials"
+      }
+    ],
+    "species": [
+      {
+        "id": "69",
+        "name": "dojnice v laktaci"
+      }
+    ],
+    "substances": [
+      {
+        "id": "24961",
+        "name": "Neomycini sulfas"
+      },
+      {
+        "id": "3301",
+        "name": "Lincomycinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9904631",

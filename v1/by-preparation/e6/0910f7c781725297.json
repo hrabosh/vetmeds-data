@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI07AB03",
+        "name": "Bordetella vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1823",
+        "name": "Bordetella bronchiseptica, strain Bb7 92932, fimbriae"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9908802",

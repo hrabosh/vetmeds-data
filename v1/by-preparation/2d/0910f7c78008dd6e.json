@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI07AB04",
+        "name": "Borrelia vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2042",
+        "name": "Borreliella garinii, strain BR14, Inactivated"
+      },
+      {
+        "id": "2043",
+        "name": "Borreliella afzelii, strain BR33, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9938715",

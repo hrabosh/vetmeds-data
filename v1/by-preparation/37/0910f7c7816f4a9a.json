@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI02AA08",
+        "name": "Bluetongue virus"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "4",
+        "name": "ovce"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2114",
+        "name": "Bluetongue virus, serotype 4, strain Bio-29:BTV 4, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9909647",

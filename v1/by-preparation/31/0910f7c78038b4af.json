@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01XD01",
+        "name": "Metronidazole"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "939",
+        "name": "Metronidazolum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9904998",

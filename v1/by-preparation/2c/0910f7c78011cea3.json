@@ -1,4 +1,44 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI02AB03",
+        "name": "Leptospira"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1420",
+        "name": "Leptospira interrogans, SG Icterohaemorrhagiae, SV Icterohaemorrhagiae, MSLB 1041, Inactivated"
+      },
+      {
+        "id": "1486",
+        "name": "Leptospira interrogans, SG Pomona, SV Pomona, MSLB 1037, Inactivated"
+      },
+      {
+        "id": "1487",
+        "name": "Leptospira interrogans, SG Sejroe, SV Hardjo-prajitno, Inactivated"
+      },
+      {
+        "id": "1488",
+        "name": "Leptospira interrogans, SG Sejroe, SV Hardjo-bovis, Inactivated"
+      },
+      {
+        "id": "1563",
+        "name": "Leptospira interrogans, SG Grippotyphosa, SV Grippotyphosa, MSLB 1042, Inactivated"
+      },
+      {
+        "id": "29293",
+        "name": "Leptospira interrogans, SG Canicola, SV Canicola, MSLB 1043, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9900311",

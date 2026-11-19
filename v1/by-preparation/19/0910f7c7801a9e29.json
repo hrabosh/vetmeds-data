@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP52AF02",
+        "name": "Pyrantel"
+      }
+    ],
+    "species": [
+      {
+        "id": "167",
+        "name": "koně"
+      }
+    ],
+    "substances": [
+      {
+        "id": "25487",
+        "name": "Pyranteli embonas"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9902806",

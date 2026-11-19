@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01FA94",
+        "name": "Tulathromycin"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1091",
+        "name": "Tulathromycinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9908437",

@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QN05CM91",
+        "name": "Medetomidine"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "26737",
+        "name": "Medetomidini hydrochloridum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9936121",

@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI02AA01",
+        "name": "Bovine viral diarrhea vaccine (BVD)"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1674",
+        "name": "Bovine viral diarrhoea virus 1, strain C-86, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9909209",

@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI01EA",
+        "name": "Inactivated viral vaccines"
+      }
+    ],
+    "species": [
+      {
+        "id": "178",
+        "name": "holubi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29494",
+        "name": "Newcastle disease virus, strain La Sota, Inactivated"
+      },
+      {
+        "id": "29668",
+        "name": "Pigeon herpesvirus, strain V298/70, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9938617",

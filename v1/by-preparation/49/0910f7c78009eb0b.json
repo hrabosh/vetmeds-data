@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP53AD01",
+        "name": "Amitraz"
+      }
+    ],
+    "species": [
+      {
+        "id": "15",
+        "name": "včelstva včely medonosné(Apis mellifica)"
+      }
+    ],
+    "substances": [
+      {
+        "id": "12189",
+        "name": "Amitrazum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9935303",

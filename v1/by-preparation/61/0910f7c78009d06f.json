@@ -1,4 +1,40 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01FA91",
+        "name": "Tilmicosin"
+      }
+    ],
+    "species": [
+      {
+        "id": "124",
+        "name": "kuřice"
+      },
+      {
+        "id": "127",
+        "name": "brojleři kura domácího"
+      },
+      {
+        "id": "164",
+        "name": "krůty"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      },
+      {
+        "id": "60",
+        "name": "telata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "14630",
+        "name": "Tilmicosinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9905890",

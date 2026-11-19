@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP53AX73",
+        "name": "Pyriproxyfen, combinations"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29272",
+        "name": "Pyriproxyfenum"
+      },
+      {
+        "id": "29588",
+        "name": "Cypermethrinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9934825",

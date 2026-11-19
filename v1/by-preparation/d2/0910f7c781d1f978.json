@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP52AA51",
+        "name": "Praziquantel, combinations"
+      }
+    ],
+    "species": [
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "10229",
+        "name": "Praziquantelum"
+      },
+      {
+        "id": "1281",
+        "name": "Emodepsidum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9700329",

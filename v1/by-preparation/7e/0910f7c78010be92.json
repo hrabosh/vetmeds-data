@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP52AC30",
+        "name": "Combinations of benzimidazoles and related substances"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "10229",
+        "name": "Praziquantelum"
+      },
+      {
+        "id": "5472",
+        "name": "Fenbendazolum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9900430",

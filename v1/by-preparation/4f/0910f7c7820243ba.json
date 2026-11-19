@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QM01AX90",
+        "name": "Pentosan polysulfate sodium"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1821",
+        "name": "Natrii pentosani polysulfas"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9701047",

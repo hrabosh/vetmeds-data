@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01MA97",
+        "name": "Pradofloxacin"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1317",
+        "name": "Pradofloxacinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9900411",

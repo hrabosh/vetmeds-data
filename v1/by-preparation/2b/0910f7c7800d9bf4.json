@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP51BC01",
+        "name": "Toltrazuril"
+      }
+    ],
+    "species": [
+      {
+        "id": "112",
+        "name": "telata (na mléčných farmách)"
+      },
+      {
+        "id": "136",
+        "name": "novorozená selata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "12884",
+        "name": "Toltrazurilum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9906513",

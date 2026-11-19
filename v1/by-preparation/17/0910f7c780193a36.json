@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP54AA51",
+        "name": "Ivermectin, combinations"
+      }
+    ],
+    "species": [
+      {
+        "id": "167",
+        "name": "koně"
+      }
+    ],
+    "substances": [
+      {
+        "id": "10229",
+        "name": "Praziquantelum"
+      },
+      {
+        "id": "5505",
+        "name": "Ivermectinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9903151",

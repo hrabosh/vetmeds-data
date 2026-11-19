@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI09AA07",
+        "name": "Porcine circovirus vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "88",
+        "name": "selata"
+      },
+      {
+        "id": "89",
+        "name": "prasnice"
+      },
+      {
+        "id": "91",
+        "name": "prasničky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1084",
+        "name": "Porcine circovirus 2, strain 1010, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9906157",

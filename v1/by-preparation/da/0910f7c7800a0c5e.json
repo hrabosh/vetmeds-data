@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QG03GA99",
+        "name": "Gonadotropins, combinations"
+      }
+    ],
+    "species": [
+      {
+        "id": "89",
+        "name": "prasnice"
+      },
+      {
+        "id": "91",
+        "name": "prasničky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1581",
+        "name": "Gonadotrophinum chorionicum"
+      },
+      {
+        "id": "3223",
+        "name": "Gonadotrophinum sericum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9936417",

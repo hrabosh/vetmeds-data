@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP54AA05",
+        "name": "Selamectin"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1346",
+        "name": "Selamectinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9906840",

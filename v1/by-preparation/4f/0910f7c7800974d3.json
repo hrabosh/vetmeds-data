@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI01AD04",
+        "name": "Chicken anaemia vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "145",
+        "name": "kur domácí"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29590",
+        "name": "Chicken anaemia virus, strain 26P4, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9937209",

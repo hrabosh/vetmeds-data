@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI02AX",
+        "name": "Other immunologicals"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29505",
+        "name": "Polyclonal immunoglobulins, Bovine"
+      },
+      {
+        "id": "4409",
+        "name": "Lysinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9999420",

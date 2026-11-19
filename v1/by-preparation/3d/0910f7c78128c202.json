@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI01AD06",
+        "name": "Newcastle disease virus _ paramyxovirus"
+      }
+    ],
+    "species": [
+      {
+        "id": "131",
+        "name": "kur domácí - kuřata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29607",
+        "name": "Newcastle disease virus, strain B1 Hitchner, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9700648",

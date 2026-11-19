@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI09AB07",
+        "name": "Actinobacillus_Haemophilus"
+      }
+    ],
+    "species": [
+      {
+        "id": "6",
+        "name": "prasata"
+      },
+      {
+        "id": "89",
+        "name": "prasnice"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29694",
+        "name": "Haemophilus parasuis, serotype 5, strain 4800, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9935558",

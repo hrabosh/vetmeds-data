@@ -1,4 +1,36 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QS02CA01",
+        "name": "Prednisolone and antiinfectives"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "25043",
+        "name": "Prednisoloni acetas"
+      },
+      {
+        "id": "25429",
+        "name": "Miconazoli nitras"
+      },
+      {
+        "id": "29573",
+        "name": "Polymyxini B sulfas"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9901561",

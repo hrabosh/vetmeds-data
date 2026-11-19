@@ -1,4 +1,96 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QN51AA01",
+        "name": "Pentobarbital"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "10",
+        "name": "plazi"
+      },
+      {
+        "id": "145",
+        "name": "kur domácí"
+      },
+      {
+        "id": "16",
+        "name": "norci"
+      },
+      {
+        "id": "167",
+        "name": "koně"
+      },
+      {
+        "id": "178",
+        "name": "holubi"
+      },
+      {
+        "id": "186",
+        "name": "poníci"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      },
+      {
+        "id": "237",
+        "name": "králíci"
+      },
+      {
+        "id": "250",
+        "name": "morčata"
+      },
+      {
+        "id": "251",
+        "name": "myši"
+      },
+      {
+        "id": "252",
+        "name": "potkani"
+      },
+      {
+        "id": "255",
+        "name": "křečci"
+      },
+      {
+        "id": "27",
+        "name": "tchoři"
+      },
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "305",
+        "name": "žáby"
+      },
+      {
+        "id": "43",
+        "name": "zajíci"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      },
+      {
+        "id": "9",
+        "name": "okrasní ptáci"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1490",
+        "name": "Pentobarbitalum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9908441",

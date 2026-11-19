@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP54AB51",
+        "name": "Milbemycin oxime, combinations"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1546",
+        "name": "Fluralanerum"
+      },
+      {
+        "id": "29569",
+        "name": "Milbemycinoximum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9700432",

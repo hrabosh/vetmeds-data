@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01BA90",
+        "name": "Florfenicol"
+      }
+    ],
+    "species": [
+      {
+        "id": "145",
+        "name": "kur domácí"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "14061",
+        "name": "Florfenicolum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9700654",

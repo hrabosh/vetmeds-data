@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QM01AG02",
+        "name": "Tolfenamic acid"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2045",
+        "name": "Acidum tolfenamicum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9909312",

@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI07AA",
+        "name": "Inactivated viral vaccines"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2052",
+        "name": "Canine coronavirus, strain Bio17, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9938532",

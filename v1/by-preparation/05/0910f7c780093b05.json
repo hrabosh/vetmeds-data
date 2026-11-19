@@ -1,4 +1,40 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QA07AA99",
+        "name": "Antibiotics, combinations"
+      }
+    ],
+    "species": [
+      {
+        "id": "64",
+        "name": "novorozená telata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "25118",
+        "name": "Tetracyclini hydrochloridum"
+      },
+      {
+        "id": "25184",
+        "name": "Retinoli acetas"
+      },
+      {
+        "id": "29167",
+        "name": "Tocoferoli alfa acetas"
+      },
+      {
+        "id": "29505",
+        "name": "Polyclonal immunoglobulins, Bovine"
+      },
+      {
+        "id": "405",
+        "name": "Colecalciferolum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9936640",

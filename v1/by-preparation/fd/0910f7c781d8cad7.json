@@ -1,4 +1,36 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI01AA13",
+        "name": "Newcastle disease virus _ paramyxovirus vaccine + Avian infectious bronchitis virus vaccine  + Avian adenovirus vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "145",
+        "name": "kur domácí"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1747",
+        "name": "Avian infectious bronchitis virus, type 793/B, strain 4-91, Inactivated"
+      },
+      {
+        "id": "1826",
+        "name": "Newcastle disease virus, strain Ulster, Inactivated"
+      },
+      {
+        "id": "29594",
+        "name": "Egg drop syndrome '76 virus, strain BC14, Inactivated"
+      },
+      {
+        "id": "29598",
+        "name": "Avian infectious bronchitis virus, type Massachusetts, strain M41, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9700139",

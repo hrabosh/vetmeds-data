@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QM01AE90",
+        "name": "Vedaprofen"
+      }
+    ],
+    "species": [
+      {
+        "id": "167",
+        "name": "koně"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1330",
+        "name": "Vedaprofenum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9906062",

@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI09AL",
+        "name": "Inactivated viral and inactivated bacterial vaccines"
+      }
+    ],
+    "species": [
+      {
+        "id": "99",
+        "name": "prasata ve výkrmu"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1350",
+        "name": "Porcine circovirus type 1 expressing the Porcine circovirus type 2 ORF2 protein, Inactivated"
+      },
+      {
+        "id": "29849",
+        "name": "Mycoplasma hyopneumoniae, strain P-5722-3, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9904682",

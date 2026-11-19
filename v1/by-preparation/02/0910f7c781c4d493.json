@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QS02CA90",
+        "name": "Betamethasone and antiinfectives"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1612",
+        "name": "Terbinafinum"
+      },
+      {
+        "id": "1613",
+        "name": "Betamethasoni acetas"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9911318",

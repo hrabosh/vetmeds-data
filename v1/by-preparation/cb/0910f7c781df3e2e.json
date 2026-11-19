@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP53AC55",
+        "name": "Flumethrin, combinations"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29166",
+        "name": "Imidaclopridum"
+      },
+      {
+        "id": "29518",
+        "name": "Flumethrinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9700793",

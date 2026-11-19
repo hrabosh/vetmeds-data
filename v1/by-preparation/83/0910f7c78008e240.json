@@ -1,4 +1,48 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI09AL",
+        "name": "Inactivated viral and inactivated bacterial vaccines"
+      }
+    ],
+    "species": [
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1420",
+        "name": "Leptospira interrogans, SG Icterohaemorrhagiae, SV Icterohaemorrhagiae, MSLB 1041, Inactivated"
+      },
+      {
+        "id": "1486",
+        "name": "Leptospira interrogans, SG Pomona, SV Pomona, MSLB 1037, Inactivated"
+      },
+      {
+        "id": "1561",
+        "name": "Leptospira interrogans, SG Sejroe, SV Hardjo, MSLB 1039, Inactivated"
+      },
+      {
+        "id": "1562",
+        "name": "Leptospira interrogans, SG Australis, SV Bratislava, MSLB 1040, Inactivated"
+      },
+      {
+        "id": "1563",
+        "name": "Leptospira interrogans, SG Grippotyphosa, SV Grippotyphosa, MSLB 1042, Inactivated"
+      },
+      {
+        "id": "29293",
+        "name": "Leptospira interrogans, SG Canicola, SV Canicola, MSLB 1043, Inactivated"
+      },
+      {
+        "id": "29653",
+        "name": "Porcine parvovirus, strain CAPM V198 S-27, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9909910",

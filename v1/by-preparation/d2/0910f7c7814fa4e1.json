@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01FA91",
+        "name": "Tilmicosin"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "4",
+        "name": "ovce"
+      }
+    ],
+    "substances": [
+      {
+        "id": "14630",
+        "name": "Tilmicosinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9909061",

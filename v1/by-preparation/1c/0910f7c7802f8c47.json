@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI01AD",
+        "name": "Live viral vaccines"
+      }
+    ],
+    "species": [
+      {
+        "id": "145",
+        "name": "kur domácí"
+      },
+      {
+        "id": "293",
+        "name": "embryonovaná vejce"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1655",
+        "name": "Turkey herpesvirus, strain rHVT/ND (cell-associated), expressing fusion protein gene of Newcastle disease virus (strain D-26), Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9904601",

@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QM01AA90",
+        "name": "Suxibuzone"
+      }
+    ],
+    "species": [
+      {
+        "id": "167",
+        "name": "koně"
+      },
+      {
+        "id": "186",
+        "name": "poníci"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1335",
+        "name": "Suxibuzonum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9901093",

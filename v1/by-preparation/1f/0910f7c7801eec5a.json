@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01FF01",
+        "name": "Clindamycin"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "5387",
+        "name": "Clindamycinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9903568",

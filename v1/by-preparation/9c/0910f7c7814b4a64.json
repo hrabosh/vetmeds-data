@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI01AD09",
+        "name": "Avian infectious bursal disease virus vaccine  (Gumboro disease)"
+      }
+    ],
+    "species": [
+      {
+        "id": "131",
+        "name": "kur domácí - kuřata"
+      },
+      {
+        "id": "293",
+        "name": "embryonovaná vejce"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1811",
+        "name": "Infectious bursal disease virus, strain 1052, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9700886",

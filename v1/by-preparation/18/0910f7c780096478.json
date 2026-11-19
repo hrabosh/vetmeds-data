@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QA07AA10",
+        "name": "Colistin"
+      }
+    ],
+    "species": [
+      {
+        "id": "127",
+        "name": "brojleři kura domácího"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "24756",
+        "name": "Colistini sulfas"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9909262",

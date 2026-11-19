@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01FA92",
+        "name": "Tylvalosin"
+      }
+    ],
+    "species": [
+      {
+        "id": "145",
+        "name": "kur domácí"
+      },
+      {
+        "id": "164",
+        "name": "krůty"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1073",
+        "name": "Tylvalosinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9903505",

@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP53AC54",
+        "name": "Permethrin, combinations"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "12763",
+        "name": "Permethrinum, cis:trans 40:60"
+      },
+      {
+        "id": "1544",
+        "name": "Dinotefuranum"
+      },
+      {
+        "id": "29272",
+        "name": "Pyriproxyfenum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9902937",

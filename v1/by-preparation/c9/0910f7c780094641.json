@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01FA02",
+        "name": "Spiramycin"
+      }
+    ],
+    "species": [
+      {
+        "id": "127",
+        "name": "brojleři kura domácího"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1843",
+        "name": "Spiramycinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9938740",

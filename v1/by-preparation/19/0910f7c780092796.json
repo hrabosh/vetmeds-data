@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ51XX01",
+        "name": "Rifaximin"
+      }
+    ],
+    "species": [
+      {
+        "id": "12",
+        "name": "buvolí krávy"
+      },
+      {
+        "id": "70",
+        "name": "dojnice v období stání na sucho"
+      }
+    ],
+    "substances": [
+      {
+        "id": "12294",
+        "name": "Rifaximinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9936742",

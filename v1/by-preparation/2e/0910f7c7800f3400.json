@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI06AA01",
+        "name": "Feline leukaemia virus vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1198",
+        "name": "Feline leukemia virus, envelope P45 protein"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9934522",

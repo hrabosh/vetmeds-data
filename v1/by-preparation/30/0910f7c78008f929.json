@@ -1,4 +1,40 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QH02AB02",
+        "name": "Dexamethasone"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "167",
+        "name": "koně"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      },
+      {
+        "id": "3",
+        "name": "skot"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1557",
+        "name": "Dexamethasoni phenylpropionas"
+      },
+      {
+        "id": "24776",
+        "name": "Dexamethasoni natrii phosphas"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9969993",

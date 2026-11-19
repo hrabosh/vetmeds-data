@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QH01CA95",
+        "name": "Peforelin"
+      }
+    ],
+    "species": [
+      {
+        "id": "89",
+        "name": "prasnice"
+      },
+      {
+        "id": "91",
+        "name": "prasničky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "23212",
+        "name": "Peforelinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9936520",

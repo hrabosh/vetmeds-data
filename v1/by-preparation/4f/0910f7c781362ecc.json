@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QA06AD11",
+        "name": "Lactulose"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1766",
+        "name": "Lactulosum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9907748",

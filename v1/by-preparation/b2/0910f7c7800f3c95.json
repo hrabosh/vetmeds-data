@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI06AD07",
+        "name": "Feline leukaemia, recombinant live canarypox virus"
+      }
+    ],
+    "species": [
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1300",
+        "name": "Canarypox virus expressing Feline leukemia virus, Live (vCP97)"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9908009",

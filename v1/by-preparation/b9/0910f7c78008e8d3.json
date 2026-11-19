@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QA12AX",
+        "name": "Calcium, combinations with vitamin D and-or other drugs"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29239",
+        "name": "Calcii gluconas monohydricus"
+      },
+      {
+        "id": "29885",
+        "name": "Magnesii hypophosphis hexahydricus"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9906909",

@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01RA04",
+        "name": "Spiramycin and metronidazole"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1843",
+        "name": "Spiramycinum"
+      },
+      {
+        "id": "939",
+        "name": "Metronidazolum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9966300",

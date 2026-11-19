@@ -1,4 +1,48 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QA12AA20",
+        "name": "Calcium (different salts in combination)"
+      }
+    ],
+    "species": [
+      {
+        "id": "167",
+        "name": "koně"
+      },
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "4",
+        "name": "ovce"
+      },
+      {
+        "id": "5",
+        "name": "kozy"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29157",
+        "name": "Calcii gluconas"
+      },
+      {
+        "id": "29885",
+        "name": "Magnesii hypophosphis hexahydricus"
+      },
+      {
+        "id": "29886",
+        "name": "Calcii acetas"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9908588",

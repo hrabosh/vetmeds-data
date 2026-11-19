@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI09AA03",
+        "name": "Porcine influenza virus vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1724",
+        "name": "Influenza A virus/human, strain A/Jena/VI5258/2009 (H1N1)pdm09, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9700898",

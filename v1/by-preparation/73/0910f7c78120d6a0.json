@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP53AG30",
+        "name": "Combinations"
+      }
+    ],
+    "species": [
+      {
+        "id": "373",
+        "name": "včely"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1607",
+        "name": "Acidum formicum"
+      },
+      {
+        "id": "1718",
+        "name": "Acidum oxalicum dihydricum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9905856",

@@ -1,4 +1,36 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI01AN01",
+        "name": "Coccidia vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "145",
+        "name": "kur domácí"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1972",
+        "name": "Eimeria acervulina, strain RA 3+20, Live"
+      },
+      {
+        "id": "1976",
+        "name": "Eimeria maxima, strain MCK +10, Live"
+      },
+      {
+        "id": "1979",
+        "name": "Eimeria mitis, strain Jormit 3+9, Live"
+      },
+      {
+        "id": "1985",
+        "name": "Eimeria tenella, strain Rt 3+15, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9905112",

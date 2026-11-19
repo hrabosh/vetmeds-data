@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QL01XX91",
+        "name": "Tigilanol tiglate"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1775",
+        "name": "Tigilanoli tiglas"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9908166",

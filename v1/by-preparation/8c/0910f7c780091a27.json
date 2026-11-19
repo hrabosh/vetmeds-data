@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ51DE90",
+        "name": "Cefquinome"
+      }
+    ],
+    "species": [
+      {
+        "id": "268",
+        "name": "krávy v laktaci"
+      }
+    ],
+    "substances": [
+      {
+        "id": "14808",
+        "name": "Cefquinomum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9939958",

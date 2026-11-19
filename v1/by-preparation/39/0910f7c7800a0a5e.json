@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI01CA02",
+        "name": "Turkey paramyxovirus vaccine + Turkey rhinotracheitis virus vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "164",
+        "name": "krůty"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29434",
+        "name": "Newcastle disease virus, strain Ulster 2C, Inactivated"
+      },
+      {
+        "id": "29440",
+        "name": "Turkey rhinotracheitis virus, strain VCO3, Inactivated"
+      },
+      {
+        "id": "29875",
+        "name": "Avian paramyxovirus 3, strain PMV3, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9902180",

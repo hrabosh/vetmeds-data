@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QD08AC52",
+        "name": "Chlorhexidine, combinations"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1044",
+        "name": "Chlorhexidini digluconas"
+      },
+      {
+        "id": "25429",
+        "name": "Miconazoli nitras"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9904034",

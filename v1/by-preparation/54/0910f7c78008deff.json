@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI06AA04",
+        "name": "Feline rhinotracheitis virus vaccine + Feline calicivirus vaccine + Feline panleucopenia virus _ parvovirus vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29183",
+        "name": "Feline panleucopenia virus, strain FPV Bio 7, Inactivated"
+      },
+      {
+        "id": "29184",
+        "name": "Feline rhinotracheitis virus, strain FHV-1 Bio-9, Inactivated"
+      },
+      {
+        "id": "29638",
+        "name": "Feline calicivirus, strain FCV F9 Bio-8, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9935465",

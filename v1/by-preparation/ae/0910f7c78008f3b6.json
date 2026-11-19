@@ -1,4 +1,40 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QA12CX99",
+        "name": "Other mineral products, combinations"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "4",
+        "name": "ovce"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29159",
+        "name": "Magnesii chloridum hexahydricum"
+      },
+      {
+        "id": "29223",
+        "name": "Acidum boricum"
+      },
+      {
+        "id": "29239",
+        "name": "Calcii gluconas monohydricus"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9935001",

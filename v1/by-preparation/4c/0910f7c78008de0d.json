@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QG03XB90",
+        "name": "Aglepristone"
+      }
+    ],
+    "species": [
+      {
+        "id": "21",
+        "name": "feny"
+      }
+    ],
+    "substances": [
+      {
+        "id": "18332",
+        "name": "Aglepristonum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9936658",

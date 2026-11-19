@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP51BC03",
+        "name": "Diclazuril"
+      }
+    ],
+    "species": [
+      {
+        "id": "156",
+        "name": "jehňata"
+      },
+      {
+        "id": "60",
+        "name": "telata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "14336",
+        "name": "Diclazurilum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9700033",

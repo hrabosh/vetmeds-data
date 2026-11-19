@@ -1,4 +1,36 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI02AH",
+        "name": "Live and inactivated viral vaccines"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29716",
+        "name": "Bovine viral diarrhoea virus 1, strain 5960, Inactivated"
+      },
+      {
+        "id": "29766",
+        "name": "Bovine respiratory syncytial virus, strain 375, Live"
+      },
+      {
+        "id": "29768",
+        "name": "Bovine viral diarrhoea virus 1, strain 6309, Inactivated"
+      },
+      {
+        "id": "29775",
+        "name": "Bovine parainfluenza virus 3, strain RLB103, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9902478",

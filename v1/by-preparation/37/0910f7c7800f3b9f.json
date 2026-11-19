@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QL01EX90",
+        "name": "Toceranib"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1219",
+        "name": "Toceranibi phosphas"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9934536",

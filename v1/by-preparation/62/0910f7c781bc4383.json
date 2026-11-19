@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI09AL08",
+        "name": "Porcine circovirus + Mycoplasma"
+      }
+    ],
+    "species": [
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1194",
+        "name": "Porcine circovirus 2, ORF2 capsid protein"
+      },
+      {
+        "id": "29586",
+        "name": "Mycoplasma hyopneumoniae, strain J, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9911226",

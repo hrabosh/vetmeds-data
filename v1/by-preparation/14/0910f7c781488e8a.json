@@ -1,4 +1,40 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QN01BA52",
+        "name": "Procaine, combinations"
+      }
+    ],
+    "species": [
+      {
+        "id": "167",
+        "name": "koně"
+      },
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "4",
+        "name": "ovce"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1692",
+        "name": "Epinephrini tartras"
+      },
+      {
+        "id": "25050",
+        "name": "Procaini hydrochloridum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9907626",

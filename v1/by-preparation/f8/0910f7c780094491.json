@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI01AA17",
+        "name": "Avian rhinotracheitis virus vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "145",
+        "name": "kur domácí"
+      },
+      {
+        "id": "164",
+        "name": "krůty"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29497",
+        "name": "Turkey rhinotracheitis virus, strain 1062, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9936695",

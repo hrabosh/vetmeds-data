@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP53AC54",
+        "name": "Permethrin, combinations"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "12763",
+        "name": "Permethrinum, cis:trans 40:60"
+      },
+      {
+        "id": "29166",
+        "name": "Imidaclopridum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9904536",

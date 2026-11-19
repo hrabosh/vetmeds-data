@@ -1,4 +1,40 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QH01CA90",
+        "name": "Buserelin"
+      }
+    ],
+    "species": [
+      {
+        "id": "167",
+        "name": "koně"
+      },
+      {
+        "id": "237",
+        "name": "králíci"
+      },
+      {
+        "id": "245",
+        "name": "pstruh obecný (Salmo trutta)"
+      },
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "5379",
+        "name": "Buserelinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9990249",

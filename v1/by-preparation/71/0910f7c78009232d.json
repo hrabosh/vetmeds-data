@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QM01AA01",
+        "name": "Phenylbutazone"
+      }
+    ],
+    "species": [
+      {
+        "id": "167",
+        "name": "koně"
+      },
+      {
+        "id": "186",
+        "name": "poníci"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1122",
+        "name": "Phenylbutazonum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9907226",

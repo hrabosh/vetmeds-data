@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QN05AD90",
+        "name": "Azaperone"
+      }
+    ],
+    "species": [
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "7979",
+        "name": "Azaperonum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9700410",

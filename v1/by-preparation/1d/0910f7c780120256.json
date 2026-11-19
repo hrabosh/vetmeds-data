@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI06AD08",
+        "name": "Rabies, recombinant live canarypox virus"
+      }
+    ],
+    "species": [
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1301",
+        "name": "Canarypox virus expressing Rabies virus, Live (vCP65)"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9900367",

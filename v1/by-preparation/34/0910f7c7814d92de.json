@@ -1,4 +1,36 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI09AB14",
+        "name": "Salmonella vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "334",
+        "name": "březí prasničky"
+      },
+      {
+        "id": "90",
+        "name": "březí prasnice"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1794",
+        "name": "Salmonella enterica subsp. enterica, serovar Derby, Inactivated"
+      },
+      {
+        "id": "2111",
+        "name": "Salmonella enterica, subsp. enterica, serovar Infantis, Inactivated"
+      },
+      {
+        "id": "29343",
+        "name": "Salmonella enterica, subsp. enterica, serovar Typhimurium, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9907642",

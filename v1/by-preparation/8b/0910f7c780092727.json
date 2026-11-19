@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP53AC04",
+        "name": "Permethrin"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "12763",
+        "name": "Permethrinum, cis:trans 40:60"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9900841",

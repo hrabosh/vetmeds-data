@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI06AH09",
+        "name": "Live Feline rhinotracheitis virus vaccine + live Feline panleucopenia virus _ parvovirus vaccine + inactivated Feline calicivirus antigen"
+      }
+    ],
+    "species": [
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1302",
+        "name": "Feline rhinotracheitis virus, strain F2, Live"
+      },
+      {
+        "id": "1303",
+        "name": "Feline calicivirus, strains 431 and G1, Inactivated"
+      },
+      {
+        "id": "1304",
+        "name": "Feline panleucopenia virus, strain PLI IV, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9908028",

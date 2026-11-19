@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QH01BB03",
+        "name": "Carbetocin"
+      }
+    ],
+    "species": [
+      {
+        "id": "62",
+        "name": "krávy"
+      },
+      {
+        "id": "89",
+        "name": "prasnice"
+      }
+    ],
+    "substances": [
+      {
+        "id": "4946",
+        "name": "Carbetocinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9903515",

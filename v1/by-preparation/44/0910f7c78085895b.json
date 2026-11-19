@@ -1,4 +1,19 @@
 {
+  "classification": {
+    "atc": [],
+    "species": [
+      {
+        "id": "167",
+        "name": "koně"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1813",
+        "name": "Equine umbilical cord-derived mesenchymal stem cells"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9908000",

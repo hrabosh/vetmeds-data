@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01DB05",
+        "name": "Cefadroxil"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1854",
+        "name": "Cefadroxilum monohydricum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9907631",

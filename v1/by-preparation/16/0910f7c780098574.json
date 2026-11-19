@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP52AC13",
+        "name": "Fenbendazole"
+      }
+    ],
+    "species": [
+      {
+        "id": "4",
+        "name": "ovce"
+      },
+      {
+        "id": "5",
+        "name": "kozy"
+      }
+    ],
+    "substances": [
+      {
+        "id": "5472",
+        "name": "Fenbendazolum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9990298",

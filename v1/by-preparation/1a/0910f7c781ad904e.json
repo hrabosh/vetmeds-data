@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI01AB01",
+        "name": "Salmonella vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "145",
+        "name": "kur domácí"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2037",
+        "name": "Salmonella enterica, subsp. enterica, serovar Enteritidis, strain 038-90, inactivated"
+      },
+      {
+        "id": "2038",
+        "name": "Salmonella enterica, subsp. enterica, serovar Typhimurium, strain 076-94, inactivated"
+      },
+      {
+        "id": "2039",
+        "name": "Salmonella enterica, subsp. enterica, serovar Infantis, strain SM-595, inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9911213",

@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QN01AX10",
+        "name": "Propofol"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1167",
+        "name": "Propofolum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9905873",

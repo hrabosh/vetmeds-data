@@ -1,4 +1,36 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP53AC04",
+        "name": "Permethrin"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "206",
+        "name": "exotické ptactvo"
+      },
+      {
+        "id": "250",
+        "name": "morčata"
+      },
+      {
+        "id": "255",
+        "name": "křečci"
+      }
+    ],
+    "substances": [
+      {
+        "id": "957",
+        "name": "Permethrinum, cis:trans 25:75"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9902795",

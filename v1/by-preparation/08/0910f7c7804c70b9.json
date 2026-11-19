@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01BA99",
+        "name": "Amphenicols, combinations"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      }
+    ],
+    "substances": [
+      {
+        "id": "12949",
+        "name": "Meloxicamum"
+      },
+      {
+        "id": "14061",
+        "name": "Florfenicolum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9906050",

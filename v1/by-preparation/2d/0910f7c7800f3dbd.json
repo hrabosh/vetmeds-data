@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP52AX09",
+        "name": "Monepantel"
+      }
+    ],
+    "species": [
+      {
+        "id": "4",
+        "name": "ovce"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1359",
+        "name": "Monepantelum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9907495",

@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QG01AX03",
+        "name": "Policresulen"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2661",
+        "name": "Policresulenum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9935889",

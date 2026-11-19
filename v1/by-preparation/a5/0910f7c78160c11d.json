@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI08AA01",
+        "name": "Rabbit haemorrhagic disease virus vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "237",
+        "name": "králíci"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1890",
+        "name": "Rabbit haemorrhagic disease virus, capsid protein VP1A"
+      },
+      {
+        "id": "1891",
+        "name": "Rabbit haemorrhagic disease virus 2, capsid protein VP1AB"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9909479",

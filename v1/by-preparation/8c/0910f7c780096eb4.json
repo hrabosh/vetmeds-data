@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QG51AA05",
+        "name": "Cefapirin"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      }
+    ],
+    "substances": [
+      {
+        "id": "3258",
+        "name": "Cefapirinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9936189",

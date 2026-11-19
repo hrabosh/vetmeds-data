@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QD05AA",
+        "name": "Tars"
+      }
+    ],
+    "species": [
+      {
+        "id": "220",
+        "name": "teplokrevná nepotravinová zvířata, kromě kočkovitých šelem"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29669",
+        "name": "Fagi pix"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9936991",

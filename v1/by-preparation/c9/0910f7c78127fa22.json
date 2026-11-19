@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI02AB",
+        "name": "Inactivated bacterial vaccines (including Mycoplasma, Toxoid and Chlamydia vaccines)"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1787",
+        "name": "Streptococcus uberis, strain 5616, lipoteichoic acid from Biofilm Adhesion Component"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9907353",

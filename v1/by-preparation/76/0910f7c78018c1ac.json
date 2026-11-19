@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01DE90",
+        "name": "Cefquinome"
+      }
+    ],
+    "species": [
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "14808",
+        "name": "Cefquinomum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9901565",

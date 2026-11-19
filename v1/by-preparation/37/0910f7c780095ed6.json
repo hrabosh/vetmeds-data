@@ -1,4 +1,44 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01FF52",
+        "name": "Lincomycin, combinations"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      },
+      {
+        "id": "4",
+        "name": "ovce"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      },
+      {
+        "id": "78",
+        "name": "neruminující telata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1963",
+        "name": "Spectinomycinum"
+      },
+      {
+        "id": "3301",
+        "name": "Lincomycinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9902357",

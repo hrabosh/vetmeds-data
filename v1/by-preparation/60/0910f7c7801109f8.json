@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01BA90",
+        "name": "Florfenicol"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      },
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "14061",
+        "name": "Florfenicolum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9901016",

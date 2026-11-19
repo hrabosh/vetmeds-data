@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI07AD03",
+        "name": "Canine distemper virus vaccine + Canine parvovirus vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1570",
+        "name": "Canine distemper virus, strain CDV Bio 11/A, Live"
+      },
+      {
+        "id": "1572",
+        "name": "Canine parvovirus 2b, strain CPV-2b Bio 12/B, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9905852",

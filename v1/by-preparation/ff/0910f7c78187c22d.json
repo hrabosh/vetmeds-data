@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QS02CA91",
+        "name": "Mometasone and antiinfectives"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1276",
+        "name": "Mometasoni furoas"
+      },
+      {
+        "id": "1277",
+        "name": "Posaconazolum"
+      },
+      {
+        "id": "24863",
+        "name": "Gentamicini sulfas"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9910185",

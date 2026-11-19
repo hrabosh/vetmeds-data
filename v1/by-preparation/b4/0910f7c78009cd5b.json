@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QG03DA02",
+        "name": "Medroxyprogesterone"
+      }
+    ],
+    "species": [
+      {
+        "id": "4",
+        "name": "ovce"
+      }
+    ],
+    "substances": [
+      {
+        "id": "24925",
+        "name": "Medroxyprogesteroni acetas"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9910399",

@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01AA53",
+        "name": "Chlortetracycline, combinations"
+      }
+    ],
+    "species": [
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "332",
+        "name": "Chlortetracyclinum"
+      },
+      {
+        "id": "4943",
+        "name": "Tiamulinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9934865",

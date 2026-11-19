@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP53AX22",
+        "name": "Thymol"
+      }
+    ],
+    "species": [
+      {
+        "id": "15",
+        "name": "včelstva včely medonosné(Apis mellifica)"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1052",
+        "name": "Thymolum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9939943",

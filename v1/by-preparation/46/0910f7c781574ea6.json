@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI07AF01",
+        "name": "Bordetella + canine parainfluenza virus"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1573",
+        "name": "Canine parainfluenza virus 2, strain CPiV-2-Bio 15, Live"
+      },
+      {
+        "id": "29219",
+        "name": "Bordetella bronchiseptica, strain MSLB 3096, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9908378",

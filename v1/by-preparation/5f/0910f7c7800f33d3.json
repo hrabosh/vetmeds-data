@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QG03XA91",
+        "name": "Gonadotropin releasing factor analogue, conjugated"
+      }
+    ],
+    "species": [
+      {
+        "id": "94",
+        "name": "kanci"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1191",
+        "name": "Gonadotropin releasing factor analogue diphtheria toxoid conjugate"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9900967",

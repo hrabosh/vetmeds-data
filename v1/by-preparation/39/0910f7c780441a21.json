@@ -1,4 +1,36 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI07AD04",
+        "name": "Canine distemper virus vaccine + Canine adenovirus vaccine + Canine parvovirus vaccine + Canine parainfluenza virus vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1675",
+        "name": "Canine distemper virus, strain Lederle, Live"
+      },
+      {
+        "id": "1676",
+        "name": "Canine adenovirus 2, strain Manhattan, Live"
+      },
+      {
+        "id": "1677",
+        "name": "Canine parvovirus, strain Cornell 780916, Live"
+      },
+      {
+        "id": "1678",
+        "name": "Canine parainfluenza virus, strain Manhattan, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9905183",

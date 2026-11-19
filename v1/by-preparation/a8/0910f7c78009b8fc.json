@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QN51AX50",
+        "name": "Combinations"
+      }
+    ],
+    "species": [
+      {
+        "id": "217",
+        "name": "nepotravinová zvířata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "25117",
+        "name": "Tetracaini hydrochloridum"
+      },
+      {
+        "id": "7742",
+        "name": "Mebezonii iodidum"
+      },
+      {
+        "id": "7746",
+        "name": "Embutramidum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9994581",

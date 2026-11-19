@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI01AD01",
+        "name": "Avian rhinotracheitis virus vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "131",
+        "name": "kur domácí - kuřata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29610",
+        "name": "Turkey rhinotracheitis virus, strain 11/94, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9904027",

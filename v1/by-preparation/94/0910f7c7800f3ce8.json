@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI09AA03",
+        "name": "Porcine influenza virus vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1141",
+        "name": "Swine influenza virus, A/swine/Bakum/IDT1769/2003 (H3N2), Inactivated"
+      },
+      {
+        "id": "1142",
+        "name": "Swine influenza virus, A/swine/Haselünne/IDT2617/2003 (H1N1), Inactivated"
+      },
+      {
+        "id": "1143",
+        "name": "Swine influenza virus, A/swine/Bakum/1832/2000 (H1N2), Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9700896",

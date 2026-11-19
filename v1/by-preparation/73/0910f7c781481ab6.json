@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI09AL01",
+        "name": "Porcine parvovirus + Erysipelothrix"
+      }
+    ],
+    "species": [
+      {
+        "id": "355",
+        "name": "prasata - prasnice"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1988",
+        "name": "Erysipelothrix rhusiopathiae, serotype 2, strain 2-64, Inactivated"
+      },
+      {
+        "id": "29653",
+        "name": "Porcine parvovirus, strain CAPM V198 S-27, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9907208",

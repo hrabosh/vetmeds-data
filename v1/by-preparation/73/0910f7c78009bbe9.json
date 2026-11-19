@@ -1,4 +1,48 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QJ01RV",
+        "name": "Combinations of antibacterials and other substances"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "24961",
+        "name": "Neomycini sulfas"
+      },
+      {
+        "id": "25043",
+        "name": "Prednisoloni acetas"
+      },
+      {
+        "id": "25118",
+        "name": "Tetracyclini hydrochloridum"
+      },
+      {
+        "id": "29556",
+        "name": "Trypsinum"
+      },
+      {
+        "id": "29557",
+        "name": "Papainum"
+      },
+      {
+        "id": "351",
+        "name": "Chymotrypsinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9935928",

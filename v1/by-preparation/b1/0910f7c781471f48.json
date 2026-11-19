@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP53AG03",
+        "name": "Oxalic acid"
+      }
+    ],
+    "species": [
+      {
+        "id": "373",
+        "name": "včely"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1718",
+        "name": "Acidum oxalicum dihydricum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9906726",

@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QC09BA07",
+        "name": "Benazepril and diuretics"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1280",
+        "name": "Spironolactonum"
+      },
+      {
+        "id": "27043",
+        "name": "Benazeprili hydrochloridum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9902202",

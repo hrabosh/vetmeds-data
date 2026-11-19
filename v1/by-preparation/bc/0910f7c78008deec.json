@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI06AQ02",
+        "name": "Microsporum vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1719",
+        "name": "Microsporum canis, strain CCM 8211, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9937171",

@@ -1,4 +1,56 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI09AB09",
+        "name": "Escherichia vaccine + Erysipelothrix vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "90",
+        "name": "březí prasnice"
+      },
+      {
+        "id": "91",
+        "name": "prasničky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1988",
+        "name": "Erysipelothrix rhusiopathiae, serotype 2, strain 2-64, Inactivated"
+      },
+      {
+        "id": "2060",
+        "name": "Escherichia coli, serotype O149:K88 (fimbrial adhesin F4), Inactivated"
+      },
+      {
+        "id": "2083",
+        "name": "Erysipelothrix rhusiopathiae, serotype 2, strain 2-5, Inactivated"
+      },
+      {
+        "id": "2084",
+        "name": "Erysipelothrix rhusiopathiae, serotype 1, strain 1-203, Inactivated"
+      },
+      {
+        "id": "2085",
+        "name": "Erysipelothrix rhusiopathiae, serotype 2, strain 2-II, Inactivated"
+      },
+      {
+        "id": "29781",
+        "name": "Escherichia coli, serotype K85:987P, fimbrial adhesin F6, Inactivated"
+      },
+      {
+        "id": "29870",
+        "name": "Escherichia coli, serotype O101:K99, fimbrial adhesin F5, Inactivated"
+      },
+      {
+        "id": "29874",
+        "name": "Escherichia coli, serotype O101, fimbrial adhesin F41, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9935038",

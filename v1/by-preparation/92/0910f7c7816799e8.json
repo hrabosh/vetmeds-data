@@ -1,4 +1,19 @@
 {
+  "classification": {
+    "atc": [],
+    "species": [
+      {
+        "id": "145",
+        "name": "kur domácí"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1819",
+        "name": "Fowlpoxvirus expressing avian infectious laryngotracheitis virus, strain rFP-LT, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9909229",

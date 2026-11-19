@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QA03BA01",
+        "name": "Atropine"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29403",
+        "name": "Atropini sulfas"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9939909",

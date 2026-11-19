@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QG51AA06",
+        "name": "Rifaximin"
+      }
+    ],
+    "species": [
+      {
+        "id": "191",
+        "name": "klisny"
+      },
+      {
+        "id": "62",
+        "name": "krávy"
+      }
+    ],
+    "substances": [
+      {
+        "id": "12294",
+        "name": "Rifaximinum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9936760",

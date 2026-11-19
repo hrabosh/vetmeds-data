@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI08AB02",
+        "name": "Pasteurella vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "237",
+        "name": "králíci"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29207",
+        "name": "Pasteurella multocida, serotype D, Inactivated"
+      },
+      {
+        "id": "29684",
+        "name": "Pasteurella multocida, serotype A, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9936300",

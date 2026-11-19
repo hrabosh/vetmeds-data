@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP53AG01",
+        "name": "Formic acid"
+      }
+    ],
+    "species": [
+      {
+        "id": "15",
+        "name": "včelstva včely medonosné(Apis mellifica)"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1607",
+        "name": "Acidum formicum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9901947",

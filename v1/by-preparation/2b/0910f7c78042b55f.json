@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QP53AX65",
+        "name": "Fipronil, combinations"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1307",
+        "name": "Methoprenum"
+      },
+      {
+        "id": "29312",
+        "name": "Fipronilum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9905506",

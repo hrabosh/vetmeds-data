@@ -1,4 +1,28 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI01AD12",
+        "name": "Avian pox virus vaccine"
+      }
+    ],
+    "species": [
+      {
+        "id": "145",
+        "name": "kur domácí"
+      },
+      {
+        "id": "164",
+        "name": "krůty"
+      }
+    ],
+    "substances": [
+      {
+        "id": "29265",
+        "name": "Fowlpox virus, strain DCEP 25, Live"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9937531",

@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QR06AB04",
+        "name": "Chlorpheniramine"
+      }
+    ],
+    "species": [
+      {
+        "id": "3",
+        "name": "skot"
+      }
+    ],
+    "substances": [
+      {
+        "id": "24735",
+        "name": "Chlorphenamini maleas"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9905923",

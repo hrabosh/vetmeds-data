@@ -1,4 +1,52 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI09AB",
+        "name": "Inactivated bacterial vaccines (including Mycoplasma, Toxoid and Chlamydia)"
+      }
+    ],
+    "species": [
+      {
+        "id": "6",
+        "name": "prasata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1434",
+        "name": "Haemophilus parasuis, serotype 1, 5 and 13, Inactivated"
+      },
+      {
+        "id": "1878",
+        "name": "Actinobacillus pleuropneumoniae, serotype 11, Inactivated"
+      },
+      {
+        "id": "29527",
+        "name": "Erysipelothrix rhusiopathiae, Inactivated"
+      },
+      {
+        "id": "29682",
+        "name": "Actinobacillus pleuropneumoniae, serotype 9, strain WSLB 3013, Inactivated"
+      },
+      {
+        "id": "29683",
+        "name": "Actinobacillus pleuropneumoniae, serotype 2, strain WSLB 3012, Inactivated"
+      },
+      {
+        "id": "29688",
+        "name": "Actinobacillus pleuropneumoniae, APX I toxoid"
+      },
+      {
+        "id": "29689",
+        "name": "Actinobacillus pleuropneumoniae, APX II toxoid"
+      },
+      {
+        "id": "29690",
+        "name": "Actinobacillus pleuropneumoniae, APX III toxoid"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9901185",

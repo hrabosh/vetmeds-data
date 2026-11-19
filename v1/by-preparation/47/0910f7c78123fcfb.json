@@ -1,4 +1,32 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QN01BB02",
+        "name": "Lidocaine"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "167",
+        "name": "koně"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "25636",
+        "name": "Lidocaini hydrochloridum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9906375",

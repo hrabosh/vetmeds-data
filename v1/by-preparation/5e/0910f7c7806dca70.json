@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QM01AX92",
+        "name": "Grapiprant"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1743",
+        "name": "Grapiprantum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9906443",

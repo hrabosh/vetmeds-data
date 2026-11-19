@@ -1,4 +1,44 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI09AL02",
+        "name": "Porcine rotavirus + Escherichia"
+      }
+    ],
+    "species": [
+      {
+        "id": "334",
+        "name": "březí prasničky"
+      },
+      {
+        "id": "90",
+        "name": "březí prasnice"
+      }
+    ],
+    "substances": [
+      {
+        "id": "2060",
+        "name": "Escherichia coli, serotype O149:K88 (fimbrial adhesin F4), Inactivated"
+      },
+      {
+        "id": "29777",
+        "name": "Porcine rotavirus, serogroup A, strain OSU 6, Inactivated"
+      },
+      {
+        "id": "29781",
+        "name": "Escherichia coli, serotype K85:987P, fimbrial adhesin F6, Inactivated"
+      },
+      {
+        "id": "29783",
+        "name": "Escherichia coli, serotype O101:K99, fimbrial adhesins F5 and F41, Inactivated"
+      },
+      {
+        "id": "29870",
+        "name": "Escherichia coli, serotype O101:K99, fimbrial adhesin F5, Inactivated"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9700055",

@@ -1,4 +1,24 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QM01AE91",
+        "name": "Carprofen"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      }
+    ],
+    "substances": [
+      {
+        "id": "10368",
+        "name": "Carprofenum"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9906068",

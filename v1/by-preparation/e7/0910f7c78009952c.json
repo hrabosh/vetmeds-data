@@ -1,4 +1,36 @@
 {
+  "classification": {
+    "atc": [
+      {
+        "id": "QI05AM03",
+        "name": "Actinobacillus antiserum + Escherichia antiserum + Salmonella antiserum + Streptococcus antiserum"
+      }
+    ],
+    "species": [
+      {
+        "id": "337",
+        "name": "hříbata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1911",
+        "name": "Immunoglobulins against Salmonella abortus equi, Equine"
+      },
+      {
+        "id": "1912",
+        "name": "Immunoglobulins against Actinobacillus, Equine"
+      },
+      {
+        "id": "1913",
+        "name": "Immunoglobulins against Streptococcus equi, Equine"
+      },
+      {
+        "id": "29673",
+        "name": "Immunoglobulins against Escherichia coli, Equine"
+      }
+    ]
+  },
   "packages": [
     {
       "display_package_code": "9997424",
