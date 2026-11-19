@@ -26,6 +26,31 @@ def load_rows(source, filename, key):
     return document[key]
 
 
+
+def add_classification(source, records):
+    path = source / "classification.json"
+    if not path.is_file():
+        return
+
+    document = json.loads(path.read_text(encoding="utf-8"))
+    terms = {
+        group: {term["id"]: term["name"] for term in document["terms"][group]}
+        for group in ("species", "substances", "atc")
+    }
+    for item in document["preparations"]:
+        preparation_id = identifier(item, "id")
+        record = records[preparation_id]
+        if "classification" in record:
+            raise ValueError(f"Duplicate classification for preparation {preparation_id!r}")
+        record["classification"] = {
+            group: [
+                {"id": term, "name": labels[term]}
+                for term in item["classification"][group]
+            ]
+            for group, labels in terms.items()
+        }
+
+
 def project(source, output):
     records = {}
     for preparation in load_rows(source, "preparations.json", "preparations"):
@@ -49,6 +74,7 @@ def project(source, output):
         package_codes.add(code)
         records[preparation_id]["packages"].append(package)
 
+    add_classification(source, records)
     output.mkdir()
     for preparation_id, record in records.items():
         record["packages"].sort(key=lambda package: package["package_code"])

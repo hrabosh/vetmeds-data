@@ -28,15 +28,16 @@ jobs:
           curl_options=(--fail --silent --show-error --proto '=https' --retry 2 --max-time 45)
           curl "${curl_options[@]}" "$source/metadata.json" -o "$download/metadata.json"
           snapshot="$(jq -er '.snapshot_id | select(type == "string" and test("^[a-f0-9]{64}$"))' "$download/metadata.json")"
-          for file in preparations packages changes; do
+          for file in preparations packages changes classification; do
             curl "${curl_options[@]}" "$source/$file.json?snapshot=$snapshot" -o "$download/$file.json"
           done
           jq -en --arg id "$snapshot" \
             --slurpfile metadata "$download/metadata.json" \
             --slurpfile preparations "$download/preparations.json" \
             --slurpfile packages "$download/packages.json" \
-            --slurpfile changes "$download/changes.json" '
-              [$metadata, $preparations, $packages, $changes]
+            --slurpfile changes "$download/changes.json" \
+            --slurpfile classification "$download/classification.json" '
+              [$metadata, $preparations, $packages, $changes, $classification]
               | all(length == 1 and .[0].schema_version == 1 and .[0].snapshot_id == $id)
                 and ($preparations[0].preparations | type == "array" and length == $metadata[0].counts.preparations)
                 and ($packages[0].packages | type == "array" and length == $metadata[0].counts.packages)
@@ -47,7 +48,7 @@ jobs:
           mkdir -p v1/by-preparation
           rsync -a --delete "$download/by-preparation/" v1/by-preparation/
           git add -A -- v1/by-preparation
-          for file in metadata.json preparations.json packages.json changes.json; do
+          for file in metadata.json preparations.json packages.json changes.json classification.json; do
             install -D -m 644 -- "$download/$file" "v1/$file"
             git add -- "v1/$file"
           done
