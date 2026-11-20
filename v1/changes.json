@@ -1,5 +1,349 @@
 {
-    "events": [],
+    "events": [
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c78008d576",
+            "preparation_id_before": "0910f7c78008d576",
+            "preparation_id_after": "0910f7c78008d576",
+            "display_name": "Bimoxyl LA",
+            "observed_at": "2026-11-20T15:42:21Z",
+            "changes": [
+                {
+                    "field": "registration_date",
+                    "before": "2000-10-13T11:28:16+0000",
+                    "after": "2000-10-13T12:17:22+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c78008e946",
+            "preparation_id_before": "0910f7c78008e946",
+            "preparation_id_after": "0910f7c78008e946",
+            "display_name": "AUREOZÁSYP",
+            "observed_at": "2026-11-20T15:42:21Z",
+            "changes": [
+                {
+                    "field": "registration_date",
+                    "before": "1996-08-22T5:14:54+0000",
+                    "after": "1996-08-22T7:28:14+0000"
+                },
+                {
+                    "field": "spc_extension",
+                    "before": "doc",
+                    "after": "docx"
+                },
+                {
+                    "field": "spc_modified_date",
+                    "before": "2022-10-26T6:8:22+0000",
+                    "after": "2026-11-19T8:29:17+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c780096427",
+            "preparation_id_before": "0910f7c780096427",
+            "preparation_id_after": "0910f7c780096427",
+            "display_name": "Mastiplan LC",
+            "observed_at": "2026-11-20T15:42:21Z",
+            "changes": [
+                {
+                    "field": "registration_date",
+                    "before": "2007-05-30T5:35:35+0000",
+                    "after": "2007-05-30T14:10:33+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c780096e87",
+            "preparation_id_before": "0910f7c780096e87",
+            "preparation_id_after": "0910f7c780096e87",
+            "display_name": "MEGACAL–M BVP",
+            "observed_at": "2026-11-20T15:42:21Z",
+            "changes": [
+                {
+                    "field": "registration_date",
+                    "before": "2004-04-30T12:19:05+0000",
+                    "after": "2004-04-29T11:22:53+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c78009b269",
+            "preparation_id_before": "0910f7c78009b269",
+            "preparation_id_after": "0910f7c78009b269",
+            "display_name": "RILEXINE",
+            "observed_at": "2026-11-20T15:42:21Z",
+            "changes": [
+                {
+                    "field": "registration_date",
+                    "before": "2001-11-12T10:58:51+0000",
+                    "after": "2001-11-12T8:6:42+0000"
+                },
+                {
+                    "field": "spc_modified_date",
+                    "before": "2022-10-26T8:47:28+0000",
+                    "after": "2026-11-19T8:7:00+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c78009b335",
+            "preparation_id_before": "0910f7c78009b335",
+            "preparation_id_after": "0910f7c78009b335",
+            "display_name": "RILEXINE",
+            "observed_at": "2026-11-20T15:42:21Z",
+            "changes": [
+                {
+                    "field": "registration_date",
+                    "before": "2000-05-18T9:52:40+0000",
+                    "after": "2000-05-18T7:3:37+0000"
+                },
+                {
+                    "field": "spc_modified_date",
+                    "before": "2022-10-26T8:48:00+0000",
+                    "after": "2026-11-19T8:3:56+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c78009b355",
+            "preparation_id_before": "0910f7c78009b355",
+            "preparation_id_after": "0910f7c78009b355",
+            "display_name": "RILEXINE",
+            "observed_at": "2026-11-20T15:42:21Z",
+            "changes": [
+                {
+                    "field": "registration_date",
+                    "before": "2001-11-12T10:54:45+0000",
+                    "after": "2001-11-12T8:9:05+0000"
+                },
+                {
+                    "field": "spc_modified_date",
+                    "before": "2022-10-26T8:48:10+0000",
+                    "after": "2026-11-19T8:9:20+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c7800a1017",
+            "preparation_id_before": "0910f7c7800a1017",
+            "preparation_id_after": "0910f7c7800a1017",
+            "display_name": "Amix  vet T",
+            "observed_at": "2026-11-20T15:42:21Z",
+            "changes": [
+                {
+                    "field": "registration_date",
+                    "before": "1998-12-14T10:4:05+0000",
+                    "after": "1998-12-14T8:31:55+0000"
+                },
+                {
+                    "field": "spc_extension",
+                    "before": "doc",
+                    "after": "docx"
+                },
+                {
+                    "field": "spc_modified_date",
+                    "before": "2022-10-26T5:56:27+0000",
+                    "after": "2026-11-19T8:32:14+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c78015de5a",
+            "preparation_id_before": "0910f7c78015de5a",
+            "preparation_id_after": "0910f7c78015de5a",
+            "display_name": "Diacef",
+            "observed_at": "2026-11-20T15:42:21Z",
+            "changes": [
+                {
+                    "field": "registration_date",
+                    "before": "2013-11-14T13:35:21+0000",
+                    "after": "2013-11-14T14:47:33+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c78030ef93",
+            "preparation_id_before": "0910f7c78030ef93",
+            "preparation_id_after": "0910f7c78030ef93",
+            "display_name": "MASTIVIA",
+            "observed_at": "2026-11-20T15:42:21Z",
+            "changes": [
+                {
+                    "field": "registration_date",
+                    "before": "2020-10-29T7:16:00+0000",
+                    "after": "2020-10-29T8:21:49+0000"
+                },
+                {
+                    "field": "spc_extension",
+                    "before": "doc",
+                    "after": "docx"
+                },
+                {
+                    "field": "spc_modified_date",
+                    "before": "2023-06-08T13:22:39+0000",
+                    "after": "2026-11-19T8:22:06+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c7808bdcc3",
+            "preparation_id_before": "0910f7c7808bdcc3",
+            "preparation_id_after": "0910f7c7808bdcc3",
+            "display_name": "Alphalben",
+            "observed_at": "2026-11-20T15:42:21Z",
+            "changes": [
+                {
+                    "field": "registration_date",
+                    "before": "2018-03-26T7:36:04+0000",
+                    "after": "2018-03-26T8:0:40+0000"
+                },
+                {
+                    "field": "spc_extension",
+                    "before": "docx",
+                    "after": "doc"
+                },
+                {
+                    "field": "spc_modified_date",
+                    "before": "2025-04-30T12:33:56+0000",
+                    "after": "2026-11-19T9:2:09+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c78122823e",
+            "preparation_id_before": "0910f7c78122823e",
+            "preparation_id_after": "0910f7c78122823e",
+            "display_name": "Sevotek",
+            "observed_at": "2026-11-20T15:42:21Z",
+            "changes": [
+                {
+                    "field": "registration_date",
+                    "before": "2018-03-16T12:32:19+0000",
+                    "after": "2018-03-16T15:17:44+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c7815e2126",
+            "preparation_id_before": "0910f7c7815e2126",
+            "preparation_id_after": "0910f7c7815e2126",
+            "display_name": "Lismay",
+            "observed_at": "2026-11-20T15:42:21Z",
+            "changes": [
+                {
+                    "field": "registration_date",
+                    "before": "2020-02-06T13:2:22+0000",
+                    "after": "2020-02-06T14:32:28+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c781651545",
+            "preparation_id_before": "0910f7c781651545",
+            "preparation_id_after": "0910f7c781651545",
+            "display_name": "Vetbromide",
+            "observed_at": "2026-11-20T15:42:21Z",
+            "changes": [
+                {
+                    "field": "registration_date",
+                    "before": "2021-01-29T13:32:21+0000",
+                    "after": "2021-01-29T7:17:59+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c781aaf903",
+            "preparation_id_before": "0910f7c781aaf903",
+            "preparation_id_after": "0910f7c781aaf903",
+            "display_name": "Oxitovet",
+            "observed_at": "2026-11-20T15:42:21Z",
+            "changes": [
+                {
+                    "field": "registration_date",
+                    "before": "2024-06-12T10:58:22+0000",
+                    "after": "2024-06-12T14:27:27+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c781b71192",
+            "preparation_id_before": "0910f7c781b71192",
+            "preparation_id_after": "0910f7c781b71192",
+            "display_name": "Dophatyl-ject",
+            "observed_at": "2026-11-20T15:42:21Z",
+            "changes": [
+                {
+                    "field": "registration_date",
+                    "before": "2024-05-29T9:7:36+0000",
+                    "after": "2024-05-29T14:1:30+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c781cff0da",
+            "preparation_id_before": "0910f7c781cff0da",
+            "preparation_id_after": "0910f7c781cff0da",
+            "display_name": "Ventiquin",
+            "observed_at": "2026-11-20T15:42:21Z",
+            "changes": [
+                {
+                    "field": "registration_date",
+                    "before": "2025-10-13T6:20:38+0000",
+                    "after": "2025-10-13T13:54:31+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c781edb02c",
+            "preparation_id_before": "0910f7c781edb02c",
+            "preparation_id_after": "0910f7c781edb02c",
+            "display_name": "Ketiva",
+            "observed_at": "2026-11-20T15:42:21Z",
+            "changes": [
+                {
+                    "field": "registration_date",
+                    "before": "2026-03-17T12:5:47+0000",
+                    "after": "2026-03-17T7:39:54+0000"
+                }
+            ]
+        }
+    ],
     "schema_version": 1,
-    "snapshot_id": "f6eac721e033e4f0353f8c0f2621f680ee8dcf4b78e95da69f126f33c2c2946e"
+    "snapshot_id": "ebbad84367b9c644d3b60dce04fd64ac95a3b1fb69851d147c11fff06a4449c7"
 }
