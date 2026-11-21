@@ -3,6 +3,22 @@
         {
             "type": "updated",
             "entity_type": "preparation",
+            "entity_id": "0910f7c78008dda5",
+            "preparation_id_before": "0910f7c78008dda5",
+            "preparation_id_after": "0910f7c78008dda5",
+            "display_name": "Aldifal",
+            "observed_at": "2026-11-21T14:53:41Z",
+            "changes": [
+                {
+                    "field": "registration_date",
+                    "before": "1992-11-17T13:23:47+0000",
+                    "after": "1992-11-17T8:24:24+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
             "entity_id": "0910f7c78008d576",
             "preparation_id_before": "0910f7c78008d576",
             "preparation_id_after": "0910f7c78008d576",
@@ -345,5 +361,5 @@
         }
     ],
     "schema_version": 1,
-    "snapshot_id": "ebbad84367b9c644d3b60dce04fd64ac95a3b1fb69851d147c11fff06a4449c7"
+    "snapshot_id": "fc5bc78cf94446cfb7d14ffb2edc4ea8ffbd60a6b56bca9f66ac22dae0bff230"
 }

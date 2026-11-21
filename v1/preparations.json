@@ -270,7 +270,7 @@
             "registration_number": "96/675/92–S/C",
             "holder_id": "203",
             "holder_name": "Mikrochem spol. s r.o.",
-            "registration_date": "1992-11-17T13:23:47+0000",
+            "registration_date": "1992-11-17T8:24:24+0000",
             "spc_id": "0910f7c78008dda1",
             "spc_extension": "doc",
             "spc_modified_date": "2022-10-26T5:54:52+0000"
@@ -24906,5 +24906,5 @@
         }
     ],
     "schema_version": 1,
-    "snapshot_id": "ebbad84367b9c644d3b60dce04fd64ac95a3b1fb69851d147c11fff06a4449c7"
+    "snapshot_id": "fc5bc78cf94446cfb7d14ffb2edc4ea8ffbd60a6b56bca9f66ac22dae0bff230"
 }
