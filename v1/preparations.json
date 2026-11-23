@@ -1931,7 +1931,7 @@
             "registration_number": "97/068/04-C",
             "holder_id": "34",
             "holder_name": "Fatro, S.p.A.",
-            "registration_date": "2004-04-15T9:39:47+0000",
+            "registration_date": "2004-04-15T13:8:11+0000",
             "spc_id": "0910f7c780091681",
             "spc_extension": "doc",
             "spc_modified_date": "2022-10-26T8:57:27+0000"
@@ -6364,7 +6364,7 @@
             "registration_number": "96/084/92-S/C",
             "holder_id": "248",
             "holder_name": "Elanco GmbH",
-            "registration_date": "1992-05-07T21:17:33+0000",
+            "registration_date": "1992-05-07T10:30:25+0000",
             "spc_id": "0910f7c7800a284a",
             "spc_extension": "docx",
             "spc_modified_date": "2023-02-02T12:44:09+0000"
@@ -11039,10 +11039,10 @@
             "registration_number": "96/027/14-C",
             "holder_id": "61",
             "holder_name": "Norbrook Laboratories (Ireland) Limited",
-            "registration_date": "2014-03-25T12:52:43+0000",
+            "registration_date": "2014-03-25T11:38:34+0000",
             "spc_id": "0910f7c780193a31",
             "spc_extension": "docx",
-            "spc_modified_date": "2025-09-16T11:53:01+0000"
+            "spc_modified_date": "2026-11-23T11:38:54+0000"
         },
         {
             "preparation_id": "0910f7c78019720c",
@@ -13587,14 +13587,14 @@
         },
         {
             "preparation_id": "0910f7c7803c5654",
-            "name": "Apelka",
+            "name": "Thyronorm",
             "registration_number": "96/062/16-C",
             "holder_id": "112",
             "holder_name": "VIRBAC",
-            "registration_date": "2016-07-28T10:27:24+0000",
+            "registration_date": "2016-07-28T8:52:14+0000",
             "spc_id": "0910f7c7803c5653",
-            "spc_extension": "docx",
-            "spc_modified_date": "2026-10-02T10:28:26+0000"
+            "spc_extension": "doc",
+            "spc_modified_date": "2026-11-23T9:55:52+0000"
         },
         {
             "preparation_id": "0910f7c7803c6d0a",
@@ -14361,10 +14361,10 @@
             "registration_number": "97/019/16-C",
             "holder_id": "209",
             "holder_name": "Ceva-Phylaxia Veterinary Biologicals Co.Ltd.",
-            "registration_date": "2016-03-11T11:43:04+0000",
+            "registration_date": "2016-03-11T12:1:06+0000",
             "spc_id": "0910f7c7804991a0",
-            "spc_extension": "doc",
-            "spc_modified_date": "2022-10-25T8:45:05+0000"
+            "spc_extension": "docx",
+            "spc_modified_date": "2026-11-23T12:1:22+0000"
         },
         {
             "preparation_id": "0910f7c78049e7e2",
@@ -14460,10 +14460,10 @@
             "registration_number": "97/103/16-C",
             "holder_id": "209",
             "holder_name": "Ceva-Phylaxia Veterinary Biologicals Co.Ltd.",
-            "registration_date": "2016-11-25T9:6:13+0000",
+            "registration_date": "2016-11-25T11:57:16+0000",
             "spc_id": "0910f7c7804bc9ab",
-            "spc_extension": "doc",
-            "spc_modified_date": "2022-10-25T8:45:22+0000"
+            "spc_extension": "docx",
+            "spc_modified_date": "2026-11-23T11:57:31+0000"
         },
         {
             "preparation_id": "0910f7c7804bc9e5",
@@ -14845,10 +14845,10 @@
             "registration_number": "96/029/17-C",
             "holder_id": "76",
             "holder_name": "Univet, Ltd.",
-            "registration_date": "2017-05-26T6:2:32+0000",
+            "registration_date": "2017-05-26T9:38:19+0000",
             "spc_id": "0910f7c780847810",
             "spc_extension": "docx",
-            "spc_modified_date": "2024-02-19T12:50:21+0000"
+            "spc_modified_date": "2026-11-23T10:38:36+0000"
         },
         {
             "preparation_id": "0910f7c78084e2a0",
@@ -21731,7 +21731,7 @@
             "registration_number": "97/007/24-C",
             "holder_id": "14",
             "holder_name": "Bioveta, a.s.",
-            "registration_date": "2024-03-22T12:25:49+0000",
+            "registration_date": "2024-03-22T12:50:53+0000",
             "spc_id": "0910f7c781b3fa0c",
             "spc_extension": "doc",
             "spc_modified_date": "2024-04-11T15:35:29+0000"
@@ -24906,5 +24906,5 @@
         }
     ],
     "schema_version": 1,
-    "snapshot_id": "fc5bc78cf94446cfb7d14ffb2edc4ea8ffbd60a6b56bca9f66ac22dae0bff230"
+    "snapshot_id": "8a24813e1d9806f6cd487e319f0d30a2961229b9cba59cccf9dd32a7ee72682e"
 }

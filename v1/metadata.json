@@ -1,12 +1,12 @@
 {
     "schema_version": 1,
-    "snapshot_id": "fc5bc78cf94446cfb7d14ffb2edc4ea8ffbd60a6b56bca9f66ac22dae0bff230",
-    "observed_at": "2026-11-21T14:53:41Z",
+    "snapshot_id": "8a24813e1d9806f6cd487e319f0d30a2961229b9cba59cccf9dd32a7ee72682e",
+    "observed_at": "2026-11-23T18:41:18Z",
     "history_started_at": "2026-11-19T10:15:12Z",
     "source_url": "https://www.uskvbl.cz/cs/databaze-a-seznamy/seznam-vlp/data-vlp-ke-stazeni",
     "counts": {
         "preparations": 2264,
-        "packages": 12747,
-        "changes": 19
+        "packages": 12749,
+        "changes": 31
     }
 }

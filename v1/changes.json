@@ -3,6 +3,249 @@
         {
             "type": "updated",
             "entity_type": "preparation",
+            "entity_id": "0910f7c780091684",
+            "preparation_id_before": "0910f7c780091684",
+            "preparation_id_after": "0910f7c780091684",
+            "display_name": "SET-VAC",
+            "observed_at": "2026-11-23T18:41:18Z",
+            "changes": [
+                {
+                    "field": "registration_date",
+                    "before": "2004-04-15T9:39:47+0000",
+                    "after": "2004-04-15T13:8:11+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c7800a284d",
+            "preparation_id_before": "0910f7c7800a284d",
+            "preparation_id_after": "0910f7c7800a284d",
+            "display_name": "SUROLAN",
+            "observed_at": "2026-11-23T18:41:18Z",
+            "changes": [
+                {
+                    "field": "registration_date",
+                    "before": "1992-05-07T21:17:33+0000",
+                    "after": "1992-05-07T10:30:25+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c780193a36",
+            "preparation_id_before": "0910f7c780193a36",
+            "preparation_id_after": "0910f7c780193a36",
+            "display_name": "Noromectin Praziquantel Duo",
+            "observed_at": "2026-11-23T18:41:18Z",
+            "changes": [
+                {
+                    "field": "registration_date",
+                    "before": "2014-03-25T12:52:43+0000",
+                    "after": "2014-03-25T11:38:34+0000"
+                },
+                {
+                    "field": "spc_modified_date",
+                    "before": "2025-09-16T11:53:01+0000",
+                    "after": "2026-11-23T11:38:54+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c7803c5654",
+            "preparation_id_before": "0910f7c7803c5654",
+            "preparation_id_after": "0910f7c7803c5654",
+            "display_name": "Thyronorm",
+            "observed_at": "2026-11-23T18:41:18Z",
+            "changes": [
+                {
+                    "field": "name",
+                    "before": "Apelka",
+                    "after": "Thyronorm"
+                },
+                {
+                    "field": "registration_date",
+                    "before": "2016-07-28T10:27:24+0000",
+                    "after": "2016-07-28T8:52:14+0000"
+                },
+                {
+                    "field": "spc_extension",
+                    "before": "docx",
+                    "after": "doc"
+                },
+                {
+                    "field": "spc_modified_date",
+                    "before": "2026-10-02T10:28:26+0000",
+                    "after": "2026-11-23T9:55:52+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c7804991a1",
+            "preparation_id_before": "0910f7c7804991a1",
+            "preparation_id_after": "0910f7c7804991a1",
+            "display_name": "Cevac Mass L",
+            "observed_at": "2026-11-23T18:41:18Z",
+            "changes": [
+                {
+                    "field": "registration_date",
+                    "before": "2016-03-11T11:43:04+0000",
+                    "after": "2016-03-11T12:1:06+0000"
+                },
+                {
+                    "field": "spc_extension",
+                    "before": "doc",
+                    "after": "docx"
+                },
+                {
+                    "field": "spc_modified_date",
+                    "before": "2022-10-25T8:45:05+0000",
+                    "after": "2026-11-23T12:1:22+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c7804bc9ac",
+            "preparation_id_before": "0910f7c7804bc9ac",
+            "preparation_id_after": "0910f7c7804bc9ac",
+            "display_name": "Cevac MD HVT",
+            "observed_at": "2026-11-23T18:41:18Z",
+            "changes": [
+                {
+                    "field": "registration_date",
+                    "before": "2016-11-25T9:6:13+0000",
+                    "after": "2016-11-25T11:57:16+0000"
+                },
+                {
+                    "field": "spc_extension",
+                    "before": "doc",
+                    "after": "docx"
+                },
+                {
+                    "field": "spc_modified_date",
+                    "before": "2022-10-25T8:45:22+0000",
+                    "after": "2026-11-23T11:57:31+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c780847811",
+            "preparation_id_before": "0910f7c780847811",
+            "preparation_id_after": "0910f7c780847811",
+            "display_name": "Curofen",
+            "observed_at": "2026-11-23T18:41:18Z",
+            "changes": [
+                {
+                    "field": "registration_date",
+                    "before": "2017-05-26T6:2:32+0000",
+                    "after": "2017-05-26T9:38:19+0000"
+                },
+                {
+                    "field": "spc_modified_date",
+                    "before": "2024-02-19T12:50:21+0000",
+                    "after": "2026-11-23T10:38:36+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c781b3fa0d",
+            "preparation_id_before": "0910f7c781b3fa0d",
+            "preparation_id_after": "0910f7c781b3fa0d",
+            "display_name": "Biosuis Entero",
+            "observed_at": "2026-11-23T18:41:18Z",
+            "changes": [
+                {
+                    "field": "registration_date",
+                    "before": "2024-03-22T12:25:49+0000",
+                    "after": "2024-03-22T12:50:53+0000"
+                }
+            ]
+        },
+        {
+            "type": "added",
+            "entity_type": "package",
+            "entity_id": "9701087",
+            "preparation_id_before": null,
+            "preparation_id_after": "0910f7c7803c5654",
+            "display_name": "9701087",
+            "observed_at": "2026-11-23T18:41:18Z",
+            "changes": [],
+            "record": {
+                "package_code": "9701087",
+                "display_package_code": "9701087",
+                "preparation_id": "0910f7c7803c5654",
+                "package_size": "",
+                "issue_class_id": "2",
+                "issue_class_name": "Na předpis",
+                "package_invalid_date": null
+            }
+        },
+        {
+            "type": "added",
+            "entity_type": "package",
+            "entity_id": "9701088",
+            "preparation_id_before": null,
+            "preparation_id_after": "0910f7c7803c5654",
+            "display_name": "9701088",
+            "observed_at": "2026-11-23T18:41:18Z",
+            "changes": [],
+            "record": {
+                "package_code": "9701088",
+                "display_package_code": "9701088",
+                "preparation_id": "0910f7c7803c5654",
+                "package_size": "",
+                "issue_class_id": "2",
+                "issue_class_name": "Na předpis",
+                "package_invalid_date": null
+            }
+        },
+        {
+            "type": "updated",
+            "entity_type": "package",
+            "entity_id": "9906903",
+            "preparation_id_before": "0910f7c7803c5654",
+            "preparation_id_after": "0910f7c7803c5654",
+            "display_name": "9906903",
+            "observed_at": "2026-11-23T18:41:18Z",
+            "changes": [
+                {
+                    "field": "package_invalid_date",
+                    "before": null,
+                    "after": "2026-11-11T12:14:06+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "package",
+            "entity_id": "9906904",
+            "preparation_id_before": "0910f7c7803c5654",
+            "preparation_id_after": "0910f7c7803c5654",
+            "display_name": "9906904",
+            "observed_at": "2026-11-23T18:41:18Z",
+            "changes": [
+                {
+                    "field": "package_invalid_date",
+                    "before": null,
+                    "after": "2026-11-11T12:16:14+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
             "entity_id": "0910f7c78008dda5",
             "preparation_id_before": "0910f7c78008dda5",
             "preparation_id_after": "0910f7c78008dda5",
@@ -361,5 +604,5 @@
         }
     ],
     "schema_version": 1,
-    "snapshot_id": "fc5bc78cf94446cfb7d14ffb2edc4ea8ffbd60a6b56bca9f66ac22dae0bff230"
+    "snapshot_id": "8a24813e1d9806f6cd487e319f0d30a2961229b9cba59cccf9dd32a7ee72682e"
 }

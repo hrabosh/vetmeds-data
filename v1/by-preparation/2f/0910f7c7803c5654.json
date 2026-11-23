@@ -39,6 +39,24 @@
       "preparation_id": "0910f7c7803c5654"
     },
     {
+      "display_package_code": "9701087",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9701087",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7803c5654"
+    },
+    {
+      "display_package_code": "9701088",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9701088",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c7803c5654"
+    },
+    {
       "display_package_code": "9905204",
       "issue_class_id": "2",
       "issue_class_name": "Na předpis",
@@ -61,7 +79,7 @@
       "issue_class_id": "2",
       "issue_class_name": "Na předpis",
       "package_code": "9906903",
-      "package_invalid_date": null,
+      "package_invalid_date": "2026-11-11T12:14:06+0000",
       "package_size": "",
       "preparation_id": "0910f7c7803c5654"
     },
@@ -70,7 +88,7 @@
       "issue_class_id": "2",
       "issue_class_name": "Na předpis",
       "package_code": "9906904",
-      "package_invalid_date": null,
+      "package_invalid_date": "2026-11-11T12:16:14+0000",
       "package_size": "",
       "preparation_id": "0910f7c7803c5654"
     }
@@ -78,13 +96,13 @@
   "preparation": {
     "holder_id": "112",
     "holder_name": "VIRBAC",
-    "name": "Apelka",
+    "name": "Thyronorm",
     "preparation_id": "0910f7c7803c5654",
-    "registration_date": "2016-07-28T10:27:24+0000",
+    "registration_date": "2016-07-28T8:52:14+0000",
     "registration_number": "96/062/16-C",
-    "spc_extension": "docx",
+    "spc_extension": "doc",
     "spc_id": "0910f7c7803c5653",
-    "spc_modified_date": "2026-10-02T10:28:26+0000"
+    "spc_modified_date": "2026-11-23T9:55:52+0000"
   },
   "schema_version": 1
 }
