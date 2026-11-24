@@ -1,0 +1,58 @@
+{
+  "classification": {
+    "atc": [
+      {
+        "id": "QA06AD11",
+        "name": "Lactulose"
+      }
+    ],
+    "species": [
+      {
+        "id": "1",
+        "name": "psi"
+      },
+      {
+        "id": "2",
+        "name": "kočky"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1766",
+        "name": "Lactulosum"
+      }
+    ]
+  },
+  "packages": [
+    {
+      "display_package_code": "9701085",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9701085",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781e9bbf8"
+    },
+    {
+      "display_package_code": "9701086",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9701086",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781e9bbf8"
+    }
+  ],
+  "preparation": {
+    "holder_id": "290",
+    "holder_name": "Alfasan Nederland B.V.",
+    "name": "Laxasan",
+    "preparation_id": "0910f7c781e9bbf8",
+    "registration_date": "2026-11-10T12:17:01+0000",
+    "registration_number": "96/052/26-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781e9bbf7",
+    "spc_modified_date": "2026-11-24T12:20:14+0000"
+  },
+  "schema_version": 1
+}

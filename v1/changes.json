@@ -3,6 +3,662 @@
         {
             "type": "updated",
             "entity_type": "preparation",
+            "entity_id": "0910f7c78008e451",
+            "preparation_id_before": "0910f7c78008e451",
+            "preparation_id_after": "0910f7c78008e451",
+            "display_name": "Bovaclox DC Xtra",
+            "observed_at": "2026-11-24T18:10:17Z",
+            "changes": [
+                {
+                    "field": "registration_date",
+                    "before": "2000-07-17T12:6:50+0000",
+                    "after": "2000-07-17T14:55:47+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c780090804",
+            "preparation_id_before": "0910f7c780090804",
+            "preparation_id_after": "0910f7c780090804",
+            "display_name": "ENROGAL",
+            "observed_at": "2026-11-24T18:10:17Z",
+            "changes": [
+                {
+                    "field": "registration_date",
+                    "before": "2003-04-04T7:59:20+0000",
+                    "after": "2003-04-04T7:41:24+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c7800f3304",
+            "preparation_id_before": "0910f7c7800f3304",
+            "preparation_id_after": "0910f7c7800f3304",
+            "display_name": "Easotic",
+            "observed_at": "2026-11-24T18:10:17Z",
+            "changes": [
+                {
+                    "field": "spc_modified_date",
+                    "before": "2023-09-06T8:21:40+0000",
+                    "after": "2026-11-24T8:49:57+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c7801731b3",
+            "preparation_id_before": "0910f7c7801731b3",
+            "preparation_id_after": "0910f7c7801731b3",
+            "display_name": "Efex",
+            "observed_at": "2026-11-24T18:10:17Z",
+            "changes": [
+                {
+                    "field": "registration_date",
+                    "before": "2013-06-18T13:58:26+0000",
+                    "after": "2013-06-18T13:10:31+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c7801731d2",
+            "preparation_id_before": "0910f7c7801731d2",
+            "preparation_id_after": "0910f7c7801731d2",
+            "display_name": "Efex",
+            "observed_at": "2026-11-24T18:10:17Z",
+            "changes": [
+                {
+                    "field": "registration_date",
+                    "before": "2013-06-18T13:59:51+0000",
+                    "after": "2013-06-18T13:16:09+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c7801731e6",
+            "preparation_id_before": "0910f7c7801731e6",
+            "preparation_id_after": "0910f7c7801731e6",
+            "display_name": "Efex",
+            "observed_at": "2026-11-24T18:10:17Z",
+            "changes": [
+                {
+                    "field": "registration_date",
+                    "before": "2013-06-18T14:1:14+0000",
+                    "after": "2013-06-18T13:16:52+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c78025f4d1",
+            "preparation_id_before": "0910f7c78025f4d1",
+            "preparation_id_after": "0910f7c78025f4d1",
+            "display_name": "Vectra 3D",
+            "observed_at": "2026-11-24T18:10:17Z",
+            "changes": [
+                {
+                    "field": "spc_modified_date",
+                    "before": "2024-07-23T12:11:46+0000",
+                    "after": "2026-11-24T9:29:08+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c780280ce2",
+            "preparation_id_before": "0910f7c780280ce2",
+            "preparation_id_after": "0910f7c780280ce2",
+            "display_name": "Vectra 3D",
+            "observed_at": "2026-11-24T18:10:17Z",
+            "changes": [
+                {
+                    "field": "spc_modified_date",
+                    "before": "2024-07-23T12:11:46+0000",
+                    "after": "2026-11-24T9:29:08+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c780280ce4",
+            "preparation_id_before": "0910f7c780280ce4",
+            "preparation_id_after": "0910f7c780280ce4",
+            "display_name": "Vectra 3D",
+            "observed_at": "2026-11-24T18:10:17Z",
+            "changes": [
+                {
+                    "field": "spc_modified_date",
+                    "before": "2024-07-23T12:11:46+0000",
+                    "after": "2026-11-24T9:29:08+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c780280ce6",
+            "preparation_id_before": "0910f7c780280ce6",
+            "preparation_id_after": "0910f7c780280ce6",
+            "display_name": "Vectra 3D",
+            "observed_at": "2026-11-24T18:10:17Z",
+            "changes": [
+                {
+                    "field": "spc_modified_date",
+                    "before": "2024-07-23T12:11:46+0000",
+                    "after": "2026-11-24T9:29:08+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c780280dc2",
+            "preparation_id_before": "0910f7c780280dc2",
+            "preparation_id_after": "0910f7c780280dc2",
+            "display_name": "Vectra 3D",
+            "observed_at": "2026-11-24T18:10:17Z",
+            "changes": [
+                {
+                    "field": "spc_modified_date",
+                    "before": "2024-07-23T12:11:46+0000",
+                    "after": "2026-11-24T9:29:08+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c7806dca70",
+            "preparation_id_before": "0910f7c7806dca70",
+            "preparation_id_after": "0910f7c7806dca70",
+            "display_name": "Galliprant",
+            "observed_at": "2026-11-24T18:10:17Z",
+            "changes": [
+                {
+                    "field": "spc_modified_date",
+                    "before": "2024-01-29T7:50:10+0000",
+                    "after": "2026-11-24T8:25:06+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c78074059b",
+            "preparation_id_before": "0910f7c78074059b",
+            "preparation_id_after": "0910f7c78074059b",
+            "display_name": "Credelio",
+            "observed_at": "2026-11-24T18:10:17Z",
+            "changes": [
+                {
+                    "field": "spc_modified_date",
+                    "before": "2026-01-29T10:58:14+0000",
+                    "after": "2026-11-24T8:41:05+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c7808da14f",
+            "preparation_id_before": "0910f7c7808da14f",
+            "preparation_id_after": "0910f7c7808da14f",
+            "display_name": "Rabitec perorální suspenze, návnada pro lišky a psíky mývalovité",
+            "observed_at": "2026-11-24T18:10:17Z",
+            "changes": [
+                {
+                    "field": "spc_modified_date",
+                    "before": "2024-09-25T8:23:45+0000",
+                    "after": "2026-11-24T9:20:51+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c7812cc843",
+            "preparation_id_before": "0910f7c7812cc843",
+            "preparation_id_after": "0910f7c7812cc843",
+            "display_name": "Credelio",
+            "observed_at": "2026-11-24T18:10:17Z",
+            "changes": [
+                {
+                    "field": "spc_modified_date",
+                    "before": "2026-01-29T10:58:14+0000",
+                    "after": "2026-11-24T8:41:05+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c7812ccda0",
+            "preparation_id_before": "0910f7c7812ccda0",
+            "preparation_id_after": "0910f7c7812ccda0",
+            "display_name": "Credelio",
+            "observed_at": "2026-11-24T18:10:17Z",
+            "changes": [
+                {
+                    "field": "spc_modified_date",
+                    "before": "2026-01-29T10:58:14+0000",
+                    "after": "2026-11-24T8:41:05+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c7812ccda2",
+            "preparation_id_before": "0910f7c7812ccda2",
+            "preparation_id_after": "0910f7c7812ccda2",
+            "display_name": "Credelio",
+            "observed_at": "2026-11-24T18:10:17Z",
+            "changes": [
+                {
+                    "field": "spc_modified_date",
+                    "before": "2026-01-29T10:58:14+0000",
+                    "after": "2026-11-24T8:41:05+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c7812ccda3",
+            "preparation_id_before": "0910f7c7812ccda3",
+            "preparation_id_after": "0910f7c7812ccda3",
+            "display_name": "Credelio",
+            "observed_at": "2026-11-24T18:10:17Z",
+            "changes": [
+                {
+                    "field": "spc_modified_date",
+                    "before": "2026-01-29T10:58:14+0000",
+                    "after": "2026-11-24T8:41:05+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c78149f8fd",
+            "preparation_id_before": "0910f7c78149f8fd",
+            "preparation_id_after": "0910f7c78149f8fd",
+            "display_name": "Galliprant",
+            "observed_at": "2026-11-24T18:10:17Z",
+            "changes": [
+                {
+                    "field": "spc_modified_date",
+                    "before": "2024-01-29T7:50:10+0000",
+                    "after": "2026-11-24T8:25:06+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c78149f8fe",
+            "preparation_id_before": "0910f7c78149f8fe",
+            "preparation_id_after": "0910f7c78149f8fe",
+            "display_name": "Galliprant",
+            "observed_at": "2026-11-24T18:10:17Z",
+            "changes": [
+                {
+                    "field": "spc_modified_date",
+                    "before": "2024-01-29T7:50:10+0000",
+                    "after": "2026-11-24T8:25:06+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c78149ff50",
+            "preparation_id_before": "0910f7c78149ff50",
+            "preparation_id_after": "0910f7c78149ff50",
+            "display_name": "Credelio",
+            "observed_at": "2026-11-24T18:10:17Z",
+            "changes": [
+                {
+                    "field": "spc_modified_date",
+                    "before": "2026-01-29T10:58:14+0000",
+                    "after": "2026-11-24T8:41:05+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c78149ff51",
+            "preparation_id_before": "0910f7c78149ff51",
+            "preparation_id_after": "0910f7c78149ff51",
+            "display_name": "Credelio",
+            "observed_at": "2026-11-24T18:10:17Z",
+            "changes": [
+                {
+                    "field": "spc_modified_date",
+                    "before": "2026-01-29T10:58:14+0000",
+                    "after": "2026-11-24T8:41:05+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c7818a53f1",
+            "preparation_id_before": "0910f7c7818a53f1",
+            "preparation_id_after": "0910f7c7818a53f1",
+            "display_name": "Fencovis",
+            "observed_at": "2026-11-24T18:10:17Z",
+            "changes": [
+                {
+                    "field": "registration_date",
+                    "before": "2022-06-30T9:36:55+0000",
+                    "after": "2022-06-30T13:17:21+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c781a0b41e",
+            "preparation_id_before": "0910f7c781a0b41e",
+            "preparation_id_after": "0910f7c781a0b41e",
+            "display_name": "AdTab",
+            "observed_at": "2026-11-24T18:10:17Z",
+            "changes": [
+                {
+                    "field": "spc_modified_date",
+                    "before": "2026-01-09T12:19:15+0000",
+                    "after": "2026-11-24T8:43:14+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c781a0b41f",
+            "preparation_id_before": "0910f7c781a0b41f",
+            "preparation_id_after": "0910f7c781a0b41f",
+            "display_name": "AdTab",
+            "observed_at": "2026-11-24T18:10:17Z",
+            "changes": [
+                {
+                    "field": "spc_modified_date",
+                    "before": "2026-01-09T12:19:15+0000",
+                    "after": "2026-11-24T8:43:14+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c781a0b420",
+            "preparation_id_before": "0910f7c781a0b420",
+            "preparation_id_after": "0910f7c781a0b420",
+            "display_name": "AdTab",
+            "observed_at": "2026-11-24T18:10:17Z",
+            "changes": [
+                {
+                    "field": "spc_modified_date",
+                    "before": "2026-01-09T12:19:15+0000",
+                    "after": "2026-11-24T8:43:14+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c781a0b421",
+            "preparation_id_before": "0910f7c781a0b421",
+            "preparation_id_after": "0910f7c781a0b421",
+            "display_name": "AdTab",
+            "observed_at": "2026-11-24T18:10:17Z",
+            "changes": [
+                {
+                    "field": "spc_modified_date",
+                    "before": "2026-01-09T12:19:15+0000",
+                    "after": "2026-11-24T8:43:14+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c781a0b422",
+            "preparation_id_before": "0910f7c781a0b422",
+            "preparation_id_after": "0910f7c781a0b422",
+            "display_name": "AdTab",
+            "observed_at": "2026-11-24T18:10:17Z",
+            "changes": [
+                {
+                    "field": "spc_modified_date",
+                    "before": "2026-01-09T12:19:15+0000",
+                    "after": "2026-11-24T8:43:14+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c781a0b423",
+            "preparation_id_before": "0910f7c781a0b423",
+            "preparation_id_after": "0910f7c781a0b423",
+            "display_name": "AdTab",
+            "observed_at": "2026-11-24T18:10:17Z",
+            "changes": [
+                {
+                    "field": "spc_modified_date",
+                    "before": "2026-01-09T12:19:15+0000",
+                    "after": "2026-11-24T8:43:14+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c781a0b424",
+            "preparation_id_before": "0910f7c781a0b424",
+            "preparation_id_after": "0910f7c781a0b424",
+            "display_name": "AdTab",
+            "observed_at": "2026-11-24T18:10:17Z",
+            "changes": [
+                {
+                    "field": "spc_modified_date",
+                    "before": "2026-01-09T12:19:15+0000",
+                    "after": "2026-11-24T8:43:14+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c781c6cf1c",
+            "preparation_id_before": "0910f7c781c6cf1c",
+            "preparation_id_after": "0910f7c781c6cf1c",
+            "display_name": "Milbetab",
+            "observed_at": "2026-11-24T18:10:17Z",
+            "changes": [
+                {
+                    "field": "registration_date",
+                    "before": "2025-06-04T12:17:38+0000",
+                    "after": "2025-06-04T11:42:36+0000"
+                },
+                {
+                    "field": "spc_modified_date",
+                    "before": "2025-06-13T8:18:43+0000",
+                    "after": "2026-11-24T12:42:52+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c781c6cf1d",
+            "preparation_id_before": "0910f7c781c6cf1d",
+            "preparation_id_after": "0910f7c781c6cf1d",
+            "display_name": "Milbetab",
+            "observed_at": "2026-11-24T18:10:17Z",
+            "changes": [
+                {
+                    "field": "registration_date",
+                    "before": "2025-06-04T9:3:00+0000",
+                    "after": "2025-06-04T11:45:16+0000"
+                },
+                {
+                    "field": "spc_modified_date",
+                    "before": "2025-06-13T8:27:59+0000",
+                    "after": "2026-11-24T12:45:33+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c781dfdf03",
+            "preparation_id_before": "0910f7c781dfdf03",
+            "preparation_id_after": "0910f7c781dfdf03",
+            "display_name": "Rabitec perorální suspenze, návnada pro psy",
+            "observed_at": "2026-11-24T18:10:17Z",
+            "changes": [
+                {
+                    "field": "spc_modified_date",
+                    "before": "2024-09-25T8:23:45+0000",
+                    "after": "2026-11-24T9:20:51+0000"
+                }
+            ]
+        },
+        {
+            "type": "added",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c781e51f91",
+            "preparation_id_before": null,
+            "preparation_id_after": "0910f7c781e51f91",
+            "display_name": "Quinox",
+            "observed_at": "2026-11-24T18:10:17Z",
+            "changes": [],
+            "record": {
+                "preparation_id": "0910f7c781e51f91",
+                "name": "Quinox",
+                "registration_number": "96/051/26-C",
+                "holder_id": "117",
+                "holder_name": "Huvepharma NV",
+                "registration_date": "2026-11-06T12:3:59+0000",
+                "spc_id": "0910f7c781e51f54",
+                "spc_extension": "docx",
+                "spc_modified_date": "2026-11-24T12:5:01+0000"
+            }
+        },
+        {
+            "type": "added",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c781e9bbf8",
+            "preparation_id_before": null,
+            "preparation_id_after": "0910f7c781e9bbf8",
+            "display_name": "Laxasan",
+            "observed_at": "2026-11-24T18:10:17Z",
+            "changes": [],
+            "record": {
+                "preparation_id": "0910f7c781e9bbf8",
+                "name": "Laxasan",
+                "registration_number": "96/052/26-C",
+                "holder_id": "290",
+                "holder_name": "Alfasan Nederland B.V.",
+                "registration_date": "2026-11-10T12:17:01+0000",
+                "spc_id": "0910f7c781e9bbf7",
+                "spc_extension": "docx",
+                "spc_modified_date": "2026-11-24T12:20:14+0000"
+            }
+        },
+        {
+            "type": "added",
+            "entity_type": "package",
+            "entity_id": "9701083",
+            "preparation_id_before": null,
+            "preparation_id_after": "0910f7c781e51f91",
+            "display_name": "9701083",
+            "observed_at": "2026-11-24T18:10:17Z",
+            "changes": [],
+            "record": {
+                "package_code": "9701083",
+                "display_package_code": "9701083",
+                "preparation_id": "0910f7c781e51f91",
+                "package_size": "",
+                "issue_class_id": "2",
+                "issue_class_name": "Na předpis",
+                "package_invalid_date": null
+            }
+        },
+        {
+            "type": "added",
+            "entity_type": "package",
+            "entity_id": "9701084",
+            "preparation_id_before": null,
+            "preparation_id_after": "0910f7c781e51f91",
+            "display_name": "9701084",
+            "observed_at": "2026-11-24T18:10:17Z",
+            "changes": [],
+            "record": {
+                "package_code": "9701084",
+                "display_package_code": "9701084",
+                "preparation_id": "0910f7c781e51f91",
+                "package_size": "",
+                "issue_class_id": "2",
+                "issue_class_name": "Na předpis",
+                "package_invalid_date": null
+            }
+        },
+        {
+            "type": "added",
+            "entity_type": "package",
+            "entity_id": "9701085",
+            "preparation_id_before": null,
+            "preparation_id_after": "0910f7c781e9bbf8",
+            "display_name": "9701085",
+            "observed_at": "2026-11-24T18:10:17Z",
+            "changes": [],
+            "record": {
+                "package_code": "9701085",
+                "display_package_code": "9701085",
+                "preparation_id": "0910f7c781e9bbf8",
+                "package_size": "",
+                "issue_class_id": "2",
+                "issue_class_name": "Na předpis",
+                "package_invalid_date": null
+            }
+        },
+        {
+            "type": "added",
+            "entity_type": "package",
+            "entity_id": "9701086",
+            "preparation_id_before": null,
+            "preparation_id_after": "0910f7c781e9bbf8",
+            "display_name": "9701086",
+            "observed_at": "2026-11-24T18:10:17Z",
+            "changes": [],
+            "record": {
+                "package_code": "9701086",
+                "display_package_code": "9701086",
+                "preparation_id": "0910f7c781e9bbf8",
+                "package_size": "",
+                "issue_class_id": "2",
+                "issue_class_name": "Na předpis",
+                "package_invalid_date": null
+            }
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
             "entity_id": "0910f7c780091684",
             "preparation_id_before": "0910f7c780091684",
             "preparation_id_after": "0910f7c780091684",
@@ -604,5 +1260,5 @@
         }
     ],
     "schema_version": 1,
-    "snapshot_id": "8a24813e1d9806f6cd487e319f0d30a2961229b9cba59cccf9dd32a7ee72682e"
+    "snapshot_id": "7a8a9d3b0a67af5137370d8b6053704a5ef6bc3001bdeee29430a2330a33c503"
 }

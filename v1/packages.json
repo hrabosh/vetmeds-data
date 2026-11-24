@@ -9730,6 +9730,42 @@
             "package_invalid_date": null
         },
         {
+            "package_code": "9701083",
+            "display_package_code": "9701083",
+            "preparation_id": "0910f7c781e51f91",
+            "package_size": "",
+            "issue_class_id": "2",
+            "issue_class_name": "Na předpis",
+            "package_invalid_date": null
+        },
+        {
+            "package_code": "9701084",
+            "display_package_code": "9701084",
+            "preparation_id": "0910f7c781e51f91",
+            "package_size": "",
+            "issue_class_id": "2",
+            "issue_class_name": "Na předpis",
+            "package_invalid_date": null
+        },
+        {
+            "package_code": "9701085",
+            "display_package_code": "9701085",
+            "preparation_id": "0910f7c781e9bbf8",
+            "package_size": "",
+            "issue_class_id": "2",
+            "issue_class_name": "Na předpis",
+            "package_invalid_date": null
+        },
+        {
+            "package_code": "9701086",
+            "display_package_code": "9701086",
+            "preparation_id": "0910f7c781e9bbf8",
+            "package_size": "",
+            "issue_class_id": "2",
+            "issue_class_name": "Na předpis",
+            "package_invalid_date": null
+        },
+        {
             "package_code": "9701087",
             "display_package_code": "9701087",
             "preparation_id": "0910f7c7803c5654",
@@ -114743,5 +114779,5 @@
         }
     ],
     "schema_version": 1,
-    "snapshot_id": "8a24813e1d9806f6cd487e319f0d30a2961229b9cba59cccf9dd32a7ee72682e"
+    "snapshot_id": "7a8a9d3b0a67af5137370d8b6053704a5ef6bc3001bdeee29430a2330a33c503"
 }

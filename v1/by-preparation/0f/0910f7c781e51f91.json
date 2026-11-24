@@ -1,0 +1,58 @@
+{
+  "classification": {
+    "atc": [
+      {
+        "id": "QP51BX04",
+        "name": "Decoquinate"
+      }
+    ],
+    "species": [
+      {
+        "id": "156",
+        "name": "jehňata"
+      },
+      {
+        "id": "60",
+        "name": "telata"
+      }
+    ],
+    "substances": [
+      {
+        "id": "1874",
+        "name": "Decoquinatum"
+      }
+    ]
+  },
+  "packages": [
+    {
+      "display_package_code": "9701083",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9701083",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781e51f91"
+    },
+    {
+      "display_package_code": "9701084",
+      "issue_class_id": "2",
+      "issue_class_name": "Na předpis",
+      "package_code": "9701084",
+      "package_invalid_date": null,
+      "package_size": "",
+      "preparation_id": "0910f7c781e51f91"
+    }
+  ],
+  "preparation": {
+    "holder_id": "117",
+    "holder_name": "Huvepharma NV",
+    "name": "Quinox",
+    "preparation_id": "0910f7c781e51f91",
+    "registration_date": "2026-11-06T12:3:59+0000",
+    "registration_number": "96/051/26-C",
+    "spc_extension": "docx",
+    "spc_id": "0910f7c781e51f54",
+    "spc_modified_date": "2026-11-24T12:5:01+0000"
+  },
+  "schema_version": 1
+}
