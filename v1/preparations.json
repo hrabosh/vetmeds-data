@@ -5806,7 +5806,7 @@
             "registration_date": "1996-10-24T4:50:54+0000",
             "spc_id": "0910f7c78009d345",
             "spc_extension": "doc",
-            "spc_modified_date": "2021-08-30T12:2:29+0000"
+            "spc_modified_date": "2026-11-25T11:36:46+0000"
         },
         {
             "preparation_id": "0910f7c78009d72c",
@@ -19457,7 +19457,7 @@
             "registration_date": "2022-12-30T12:29:43+0000",
             "spc_id": "0910f7c78184eb11",
             "spc_extension": "docx",
-            "spc_modified_date": "2023-01-11T14:10:34+0000"
+            "spc_modified_date": "2026-11-25T11:45:46+0000"
         },
         {
             "preparation_id": "0910f7c78184eb9e",
@@ -23975,7 +23975,7 @@
             "registration_number": "96/052/26-C",
             "holder_id": "290",
             "holder_name": "Alfasan Nederland B.V.",
-            "registration_date": "2026-11-10T12:17:01+0000",
+            "registration_date": "2026-11-10T9:20:20+0000",
             "spc_id": "0910f7c781e9bbf7",
             "spc_extension": "docx",
             "spc_modified_date": "2026-11-24T12:20:14+0000"
@@ -24928,5 +24928,5 @@
         }
     ],
     "schema_version": 1,
-    "snapshot_id": "7a8a9d3b0a67af5137370d8b6053704a5ef6bc3001bdeee29430a2330a33c503"
+    "snapshot_id": "e699101fb528dec96ff9f16eefb03c0886e562066949b189b6b383771ddeb709"
 }

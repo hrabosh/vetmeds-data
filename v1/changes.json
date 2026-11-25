@@ -3,6 +3,54 @@
         {
             "type": "updated",
             "entity_type": "preparation",
+            "entity_id": "0910f7c78009d348",
+            "preparation_id_before": "0910f7c78009d348",
+            "preparation_id_after": "0910f7c78009d348",
+            "display_name": "SURAMOX",
+            "observed_at": "2026-11-25T17:32:40Z",
+            "changes": [
+                {
+                    "field": "spc_modified_date",
+                    "before": "2021-08-30T12:2:29+0000",
+                    "after": "2026-11-25T11:36:46+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c78184eb12",
+            "preparation_id_before": "0910f7c78184eb12",
+            "preparation_id_after": "0910f7c78184eb12",
+            "display_name": "Otisur",
+            "observed_at": "2026-11-25T17:32:40Z",
+            "changes": [
+                {
+                    "field": "spc_modified_date",
+                    "before": "2023-01-11T14:10:34+0000",
+                    "after": "2026-11-25T11:45:46+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c781e9bbf8",
+            "preparation_id_before": "0910f7c781e9bbf8",
+            "preparation_id_after": "0910f7c781e9bbf8",
+            "display_name": "Laxasan",
+            "observed_at": "2026-11-25T17:32:40Z",
+            "changes": [
+                {
+                    "field": "registration_date",
+                    "before": "2026-11-10T12:17:01+0000",
+                    "after": "2026-11-10T9:20:20+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
             "entity_id": "0910f7c78008e451",
             "preparation_id_before": "0910f7c78008e451",
             "preparation_id_after": "0910f7c78008e451",
@@ -1260,5 +1308,5 @@
         }
     ],
     "schema_version": 1,
-    "snapshot_id": "7a8a9d3b0a67af5137370d8b6053704a5ef6bc3001bdeee29430a2330a33c503"
+    "snapshot_id": "e699101fb528dec96ff9f16eefb03c0886e562066949b189b6b383771ddeb709"
 }
