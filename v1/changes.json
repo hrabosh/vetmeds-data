@@ -3,6 +3,70 @@
         {
             "type": "updated",
             "entity_type": "preparation",
+            "entity_id": "0910f7c7801f9b0b",
+            "preparation_id_before": "0910f7c7801f9b0b",
+            "preparation_id_after": "0910f7c7801f9b0b",
+            "display_name": "Metomotyl",
+            "observed_at": "2026-11-26T17:15:16Z",
+            "changes": [
+                {
+                    "field": "registration_date",
+                    "before": "2015-06-10T6:39:39+0000",
+                    "after": "2015-06-10T7:34:44+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c7801f9c4a",
+            "preparation_id_before": "0910f7c7801f9c4a",
+            "preparation_id_after": "0910f7c7801f9c4a",
+            "display_name": "Metomotyl",
+            "observed_at": "2026-11-26T17:15:16Z",
+            "changes": [
+                {
+                    "field": "registration_date",
+                    "before": "2015-06-10T6:39:05+0000",
+                    "after": "2015-06-10T7:30:49+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c781ddb6c0",
+            "preparation_id_before": "0910f7c781ddb6c0",
+            "preparation_id_after": "0910f7c781ddb6c0",
+            "display_name": "Salicifarm",
+            "observed_at": "2026-11-26T17:15:16Z",
+            "changes": [
+                {
+                    "field": "registration_date",
+                    "before": "2025-11-13T10:3:07+0000",
+                    "after": "2025-11-13T10:58:38+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c781e51d88",
+            "preparation_id_before": "0910f7c781e51d88",
+            "preparation_id_after": "0910f7c781e51d88",
+            "display_name": "Avigate ND QV4",
+            "observed_at": "2026-11-26T17:15:16Z",
+            "changes": [
+                {
+                    "field": "registration_date",
+                    "before": "2026-01-22T8:46:27+0000",
+                    "after": "2026-01-22T11:13:04+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
             "entity_id": "0910f7c78009d348",
             "preparation_id_before": "0910f7c78009d348",
             "preparation_id_after": "0910f7c78009d348",
@@ -1308,5 +1372,5 @@
         }
     ],
     "schema_version": 1,
-    "snapshot_id": "e699101fb528dec96ff9f16eefb03c0886e562066949b189b6b383771ddeb709"
+    "snapshot_id": "9b4b9555967a00506c3f4d7f3e2bd4e167518f827405ac93fd377d0440dd846b"
 }
