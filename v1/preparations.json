@@ -6727,7 +6727,7 @@
             "registration_number": "96/517/94-C",
             "holder_id": "61",
             "holder_name": "Norbrook Laboratories (Ireland) Limited",
-            "registration_date": "1994-04-13T8:36:41+0000",
+            "registration_date": "1994-04-13T7:51:58+0000",
             "spc_id": "0910f7c7800c7079",
             "spc_extension": "docx",
             "spc_modified_date": "2026-04-10T8:37:04+0000"
@@ -8050,7 +8050,7 @@
             "registration_date": "2009-02-10T8:16:45+0000",
             "spc_id": "0910f7c7800f3ab1",
             "spc_extension": "pdf",
-            "spc_modified_date": "2022-02-15T9:24:31+0000"
+            "spc_modified_date": "2026-11-27T7:1:58+0000"
         },
         {
             "preparation_id": "0910f7c7800f3ab7",
@@ -8061,7 +8061,7 @@
             "registration_date": "2009-02-10T12:6:00+0000",
             "spc_id": "0910f7c7800f3ab1",
             "spc_extension": "pdf",
-            "spc_modified_date": "2022-02-15T9:24:31+0000"
+            "spc_modified_date": "2026-11-27T7:1:58+0000"
         },
         {
             "preparation_id": "0910f7c7800f3aba",
@@ -8072,7 +8072,7 @@
             "registration_date": "2009-02-10T8:59:20+0000",
             "spc_id": "0910f7c7800f3ab1",
             "spc_extension": "pdf",
-            "spc_modified_date": "2022-02-15T9:24:31+0000"
+            "spc_modified_date": "2026-11-27T7:1:58+0000"
         },
         {
             "preparation_id": "0910f7c7800f3acb",
@@ -8270,7 +8270,7 @@
             "registration_date": "1998-06-09T9:16:28+0000",
             "spc_id": "0910f7c7800f3b4c",
             "spc_extension": "pdf",
-            "spc_modified_date": "2024-01-08T12:33:26+0000"
+            "spc_modified_date": "2026-11-27T7:33:50+0000"
         },
         {
             "preparation_id": "0910f7c7800f3b54",
@@ -10173,7 +10173,7 @@
             "registration_date": "2009-02-10T7:40:54+0000",
             "spc_id": "0910f7c7800f3ab1",
             "spc_extension": "pdf",
-            "spc_modified_date": "2022-02-15T9:24:31+0000"
+            "spc_modified_date": "2026-11-27T7:1:58+0000"
         },
         {
             "preparation_id": "0910f7c78013df55",
@@ -11328,7 +11328,7 @@
             "registration_date": "2009-02-10T8:55:43+0000",
             "spc_id": "0910f7c7800f3ab1",
             "spc_extension": "pdf",
-            "spc_modified_date": "2022-02-15T9:24:31+0000"
+            "spc_modified_date": "2026-11-27T7:1:58+0000"
         },
         {
             "preparation_id": "0910f7c7801c25ae",
@@ -14332,17 +14332,6 @@
             "spc_id": "0910f7c780494920",
             "spc_extension": "pdf",
             "spc_modified_date": "2025-01-29T11:55:12+0000"
-        },
-        {
-            "preparation_id": "0910f7c7804951c9",
-            "name": "Eravac",
-            "registration_number": "EU/2/16/199",
-            "holder_id": "49",
-            "holder_name": "Laboratorios Hipra S.A.",
-            "registration_date": "2016-09-22T8:42:08+0000",
-            "spc_id": "0910f7c7804951c8",
-            "spc_extension": "pdf",
-            "spc_modified_date": "2024-01-05T12:55:47+0000"
         },
         {
             "preparation_id": "0910f7c780498dde",
@@ -21668,7 +21657,7 @@
             "registration_date": "2025-03-28T9:28:19+0000",
             "spc_id": "0910f7c781b0d0fb",
             "spc_extension": "pdf",
-            "spc_modified_date": "2026-07-23T8:1:57+0000"
+            "spc_modified_date": "2026-11-27T7:19:30+0000"
         },
         {
             "preparation_id": "0910f7c781b128f7",
@@ -22724,7 +22713,7 @@
             "registration_date": "2024-05-22T9:58:10+0000",
             "spc_id": "0910f7c781cae874",
             "spc_extension": "pdf",
-            "spc_modified_date": "2026-07-31T8:0:16+0000"
+            "spc_modified_date": "2026-11-27T6:57:34+0000"
         },
         {
             "preparation_id": "0910f7c781cb2d25",
@@ -24275,7 +24264,7 @@
             "registration_date": "2025-12-04T7:33:03+0000",
             "spc_id": "0910f7c781f798f8",
             "spc_extension": "pdf",
-            "spc_modified_date": "2026-07-31T8:8:49+0000"
+            "spc_modified_date": "2026-11-27T7:12:37+0000"
         },
         {
             "preparation_id": "0910f7c781f7a392",
@@ -24495,7 +24484,7 @@
             "registration_date": "2009-02-10T10:12:19+0000",
             "spc_id": "0910f7c7800f3ab1",
             "spc_extension": "pdf",
-            "spc_modified_date": "2022-02-15T9:24:31+0000"
+            "spc_modified_date": "2026-11-27T7:1:58+0000"
         },
         {
             "preparation_id": "0910f7c782072555",
@@ -24928,5 +24917,5 @@
         }
     ],
     "schema_version": 1,
-    "snapshot_id": "9b4b9555967a00506c3f4d7f3e2bd4e167518f827405ac93fd377d0440dd846b"
+    "snapshot_id": "bbb4ffa9f9d5f3c9ece4dc96386684db377033f27f96733f17968e1aaf80c2c9"
 }

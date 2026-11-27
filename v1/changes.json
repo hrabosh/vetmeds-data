@@ -3,6 +3,279 @@
         {
             "type": "updated",
             "entity_type": "preparation",
+            "entity_id": "0910f7c7800c707e",
+            "preparation_id_before": "0910f7c7800c707e",
+            "preparation_id_after": "0910f7c7800c707e",
+            "display_name": "Betamox LA",
+            "observed_at": "2026-11-27T16:55:45Z",
+            "changes": [
+                {
+                    "field": "registration_date",
+                    "before": "1994-04-13T8:36:41+0000",
+                    "after": "1994-04-13T7:51:58+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c7800f3ab4",
+            "preparation_id_before": "0910f7c7800f3ab4",
+            "preparation_id_after": "0910f7c7800f3ab4",
+            "display_name": "Loxicom",
+            "observed_at": "2026-11-27T16:55:45Z",
+            "changes": [
+                {
+                    "field": "spc_modified_date",
+                    "before": "2022-02-15T9:24:31+0000",
+                    "after": "2026-11-27T7:1:58+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c7800f3ab7",
+            "preparation_id_before": "0910f7c7800f3ab7",
+            "preparation_id_after": "0910f7c7800f3ab7",
+            "display_name": "Loxicom",
+            "observed_at": "2026-11-27T16:55:45Z",
+            "changes": [
+                {
+                    "field": "spc_modified_date",
+                    "before": "2022-02-15T9:24:31+0000",
+                    "after": "2026-11-27T7:1:58+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c7800f3aba",
+            "preparation_id_before": "0910f7c7800f3aba",
+            "preparation_id_after": "0910f7c7800f3aba",
+            "display_name": "Loxicom",
+            "observed_at": "2026-11-27T16:55:45Z",
+            "changes": [
+                {
+                    "field": "spc_modified_date",
+                    "before": "2022-02-15T9:24:31+0000",
+                    "after": "2026-11-27T7:1:58+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c7800f3b4f",
+            "preparation_id_before": "0910f7c7800f3b4f",
+            "preparation_id_after": "0910f7c7800f3b4f",
+            "display_name": "Nobilis IB 4-91",
+            "observed_at": "2026-11-27T16:55:45Z",
+            "changes": [
+                {
+                    "field": "spc_modified_date",
+                    "before": "2024-01-08T12:33:26+0000",
+                    "after": "2026-11-27T7:33:50+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c78013db17",
+            "preparation_id_before": "0910f7c78013db17",
+            "preparation_id_after": "0910f7c78013db17",
+            "display_name": "Loxicom",
+            "observed_at": "2026-11-27T16:55:45Z",
+            "changes": [
+                {
+                    "field": "spc_modified_date",
+                    "before": "2022-02-15T9:24:31+0000",
+                    "after": "2026-11-27T7:1:58+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c7801c22cb",
+            "preparation_id_before": "0910f7c7801c22cb",
+            "preparation_id_after": "0910f7c7801c22cb",
+            "display_name": "Loxicom",
+            "observed_at": "2026-11-27T16:55:45Z",
+            "changes": [
+                {
+                    "field": "spc_modified_date",
+                    "before": "2022-02-15T9:24:31+0000",
+                    "after": "2026-11-27T7:1:58+0000"
+                }
+            ]
+        },
+        {
+            "type": "missing_from_export",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c7804951c9",
+            "preparation_id_before": "0910f7c7804951c9",
+            "preparation_id_after": null,
+            "display_name": "Eravac",
+            "observed_at": "2026-11-27T16:55:45Z",
+            "changes": [],
+            "record": {
+                "preparation_id": "0910f7c7804951c9",
+                "name": "Eravac",
+                "registration_number": "EU/2/16/199",
+                "holder_id": "49",
+                "holder_name": "Laboratorios Hipra S.A.",
+                "registration_date": "2016-09-22T8:42:08+0000",
+                "spc_id": "0910f7c7804951c8",
+                "spc_extension": "pdf",
+                "spc_modified_date": "2024-01-05T12:55:47+0000"
+            }
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c781b0d576",
+            "preparation_id_before": "0910f7c781b0d576",
+            "preparation_id_after": "0910f7c781b0d576",
+            "display_name": "Vectormune HVT-AIV",
+            "observed_at": "2026-11-27T16:55:45Z",
+            "changes": [
+                {
+                    "field": "spc_modified_date",
+                    "before": "2026-07-23T8:1:57+0000",
+                    "after": "2026-11-27T7:19:30+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c781cae875",
+            "preparation_id_before": "0910f7c781cae875",
+            "preparation_id_after": "0910f7c781cae875",
+            "display_name": "Innovax-ND-H5",
+            "observed_at": "2026-11-27T16:55:45Z",
+            "changes": [
+                {
+                    "field": "spc_modified_date",
+                    "before": "2026-07-31T8:0:16+0000",
+                    "after": "2026-11-27T6:57:34+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c781f798f9",
+            "preparation_id_before": "0910f7c781f798f9",
+            "preparation_id_after": "0910f7c781f798f9",
+            "display_name": "VAXXINACT H5",
+            "observed_at": "2026-11-27T16:55:45Z",
+            "changes": [
+                {
+                    "field": "spc_modified_date",
+                    "before": "2026-07-31T8:8:49+0000",
+                    "after": "2026-11-27T7:12:37+0000"
+                }
+            ]
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
+            "entity_id": "0910f7c78206c1eb",
+            "preparation_id_before": "0910f7c78206c1eb",
+            "preparation_id_after": "0910f7c78206c1eb",
+            "display_name": "Loxicom_",
+            "observed_at": "2026-11-27T16:55:45Z",
+            "changes": [
+                {
+                    "field": "spc_modified_date",
+                    "before": "2022-02-15T9:24:31+0000",
+                    "after": "2026-11-27T7:1:58+0000"
+                }
+            ]
+        },
+        {
+            "type": "missing_from_export",
+            "entity_type": "package",
+            "entity_id": "9905770",
+            "preparation_id_before": "0910f7c7804951c9",
+            "preparation_id_after": null,
+            "display_name": "9905770",
+            "observed_at": "2026-11-27T16:55:45Z",
+            "changes": [],
+            "record": {
+                "package_code": "9905770",
+                "display_package_code": "9905770",
+                "preparation_id": "0910f7c7804951c9",
+                "package_size": "",
+                "issue_class_id": "2",
+                "issue_class_name": "Na předpis",
+                "package_invalid_date": null
+            }
+        },
+        {
+            "type": "missing_from_export",
+            "entity_type": "package",
+            "entity_id": "9905771",
+            "preparation_id_before": "0910f7c7804951c9",
+            "preparation_id_after": null,
+            "display_name": "9905771",
+            "observed_at": "2026-11-27T16:55:45Z",
+            "changes": [],
+            "record": {
+                "package_code": "9905771",
+                "display_package_code": "9905771",
+                "preparation_id": "0910f7c7804951c9",
+                "package_size": "",
+                "issue_class_id": "2",
+                "issue_class_name": "Na předpis",
+                "package_invalid_date": null
+            }
+        },
+        {
+            "type": "missing_from_export",
+            "entity_type": "package",
+            "entity_id": "9906440",
+            "preparation_id_before": "0910f7c7804951c9",
+            "preparation_id_after": null,
+            "display_name": "9906440",
+            "observed_at": "2026-11-27T16:55:45Z",
+            "changes": [],
+            "record": {
+                "package_code": "9906440",
+                "display_package_code": "9906440",
+                "preparation_id": "0910f7c7804951c9",
+                "package_size": "",
+                "issue_class_id": "2",
+                "issue_class_name": "Na předpis",
+                "package_invalid_date": null
+            }
+        },
+        {
+            "type": "missing_from_export",
+            "entity_type": "package",
+            "entity_id": "9909454",
+            "preparation_id_before": "0910f7c7804951c9",
+            "preparation_id_after": null,
+            "display_name": "9909454",
+            "observed_at": "2026-11-27T16:55:45Z",
+            "changes": [],
+            "record": {
+                "package_code": "9909454",
+                "display_package_code": "9909454",
+                "preparation_id": "0910f7c7804951c9",
+                "package_size": "",
+                "issue_class_id": "2",
+                "issue_class_name": "Na předpis",
+                "package_invalid_date": null
+            }
+        },
+        {
+            "type": "updated",
+            "entity_type": "preparation",
             "entity_id": "0910f7c7801f9b0b",
             "preparation_id_before": "0910f7c7801f9b0b",
             "preparation_id_after": "0910f7c7801f9b0b",
@@ -1372,5 +1645,5 @@
         }
     ],
     "schema_version": 1,
-    "snapshot_id": "9b4b9555967a00506c3f4d7f3e2bd4e167518f827405ac93fd377d0440dd846b"
+    "snapshot_id": "bbb4ffa9f9d5f3c9ece4dc96386684db377033f27f96733f17968e1aaf80c2c9"
 }

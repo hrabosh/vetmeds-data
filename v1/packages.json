@@ -41500,24 +41500,6 @@
             "package_invalid_date": "2019-12-17T10:32:44+0000"
         },
         {
-            "package_code": "9905770",
-            "display_package_code": "9905770",
-            "preparation_id": "0910f7c7804951c9",
-            "package_size": "",
-            "issue_class_id": "2",
-            "issue_class_name": "Na předpis",
-            "package_invalid_date": null
-        },
-        {
-            "package_code": "9905771",
-            "display_package_code": "9905771",
-            "preparation_id": "0910f7c7804951c9",
-            "package_size": "",
-            "issue_class_id": "2",
-            "issue_class_name": "Na předpis",
-            "package_invalid_date": null
-        },
-        {
             "package_code": "9905772",
             "display_package_code": "9905772",
             "preparation_id": "0910f7c78046e1d2",
@@ -45832,15 +45814,6 @@
             "package_code": "9906439",
             "display_package_code": "9906439",
             "preparation_id": "0910f7c7808c6c4b",
-            "package_size": "",
-            "issue_class_id": "2",
-            "issue_class_name": "Na předpis",
-            "package_invalid_date": null
-        },
-        {
-            "package_code": "9906440",
-            "display_package_code": "9906440",
-            "preparation_id": "0910f7c7804951c9",
             "package_size": "",
             "issue_class_id": "2",
             "issue_class_name": "Na předpis",
@@ -69673,15 +69646,6 @@
             "package_code": "9909453",
             "display_package_code": "9909453",
             "preparation_id": "0910f7c781740d00",
-            "package_size": "",
-            "issue_class_id": "2",
-            "issue_class_name": "Na předpis",
-            "package_invalid_date": null
-        },
-        {
-            "package_code": "9909454",
-            "display_package_code": "9909454",
-            "preparation_id": "0910f7c7804951c9",
             "package_size": "",
             "issue_class_id": "2",
             "issue_class_name": "Na předpis",
@@ -114779,5 +114743,5 @@
         }
     ],
     "schema_version": 1,
-    "snapshot_id": "9b4b9555967a00506c3f4d7f3e2bd4e167518f827405ac93fd377d0440dd846b"
+    "snapshot_id": "bbb4ffa9f9d5f3c9ece4dc96386684db377033f27f96733f17968e1aaf80c2c9"
 }
